@@ -1,5 +1,6 @@
 sass:
-    load_paths:
-        - _sass
-        - assets/css
+    sass_dir: _sass
     style: compressed    
+
+plugins:
+  - jekyll-autoprefixer    

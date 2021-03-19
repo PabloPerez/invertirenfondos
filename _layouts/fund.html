@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.isin }} </title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+  {% include navbar.html %}  
+  <h1>Posiciones {{ page.title }} {{ page.isin }}</h1>
+  <div id="quarter">
+    <span id="previous-quarter">◀</span>
+    <span id="quarter-date"></span>
+    <span id="next-quarter">▶</span>
+
+  </div>
+  <table id="quarter-details-table" class="table table-striped">
+    <tbody>
+      <tr><th scope="row">Índice Rotación:</th><td id="turnover-rate"></td><th scope="row">Partícipes:</th><td id="participants"></td><th scope="row">Patrimonio:</th><td id="assets"></td></tr>
+    </tbody>
+  </table>
+
+  <table id="positions-table" class="table table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>Nombre</th>
+        <th>ISIN</th>
+        <th>Porcentaje</th>
+        <th>Cantidad</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+  {% include scripts.html %}
+  </body>
+  <script src="{{ "/assets/js/fund_positions.js" | relative_url }}"> </script>
+</html>
