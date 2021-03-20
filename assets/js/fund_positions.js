@@ -20,7 +20,7 @@ function getFundIsinFromUrl(url) {
 async function populatePositions(fundIsin) {
     if (pos >= 0){
         if ("fundData") {
-            fundData = await axios.get(`/assets/json/funds/${fundIsin}.json`)
+            fundData = await axios.get(`../assets/json/funds/${fundIsin}.json`)
             .then(response => {
                 return response.data;
             })
