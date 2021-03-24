@@ -2,7 +2,47 @@ const urlParams = new URLSearchParams(window.location.search)
 var pos = urlParams.get('pos') || 0;
 let isin = getFundIsinFromUrl(window.location.href)
 let fundData;
-populatePositions(isin)
+populatePositions(isin);
+
+let pageWidth = window.innerWidth || document.body.clientWidth;
+let treshold = Math.max(1 , Math.floor(0.05 * (pageWidth)));
+let touchstartX = 0;
+let touchstartY = 0;
+let touchendX = 0;
+let touchendY = 0;
+
+const limit = Math.tan(45 * 1.5 / 180 * Math.PI);
+const gestureZone = document.getElementById('positions-table');
+
+gestureZone.addEventListener('touchstart', function(event) {
+    touchstartX = event.changedTouches[0].screenX;
+    touchstartY = event.changedTouches[0].screenY;
+}, false);
+
+gestureZone.addEventListener('touchend', function(event) {
+    touchendX = event.changedTouches[0].screenX;
+    touchendY = event.changedTouches[0].screenY;
+    handleGesture(event);
+}, false);
+
+function handleGesture(e) {
+    let x = touchendX - touchstartX;
+    let y = touchendY - touchstartY;
+    let xy = Math.abs(x / y);
+    let yx = Math.abs(y / x);
+    if (Math.abs(x) > treshold || Math.abs(y) > treshold) {
+        if (yx <= limit) {
+            if (x < 0) {
+                populatePositions(isin, --pos)
+            } else {
+                populatePositions(isin, ++pos) 
+            }
+        }
+    } else {
+        console.log("tap");
+    }
+}
+
 
 document.querySelector('#previous-quarter').addEventListener("click", function () {
     populatePositions(isin, ++pos) 
@@ -19,7 +59,7 @@ function getFundIsinFromUrl(url) {
 
 async function populatePositions(fundIsin) {
     if (pos >= 0){
-        if ("fundData") {
+        if (!fundData) {
             fundData = await axios.get(`../assets/json/funds/${fundIsin}.json`)
             .then(response => {
                 return response.data;
@@ -32,6 +72,7 @@ async function populatePositions(fundIsin) {
     } else {
         pos = 0;
     }
+
     let turnoverRate = fundData.historico_periodos[pos].indice_rotacion;
     document.querySelector('#turnover-rate').innerHTML = turnoverRate;
     let assets = fundData.historico_periodos[pos].patrimonio;
@@ -39,6 +80,16 @@ async function populatePositions(fundIsin) {
     let participants = fundData.historico_periodos[pos].participes;
     document.querySelector('#participants').innerHTML = participants;
     let positions = fundData.historico_periodos[pos].posiciones;
+
+    document.querySelector('#previous-quarter').style.visibility = "visible";
+    document.querySelector('#next-quarter').style.visibility = "visible";    
+
+    if (pos == 0) {
+        document.querySelector('#next-quarter').style.visibility = "hidden";
+    } if (pos == fundData.historico_periodos.length - 1) {
+        document.querySelector('#previous-quarter').style.visibility = "hidden";
+    } 
+
 
     tableBody = document.querySelector('#positions-table tbody')
     tableBody.innerHTML = ''
@@ -50,9 +101,9 @@ async function populatePositions(fundIsin) {
         let amount = position.cantidad;
 
         let currency = position.moneda;
-        if (currency == "euro") {
+        if (currency.toLowerCase() == "euro" || currency.toLowerCase() == "eur") {
             currency = "€"
-        } else if (currency == "dolar") {
+        } else if (currency.toLowerCase() == "dolar") {
             currency = "$"
         }
 
@@ -62,9 +113,12 @@ async function populatePositions(fundIsin) {
         nametd.innerText = name;
         let isintd = document.createElement('td');
         isintd.innerText = isin
+        isintd.classList.add("isintd")
         let percentagetd = document.createElement('td');
+        percentagetd.classList.add("percentagetd")
         percentagetd.innerText = percentage
         let amounttd = document.createElement('td');
+        amounttd.classList.add("amounttd")
         amounttd.innerHTML = `${amount.toLocaleString()} ${currency}`;
     
         tr.appendChild(nametd);

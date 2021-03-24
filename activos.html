@@ -1,0 +1,26 @@
+---
+layout: default
+title: Buscador de Activos
+---
+<h1>Buscador de Activos</h1>
+<br>
+<p id="table-label">Si haces click en algún fondo de la tabla, puedes ver fondos que lo han tenido en sus posiciones en cada periodo</p>
+<div id="asset-input-group" class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="isin-name-description">ISIN o Nombre</span>
+  </div>
+  <input type="text" class="form-control" id="fund-input" placeholder="Ejemplo: ES06735169H8 o Repsol"
+    aria-describedby="isin-name-description">
+</div>
+<table id="fund-table" class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">ISIN</th>
+      <th scope="col">Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<script src="assets/js/assets.js"> </script>
+<script src="assets/js/assets_table.js"> </script>

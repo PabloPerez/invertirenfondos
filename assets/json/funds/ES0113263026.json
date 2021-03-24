@@ -1,13 +1,45 @@
 {
     "auditora": "-",
     "fecha_registro": "25/09/2020",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "indice_rotacion": 0.43,
+            "participes": 231,
+            "patrimonio": 2950988,
+            "periodo": "2020T4",
+            "posiciones": [
+                {
+                    "cantidad": 2687902.0,
+                    "desde": "2020T4",
+                    "isin": "LU1602144492",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI GLOBCLIM",
+                    "porcentaje": 89.19
+                },
+                {
+                    "cantidad": 290973.0,
+                    "desde": "2020T4",
+                    "isin": "LU2056739464",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyx World Clima",
+                    "porcentaje": 9.65
+                }
+            ]
+        },
+        {
+            "indice_rotacion": 0.0,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2020T3",
+            "posiciones": []
+        }
+    ],
     "id_cnmv": 5475,
-    "id_cnmv_depositaria": 222,
+    "id_cnmv_depositaria": 236,
     "id_cnmv_gestora": 85,
     "isin": "ES0113263026",
     "nif": "V01748870",
     "nombre": "BANKIA INDEX CLIMA MUNDIAL, FI CLASE UNIVERSAL",
-    "nombre_depositaria": "BANKIA, S.A",
+    "nombre_depositaria": "CECABANK, S.A.",
     "nombre_gestora": "BANKIA FONDOS, S.G.I.I.C., S.A."
 }
