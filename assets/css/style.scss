@@ -4,13 +4,12 @@
 
 table {
     table-layout: fixed;
-    width: fit-content!important;
+/*     width: fit-content!important;
     min-width: 1200px;
     margin: auto;
-}
+ */}
 
-
-h1 {
+h1, h2 {
     text-align: center;
 }
 
@@ -31,17 +30,47 @@ th,td {
     user-select: none;
 }
 
-#quarter-details-table {
+#quarter-details-table, #fund-input-group, #top-assets-table, #top-participants-table {
+    max-width: 1200px;
     margin-bottom: 50px;
-    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#positions-table, #fund-table, #table-label {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fund-input-group {
+    margin-top: 30px;
+    padding: 0px 5px;
 }
 
 #quarter-details-table th {
     background-color: #dddddd;
 }
 
-#fund-input-group {
-    min-width: 1200px;
-    width: fit-content;
-    margin: auto;
+#quarter-details-table td, #quarter-details-table th {
+    border: 2px solid black;
 }
+
+@media (max-width: 1200px) {
+    .isincolumn, .isintd, .amounttd, .amountcolumn {
+      display: none;
+    }
+}
+
+#table-label {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 0px 5px;
+}
+
+/* @media (min-width: 1200px) {
+    #quarter-details-table tr {
+        float: left;
+    }
+}   */
