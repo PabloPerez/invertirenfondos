@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|WATCHES OF SWITZERLAND GROUP PL
+isin: GB00BJDQQ870
+---

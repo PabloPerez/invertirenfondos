@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|KAMES CAPITAL
+isin: IE00BYWNTM98
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIO|LAZARD G ACTIVE-EM EQ-USDRA
+isin: IE00BDX8CP03
+---

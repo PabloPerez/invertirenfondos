@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACIONES COMMERZBANK CAP FUND TRU VTO 15|05|2049
+isin: DE000A0GPYR7
+---

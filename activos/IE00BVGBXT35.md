@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BAILLIE GILFORD
+isin: IE00BVGBXT35
+---

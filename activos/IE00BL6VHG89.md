@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LIONTRUST GLOBAL FUN
+isin: IE00BL6VHG89
+---

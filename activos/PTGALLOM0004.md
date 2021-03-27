@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|866606 GALP ENERGIA SGPS SA|1,00|2023-02-15
+isin: PTGALLOM0004
+---

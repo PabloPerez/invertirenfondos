@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES III PLC   ISHARE
+isin: IE00BFZPF546
+---

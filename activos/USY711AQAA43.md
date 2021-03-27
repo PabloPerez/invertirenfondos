@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|ASIA RESOURCE MINERA|7,25|2017-03-13
+isin: USY711AQAA43
+---

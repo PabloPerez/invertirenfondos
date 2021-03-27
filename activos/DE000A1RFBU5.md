@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE PFANDBRIEF|2,00|2016-07-19
+isin: DE000A1RFBU5
+---

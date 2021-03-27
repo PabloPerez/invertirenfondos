@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LORD ABBETT PAS
+isin: IE00BJ7BPF87
+---

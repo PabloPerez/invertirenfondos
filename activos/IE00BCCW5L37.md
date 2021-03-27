@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO CAPITAL SEC
+isin: IE00BCCW5L37
+---

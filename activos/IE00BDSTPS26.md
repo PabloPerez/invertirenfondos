@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO GIS EMERGING MARKE
+isin: IE00BDSTPS26
+---

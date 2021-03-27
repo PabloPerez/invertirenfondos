@@ -1,0 +1,5 @@
+---
+layout: asset
+title: NEW ZEALAND GOVT 6.50% 15|04|2013|NEW ZEALAND|6.50
+isin: NZGOVD0413R0
+---

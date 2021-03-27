@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|IGUATEMI EMPRESA DE SHOPPING CE
+isin: BRIGTAACNOR5
+---

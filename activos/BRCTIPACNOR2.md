@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|CETIP SA-BALCAO ORGANIZADO
+isin: BRCTIPACNOR2
+---

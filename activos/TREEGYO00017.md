@@ -1,0 +1,5 @@
+---
+layout: asset
+title: AC.EMLAK KONUT GAYRIMENKUL YATIRIM (TRY)
+isin: TREEGYO00017
+---

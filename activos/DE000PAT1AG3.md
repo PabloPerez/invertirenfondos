@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|PATRIZIA IMMOBILIEN AG
+isin: DE000PAT1AG3
+---

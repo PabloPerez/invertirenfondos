@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES UK CORE GILT
+isin: IE00B1FZSB30
+---

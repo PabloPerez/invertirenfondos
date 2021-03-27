@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|OLD MUTUA GLOBAL
+isin: IE00BYQDPV67
+---

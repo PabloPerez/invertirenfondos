@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BROWN ADVISORY GBL
+isin: IE00BVVHP563
+---

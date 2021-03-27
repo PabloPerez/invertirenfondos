@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|J O HAMBRO CAPITAL M
+isin: IE00B3ZBLW75
+---

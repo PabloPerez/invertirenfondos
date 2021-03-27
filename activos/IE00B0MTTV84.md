@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAVEKAL ASIAN OPPOR
+isin: IE00B0MTTV84
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|REPUBLICA DE NUEVA|06,000|2017-12-15
+isin: NZGOVD0008C0
+---

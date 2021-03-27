@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|17332375 BMO LGM G EM MR GR IN-Y-B-AC
+isin: IE00B3BNMF79
+---

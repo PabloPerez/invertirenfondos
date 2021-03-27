@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|KOREA EXCHANGE|1.90025|2020-04-05
+isin: USY4S96CEX72
+---

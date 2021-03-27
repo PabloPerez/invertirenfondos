@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BLACKROCK ASSET
+isin: IE00B2QWDY88
+---

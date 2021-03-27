@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BRANDES -EM MKTEQ
+isin: IE00B6RNXY80
+---

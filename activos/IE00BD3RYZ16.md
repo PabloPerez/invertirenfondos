@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES OMX STOCKHOLM CA
+isin: IE00BD3RYZ16
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|M&G SECURITIES LTD
+isin: GB00B1RXYT55
+---

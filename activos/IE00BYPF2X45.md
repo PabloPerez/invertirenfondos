@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PINNACLE ICAV
+isin: IE00BYPF2X45
+---

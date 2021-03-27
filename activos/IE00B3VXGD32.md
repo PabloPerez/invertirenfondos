@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|POLAR BIOTECHNOLOGY-
+isin: IE00B3VXGD32
+---

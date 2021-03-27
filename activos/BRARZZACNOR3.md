@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|AREZZO INDUSTRIA E COMERCIO SA
+isin: BRARZZACNOR3
+---

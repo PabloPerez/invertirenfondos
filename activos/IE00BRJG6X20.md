@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JANUS CAPITAL INTERNATIONAL
+isin: IE00BRJG6X20
+---

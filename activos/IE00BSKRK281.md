@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES EU CORP BON
+isin: IE00BSKRK281
+---

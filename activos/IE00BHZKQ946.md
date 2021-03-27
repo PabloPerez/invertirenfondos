@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO GLOB LOW USD
+isin: IE00BHZKQ946
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|SENSATA TECHNOLOGIES
+isin: GB00BFMBMT84
+---

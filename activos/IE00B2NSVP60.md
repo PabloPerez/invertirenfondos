@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO GLOBAL INVESTORS S
+isin: IE00B2NSVP60
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO SUBORDI|DEUTSCHE BK CAP FUN|09,500|2049-12-31
+isin: DE000A1ALVC5
+---

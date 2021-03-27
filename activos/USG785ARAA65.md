@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|SCHAHIN PETROLEO E G|5,88|2022-09-25
+isin: USG785ARAA65
+---

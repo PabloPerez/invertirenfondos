@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|ANHANGUERA EDUCACIONAL PARTICIPACOE C
+isin: BRAEDUACNOR9
+---

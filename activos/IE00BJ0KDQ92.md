@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|XTRACKERS MSCI WORLD UCI
+isin: IE00BJ0KDQ92
+---

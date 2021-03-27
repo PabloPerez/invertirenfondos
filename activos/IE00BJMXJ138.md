@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LAZARD GLOBAL LISTED INF
+isin: IE00BJMXJ138
+---

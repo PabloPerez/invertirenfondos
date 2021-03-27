@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|M&G AMERICAN FUND A
+isin: GB00B1RXYS49
+---

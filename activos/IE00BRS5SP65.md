@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO FUNDS GLOBAL
+isin: IE00BRS5SP65
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VANGUARD GROUP
+isin: IE00B8GKDB10
+---

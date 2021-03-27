@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|INTERNATIONAL AIRPOR|12,00|2024-03-15
+isin: USE6R69LAA27
+---

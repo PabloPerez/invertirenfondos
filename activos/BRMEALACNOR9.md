@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|INTERNATIONAL MEAL CO ALIMENTAC
+isin: BRMEALACNOR9
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|EZ TEC EMPREENDIMENTOS E PARTIC
+isin: BREZTCACNOR0
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI EM MKTS
+isin: IE00B3VWLG82
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|HER MAJESTY THE QUEE|0,250|2028-05-15
+isin: NZGOVDT528C6
+---

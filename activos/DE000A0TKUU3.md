@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|HEIDELBERGCEMENT LUX|5,63|2018-01-04
+isin: DE000A0TKUU3
+---

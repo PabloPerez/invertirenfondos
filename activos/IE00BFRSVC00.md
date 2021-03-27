@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAVEKAL ASIAN VALUE
+isin: IE00BFRSVC00
+---

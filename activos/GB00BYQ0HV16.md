@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|SINEMISORA SINEMISORA
+isin: GB00BYQ0HV16
+---

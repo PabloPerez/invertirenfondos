@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|21119017 JAB HOLDINGS BV|1,00|2027-12-20
+isin: DE000A2SBDE0
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BNY MELLON GLOBAL SH
+isin: IE00BFLQFY02
+---

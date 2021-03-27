@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|M&G INVESTMENT MANAG
+isin: GB00BMP3SF82
+---

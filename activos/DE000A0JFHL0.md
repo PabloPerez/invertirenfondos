@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CEDULAS|HIPOT HYPO REAL ESTA|3,75|2013-05-31
+isin: DE000A0JFHL0
+---

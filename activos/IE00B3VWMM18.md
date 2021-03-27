@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI EMU SMA
+isin: IE00B3VWMM18
+---

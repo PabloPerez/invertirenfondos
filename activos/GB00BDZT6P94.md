@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|MERLIN ENTERTAINMENTS PLC
+isin: GB00BDZT6P94
+---

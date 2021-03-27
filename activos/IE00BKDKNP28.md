@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LYXOR BRIDE CORE GMIUSDA
+isin: IE00BKDKNP28
+---

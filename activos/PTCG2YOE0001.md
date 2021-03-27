@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CÉDULAS HIPOTECARIAS|CAIXA GERAL|4.25|2020-01-27
+isin: PTCG2YOE0001
+---

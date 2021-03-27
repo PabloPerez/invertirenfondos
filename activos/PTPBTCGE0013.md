@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|ESTADO PORTUGUES|1,94|2011-01-21
+isin: PTPBTCGE0013
+---

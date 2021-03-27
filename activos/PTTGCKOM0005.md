@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|AQUA TITULIZACION|0,54|2035-06-23
+isin: PTTGCKOM0005
+---

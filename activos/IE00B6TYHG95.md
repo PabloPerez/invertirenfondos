@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELLINGTON MANAGEMENT CO LLP
+isin: IE00B6TYHG95
+---

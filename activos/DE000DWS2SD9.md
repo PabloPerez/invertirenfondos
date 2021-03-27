@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DWS GLOBAL HYBRID
+isin: DE000DWS2SD9
+---

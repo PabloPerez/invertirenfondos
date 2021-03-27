@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|REPUBLIC OF IRELAND|1,500|2050-05-15
+isin: IE00BH3SQB22
+---

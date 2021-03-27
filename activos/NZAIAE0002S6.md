@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|AUCKLAND INTERNATION
+isin: NZAIAE0002S6
+---

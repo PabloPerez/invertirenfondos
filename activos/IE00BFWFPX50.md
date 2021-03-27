@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|STATE STREET GLOBAL ADVISORS
+isin: IE00BFWFPX50
+---

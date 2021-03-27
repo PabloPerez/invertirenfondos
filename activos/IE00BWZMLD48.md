@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ODEY EUROPEAN FOCUS
+isin: IE00BWZMLD48
+---

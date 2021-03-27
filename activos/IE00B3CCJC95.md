@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GUINNESS GLOBAL ENERGY F
+isin: IE00B3CCJC95
+---

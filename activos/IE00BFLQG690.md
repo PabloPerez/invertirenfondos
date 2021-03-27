@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BNY MELLON JAPAN SMA
+isin: IE00BFLQG690
+---

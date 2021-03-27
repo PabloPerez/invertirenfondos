@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NOMURA FUNDS IRELAND- JA
+isin: IE00B3XFBR64
+---

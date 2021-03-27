@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|GOBIERNO AUSTRALIAN|03,000|2047-03-21
+isin: AU000XCLWAS7
+---

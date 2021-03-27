@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MERIAN NORTH AMERICA
+isin: IE00BYR8HR04
+---

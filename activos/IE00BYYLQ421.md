@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|COMGEST ASSET MANAGEMENT INTER
+isin: IE00BYYLQ421
+---

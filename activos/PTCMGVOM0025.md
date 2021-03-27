@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|MONTEPIO GERAL ASSOC|10,50|2024-04-03
+isin: PTCMGVOM0025
+---

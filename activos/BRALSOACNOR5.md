@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|ALIANSCE SONAE SHOPPING
+isin: BRALSOACNOR5
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WISDOM INDIA QUALITY
+isin: IE00BDGSNL04
+---

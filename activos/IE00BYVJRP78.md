@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF ISHARES MSCI EM
+isin: IE00BYVJRP78
+---

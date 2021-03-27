@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CEDULAS|CED HIP UNICREDIT BA|3,50|2015-02-03
+isin: DE000HV0EBA5
+---

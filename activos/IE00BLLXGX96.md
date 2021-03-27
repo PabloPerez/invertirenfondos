@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER BERMAN EU
+isin: IE00BLLXGX96
+---

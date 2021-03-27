@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|RANDON SA IMPLEMENTOS E PARTICI
+isin: BRRAPTACNPR4
+---

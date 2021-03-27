@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PREFERENTE|USINAS SIDER MINAS GERAIS
+isin: BRUSIMACNPA6
+---

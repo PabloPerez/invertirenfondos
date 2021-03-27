@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS METRO FINANCE BV, 4,625% FIXED, VTO. 26|05|2011
+isin: DE000A0BCGN2
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAM STAR GLOBAL SELE
+isin: IE00BQZHS253
+---

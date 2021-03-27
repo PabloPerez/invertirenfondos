@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SALAR FUND PLC EUR
+isin: IE00B2PLHB10
+---

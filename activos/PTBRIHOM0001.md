@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|BRISA CONCESSAO|4,50|2016-12-05
+isin: PTBRIHOM0001
+---

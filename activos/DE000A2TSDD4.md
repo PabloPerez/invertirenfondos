@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|DEUTSCHETELECOM|.875|2026-03-25
+isin: DE000A2TSDD4
+---

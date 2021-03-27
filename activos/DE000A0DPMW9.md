@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI JAPAN F
+isin: DE000A0DPMW9
+---

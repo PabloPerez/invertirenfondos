@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE PFANDBRIEF|0,63|2022-02-23
+isin: DE000A2GSLC6
+---

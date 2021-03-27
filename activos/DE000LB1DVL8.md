@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA|LANDESBANK BADEN-WUE|0,500|2022-06-07
+isin: DE000LB1DVL8
+---

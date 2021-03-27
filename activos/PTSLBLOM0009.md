@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|00086011121500000000|4,00|2020-04-24
+isin: PTSLBLOM0009
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES USD TRES 20PLUS
+isin: IE00BFM6TC58
+---

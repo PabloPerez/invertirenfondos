@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|BR MALLS PARTICIPACOES SA
+isin: BRBRMLACNOR9
+---

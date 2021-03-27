@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|B2W-COMPANHIA GLOBAL DO VAREJO
+isin: BRBTOWR05OR4
+---

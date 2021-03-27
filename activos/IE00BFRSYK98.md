@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JANUS INTERNATIONAL
+isin: IE00BFRSYK98
+---

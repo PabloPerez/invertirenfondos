@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MAN FUNDS PLC   MAN GLG
+isin: IE00BTC1NK44
+---

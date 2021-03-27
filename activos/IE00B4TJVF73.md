@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO - DIVERSIFIED INCO
+isin: IE00B4TJVF73
+---

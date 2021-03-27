@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|AXA IM MATURITY 22
+isin: IE00BDBY8M96
+---

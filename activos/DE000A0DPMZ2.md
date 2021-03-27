@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIO|ISHARES PLC - EURO STOXX SMALL
+isin: DE000A0DPMZ2
+---

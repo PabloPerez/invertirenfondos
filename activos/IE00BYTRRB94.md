@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR WORLD HEALTH CARE(W
+isin: IE00BYTRRB94
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES CHINA CNY BO
+isin: IE00BYPC1H27
+---

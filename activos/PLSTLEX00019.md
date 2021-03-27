@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|STALEXPORT AUTOSTRAD
+isin: PLSTLEX00019
+---

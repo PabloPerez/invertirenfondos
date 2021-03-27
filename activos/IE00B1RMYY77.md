@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WAVERTON EUROPEAN
+isin: IE00B1RMYY77
+---

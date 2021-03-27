@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|COMMONWEALTH BANK O|04,500|2014-02-20
+isin: AU0000CBAHS2
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE BANK AKTIE|00,380|2015-05-28
+isin: DE000DB7XLL4
+---

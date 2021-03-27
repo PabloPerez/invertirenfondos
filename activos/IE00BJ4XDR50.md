@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MUZINICH EUROPEYIELD
+isin: IE00BJ4XDR50
+---

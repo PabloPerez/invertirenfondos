@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BG-GL ALPHA-BEURA
+isin: IE00BFX4DD70
+---

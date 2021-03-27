@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE BANK AKTIE|01,039|2013-10-07
+isin: DE000DB5DDD4
+---

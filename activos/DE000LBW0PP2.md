@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CEDULAS|HYPOT BADEN-WUERTT|4,00|2013-08-26
+isin: DE000LBW0PP2
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MAN AHL TARGETRISK
+isin: IE00BRJT7K50
+---

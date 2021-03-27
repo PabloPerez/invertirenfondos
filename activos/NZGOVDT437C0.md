@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|REPUBLICA DE NUEVA|02,750|2037-04-15
+isin: NZGOVDT437C0
+---

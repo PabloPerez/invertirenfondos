@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|UTI INTERNATIONAL SINGAPORE PT
+isin: IE00BYPC7T68
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|DEUTSCHETELECOM|2.25|2039-03-29
+isin: DE000A2LQRS3
+---

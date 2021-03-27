@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE BANK AKTIE|00,474|2015-04-22
+isin: DE000DB5DDE2
+---

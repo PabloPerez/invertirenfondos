@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LINDSELL TRAIN LTD
+isin: IE00BF2VFW20
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|196607 REGIAO AUTONOMA MADEIRA|0,49|2019-12-30
+isin: PTRAMLOM0000
+---

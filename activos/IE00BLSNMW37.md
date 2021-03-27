@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|POWERSHARES BUYBAC
+isin: IE00BLSNMW37
+---

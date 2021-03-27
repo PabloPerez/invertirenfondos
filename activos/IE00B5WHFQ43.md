@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI MEX CAPPED
+isin: IE00B5WHFQ43
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|HER MAJESTY THE QUEE|4,500|2027-04-15
+isin: NZGOVDT427C1
+---

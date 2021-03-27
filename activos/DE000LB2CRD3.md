@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|LANDESBANK BADEN-WUE|0,133|2022-02-07
+isin: DE000LB2CRD3
+---

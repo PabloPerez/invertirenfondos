@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WINTON CAPITAL
+isin: IE00BYWTYZ58
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|CITI-GLB INT RATE A
+isin: IE00B2QMNB51
+---

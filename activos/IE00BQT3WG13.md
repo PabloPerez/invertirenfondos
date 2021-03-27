@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI CHINA A
+isin: IE00BQT3WG13
+---

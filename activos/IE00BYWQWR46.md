@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VANEK VEKTORS
+isin: IE00BYWQWR46
+---

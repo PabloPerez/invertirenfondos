@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES M G EMERG MKTS BOND-EUR C HA
+isin: GB00BPYP3L70
+---

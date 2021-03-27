@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|REPUBLICA DE IRLAND|01,300|2033-05-15
+isin: IE00BFZRPZ02
+---

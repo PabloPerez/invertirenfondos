@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES GLOBAL HIGH YIEL
+isin: IE00BJSFR200
+---

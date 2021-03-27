@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MELLON GLOBAL MG
+isin: IE00BDCJZ442
+---

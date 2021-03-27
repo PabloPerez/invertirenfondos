@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MUZINICH & CO INC|IRELAND
+isin: IE00BJCX8K53
+---

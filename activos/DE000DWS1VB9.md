@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DEUTSCHE ASSET & MNGMENT INVES
+isin: DE000DWS1VB9
+---

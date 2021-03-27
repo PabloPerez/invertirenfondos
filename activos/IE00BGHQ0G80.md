@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF X MSCI AC WORLD
+isin: IE00BGHQ0G80
+---

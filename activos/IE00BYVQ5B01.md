@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MAN ASSET MANAGEMET
+isin: IE00BYVQ5B01
+---

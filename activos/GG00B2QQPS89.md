@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES BH GLOBAL LTD-USD SHRS
+isin: GG00B2QQPS89
+---

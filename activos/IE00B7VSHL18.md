@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LEGG MASON GLOBAL FU
+isin: IE00B7VSHL18
+---

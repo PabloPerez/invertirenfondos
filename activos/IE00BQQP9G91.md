@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VAN ECK ASSOCIATES CORP
+isin: IE00BQQP9G91
+---

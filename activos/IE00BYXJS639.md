@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|OLD MUTUAL GLOB INVE
+isin: IE00BYXJS639
+---

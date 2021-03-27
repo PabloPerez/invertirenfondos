@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FI BNUEWIH ID EQUITY
+isin: IE00BDZ7TS72
+---

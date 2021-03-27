@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|REPUBLICA PORTUGAL|4,06|2026-12-04
+isin: PTMTLBOM0007
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PWRSHRS SP500 HD LV
+isin: IE00BWTN6Y99
+---

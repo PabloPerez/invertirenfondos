@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|GOBIERNO AUSTRALIAN|03,000|2025-09-20
+isin: AU0000XCLWP8
+---

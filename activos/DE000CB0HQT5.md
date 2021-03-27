@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS COMMERZBANK AG LINK IN 2017-08-24
+isin: DE000CB0HQT5
+---

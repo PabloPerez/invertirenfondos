@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|INVESCO JAP. EQ CORE
+isin: IE00B7YKQH34
+---

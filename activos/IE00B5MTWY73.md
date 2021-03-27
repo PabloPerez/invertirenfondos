@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SOURCE MARKETS PLC - DJ
+isin: IE00B5MTWY73
+---

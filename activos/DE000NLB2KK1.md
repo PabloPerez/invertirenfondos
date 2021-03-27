@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|NORDDEUTSCHE LANDESB|0,36|2017-06-23
+isin: DE000NLB2KK1
+---

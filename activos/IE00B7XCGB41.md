@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER BERMAN US
+isin: IE00B7XCGB41
+---

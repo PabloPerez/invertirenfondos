@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER COR HY B-A ACC
+isin: IE00BYV1RN13
+---

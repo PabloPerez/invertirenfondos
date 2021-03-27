@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|H2O GLOBAL STRATEGIE
+isin: IE00BYNJFC85
+---

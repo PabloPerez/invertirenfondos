@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NOMURA FUNDS IR
+isin: IE00B3VTHJ49
+---

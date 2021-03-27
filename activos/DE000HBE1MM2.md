@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CEDULAS|HIPOT HYPOTHEKENBANK|3,88|2013-11-21
+isin: DE000HBE1MM2
+---

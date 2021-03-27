@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|ELECTRCPORTUGAL|1.625|2027-04-15
+isin: PTEDPNOM0015
+---

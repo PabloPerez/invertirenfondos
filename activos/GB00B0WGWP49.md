@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|THREADNEEDLE AMERICAN SE
+isin: GB00B0WGWP49
+---

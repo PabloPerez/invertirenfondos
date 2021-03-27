@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ODEY ASSET MANAGEMEN
+isin: IE00BWZMLG78
+---

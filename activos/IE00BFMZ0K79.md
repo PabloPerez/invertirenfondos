@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WINTON UCITS FUNDS ICAV
+isin: IE00BFMZ0K79
+---

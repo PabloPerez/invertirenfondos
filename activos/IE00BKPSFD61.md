@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES CHINA CNY BOND U
+isin: IE00BKPSFD61
+---

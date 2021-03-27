@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MACAU PROPERTY OPP
+isin: GG00BGDYFV61
+---

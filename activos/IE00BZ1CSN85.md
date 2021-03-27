@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LM GLOBAL FUNDS
+isin: IE00BZ1CSN85
+---

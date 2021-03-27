@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|8137275 HSH NORDBANK AG|1,50|2020-06-18
+isin: DE000HSH4VK9
+---

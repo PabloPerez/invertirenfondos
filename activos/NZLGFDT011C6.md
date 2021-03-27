@@ -1,0 +1,5 @@
+---
+layout: asset
+title: EMISIONES|NEW ZEALAND LOCAL GO|2,250|2024-04-15
+isin: NZLGFDT011C6
+---

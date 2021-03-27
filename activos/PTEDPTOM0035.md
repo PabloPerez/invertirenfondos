@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|EDP-ENERGIAS DE PORTUGAL S.A.|3,000|2015-
+isin: PTEDPTOM0035
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|MAGNESITA REFRATARIOS SA
+isin: BRMAGGACNOR4
+---

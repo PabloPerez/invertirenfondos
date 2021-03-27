@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|CELULOSE BEIRA INDUS|2,06|2028-05-28
+isin: PTBINMOM0008
+---

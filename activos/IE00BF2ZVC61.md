@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELLINGTON MANAGEMENT FU
+isin: IE00BF2ZVC61
+---

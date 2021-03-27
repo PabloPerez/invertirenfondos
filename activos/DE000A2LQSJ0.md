@@ -1,0 +1,5 @@
+---
+layout: asset
+title: EMISIONES|KREDITANSTALT FUER W|0,125|2023-11-07
+isin: DE000A2LQSJ0
+---

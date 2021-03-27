@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|HORIZON THERAPEUTICS
+isin: IE00BQPVQZ61
+---

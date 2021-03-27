@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|PROVIDENT FINANCIAL PLC
+isin: GB00BFWVBY68
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER BERMAN SHORT D
+isin: IE00BDZRX078
+---

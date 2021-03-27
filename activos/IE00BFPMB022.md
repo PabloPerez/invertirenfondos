@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIO|VANGUARD INVESTMENT SERIES PLC
+isin: IE00BFPMB022
+---

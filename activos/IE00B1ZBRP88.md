@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SEILERN INVEST. MNGMENT LTD
+isin: IE00B1ZBRP88
+---

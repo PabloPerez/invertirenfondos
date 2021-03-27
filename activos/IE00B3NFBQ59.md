@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HERMES INTERNATIONAL
+isin: IE00B3NFBQ59
+---

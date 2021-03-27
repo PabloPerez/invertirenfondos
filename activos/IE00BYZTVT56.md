@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES SUSTAINABLE EURO
+isin: IE00BYZTVT56
+---

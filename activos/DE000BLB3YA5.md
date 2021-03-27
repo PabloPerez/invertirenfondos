@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|BAYERISCHE LANDESBAN|0,40|2020-02-18
+isin: DE000BLB3YA5
+---

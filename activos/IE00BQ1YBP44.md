@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|COMGEST GROWTH JAPAN-YEN
+isin: IE00BQ1YBP44
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|XTRACKERS ESG MSCI U
+isin: IE00BFMNPS42
+---

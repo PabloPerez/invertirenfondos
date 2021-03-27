@@ -1,0 +1,5 @@
+---
+layout: asset
+title: EMISIONES|KREDITANSTALT FUER W|0,625|2028-01-07
+isin: DE000A2GSNR0
+---

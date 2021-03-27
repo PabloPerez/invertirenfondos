@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR EUROPE SMALL CA
+isin: IE00BKWQ0M75
+---

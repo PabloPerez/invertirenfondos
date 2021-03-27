@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF ISHARES TIPS O-5
+isin: IE00BDQYWQ65
+---

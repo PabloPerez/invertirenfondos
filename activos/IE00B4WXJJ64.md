@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES CORE GOVT BOND U
+isin: IE00B4WXJJ64
+---

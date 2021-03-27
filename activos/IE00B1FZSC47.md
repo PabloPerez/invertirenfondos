@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES USD TIPS
+isin: IE00B1FZSC47
+---

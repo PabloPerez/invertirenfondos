@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JUPITER JAPAN INCOME
+isin: GB00B0HZTZ55
+---

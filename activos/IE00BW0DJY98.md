@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JOHCM-EUROPEAN CONCE
+isin: IE00BW0DJY98
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|MICRO FOCUS INTERNATIONAL PLC
+isin: GB00BQY7BX88
+---

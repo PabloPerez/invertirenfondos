@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LEGG MASON WESTERN
+isin: IE00BYWVKR50
+---

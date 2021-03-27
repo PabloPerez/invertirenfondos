@@ -30,22 +30,26 @@ th,td {
     user-select: none;
 }
 
-#quarter-details-table, #fund-input-group, #top-assets-table, #top-participants-table {
+#quarter-details-table, #top-assets-table, #top-participants-table {
     max-width: 1200px;
     margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#positions-table, #fund-table, #table-label {
+#positions-table, #fund-table, #table-label, #asset-table {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#fund-input-group {
+#fund-input-group, #asset-input-group {
     margin-top: 30px;
     padding: 0px 5px;
+    max-width: 1200px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #quarter-details-table th {

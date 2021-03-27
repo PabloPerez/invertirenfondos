@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DWS INVESTMEN SA (DE
+isin: DE000DWS2SH0
+---

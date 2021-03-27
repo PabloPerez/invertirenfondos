@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR MSTR MLT AST GLOB I
+isin: IE00BQWJFQ70
+---

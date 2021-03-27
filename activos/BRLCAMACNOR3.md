@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|CIA DE LOCACAO DAS AMERICAS
+isin: BRLCAMACNOR3
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DWS DEUTSCHLAND
+isin: DE000DWS2GT0
+---

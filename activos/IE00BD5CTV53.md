@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BNY MELLON LT GB EQ
+isin: IE00BD5CTV53
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VANGUARD GLOB.VALUE
+isin: IE00BYYR0B57
+---

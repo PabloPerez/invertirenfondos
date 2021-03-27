@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR BARCLAYS 03 YEAR EU
+isin: IE00BC7GZW19
+---

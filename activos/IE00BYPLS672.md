@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|L&G CYBER SECURITY
+isin: IE00BYPLS672
+---

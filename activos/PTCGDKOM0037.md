@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|CAIXA GERAL DE DEPOS|5,75|2023-06-28
+isin: PTCGDKOM0037
+---

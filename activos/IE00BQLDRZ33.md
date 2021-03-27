@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|POLAR CAPITAL
+isin: IE00BQLDRZ33
+---

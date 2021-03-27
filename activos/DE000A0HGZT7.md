@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIO|ISHARES MSCI EMERGING MARKETS C
+isin: DE000A0HGZT7
+---

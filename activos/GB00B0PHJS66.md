@@ -1,0 +1,5 @@
+---
+layout: asset
+title: THREAD.PAN EUR.SMALL COMPANIES|THREADNEEDLE INVEST
+isin: GB00B0PHJS66
+---

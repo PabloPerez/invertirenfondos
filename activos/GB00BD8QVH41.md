@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|INTERCONTINENTAL HOT
+isin: GB00BD8QVH41
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR EUROSTOXX ETF
+isin: IE00BFTWP510
+---

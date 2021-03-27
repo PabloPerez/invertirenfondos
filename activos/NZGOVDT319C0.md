@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|REPUBLICA DE NUEVA|05,000|2019-03-15
+isin: NZGOVDT319C0
+---

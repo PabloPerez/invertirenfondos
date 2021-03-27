@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO EURO INC BD-E
+isin: IE00B3QDMK77
+---

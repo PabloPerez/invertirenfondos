@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI INDIA UCITS
+isin: IE00BZCQB185
+---

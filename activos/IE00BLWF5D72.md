@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JANUS CAPITAL GLOBAL
+isin: IE00BLWF5D72
+---

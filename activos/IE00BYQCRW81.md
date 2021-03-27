@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LAZARD FUND MNG IRL
+isin: IE00BYQCRW81
+---

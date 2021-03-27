@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MUZINICH FUNDS- GTC
+isin: IE00BHLSJ936
+---

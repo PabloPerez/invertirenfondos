@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WT ART INTELLIGE-USD
+isin: IE00BDVPNG13
+---

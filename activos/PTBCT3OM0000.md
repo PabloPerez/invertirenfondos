@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|BANCO COMERCIAL POR|0,38|2014-05-09
+isin: PTBCT3OM0000
+---

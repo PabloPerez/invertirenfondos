@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|THE OPTIMA STAR FUND
+isin: IE00BYZJ9B37
+---

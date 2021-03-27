@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LAZARD GLOB CONV REC
+isin: IE00BMW2TP52
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|THREAD.UK.ABS ALPHA
+isin: GB00BWVFYD82
+---

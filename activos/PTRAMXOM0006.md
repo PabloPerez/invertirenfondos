@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|196607 REGIAO AUTONOMA MADEIRA|1,59|2022-06-09
+isin: PTRAMXOM0006
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DWS INVESTMENT
+isin: DE000DWS2MA8
+---

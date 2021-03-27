@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|S&P GLOBAL DIV ARIST
+isin: IE00B9CQXS71
+---

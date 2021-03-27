@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES CORE FTSE
+isin: IE00BYXPXK00
+---

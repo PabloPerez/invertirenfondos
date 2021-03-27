@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|iSHARES EURO COVERED
+isin: DE000A0RFEE5
+---

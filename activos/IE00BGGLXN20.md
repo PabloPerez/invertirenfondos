@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MERCER GLOBAL INV
+isin: IE00BGGLXN20
+---

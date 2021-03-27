@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|STATE OF QUEENSLAND|04,000|2019-06-21
+isin: AU0000XQLQW6
+---

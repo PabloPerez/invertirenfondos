@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI EMU MID
+isin: IE00BCLWRD08
+---

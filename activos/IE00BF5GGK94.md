@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAM STAR CONT EUR EQ
+isin: IE00BF5GGK94
+---

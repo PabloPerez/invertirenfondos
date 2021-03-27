@@ -1,0 +1,5 @@
+---
+layout: asset
+title: EMISIONES|KREDITANSTALT FUER W|-0,267|2022-06-30
+isin: DE000A2LQSS1
+---

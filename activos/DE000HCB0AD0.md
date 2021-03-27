@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|8137275 HAMBURG COMMERCIAL BNK|0,50|2022-05-23
+isin: DE000HCB0AD0
+---

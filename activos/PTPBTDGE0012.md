@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACTIVOS|ESTADO PORTUGAL|2,00|2011-02-18
+isin: PTPBTDGE0012
+---

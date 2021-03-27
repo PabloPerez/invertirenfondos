@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|POLAR CAPITAL LLP
+isin: IE00BCDBX592
+---

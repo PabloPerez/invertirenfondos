@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|M Y G OPTIMAL INCOME FD
+isin: GB00B1VMCY93
+---

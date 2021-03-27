@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELL GBL CRED PLS-S USD
+isin: IE00BGLNRL96
+---

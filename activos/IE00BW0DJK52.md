@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BAILLIE GIFF WW EM
+isin: IE00BW0DJK52
+---

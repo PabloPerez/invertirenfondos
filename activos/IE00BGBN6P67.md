@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|INVESCO ELWOOD
+isin: IE00BGBN6P67
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CEDULAS|HIPOT EUROHYPO AG|2,00|2013-02-18
+isin: DE000EH1AAD8
+---

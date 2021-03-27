@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NOMURA JPX NKY 400
+isin: IE00BVVSZ262
+---

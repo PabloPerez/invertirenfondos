@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BNY MELLON GLO.DYN.H
+isin: IE00B8GJYG05
+---

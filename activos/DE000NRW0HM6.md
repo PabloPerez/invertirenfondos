@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|OBLIGA.|STATE OF NORTH RHINE|0,108|2020-10-2
+isin: DE000NRW0HM6
+---

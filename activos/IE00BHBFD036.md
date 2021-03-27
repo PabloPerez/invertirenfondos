@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LEGG MASON INVESTMEN
+isin: IE00BHBFD036
+---

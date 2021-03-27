@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VANGUARD S&P 500 UCITS E
+isin: IE00B3XXRP09
+---

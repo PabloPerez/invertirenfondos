@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF OSSIAM US ESG
+isin: IE00BHNGHX58
+---

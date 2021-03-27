@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUTSCHE BANK AKTIE|00,286|2016-03-11
+isin: DE000DB7XLS9
+---

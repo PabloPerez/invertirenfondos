@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI FRANCE (IS3
+isin: IE00BP3QZJ36
+---

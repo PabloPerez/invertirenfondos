@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PRINCIPAL GLOBAL PREFERR
+isin: IE00B2NGJY51
+---

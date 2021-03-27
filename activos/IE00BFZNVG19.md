@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HERMES GL EMK SMID E
+isin: IE00BFZNVG19
+---

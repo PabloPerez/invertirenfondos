@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI USA ESG SCR
+isin: IE00BFNM3G45
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HSBC HOLDINGS
+isin: IE00B5BRQB73
+---

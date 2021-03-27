@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES BNY MELLON-GLOB EQ IN-EC
+isin: IE00B3VHXC32
+---

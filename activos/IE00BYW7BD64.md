@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MARSHALL WACE
+isin: IE00BYW7BD64
+---

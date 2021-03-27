@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GMO SGM MAJOR MARKETS IN
+isin: IE00BFZZLZ63
+---

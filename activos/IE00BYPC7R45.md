@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|UTI INDIA DYNAMIC EQ
+isin: IE00BYPC7R45
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PREFERENTES|MAIN CAP FUND|9,50|2048-03-31
+isin: DE000A1ALVC5X
+---
