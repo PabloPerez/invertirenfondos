@@ -123,7 +123,7 @@ async function populatePositions(fundIsin) {
     
         
         tr.addEventListener("click", function() {
-            window.location.href = `./activos/${isin}.html`
+            window.location.href = `../activos/${isin}.html`
         })
 
         tr.appendChild(nametd);

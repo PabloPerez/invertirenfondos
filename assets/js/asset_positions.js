@@ -112,7 +112,7 @@ async function populatePositions(assetIsin) {
         sincetd.innerText = since
 
         tr.addEventListener("click", function() {
-            window.location.href = `./fondos/${isin}.html`
+            window.location.href = `../fondos/${isin}.html`
         })
 
         tr.appendChild(nametd);
