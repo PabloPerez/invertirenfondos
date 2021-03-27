@@ -121,6 +121,11 @@ async function populatePositions(fundIsin) {
         amounttd.classList.add("amounttd")
         amounttd.innerHTML = `${amount.toLocaleString()} ${currency}`;
     
+        
+        tr.addEventListener("click", function() {
+            window.location.href = `./activos/${isin}.html`
+        })
+
         tr.appendChild(nametd);
         tr.appendChild(isintd);
         tr.appendChild(percentagetd);

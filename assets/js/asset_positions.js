@@ -111,12 +111,15 @@ async function populatePositions(assetIsin) {
         sincetd.classList.add("sincetd");
         sincetd.innerText = since
 
-    
+        tr.addEventListener("click", function() {
+            window.location.href = `./fondos/${isin}.html`
+        })
+
         tr.appendChild(nametd);
         tr.appendChild(isintd);
         tr.appendChild(percentagetd);
         tr.appendChild(amounttd);
-        tr.appendChild(since);
+        tr.appendChild(sincetd);
 
         tableBody.appendChild(tr)
     
