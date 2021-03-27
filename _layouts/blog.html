@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title> {{page.title}} </title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    {% include navbar.html %}  
+    <div id='blog-container' class='container'>
+        <h1>Blog</h1>
+        {% for post in site.posts reversed %}
+        <div class='blog-post jumbotron p-3 p-md-5 text-white rounded bg-dark' style='background-image: url({{post.related_image}})'>
+            <div class="col-md-6 px-0">
+                <h2 class="display-4 font-italic"> {{ post.title }} </h2>
+                <p class="lead my-3">{{ post.excerpt }}</p>
+                <p class="lead mb-0">
+                    <a href="{{ post.url }}" class="text-white font-weight-bold">Leer más...</a>
+                </p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% include scripts.html %}  
+  </body>
+</html>

@@ -4,3 +4,8 @@ sass:
 
 plugins:
   - jekyll-autoprefixer    
+
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title:output_ext
