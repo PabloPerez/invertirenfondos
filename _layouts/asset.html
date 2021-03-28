@@ -8,7 +8,7 @@
   </head>
   <body>
   {% include navbar.html %}  
-  <h1>Fondos con {{ page.title }} {{ page.isin }}</h1>
+  <h1 class="text-center">Fondos con {{ page.title }} {{ page.isin }}</h1>
   <div id="quarter">
     <span id="previous-quarter">◀</span>
     <span id="quarter-date"></span>
@@ -28,6 +28,7 @@
     <tbody>
     </tbody>
   </table>
+  {% include comments.html %}
   {% include scripts.html %}
   </body>
   <script src="{{ "/assets/js/asset_positions.js" | relative_url }}"> </script>

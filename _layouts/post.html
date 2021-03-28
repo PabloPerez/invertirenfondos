@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title> {{page.title}} - InvertirEnFondos </title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    {% include navbar.html %}  
+    <div id='post-container' class='container'>
+        <h1 class="text-center">{{page.title}}</h1>
+        <br/>
+        <p class="lead">{% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}Enero
+              {% when '2' %}Febrero
+              {% when '3' %}Marzo
+              {% when '4' %}Abril
+              {% when '5' %}Mayo
+              {% when '6' %}Junio
+              {% when '7' %}Julio
+              {% when '8' %}Agosto
+              {% when '9' %}Septiembre
+              {% when '10' %}Octubre
+              {% when '11' %}Noviembre
+              {% when '12' %}Diciembre
+            {% endcase %}
+            {{ page.date | date: "%Y" }}</p>
+        <br/>
+        <p >{{ page.content }}</p>
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+        {% include scripts.html %}  
+        {% if page.comments == true %}
+          {% include comments.html %}
+        {% endif %}
+    </div>
+  </body>
+</html>

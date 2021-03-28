@@ -2,9 +2,10 @@
 layout: post
 title: Presentación
 related_image: ./assets/images/presentacion.jpg
+comments: true
 ---
 
-Me llamo Pablo, soy ingeniero informático e inversor particular desde 2017, en búsqueda de la famosa independencia financiera.
+¡Hola! Me llamo Pablo, soy ingeniero informático e inversor particular desde 2017, en búsqueda de la famosa independencia financiera.
 
 Pretendo que InvertirEnFondos sea un blog que me permita aportar mi granito de arena a una comunidad de la que he aprendido mucho sin pedir nada a cambio. Tratará, sobre todo, sobre fondos de inversión, pudiendo haber también contenido de otras vehículos de inversión, tipos de activos, temas relacionados con ahorro e inversión o cualquier otra cosa que tenga en mente.
 
