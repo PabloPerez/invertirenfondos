@@ -11,10 +11,10 @@ comments:
   filename: "entry{@timestamp}"
 
   generatedFields:
-  date:
-    type: date
-    options:
-      format: "timestamp-seconds"
+    date:
+      type: date
+      options:
+        format: "timestamp-seconds"
 
   moderation: true
   
