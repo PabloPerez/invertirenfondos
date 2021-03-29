@@ -2,7 +2,29 @@ comments:
 
   name: "InvertirEnFondos.info"
 
-  requiredFields: ["name", "email", "message"]
+  requiredFields: ["name", "message"]
+
+  allowedFields: ["name", "email", "url", "message", "replying_to_uid"]
+
+  path: "_data/results/{@timestamp}"
+
+  commitMessage: "Comentario de {fields.name} en {options.slug}"
+
+  filename: "entry{@timestamp}"
+
+  generatedFields:
+  date:
+    type: date
+    options:
+      format: "timestamp-seconds"
+
+  moderation: true
+  
+  branch: main
+
+  format: yml
+
+  path: 
 
   githubAuth:
     clientId: tZu8+1aJ28BB8TUTAxrtCiptp4XDcTlAmovK5N16TT/DuBjWsp/wGjPonfIG/ZWW3AueSvgXrBgzfcJZ/plnsiODTexHubC0CTstbqj2LsisYBtkNShrOpm/mA/NByIUEnDZdt7XOWIsaiIC4I+Ax+va+ylF8MKlmiQbTJPkJ6m/BD32JdZTav/nVfMyaplP9gJwEmbn56wr56lshuB82w17WnOyuCoIRpjebb9qOHJnGEmd3s7v4TdYdJ3akzki1hZqDBpl1XNMuIHzP8xQRD1C6K0f6uRgns+DFt+/zI3UpX96uLo7sex+fYVB73ggJI63bqjxavz3RyhEefEVbhS8tjMBMNTzJjqBpO5xGOBIAX2HdG9Yy5RLpAXj1EgoVq6WmQNBs0aHOEK1N9BEQdVL4Jjf+irSYhJjdXrl+cTkEq7NdAuIIbSl/TR3mAZ11U43dJUi3JEfmJoO5KhUG4FxKi9hcZ8hShPZPAShtoe8s93Xk37xf2qvzUw933OScO9Z+VmRcEBNmOeZ+ugcWOcbi5Qe1amiZoV+9hal40DvnOx/gVvTTm/mWKwO4XA64Ql8SDJDBAZw2GHE2bhSsgofVZFvcaq5sCSbIDXzXcTUMytC03rzyac5EhZyivWspTbh1VjaRDGNNKr15UxsoRxjblLUccvWrCifp/EBpmw=
