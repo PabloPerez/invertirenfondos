@@ -1,4 +1,4 @@
-<form class="js-form form" method="post" action="{{ site.staticman_url }}">
+<form class="js-form form p-2 bg-light rounded" method="post" action="{{ site.staticman_url }}">
     <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
     <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
     <input type="hidden" id="comment-replying-to-uid" name="fields[replying_to_uid]" value="">
@@ -6,21 +6,20 @@
     <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
     <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
   
-    <h3>Añadir Comentario<small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h3>
+    <h4 class="px-1">Añadir Comentario<small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;"> (cancelar respuesta)</a></small></h4>
     
     <div class="form-row justify-content-between">
-      <div class="col-8">
+      <div class="col-12">
         <textarea class="form-control" name="fields[message]" type="text" id="comment-form-message" placeholder="Escribe aquí tu comentario" required rows="4"></textarea>
       </div>
-      <div id="reCaptcha" class="g-recaptcha col-4" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
     </div>
 
-    <div class="form-row">
-      <div class="input-group col-4">
+    <div class="form-row mt-2">
+      <div class="input-group col-6">
         <input class="form-control" name="fields[name]" type="text" id="comment-form-name" placeholder="Tu nombre (requerido)" required/>
       </div>
       <label class="sr-only" for="comment-form-email">Email</label>
-      <div class="input-group col-4">
+      <div class="input-group col-6">
         <div class="input-group-prepend">
           <div class="input-group-text">@</div>
         </div>
@@ -33,8 +32,9 @@
           <input class="form-control" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
         </label>
       </div>
-  
-  
+
+      <div id="reCaptcha" class="g-recaptcha col-4" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      
       <button class="btn btn-primary" id="comment-form-submit">
         Enviar comentario
       </button>
