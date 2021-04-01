@@ -5,7 +5,7 @@
 
     $('.js-form').submit(function () {
         var form = this;
-        $("#comment-form-submit").html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>Enviando...');       
+        $("#comment-form-submit").html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Enviando...');       
         $(form).addClass('disabled');
 
         axios.post($(this).attr('action'), $(this).serialize(), {
