@@ -5,9 +5,7 @@
 
     $('.js-form').submit(function () {
         var form = this;
-        $("#comment-form-submit").html(
-            '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Sending...'
-        );
+        $("#comment-form-submit").html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>Enviando...');       
         $(form).addClass('disabled');
 
         axios.post($(this).attr('action'), $(this).serialize(), {
@@ -15,17 +13,17 @@
                 'content-type': 'application/x-www-form-urlencoded'
             }
         }).then(function (data) {
-            showModal('¡Comentario enviado!', '¡Gracias! Tu comentario está <a href="https://github.com/pabloperez/invertirenfondos/pulls">pendiente de moderación</a>. Será publicado cuando sea aprobado.');
-            $("#comment-form-submit")
-                .html("Enviar");
-
+            $("#comment-form-submit").removeClass('btn-primary');
+            $("#comment-form-submit").addClass('btn-success');
+            $("#comment-form-submit").html('¡Enviado!');       
+            $("#comment-feedback").html('¡Comentario enviado!', '¡Gracias! Tu comentario está <a href="https://github.com/pabloperez/invertirenfondos/pulls">pendiente de moderación</a>. Será publicado cuando sea aprobado.');
             $(form)[0].reset();
             $(form).removeClass('disabled');
             grecaptcha.reset();
         }).catch(function (err) {
             console.log(err);
             var ecode = (err.responseJSON || {}).errorCode || "unknown";
-            showModal('Error', 'Ha ocurrido un error.<br>[' + ecode + ']');
+            $("#comment-feedback").html('Error', 'Ha ocurrido un error.<br>[' + ecode + ']');
             $("#comment-form-submit").html("Enviar")
             $(form).removeClass('disabled');
             grecaptcha.reset();
@@ -33,15 +31,6 @@
         return false;
     });
 
-    $('.js-close-modal').click(function () {
-        $('body').removeClass('show-modal');
-    });
-
-    function showModal(title, message) {
-        $('.js-modal-title').text(title);
-        $('.js-modal-text').html(message);
-        $('body').addClass('show-modal');
-    }
 })(jQuery);
 
 // Staticman comment replies, from https://github.com/mmistakes/made-mistakes-jekyll

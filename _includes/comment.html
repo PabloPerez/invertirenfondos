@@ -7,7 +7,23 @@
     <span class="comment__date">
       {%- if include.date -%}
         <a href="#{{ comment_id}}" title="Link a este comentario">
-        {{- include.date | date:"%B %eth, %Y %H:%M" -}}
+        {%- assign m = include.date | date: "%-m" %}
+          {{ include.date | date: "%-d" }}  
+          {% case m %}
+            {% when '1' %}Enero
+            {% when '2' %}Febrero
+            {% when '3' %}Marzo
+            {% when '4' %}Abril
+            {% when '5' %}Mayo
+            {% when '6' %}Junio
+            {% when '7' %}Julio
+            {% when '8' %}Agosto
+            {% when '9' %}Septiembre
+            {% when '10' %}Octubre
+            {% when '11' %}Noviembre
+            {% when '12' %}Diciembre
+          {% endcase %}
+          {{ include.date | date: "%Y" }}
         </a>
       {%- endif -%}
     </span>

@@ -9,34 +9,37 @@
   <body>
   {% include navbar.html %}  
   <h1 class="text-center">Posiciones {{ page.title }} {{ page.isin }}</h1>
-  <div id="quarter">
-    <span id="previous-quarter">◀</span>
-    <span id="quarter-date"></span>
-    <span id="next-quarter">▶</span>
+  <div id="fund-container" class="container">
 
+    <div id="quarter">
+      <span id="previous-quarter">◀</span>
+      <span id="quarter-date"></span>
+      <span id="next-quarter">▶</span>
+
+    </div>
+    <table id="quarter-details-table" class="table">
+      <tbody>
+        <tr><th scope="row">Índice Rotación:</th><td id="turnover-rate"></td></tr>
+        <tr><th scope="row">Partícipes:</th><td id="participants"></td></tr>
+        <tr><th scope="row">Patrimonio:</th><td id="assets"></td></tr>
+      </tbody>
+    </table>
+
+    <table id="positions-table" class="table table-striped">
+      <thead class="thead-dark">
+        <tr>
+          <th>Nombre</th>
+          <th class="isincolumn">ISIN</th>
+          <th>Porcentaje</th>
+          <th class="amountcolumn">Cantidad</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    {% include scripts.html %}
+    {% include comments.html %}
   </div>
-  <table id="quarter-details-table" class="table">
-    <tbody>
-      <tr><th scope="row">Índice Rotación:</th><td id="turnover-rate"></td></tr>
-      <tr><th scope="row">Partícipes:</th><td id="participants"></td></tr>
-      <tr><th scope="row">Patrimonio:</th><td id="assets"></td></tr>
-    </tbody>
-  </table>
-
-  <table id="positions-table" class="table table-striped">
-    <thead class="thead-dark">
-      <tr>
-        <th>Nombre</th>
-        <th class="isincolumn">ISIN</th>
-        <th>Porcentaje</th>
-        <th class="amountcolumn">Cantidad</th>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
-  {% include comments.html %}
-  {% include scripts.html %}
   </body>
   <script src="{{ "/assets/js/fund_positions.js" | relative_url }}"> </script>
 </html>
