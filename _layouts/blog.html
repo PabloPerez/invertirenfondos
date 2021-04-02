@@ -5,6 +5,22 @@
     <meta charset="utf-8">
     <title> {{page.title}} </title>
     <meta name="description" content="{{page.description}}"/>
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="{{page.absolute_url}}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{page.title}}">
+    <meta property="og:description" content="{{page.description}}">
+    <meta property="og:image" content="{{site.logoImage}}">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="invertirenfondos.info">
+    <meta property="twitter:url" content="{{page.absolute_url}}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{page.description}}">
+    <meta name="twitter:image" content="{{site.logoImage}}">
+    
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

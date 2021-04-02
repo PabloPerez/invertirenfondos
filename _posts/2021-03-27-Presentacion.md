@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentación
-description: Presentación del blog InvertirEnFondos.info
+description: "Presentación del blog InvertirEnFondos.info: todo sobre fondos de inversión"
 related_image: ./assets/images/presentacion.jpg
 comments: true
 ---
