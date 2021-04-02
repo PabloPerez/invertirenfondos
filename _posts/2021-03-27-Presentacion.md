@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presentación
+description: Presentación del blog InvertirEnFondos.info
 related_image: ./assets/images/presentacion.jpg
 comments: true
 ---

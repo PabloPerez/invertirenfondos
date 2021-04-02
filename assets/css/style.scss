@@ -7,10 +7,7 @@
 
 table {
     table-layout: fixed;
-/*     width: fit-content!important;
-    min-width: 1200px;
-    margin: auto;
- */}
+}
 
 th,td {
        text-align: center;
@@ -84,9 +81,18 @@ th,td {
     resize: none;
 }
 
-
-/* @media (min-width: 1200px) {
-    #quarter-details-table tr {
-        float: left;
-    }
-}   */
+body {
+    position: relative;
+    min-height: 100vh;
+}
+  
+.container {
+    padding-bottom: 6.6rem;    /* Footer height */
+}
+  
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 6.5rem;            /* Footer height */
+}
