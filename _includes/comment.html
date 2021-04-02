@@ -42,7 +42,7 @@
 </article>
 
   {%- capture this_uid %}{{ include.uid }}{% endcapture %}
-  {%- assign replies = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to_uid == this_uid' %}
+  {%- assign replies = site.data.comments[slug] | where_exp: 'item', 'item.replying_to_uid == this_uid' %}
   {%- assign replies_date = replies | sort: 'date' %}
   {% for reply in replies_date %}
     {%- assign email       = reply.email -%}
