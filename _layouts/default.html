@@ -19,9 +19,11 @@
     </script>
   </head>
   <body>
-  {% include navbar.html %}  
-	{% include scripts.html %}
-    {{content}}
-  {% include footer.html %}
+    {% include navbar.html %}  
+    <div id='default-container' class='container'>
+    {% include scripts.html %}
+      {{content}}
+    </div>
+    {% include footer.html %}
   </body>
 </html>
