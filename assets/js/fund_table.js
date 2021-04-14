@@ -2,6 +2,10 @@
 ---
 
 document.querySelector('#fund-input').addEventListener("input", searchFunds)
+window.addEventListener("pageshow", () => {
+    searchFunds()
+});
+
 
 function searchFunds(e) {
     resetTable();
@@ -41,7 +45,9 @@ async function addFundToTable(fundIsin, fundName, fundGestora) {
     fundGestoratd.innerHTML = fundGestora
 
     tr.addEventListener("click", function() {
-        window.location.href = `./fondos/${fundIsin}.html`
+        if(!window.getSelection().toString()) {
+            window.location.href = `./fondos/${fundIsin}.html`
+        }
     })
 
     tr.appendChild(isintd);

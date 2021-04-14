@@ -2,6 +2,9 @@
 ---
 
 document.querySelector('#asset-input').addEventListener("input", searchAssets)
+window.addEventListener("pageshow", () => {
+    searchAssets()
+});
 
 function searchAssets(e) {
     resetTable();
@@ -29,7 +32,9 @@ async function addAssetToTable(assetIsin, assetName) {
     assetNametd.innerText = assetName
 
     tr.addEventListener("click", function() {
-        window.location.href = `./activos/${assetIsin}.html`
+        if(!window.getSelection().toString()) {
+            window.location.href = `./activos/${assetIsin}.html`
+        }
     })
 
     tr.appendChild(isintd);
