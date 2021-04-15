@@ -41,5 +41,4 @@ async function addAssetToTable(assetIsin, assetName) {
     tr.appendChild(assetNametd);
 
     tableBody.appendChild(tr)
-
 }
