@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|DB X-TRACKER OIL CRU
+isin: DE000A1AQGX1
+---

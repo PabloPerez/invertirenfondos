@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BH ASSET MANAGEMENT
+isin: GG00B2QQPM28
+---

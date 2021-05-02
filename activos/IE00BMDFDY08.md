@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES   HIGHYIELD CORP
+isin: IE00BMDFDY08
+---

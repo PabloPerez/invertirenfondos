@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GUINNESS SUSTAN ENER
+isin: IE00BFYV9M80
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|POLAR CAPITAL FUNDS
+isin: IE00B3DYTS07
+---

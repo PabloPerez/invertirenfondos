@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MORNINGSTAR  EME
+isin: IE00BKT1CS59
+---

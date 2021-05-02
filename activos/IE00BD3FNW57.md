@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FEDERATED GLOB
+isin: IE00BD3FNW57
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO GIS EMG MKTS BOND
+isin: IE00BF4VRR96
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|BEMOBI MOBILE TECH SA(BMOB3 BZ)
+isin: BRBMOBACNOR7
+---

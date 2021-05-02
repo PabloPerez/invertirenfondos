@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|PARAGON GROUP OF COS PLC|THE
+isin: GB00B2NGPM57
+---

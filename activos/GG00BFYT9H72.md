@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HIPGNOSIS FUND
+isin: GG00BFYT9H72
+---

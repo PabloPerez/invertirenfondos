@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|CAIXA GERAL DEPOSIT|1,57|2017-12-28
+isin: PTCGG2OM0007
+---

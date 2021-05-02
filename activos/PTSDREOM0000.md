@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|328845 REGIAO AUTONOMA ACORES|3,50|2022-06-20
+isin: PTSDREOM0000
+---

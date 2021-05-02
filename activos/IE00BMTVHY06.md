@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ALLIANZ ALL CHINA EQ - I
+isin: IE00BMTVHY06
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES BRANDES EM MKTS EQTYS-A-USD
+isin: IE00B6TRNJ36
+---

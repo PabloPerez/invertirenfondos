@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ROTHSCHILDS CONT FIN PLC
+isin: IE00BCBHZC00
+---

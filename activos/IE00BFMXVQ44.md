@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VANGUARD FTSE 250
+isin: IE00BFMXVQ44
+---

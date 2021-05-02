@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HSBC HANG SENG TECH
+isin: IE00BMWXKN31
+---

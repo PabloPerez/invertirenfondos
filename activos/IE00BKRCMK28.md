@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MAGNA NEW FONTIERS FD-G
+isin: IE00BKRCMK28
+---

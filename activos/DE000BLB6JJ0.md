@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|BAYERISCHE LANDES BK|0,13|2028-02-10
+isin: DE000BLB6JJ0
+---

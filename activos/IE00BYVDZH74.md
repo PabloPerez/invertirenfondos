@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MAN ASSET MANAGEMENT IRELAND
+isin: IE00BYVDZH74
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS COMMERZBANK AG LINK BB 2016-11-21
+isin: DE000CB0FTD7
+---

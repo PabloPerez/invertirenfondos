@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER BERMAN EUR
+isin: IE00BDZRXT69
+---

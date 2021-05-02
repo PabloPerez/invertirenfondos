@@ -1,0 +1,5 @@
+---
+layout: asset
+title: AC.TORUNLAR GAYRIMENKUL YATIRIM (TRY)
+isin: TRETRGY00018
+---

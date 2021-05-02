@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CÉDULAS HIPOTECARIAS|WESTLB AG|4.25|2010-11-15
+isin: DE000WLB8FC4
+---

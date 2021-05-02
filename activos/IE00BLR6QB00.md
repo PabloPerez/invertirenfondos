@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GLOBAL X TELE&DIGITA
+isin: IE00BLR6QB00
+---

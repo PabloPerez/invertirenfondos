@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES BM-BOVESPA SMALL
+isin: BRSMALCTF002
+---

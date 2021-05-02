@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|LPS BRASIL CONSULTORIA DE IMOVE
+isin: BRLPSBACNOR0
+---

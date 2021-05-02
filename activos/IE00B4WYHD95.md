@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|CUSTOM MARKETS PLC
+isin: IE00B4WYHD95
+---
