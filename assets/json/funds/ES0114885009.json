@@ -3,6 +3,57 @@
     "fecha_registro": "29/05/2020",
     "historico_periodos": [
         {
+            "gastos": 0.0,
+            "indice_rotacion": 0.06,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 101280.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B14X4Q57",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|iSharesEuGov1-3",
+                    "porcentaje": 21.12
+                },
+                {
+                    "cantidad": 88216.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010754135",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI ETF",
+                    "porcentaje": 18.4
+                },
+                {
+                    "cantidad": 83030.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B6YX5F63",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|SPDR BBG",
+                    "porcentaje": 17.32
+                },
+                {
+                    "cantidad": 77381.0,
+                    "desde": "2020T2",
+                    "isin": "LU0290356871",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|db x-trak iBoxx",
+                    "porcentaje": 16.14
+                },
+                {
+                    "cantidad": 74652.0,
+                    "desde": "2020T2",
+                    "isin": "LU1650487413",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyxor MTS 1-3Y",
+                    "porcentaje": 15.57
+                }
+            ],
+            "rentabilidad": null
+        },
+        {
+            "gastos": 0.25,
             "indice_rotacion": 0.46,
             "participes": 1,
             "patrimonio": 470671,
@@ -48,9 +99,11 @@
                     "nombre": "PARTICIPACIONES|Lyxor MTS 1-3Y",
                     "porcentaje": 17.89
                 }
-            ]
+            ],
+            "rentabilidad": -0.39
         },
         {
+            "gastos": 0.32,
             "indice_rotacion": 0.05,
             "participes": 1,
             "patrimonio": 474210,
@@ -96,9 +149,11 @@
                     "nombre": "PARTICIPACIONES|db x-trak iBoxx",
                     "porcentaje": 8.47
                 }
-            ]
+            ],
+            "rentabilidad": -0.41
         },
         {
+            "gastos": null,
             "indice_rotacion": 1.24,
             "participes": 0,
             "patrimonio": 0,
@@ -144,7 +199,8 @@
                     "nombre": "PARTICIPACIONES|SPDR BBG",
                     "porcentaje": 17.83
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5453,

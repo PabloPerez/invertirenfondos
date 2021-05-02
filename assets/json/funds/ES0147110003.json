@@ -3,6 +3,73 @@
     "fecha_registro": "29/03/2019",
     "historico_periodos": [
         {
+            "gastos": 0.17,
+            "indice_rotacion": 0.0,
+            "participes": 4005,
+            "patrimonio": 119577174,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 36406751.0,
+                    "desde": "2019T2",
+                    "isin": "IT0005001547",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|3,75|2024-09-01",
+                    "porcentaje": 30.45
+                },
+                {
+                    "cantidad": 35177364.0,
+                    "desde": "2019T2",
+                    "isin": "IT0005367492",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|1,75|2024-07-01",
+                    "porcentaje": 29.42
+                },
+                {
+                    "cantidad": 33741599.0,
+                    "desde": "2019T2",
+                    "isin": "IT0005246340",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|1,85|2024-05-15",
+                    "porcentaje": 28.22
+                },
+                {
+                    "cantidad": 9006683.0,
+                    "desde": "2019T2",
+                    "isin": "IT0004953417",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|4,50|2024-03-01",
+                    "porcentaje": 7.53
+                },
+                {
+                    "cantidad": 4431679.0,
+                    "desde": "2020T2",
+                    "isin": "IT0005273567",
+                    "moneda": "euro",
+                    "nombre": "BONO|CASSA DEPOSITI|1,50|2024-06-21",
+                    "porcentaje": 3.71
+                },
+                {
+                    "cantidad": 110426.0,
+                    "desde": "2019T2",
+                    "isin": "IT0000366655",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|9,00|2023-11-01",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 101008.0,
+                    "desde": "2019T2",
+                    "isin": "IT0005215246",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|0,65|2023-10-15",
+                    "porcentaje": 0.08
+                }
+            ],
+            "rentabilidad": -0.29
+        },
+        {
+            "gastos": 0.17,
             "indice_rotacion": 0.04,
             "participes": 4236,
             "patrimonio": 129419838,
@@ -64,9 +131,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|0,65|2023-10-15",
                     "porcentaje": 0.08
                 }
-            ]
+            ],
+            "rentabilidad": 0.88
         },
         {
+            "gastos": 0.17,
             "indice_rotacion": 0.01,
             "participes": 4490,
             "patrimonio": 138807461,
@@ -128,9 +197,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|0,65|2023-10-15",
                     "porcentaje": 0.07
                 }
-            ]
+            ],
+            "rentabilidad": 1.42
         },
         {
+            "gastos": 0.17,
             "indice_rotacion": 0.0,
             "participes": 4667,
             "patrimonio": 145303974,
@@ -192,9 +263,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|0,65|2023-10-15",
                     "porcentaje": 0.07
                 }
-            ]
+            ],
+            "rentabilidad": 1.21
         },
         {
+            "gastos": 0.18,
             "indice_rotacion": 0.0,
             "participes": 4641,
             "patrimonio": 142696642,
@@ -248,9 +321,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|0,65|2023-10-15",
                     "porcentaje": 0.07
                 }
-            ]
+            ],
+            "rentabilidad": -1.2
         },
         {
+            "gastos": 0.18,
             "indice_rotacion": 0.01,
             "participes": 5285,
             "patrimonio": 213015139,
@@ -304,9 +379,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|9,00|2023-11-01",
                     "porcentaje": 0.05
                 }
-            ]
+            ],
+            "rentabilidad": -1.46
         },
         {
+            "gastos": 0.18,
             "indice_rotacion": 0.01,
             "participes": 6158,
             "patrimonio": 275388759,
@@ -360,9 +437,11 @@
                     "nombre": "BONO|ESTADO ITALIAN0|9,00|2023-11-01",
                     "porcentaje": 0.04
                 }
-            ]
+            ],
+            "rentabilidad": 5.1
         },
         {
+            "gastos": 0.17,
             "indice_rotacion": 0.0,
             "participes": 6361,
             "patrimonio": 276048965,
@@ -416,14 +495,17 @@
                     "nombre": "BONO|ESTADO ITALIAN0|9,00|2023-11-01",
                     "porcentaje": 0.04
                 }
-            ]
+            ],
+            "rentabilidad": 2.13
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 299949,
             "periodo": "2019T1",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5348,

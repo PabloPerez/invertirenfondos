@@ -3,6 +3,121 @@
     "fecha_registro": "12/01/2018",
     "historico_periodos": [
         {
+            "gastos": 0.09,
+            "indice_rotacion": 0.09,
+            "participes": 103653,
+            "patrimonio": 557281250,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 78089158.0,
+                    "desde": "2019T2",
+                    "isin": "IE00B6YX5C33",
+                    "moneda": "EUR",
+                    "nombre": "ETF|STATE STREET UK",
+                    "porcentaje": 14.01
+                },
+                {
+                    "cantidad": 77781515.0,
+                    "desde": "2019T2",
+                    "isin": "IE00B3XXRP09",
+                    "moneda": "EUR",
+                    "nombre": "ETF|VANGUARD ETFS/I",
+                    "porcentaje": 13.96
+                },
+                {
+                    "cantidad": 76595521.0,
+                    "desde": "2018T1",
+                    "isin": "US78462F1030",
+                    "moneda": "EUR",
+                    "nombre": "ETF|SSGA FUNDS",
+                    "porcentaje": 13.74
+                },
+                {
+                    "cantidad": 72784917.0,
+                    "desde": "2019T2",
+                    "isin": "IE00BJ0KDR00",
+                    "moneda": "EUR",
+                    "nombre": "ETF|CONCEPT FUND",
+                    "porcentaje": 13.06
+                },
+                {
+                    "cantidad": 68792229.0,
+                    "desde": "2019T2",
+                    "isin": "IE00B5BMR087",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 12.34
+                },
+                {
+                    "cantidad": 63959632.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B3YCGJ38",
+                    "moneda": "EUR",
+                    "nombre": "ETF|SOURCE MARKETS",
+                    "porcentaje": 11.48
+                },
+                {
+                    "cantidad": 60282995.0,
+                    "desde": "2019T2",
+                    "isin": "US4642872000",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/US",
+                    "porcentaje": 10.82
+                },
+                {
+                    "cantidad": 5115920.0,
+                    "desde": "2020T4",
+                    "isin": "US9127964P13",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-04-01",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 4263858.0,
+                    "desde": "2021T1",
+                    "isin": "US9127965A35",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-05-06",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 4263898.0,
+                    "desde": "2021T1",
+                    "isin": "US912796B245",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-06-10",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 4263707.0,
+                    "desde": "2021T1",
+                    "isin": "US912796B328",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-06-24",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "US9127962F58",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-03-25",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "US9127964M81",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2021-03-11",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 10.82
+        },
+        {
+            "gastos": 0.1,
             "indice_rotacion": 0.65,
             "participes": 90541,
             "patrimonio": 435352775,
@@ -88,9 +203,11 @@
                     "nombre": "LETRAS|US||2021-02-04",
                     "porcentaje": 0.09
                 }
-            ]
+            ],
+            "rentabilidad": 6.88
         },
         {
+            "gastos": 0.09,
             "indice_rotacion": 0.57,
             "participes": 77928,
             "patrimonio": 379385782,
@@ -224,9 +341,11 @@
                     "nombre": "LETRAS|US||2020-09-03",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 4.84
         },
         {
+            "gastos": 0.09,
             "indice_rotacion": 0.27,
             "participes": 69752,
             "patrimonio": 338309354,
@@ -344,9 +463,11 @@
                     "nombre": "LETRAS|US||2020-07-09",
                     "porcentaje": 0.13
                 }
-            ]
+            ],
+            "rentabilidad": 16.69
         },
         {
+            "gastos": 0.09,
             "indice_rotacion": 0.08,
             "participes": 63299,
             "patrimonio": 159446204,
@@ -480,9 +601,11 @@
                     "nombre": "LETRAS|US||2020-03-19",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -17.32
         },
         {
+            "gastos": 0.11,
             "indice_rotacion": 0.0,
             "participes": 56154,
             "patrimonio": 156231231,
@@ -600,9 +723,11 @@
                     "nombre": "LETRAS|US||2020-02-13",
                     "porcentaje": 0.57
                 }
-            ]
+            ],
+            "rentabilidad": 5.49
         },
         {
+            "gastos": 0.09,
             "indice_rotacion": 0.0,
             "participes": 40113,
             "patrimonio": 106780401,
@@ -688,9 +813,11 @@
                     "nombre": "LETRAS|US||2019-11-29",
                     "porcentaje": 0.21
                 }
-            ]
+            ],
+            "rentabilidad": 6.03
         },
         {
+            "gastos": 0.11,
             "indice_rotacion": 1.56,
             "participes": 19263,
             "patrimonio": 34019984,
@@ -784,9 +911,11 @@
                     "nombre": "LETRAS|US||2019-08-08",
                     "porcentaje": 0.26
                 }
-            ]
+            ],
+            "rentabilidad": 2.35
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.55,
             "participes": 6427,
             "patrimonio": 6945768,
@@ -912,9 +1041,11 @@
                     "nombre": "LETRAS|US||2019-03-14",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.15,
             "indice_rotacion": 1.39,
             "participes": 5674,
             "patrimonio": 5803586,
@@ -1024,9 +1155,11 @@
                     "nombre": "LETRAS|US||2019-03-14",
                     "porcentaje": 1.5
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.14,
             "indice_rotacion": 0.68,
             "participes": 4357,
             "patrimonio": 5367829,
@@ -1136,9 +1269,11 @@
                     "nombre": "LETRAS|US||2018-09-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 9.11
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 3.21,
             "participes": 1886,
             "patrimonio": 2064146,
@@ -1232,9 +1367,11 @@
                     "nombre": "ETF|ISHARES ETFS/US",
                     "porcentaje": 2.02
                 }
-            ]
+            ],
+            "rentabilidad": 6.17
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 2.46,
             "participes": 212,
             "patrimonio": 799861,
@@ -1320,7 +1457,8 @@
                     "nombre": "ETF|SSGA FUNDS",
                     "porcentaje": 1.42
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5228,

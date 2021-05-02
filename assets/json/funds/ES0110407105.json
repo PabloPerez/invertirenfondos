@@ -3,6 +3,113 @@
     "fecha_registro": "10/05/2019",
     "historico_periodos": [
         {
+            "gastos": 0.49,
+            "indice_rotacion": 0.18,
+            "participes": 20,
+            "patrimonio": 661974,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 41544.0,
+                    "desde": "2020T1",
+                    "isin": "FR0013326246",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UNIBAIL-RODAMCO SE &",
+                    "porcentaje": 6.28
+                },
+                {
+                    "cantidad": 38638.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000120172",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARREFOUR SA",
+                    "porcentaje": 5.84
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012C46",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02201140",
+                    "moneda": "EUR",
+                    "nombre": "REPO|SPAIN LETRAS DEL TE|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2021T1",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2020T2",
+                    "isin": "ES00000126Z1",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012F84",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 38188.0,
+                    "desde": "2020T2",
+                    "isin": "ES0000012F92",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,58|2021-04-01",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 21010.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000133308",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ORANGE SA",
+                    "porcentaje": 3.17
+                },
+                {
+                    "cantidad": 19885.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000121964",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KLEPIERRE SA",
+                    "porcentaje": 3.0
+                },
+                {
+                    "cantidad": 17524.0,
+                    "desde": "2021T1",
+                    "isin": "NL0000009165",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HEINEKEN NV",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 8405.0,
+                    "desde": "2020T4",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 1.27
+                }
+            ],
+            "rentabilidad": 10.47
+        },
+        {
+            "gastos": 0.54,
             "indice_rotacion": 1.9,
             "participes": 18,
             "patrimonio": 592473,
@@ -112,9 +219,11 @@
                     "nombre": "ACCIONES|KLEPIERRE SA",
                     "porcentaje": 1.55
                 }
-            ]
+            ],
+            "rentabilidad": 17.08
         },
         {
+            "gastos": 0.55,
             "indice_rotacion": 1.0,
             "participes": 19,
             "patrimonio": 494090,
@@ -272,9 +381,11 @@
                     "nombre": "ACCIONES|ORANGE SA",
                     "porcentaje": 0.9
                 }
-            ]
+            ],
+            "rentabilidad": 0.57
         },
         {
+            "gastos": 0.54,
             "indice_rotacion": 8.23,
             "participes": 19,
             "patrimonio": 512077,
@@ -408,9 +519,11 @@
                     "nombre": "ACCIONES|PEUGEOT SA",
                     "porcentaje": 0.58
                 }
-            ]
+            ],
+            "rentabilidad": 16.12
         },
         {
+            "gastos": 0.52,
             "indice_rotacion": 5.07,
             "participes": 19,
             "patrimonio": 441007,
@@ -576,7 +689,8 @@
                     "nombre": "ACCIONES|PEUGEOT SA",
                     "porcentaje": 0.54
                 }
-            ]
+            ],
+            "rentabilidad": -26.48
         }
     ],
     "id_cnmv": 5206,
@@ -584,7 +698,7 @@
     "id_cnmv_gestora": 237,
     "isin": "ES0110407105",
     "nif": "V04869210",
-    "nombre": "ESFERA I ESTRATEGIA OPCIONES",
+    "nombre": "GESTION BOUTIQUE VI ESTRATEGIA OPCIONES",
     "nombre_depositaria": "CACEIS BANK SPAIN S.A.",
     "nombre_gestora": "ANDBANK WEALTH MANAGEMENT, SGIIC, S.A.U."
 }

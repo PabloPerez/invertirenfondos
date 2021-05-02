@@ -3,6 +3,81 @@
     "fecha_registro": "29/05/2020",
     "historico_periodos": [
         {
+            "gastos": 0.42,
+            "indice_rotacion": 0.13,
+            "participes": 5,
+            "patrimonio": 314587,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 34979.0,
+                    "desde": "2020T2",
+                    "isin": "LU0290357176",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|DB X-TRACK II",
+                    "porcentaje": 11.12
+                },
+                {
+                    "cantidad": 34342.0,
+                    "desde": "2020T2",
+                    "isin": "LU0290357259",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Xtrackers II Eu",
+                    "porcentaje": 10.92
+                },
+                {
+                    "cantidad": 34332.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010754176",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AmundiETFGovt",
+                    "porcentaje": 10.91
+                },
+                {
+                    "cantidad": 33700.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010754184",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AmundiETFGovt",
+                    "porcentaje": 10.71
+                },
+                {
+                    "cantidad": 32960.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B4WXJG34",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ISHARES EURO",
+                    "porcentaje": 10.48
+                },
+                {
+                    "cantidad": 32292.0,
+                    "desde": "2020T2",
+                    "isin": "LU1287023003",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyxor-EurGoverm",
+                    "porcentaje": 10.27
+                },
+                {
+                    "cantidad": 31566.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B1FZS806",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ISHaEurGovt",
+                    "porcentaje": 10.03
+                },
+                {
+                    "cantidad": 28548.0,
+                    "desde": "2020T2",
+                    "isin": "LU1287023185",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyxor MTS7-10Y",
+                    "porcentaje": 9.07
+                }
+            ],
+            "rentabilidad": -1.71
+        },
+        {
+            "gastos": 0.66,
             "indice_rotacion": 0.06,
             "participes": 7,
             "patrimonio": 328490,
@@ -72,9 +147,11 @@
                     "nombre": "PARTICIPACIONES|ISHARES EURO",
                     "porcentaje": 10.11
                 }
-            ]
+            ],
+            "rentabilidad": 0.33
         },
         {
+            "gastos": 0.87,
             "indice_rotacion": 0.08,
             "participes": 7,
             "patrimonio": 320112,
@@ -144,9 +221,11 @@
                     "nombre": "PARTICIPACIONES|ISHARES EURO",
                     "porcentaje": 10.29
                 }
-            ]
+            ],
+            "rentabilidad": 0.25
         },
         {
+            "gastos": 0.07,
             "indice_rotacion": 0.98,
             "participes": 3,
             "patrimonio": 303125,
@@ -216,7 +295,8 @@
                     "nombre": "PARTICIPACIONES|ISHARES EURO",
                     "porcentaje": 10.77
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5454,

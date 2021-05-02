@@ -3,6 +3,49 @@
     "fecha_registro": "20/01/2017",
     "historico_periodos": [
         {
+            "gastos": 0.25,
+            "indice_rotacion": 0.0,
+            "participes": 75,
+            "patrimonio": 3924931,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 2799595.0,
+                    "desde": "2020T4",
+                    "isin": "ES00000128B8",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|-.52|2021-04-01",
+                    "porcentaje": 27.31
+                },
+                {
+                    "cantidad": 2708135.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005415945",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY||2021-07-14",
+                    "porcentaje": 26.42
+                },
+                {
+                    "cantidad": 2501533.0,
+                    "desde": "2020T2",
+                    "isin": "IT0005406720",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY||2021-04-14",
+                    "porcentaje": 24.4
+                },
+                {
+                    "cantidad": 789207.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045044",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CAIXABANK AM",
+                    "porcentaje": 7.7
+                }
+            ],
+            "rentabilidad": 0.38
+        },
+        {
+            "gastos": 0.24,
             "indice_rotacion": 0.03,
             "participes": 86,
             "patrimonio": 4395603,
@@ -40,9 +83,11 @@
                     "nombre": "PARTICIPACIONES|CAIXABANK AM",
                     "porcentaje": 9.77
                 }
-            ]
+            ],
+            "rentabilidad": -0.38
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.18,
             "participes": 110,
             "patrimonio": 5524420,
@@ -112,9 +157,11 @@
                     "nombre": "REPO|TESORO PUBLICO|-.47|2020-09-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.36
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.0,
             "participes": 139,
             "patrimonio": 7209115,
@@ -208,9 +255,11 @@
                     "nombre": "BONOS|BANQUE FED CRED||2020-06-03",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.41
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 172,
             "patrimonio": 9032677,
@@ -328,9 +377,11 @@
                     "nombre": "BONOS|NAT AUSTRAL BNK||2020-03-27",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.45
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.06,
             "participes": 233,
             "patrimonio": 12886151,
@@ -456,9 +507,11 @@
                     "nombre": "BONOS|ALLERGAN|-.398|2020-02-17",
                     "porcentaje": 0.72
                 }
-            ]
+            ],
+            "rentabilidad": 0.54
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 395,
             "patrimonio": 22558983,
@@ -640,9 +693,11 @@
                     "nombre": "BONOS|SCANIA CV AB||2019-09-06",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.99
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 611,
             "patrimonio": 36200646,
@@ -872,9 +927,11 @@
                     "nombre": "REPO|TESORO PUBLICO|-.4|2019-06-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.12
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 984,
             "patrimonio": 60333986,
@@ -1176,9 +1233,11 @@
                     "nombre": "BONOS|MOLSON COORS BR||2019-03-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.18
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.05,
             "participes": 1293,
             "patrimonio": 81124675,
@@ -1496,9 +1555,11 @@
                     "nombre": "BONOS|GOLDMAN SACHS|-.31933333|2018-12-31",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.2
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.01,
             "participes": 1355,
             "patrimonio": 85993733,
@@ -1808,9 +1869,11 @@
                     "nombre": "BONOS|VOLKSWAGEN FIN|-.321|2018-10-11",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.06
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.07,
             "participes": 1431,
             "patrimonio": 91143296,
@@ -2136,9 +2199,11 @@
                     "nombre": "BONOS|MEDIOBANCA SPA|2.3|2018-09-30",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.81
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.06,
             "participes": 1306,
             "patrimonio": 84324600,
@@ -2464,9 +2529,11 @@
                     "nombre": "BONOS|ITALY||2018-03-22",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.31
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.43,
             "participes": 1052,
             "patrimonio": 67828949,
@@ -2752,9 +2819,11 @@
                     "nombre": "BONOS|MOLSON COORS BR|-.329|2018-03-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.33
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 1023,
             "patrimonio": 67172996,
@@ -3032,9 +3101,11 @@
                     "nombre": "BONOS|INTESA SANPAOLO|-.31|2017-11-15",
                     "porcentaje": 0.08
                 }
-            ]
+            ],
+            "rentabilidad": -0.66
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 1.02,
             "participes": 467,
             "patrimonio": 30218944,
@@ -3200,9 +3271,11 @@
                     "nombre": "BONOS|INTESA SANPAOLO|-.31|2017-08-15",
                     "porcentaje": 0.19
                 }
-            ]
+            ],
+            "rentabilidad": -0.22
         },
         {
+            "gastos": 0.39,
             "indice_rotacion": 0.59,
             "participes": 118,
             "patrimonio": 7170456,
@@ -3360,7 +3433,8 @@
                     "nombre": "BONOS|DEUTSCHLAND|.5|2017-10-13",
                     "porcentaje": 0.13
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5109,

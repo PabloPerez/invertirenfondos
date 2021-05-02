@@ -3,6 +3,121 @@
     "fecha_registro": "20/12/2019",
     "historico_periodos": [
         {
+            "gastos": 0.0,
+            "indice_rotacion": 0.3,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 20389000.0,
+                    "desde": "2019T4",
+                    "isin": "LU0503631631",
+                    "moneda": "euro",
+                    "nombre": "AC.PICTET - GLOBAL ENVIRONMENT-IE SICAV",
+                    "porcentaje": 11.8
+                },
+                {
+                    "cantidad": 20309000.0,
+                    "desde": "2019T4",
+                    "isin": "LU0348927095",
+                    "moneda": "euro",
+                    "nombre": "AC.NORDEA 1-GLOBAL CL&ENV- BI E SICAV",
+                    "porcentaje": 11.76
+                },
+                {
+                    "cantidad": 20277000.0,
+                    "desde": "2019T4",
+                    "isin": "LU0406802768",
+                    "moneda": "euro",
+                    "nombre": "AC.BNP CLIMATE IMPACT-II SICAV",
+                    "porcentaje": 11.74
+                },
+                {
+                    "cantidad": 20214000.0,
+                    "desde": "2021T1",
+                    "isin": "LU1883320050",
+                    "moneda": "euro",
+                    "nombre": "AC.AMUNDI GLOBAL ECO ESG-I2EUR C SICAV",
+                    "porcentaje": 11.7
+                },
+                {
+                    "cantidad": 14439000.0,
+                    "desde": "2020T2",
+                    "isin": "ES0173829013",
+                    "moneda": "euro",
+                    "nombre": "Part. SAB. RENDIMIENTO, FI - CARTERA",
+                    "porcentaje": 8.36
+                },
+                {
+                    "cantidad": 9370000.0,
+                    "desde": "2020T4",
+                    "isin": "LU0534476519",
+                    "moneda": "euro",
+                    "nombre": "AC.BGF-SUSTAIN ENRGY-I2 USD SICAV (USD)",
+                    "porcentaje": 5.42
+                },
+                {
+                    "cantidad": 9362000.0,
+                    "desde": "2019T4",
+                    "isin": "LU0104884605",
+                    "moneda": "euro",
+                    "nombre": "AC.PICTET-WATER I EUR SICAV",
+                    "porcentaje": 5.42
+                },
+                {
+                    "cantidad": 9266000.0,
+                    "desde": "2020T4",
+                    "isin": "LU0914729453",
+                    "moneda": "euro",
+                    "nombre": "AC.MIROVA GLB SUST EQ-I/A EUR SICAV ",
+                    "porcentaje": 5.36
+                },
+                {
+                    "cantidad": 9255000.0,
+                    "desde": "2020T4",
+                    "isin": "LU2145462722",
+                    "moneda": "euro",
+                    "nombre": "AC.ROBECOSAM SMART ENERGY E-I E SICAV",
+                    "porcentaje": 5.36
+                },
+                {
+                    "cantidad": 9224000.0,
+                    "desde": "2019T4",
+                    "isin": "LU0557290854",
+                    "moneda": "euro",
+                    "nombre": "AC.SCHRODER ISF GL SUST G CA SICAV (USD)",
+                    "porcentaje": 5.34
+                },
+                {
+                    "cantidad": 9195000.0,
+                    "desde": "2021T1",
+                    "isin": "LU1861134382",
+                    "moneda": "euro",
+                    "nombre": "ETF.AMUNDI INDEX MSCI WRLD SRI",
+                    "porcentaje": 5.32
+                },
+                {
+                    "cantidad": 9173000.0,
+                    "desde": "2019T4",
+                    "isin": "LU1165135952",
+                    "moneda": "euro",
+                    "nombre": "AC.BNP PARIBAS AQUA I EUR SICAV",
+                    "porcentaje": 5.31
+                },
+                {
+                    "cantidad": 7703000.0,
+                    "desde": "2020T4",
+                    "isin": "FR0007038138",
+                    "moneda": "euro",
+                    "nombre": "PART.AMUNDI EURO LIQ RA-I CAP",
+                    "porcentaje": 4.46
+                }
+            ],
+            "rentabilidad": 7.73
+        },
+        {
+            "gastos": 0.0,
             "indice_rotacion": 1.26,
             "participes": 0,
             "patrimonio": 0,
@@ -112,9 +227,11 @@
                     "nombre": "Part. SAB. RENDIMIENTO, FI - CARTERA",
                     "porcentaje": 3.47
                 }
-            ]
+            ],
+            "rentabilidad": 12.16
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 0.0,
             "participes": 0,
             "patrimonio": 0,
@@ -232,9 +349,11 @@
                     "nombre": "Part. SAB. RENDIMIENTO, FI - CARTERA",
                     "porcentaje": 3.39
                 }
-            ]
+            ],
+            "rentabilidad": 8.29
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 0.03,
             "participes": 0,
             "patrimonio": 0,
@@ -352,9 +471,11 @@
                     "nombre": "Part. SAB. RENDIMIENTO, FI - CARTERA",
                     "porcentaje": 3.45
                 }
-            ]
+            ],
+            "rentabilidad": 18.03
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 0.0,
             "participes": 0,
             "patrimonio": 0,
@@ -464,9 +585,11 @@
                     "nombre": "ETF.ISHARES MSCI WORLD SRI-EUR-A",
                     "porcentaje": 5.7
                 }
-            ]
+            ],
+            "rentabilidad": -19.23
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.0,
             "participes": 0,
             "patrimonio": 0,
@@ -568,7 +691,8 @@
                     "nombre": "AC.MPS ROBECOSAM SUST WATER-C EUR SICAV",
                     "porcentaje": 6.64
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5424,

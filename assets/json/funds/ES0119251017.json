@@ -3,6 +3,41 @@
     "fecha_registro": "19/06/2020",
     "historico_periodos": [
         {
+            "gastos": 0.4,
+            "indice_rotacion": 0.0,
+            "participes": 93,
+            "patrimonio": 7258577,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 7600000.0,
+                    "desde": "2020T4",
+                    "isin": "ES00000128E2",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,600|2021-04-06",
+                    "porcentaje": 67.06
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "ES00000128E2",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,620|2021-01-04",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000012G42",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,620|2021-01-04",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -3.06
+        },
+        {
+            "gastos": 0.45,
             "indice_rotacion": 0.0,
             "participes": 83,
             "patrimonio": 6587813,
@@ -24,21 +59,26 @@
                     "nombre": "REPO|UBS_EUROPE|0,620|2021-01-04",
                     "porcentaje": 6.21
                 }
-            ]
+            ],
+            "rentabilidad": -0.26
         },
         {
+            "gastos": 0.63,
             "indice_rotacion": 0.0,
             "participes": 46,
             "patrimonio": 3003685,
             "periodo": "2020T3",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.0,
             "participes": 0,
             "patrimonio": 0,
             "periodo": "2020T2",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5461,

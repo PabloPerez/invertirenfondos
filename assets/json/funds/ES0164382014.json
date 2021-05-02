@@ -3,6 +3,49 @@
     "fecha_registro": "29/05/2020",
     "historico_periodos": [
         {
+            "gastos": 0.1,
+            "indice_rotacion": 0.01,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 148233.0,
+                    "desde": "2020T2",
+                    "isin": "US4642872000",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|iShrCore SyP500",
+                    "porcentaje": 25.55
+                },
+                {
+                    "cantidad": 101629.0,
+                    "desde": "2020T2",
+                    "isin": "LU1681049018",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AmundiETFSyP",
+                    "porcentaje": 17.52
+                },
+                {
+                    "cantidad": 82794.0,
+                    "desde": "2020T2",
+                    "isin": "US78462F1030",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|SyP 500 ETF Trs",
+                    "porcentaje": 14.27
+                },
+                {
+                    "cantidad": 64360.0,
+                    "desde": "2020T2",
+                    "isin": "LU1135865084",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|LYXOR ETF",
+                    "porcentaje": 11.09
+                }
+            ],
+            "rentabilidad": null
+        },
+        {
+            "gastos": 0.64,
             "indice_rotacion": 0.09,
             "participes": 0,
             "patrimonio": 0,
@@ -40,9 +83,11 @@
                     "nombre": "PARTICIPACIONES|LYXOR ETF",
                     "porcentaje": 10.41
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.22,
             "participes": 0,
             "patrimonio": 0,
@@ -80,9 +125,11 @@
                     "nombre": "PARTICIPACIONES|LYXOR ETF",
                     "porcentaje": 11.72
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.0,
             "participes": 0,
             "patrimonio": 0,
@@ -120,7 +167,8 @@
                     "nombre": "PARTICIPACIONES|iShrCore SyP500",
                     "porcentaje": 8.39
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5456,

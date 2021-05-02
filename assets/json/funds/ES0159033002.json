@@ -3,6 +3,153 @@
     "fecha_registro": "11/01/2002",
     "historico_periodos": [
         {
+            "gastos": 0.12,
+            "indice_rotacion": 0.46,
+            "participes": 16,
+            "patrimonio": 490503,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 5265445.0,
+                    "desde": "2020T3",
+                    "isin": "US9128283C28",
+                    "moneda": "euro",
+                    "nombre": "BONO|Tesoro U.S.A.|2|2022-10-31",
+                    "porcentaje": 9.95
+                },
+                {
+                    "cantidad": 5219434.0,
+                    "desde": "2019T1",
+                    "isin": "US912828SF82",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2|2022-02-15",
+                    "porcentaje": 9.86
+                },
+                {
+                    "cantidad": 5155928.0,
+                    "desde": "2019T1",
+                    "isin": "US912828RC60",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.125|2021-08-15",
+                    "porcentaje": 9.74
+                },
+                {
+                    "cantidad": 4263304.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "DEPOSITOS|Bankinter|.2|2021-04-19",
+                    "porcentaje": 8.05
+                },
+                {
+                    "cantidad": 3764307.0,
+                    "desde": "2020T2",
+                    "isin": "US9128286V71",
+                    "moneda": "euro",
+                    "nombre": "BONO|Tesoro U.S.A.|2.125|2021-05-31",
+                    "porcentaje": 7.11
+                },
+                {
+                    "cantidad": 3618209.0,
+                    "desde": "2020T1",
+                    "isin": "US912828G385",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.25|2024-11-15",
+                    "porcentaje": 6.84
+                },
+                {
+                    "cantidad": 3589218.0,
+                    "desde": "2019T1",
+                    "isin": "US912828TJ95",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|1.625|2022-08-15",
+                    "porcentaje": 6.78
+                },
+                {
+                    "cantidad": 3571307.0,
+                    "desde": "2019T1",
+                    "isin": "US912828UN88",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2|2023-02-15",
+                    "porcentaje": 6.75
+                },
+                {
+                    "cantidad": 3526837.0,
+                    "desde": "2019T1",
+                    "isin": "US912828VS66",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.5|2023-08-15",
+                    "porcentaje": 6.66
+                },
+                {
+                    "cantidad": 3410646.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "DEPOSITOS|Bankinter|.15|2021-04-05",
+                    "porcentaje": 6.44
+                },
+                {
+                    "cantidad": 2998433.0,
+                    "desde": "2019T4",
+                    "isin": "US912828WJ58",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.5|2024-05-15",
+                    "porcentaje": 5.67
+                },
+                {
+                    "cantidad": 2725925.0,
+                    "desde": "2019T2",
+                    "isin": "US912828B667",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.75|2024-02-15",
+                    "porcentaje": 5.15
+                },
+                {
+                    "cantidad": 2387450.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "EURODEPOSITO|BBVA|.11|2021-04-19",
+                    "porcentaje": 4.51
+                },
+                {
+                    "cantidad": 1705323.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "EURODEPOSITO|BBVA|.12|2021-04-05",
+                    "porcentaje": 3.22
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "DEPOSITOS|Bankinter|.3|2021-01-11",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T2",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "DEPOSITOS|Bankinter|.3|2021-01-25",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T1",
+                    "isin": "US912828PX26",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACIONES|Tesoro U.S.A.|3.625|2021-02-15",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 3.94
+        },
+        {
+            "gastos": 0.15,
             "indice_rotacion": 0.56,
             "participes": 19,
             "patrimonio": 521008,
@@ -144,9 +291,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.625|2020-08-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -4.12
         },
         {
+            "gastos": 0.16,
             "indice_rotacion": 0.31,
             "participes": 37,
             "patrimonio": 2380862,
@@ -296,9 +445,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|2.625|2020-08-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -4.17
         },
         {
+            "gastos": 0.14,
             "indice_rotacion": 0.28,
             "participes": 25,
             "patrimonio": 1138095,
@@ -432,9 +583,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|3.625|2020-02-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.56
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.04,
             "participes": 12,
             "patrimonio": 764739,
@@ -544,9 +697,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|3.625|2020-02-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 4.85
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.26,
             "participes": 8,
             "patrimonio": 346059,
@@ -696,9 +851,11 @@
                     "nombre": "BONO|Apple Inc|1.92698|2019-08-02",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -2.53
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.13,
             "participes": 10,
             "patrimonio": 478670,
@@ -840,9 +997,11 @@
                     "nombre": "BONO|Apple Inc|1.92698|2019-08-02",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 4.77
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.19,
             "participes": 10,
             "patrimonio": 526698,
@@ -1104,9 +1263,11 @@
                     "nombre": "OBLIGACIONES|Glencore Fundin|2.5|2019-01-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.09
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.06,
             "participes": 10,
             "patrimonio": 361172,
@@ -1360,9 +1521,11 @@
                     "nombre": "OBLIGACIONES|Glencore Fundin|2.5|2019-01-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 3.09
         },
         {
+            "gastos": 0.12,
             "indice_rotacion": 0.95,
             "participes": 9,
             "patrimonio": 275763,
@@ -1632,9 +1795,11 @@
                     "nombre": "LETRAS|Tesoro U.S.A.|.000001|2018-08-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 1.69
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.4,
             "participes": 10,
             "patrimonio": 260718,
@@ -1880,9 +2045,11 @@
                     "nombre": "LETRAS|Tesoro U.S.A.|.000001|2018-08-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.92
         },
         {
+            "gastos": 0.11,
             "indice_rotacion": 0.4,
             "participes": 5,
             "patrimonio": 83139,
@@ -2160,9 +2327,11 @@
                     "nombre": "OBLIGACIONES|Bank of America|6.875|2018-04-25",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 5.72
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.03,
             "participes": 7,
             "patrimonio": 185921,
@@ -2416,9 +2585,11 @@
                     "nombre": "BONO|Vodafone Grp|1.5|2018-02-19",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.12,
             "participes": 0,
             "patrimonio": 0,
@@ -2768,9 +2939,11 @@
                     "nombre": "OBLIGACIONES|BBVA|5.75|2017-07-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.22,
             "participes": 862,
             "patrimonio": 19462896,
@@ -3056,9 +3229,11 @@
                     "nombre": "OBLIGACIONES|BBVA|5.75|2017-07-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -3.27
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.28,
             "participes": 856,
             "patrimonio": 18974377,
@@ -3312,9 +3487,11 @@
                     "nombre": "OBLIGACIONES|CAFFIL|5.25|2017-02-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -6.38
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.02,
             "participes": 915,
             "patrimonio": 17102307,
@@ -3480,9 +3657,11 @@
                     "nombre": "OBLIGACIONES|CAFFIL|5.25|2017-02-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.5
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.48,
             "participes": 1006,
             "patrimonio": 20322550,
@@ -3736,9 +3915,11 @@
                     "nombre": "BONO|I.C.O.|5|2016-11-14",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 6.27
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.36,
             "participes": 1267,
             "patrimonio": 32972290,
@@ -3992,9 +4173,11 @@
                     "nombre": "BONO|Estado Italiano|5.25|2016-09-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.19
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.94,
             "participes": 1221,
             "patrimonio": 29275056,
@@ -4248,9 +4431,11 @@
                     "nombre": "BONO|I.C.O.|1.125|2016-04-01",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 2.24
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.64,
             "participes": 1114,
             "patrimonio": 22957352,
@@ -4456,9 +4641,11 @@
                     "nombre": "BONO|Telef. Emis SAU|3.992|2016-02-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -4.71
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.57,
             "participes": 1240,
             "patrimonio": 29359551,
@@ -4688,9 +4875,11 @@
                     "nombre": "BONO|Tesoro U.S.A.|1.25|2015-10-31",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 2.54
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.46,
             "participes": 1352,
             "patrimonio": 35347540,
@@ -4880,9 +5069,11 @@
                     "nombre": "BONO|Tesoro U.S.A.|.25|2015-09-30",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.6
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.0,
             "participes": 1323,
             "patrimonio": 31855295,
@@ -5104,9 +5295,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|4|2015-02-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -3.88
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.0,
             "participes": 1220,
             "patrimonio": 28568640,
@@ -5320,9 +5513,11 @@
                     "nombre": "OBLIGACIONES|Tesoro U.S.A.|4|2015-02-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 12.12
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.0,
             "participes": 1022,
             "patrimonio": 26033179,
@@ -5536,9 +5731,11 @@
                     "nombre": "BONO|Barclays Bank P|5.2|2014-07-10",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 4.11
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 736,
             "patrimonio": 18593346,
@@ -5712,9 +5909,11 @@
                     "nombre": "BONO|Barclays Bank P|5.2|2014-07-10",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 8.09
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 522,
             "patrimonio": 11303650,
@@ -5896,9 +6095,11 @@
                     "nombre": "BONO|Cie.Fin.Foncier|2.25|2014-03-07",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.38
         },
         {
+            "gastos": 0.26,
             "indice_rotacion": 0.0,
             "participes": 466,
             "patrimonio": 8571884,
@@ -6042,7 +6243,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RN26",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.25|2013-10-31",
@@ -6050,7 +6251,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RW25",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.125|2013-12-31",
@@ -6058,7 +6259,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957E56",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-08-22",
@@ -6066,7 +6267,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957K17",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-09-19",
@@ -6074,7 +6275,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912795Z873",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-10-17",
@@ -6082,15 +6283,17 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912796AE99",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.178|2013-11-14",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.95
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.11,
             "participes": 473,
             "patrimonio": 8120596,
@@ -6114,7 +6317,7 @@
                 },
                 {
                     "cantidad": 739461.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RW25",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.125|2013-12-31",
@@ -6122,7 +6325,7 @@
                 },
                 {
                     "cantidad": 738184.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912796AE99",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.178|2013-11-14",
@@ -6130,7 +6333,7 @@
                 },
                 {
                     "cantidad": 590521.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912795Z873",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-10-17",
@@ -6186,7 +6389,7 @@
                 },
                 {
                     "cantidad": 369702.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RN26",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.25|2013-10-31",
@@ -6250,7 +6453,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957E56",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-08-22",
@@ -6258,15 +6461,17 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957K17",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-09-19",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -4.1
         },
         {
+            "gastos": 0.31,
             "indice_rotacion": 0.0,
             "participes": 466,
             "patrimonio": 7819333,
@@ -6274,7 +6479,7 @@
             "posiciones": [
                 {
                     "cantidad": 768965.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RW25",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.125|2013-12-31",
@@ -6282,7 +6487,7 @@
                 },
                 {
                     "cantidad": 768108.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957E56",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-08-22",
@@ -6290,7 +6495,7 @@
                 },
                 {
                     "cantidad": 768052.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957K17",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-09-19",
@@ -6298,7 +6503,7 @@
                 },
                 {
                     "cantidad": 767897.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912796AE99",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.178|2013-11-14",
@@ -6306,7 +6511,7 @@
                 },
                 {
                     "cantidad": 614325.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912795Z873",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.|.175|2013-10-17",
@@ -6354,7 +6559,7 @@
                 },
                 {
                     "cantidad": 384678.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RN26",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.25|2013-10-31",
@@ -6394,7 +6599,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "ES00000121G2",
                     "moneda": "euro",
                     "nombre": "OBLIGACIONES|Reino de Espana|4.8|2024-01-31",
@@ -6472,9 +6677,11 @@
                     "nombre": "LETRAS|Tesoro U.S.A.",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -1.84
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
             "participes": 491,
             "patrimonio": 8353717,
@@ -6482,7 +6689,7 @@
             "posiciones": [
                 {
                     "cantidad": 779849.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RW25",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.125|2013-12-31",
@@ -6490,7 +6697,7 @@
                 },
                 {
                     "cantidad": 779105.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957E56",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.",
@@ -6498,7 +6705,7 @@
                 },
                 {
                     "cantidad": 778989.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US9127957K17",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.",
@@ -6506,7 +6713,7 @@
                 },
                 {
                     "cantidad": 778837.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912796AE99",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.",
@@ -6514,7 +6721,7 @@
                 },
                 {
                     "cantidad": 623094.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912795Z873",
                     "moneda": "euro",
                     "nombre": "LETRAS|Tesoro U.S.A.",
@@ -6546,7 +6753,7 @@
                 },
                 {
                     "cantidad": 390214.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "US912828RN26",
                     "moneda": "euro",
                     "nombre": "BONO|Tesoro U.S.A.|.25|2013-10-31",
@@ -6618,7 +6825,7 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T4",
+                    "desde": "2013T1",
                     "isin": "ES00000121G2",
                     "moneda": "euro",
                     "nombre": "OBLIGACIONES|Reino de Espana|4.8|2024-01-31",
@@ -6656,329 +6863,11 @@
                     "nombre": "LETRAS|Tesoro U.S.A.",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 2.77
         },
         {
-            "indice_rotacion": 0.55,
-            "participes": 560,
-            "patrimonio": 9460832,
-            "periodo": "2012T4",
-            "posiciones": [
-                {
-                    "cantidad": 769575.0,
-                    "desde": "2011T3",
-                    "isin": "FR0010606442",
-                    "moneda": "euro",
-                    "nombre": "BONO|CADES|3.25|2013-07-15",
-                    "porcentaje": 8.13
-                },
-                {
-                    "cantidad": 757676.0,
-                    "desde": "2012T4",
-                    "isin": "US912828RW25",
-                    "moneda": "euro",
-                    "nombre": "BONO|Tesoro U.S.A.|.125|2013-12-31",
-                    "porcentaje": 8.01
-                },
-                {
-                    "cantidad": 757245.0,
-                    "desde": "2012T4",
-                    "isin": "US9127957E56",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 8.0
-                },
-                {
-                    "cantidad": 757207.0,
-                    "desde": "2012T4",
-                    "isin": "US9127957K17",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 8.0
-                },
-                {
-                    "cantidad": 756974.0,
-                    "desde": "2012T4",
-                    "isin": "US912796AE99",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 8.0
-                },
-                {
-                    "cantidad": 605625.0,
-                    "desde": "2012T4",
-                    "isin": "US912795Z873",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 6.4
-                },
-                {
-                    "cantidad": 406967.0,
-                    "desde": "2012T3",
-                    "isin": "US302154AT68",
-                    "moneda": "euro",
-                    "nombre": "BONO|Ex-Imp BK Korea|8.125|2014-01-21",
-                    "porcentaje": 4.3
-                },
-                {
-                    "cantidad": 403063.0,
-                    "desde": "2012T3",
-                    "isin": "US06739FFZ99",
-                    "moneda": "euro",
-                    "nombre": "BONO|Barclays Bank P|5.2|2014-07-10",
-                    "porcentaje": 4.26
-                },
-                {
-                    "cantidad": 379312.0,
-                    "desde": "2012T4",
-                    "isin": "US912828RN26",
-                    "moneda": "euro",
-                    "nombre": "BONO|Tesoro U.S.A.|.25|2013-10-31",
-                    "porcentaje": 4.01
-                },
-                {
-                    "cantidad": 378510.0,
-                    "desde": "2012T3",
-                    "isin": "US9127957A35",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 4.0
-                },
-                {
-                    "cantidad": 378656.0,
-                    "desde": "2012T3",
-                    "isin": "US9127956W63",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 4.0
-                },
-                {
-                    "cantidad": 378650.0,
-                    "desde": "2012T3",
-                    "isin": "US9127956R78",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 4.0
-                },
-                {
-                    "cantidad": 378700.0,
-                    "desde": "2012T3",
-                    "isin": "US9127956L09",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 4.0
-                },
-                {
-                    "cantidad": 378784.0,
-                    "desde": "2012T3",
-                    "isin": "US9127956F31",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 4.0
-                },
-                {
-                    "cantidad": 305125.0,
-                    "desde": "2011T1",
-                    "isin": "US515110AY04",
-                    "moneda": "euro",
-                    "nombre": "BONO|Landw Rentenbnk|3.25|2013-03-15",
-                    "porcentaje": 3.23
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2012T1",
-                    "isin": null,
-                    "moneda": "euro",
-                    "nombre": "DEPOSITOS|Banco Santander",
-                    "porcentaje": 3.17
-                },
-                {
-                    "cantidad": 230629.0,
-                    "desde": "2012T2",
-                    "isin": "XS0602335191",
-                    "moneda": "euro",
-                    "nombre": "BONO|Cie.Fin.Foncier|2.25|2014-03-07",
-                    "porcentaje": 2.44
-                },
-                {
-                    "cantidad": 189415.0,
-                    "desde": "2012T3",
-                    "isin": "US9127957F22",
-                    "moneda": "euro",
-                    "nombre": "LETRAS|Tesoro U.S.A.",
-                    "porcentaje": 2.0
-                },
-                {
-                    "cantidad": 80000.0,
-                    "desde": "2012T4",
-                    "isin": "ES00000121G2",
-                    "moneda": "euro",
-                    "nombre": "OBLIGACIONES|Reino de Espana|4.8|2024-01-31",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "XS0363874081",
-                    "moneda": "euro",
-                    "nombre": "BONO|Reino de Espana|3.625|2013-06-17",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "XS0359607677",
-                    "moneda": "euro",
-                    "nombre": "BONO|I.C.O.|3.25|2013-05-14",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2010T1",
-                    "isin": "XS0307800945",
-                    "moneda": "euro",
-                    "nombre": "BONO|I.C.O.|5.375|2012-07-02",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2011T1",
-                    "isin": "US45778JAA16",
-                    "moneda": "euro",
-                    "nombre": "BONO|I.C.O.|2.375|2013-03-04",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES05135408E5",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Bto Bco Emision",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES0578430JZ9",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Telefonica SA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES0513679UW3",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Bankinter",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES0513862120",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Banco Sabadell",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES0513045O29",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Banca March",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES0515306T31",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Caja Ru Navarra",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "ES05149544J0",
-                    "moneda": "euro",
-                    "nombre": "PAGARES|Ibercaja Banco ",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": null,
-                    "moneda": "euro",
-                    "nombre": "DEPOSITOS|Banco Santander",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T2",
-                    "isin": "US00254ELM20",
-                    "moneda": "euro",
-                    "nombre": "BONO|Svensk Exportk|1.75|2017-05-30",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T2",
-                    "isin": "US731011AS13",
-                    "moneda": "euro",
-                    "nombre": "BONO|Rep. de Polonia|3.875|2015-07-16",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2009T4",
-                    "isin": "US298785EZ55",
-                    "moneda": "euro",
-                    "nombre": "BONO|European InvBk|1.75|2012-09-14",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2011T2",
-                    "isin": "XS0433292512",
-                    "moneda": "euro",
-                    "nombre": "BONO|Rabobank Neder|3|2012-09-18",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T1",
-                    "isin": "USH9200TAA54",
-                    "moneda": "euro",
-                    "nombre": "BONO|CS Guernsey|1.625|2015-03-06",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T2",
-                    "isin": "XS0791136202",
-                    "moneda": "euro",
-                    "nombre": "BONO|Kommunalbanken |1.375|2017-06-08",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T2",
-                    "isin": "XS0782461890",
-                    "moneda": "euro",
-                    "nombre": "BONO|NRW. Bank|1.25|2015-05-15",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2012T2",
-                    "isin": "XS0737588151",
-                    "moneda": "euro",
-                    "nombre": "BONO|UBS London|1.875|2015-01-23",
-                    "porcentaje": 0.0
-                }
-            ]
-        },
-        {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 625,
             "patrimonio": 10679486,
@@ -7296,9 +7185,11 @@
                     "nombre": "BONO|Rabobank Neder|3|2012-09-18",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.0,
             "participes": 412,
             "patrimonio": 9957092,
@@ -7584,9 +7475,11 @@
                     "nombre": "BONO|Landw Rentenbnk|3|2012-04-16",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 5.24
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.11,
             "participes": 437,
             "patrimonio": 10717060,
@@ -7840,9 +7733,11 @@
                     "nombre": "BONO|KFW|4.75|2012-05-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -2.26
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.0,
             "participes": 447,
             "patrimonio": 10451762,
@@ -8184,9 +8079,11 @@
                     "nombre": "BONO|CADES|4|2011-07-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 3.03
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.0,
             "participes": 497,
             "patrimonio": 15092086,
@@ -8536,9 +8433,11 @@
                     "nombre": "BONO|CADES|4|2011-07-15",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 7.92
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 583,
             "patrimonio": 16438666,
@@ -8920,9 +8819,11 @@
                     "nombre": "BONO|SFEF|2|2011-02-25",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -2.36
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 585,
             "patrimonio": 17893416,
@@ -9264,9 +9165,11 @@
                     "nombre": "BONO|SFEF|2|2011-02-25",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -5.42
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 571,
             "patrimonio": 18576671,
@@ -9584,9 +9487,11 @@
                     "nombre": "BONO|SFEF|2.25|2012-06-11",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 1.69
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 683,
             "patrimonio": 21193224,
@@ -10000,9 +9905,11 @@
                     "nombre": "OBLIGACIONES|Tesoro Publico|4.75|2014-07-30",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -9.78
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 671,
             "patrimonio": 23894935,
@@ -10472,9 +10379,11 @@
                     "nombre": "BONO|Tesoro Publico|2.3|2013-04-30",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 9.33
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.0,
             "participes": 629,
             "patrimonio": 21346837,
@@ -10928,9 +10837,11 @@
                     "nombre": "PAGARES|Sant. Cons.Fin",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 5.79
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.2,
             "participes": 577,
             "patrimonio": 20342295,
@@ -11480,9 +11391,11 @@
                     "nombre": "LETRAS|Estado Portugue",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 1.86
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.06,
             "participes": 569,
             "patrimonio": 20050266,
@@ -11928,9 +11841,11 @@
                     "nombre": "LETRAS|Estado Portugue",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.25,
             "indice_rotacion": 0.0,
             "participes": 537,
             "patrimonio": 19478625,
@@ -12360,7 +12275,8 @@
                     "nombre": "BONO|Deut.Hyptbk. AG|4|2009-02-20",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -4.53
         }
     ],
     "id_cnmv": 2539,

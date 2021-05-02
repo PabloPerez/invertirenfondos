@@ -3,6 +3,33 @@
     "fecha_registro": "25/09/2020",
     "historico_periodos": [
         {
+            "gastos": 0.29,
+            "indice_rotacion": 0.19,
+            "participes": 456,
+            "patrimonio": 5516000,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 3381491.0,
+                    "desde": "2020T4",
+                    "isin": "LU1602144492",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI GLOBCLIM",
+                    "porcentaje": 58.49
+                },
+                {
+                    "cantidad": 805387.0,
+                    "desde": "2020T4",
+                    "isin": "LU2056739464",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyx World Clima",
+                    "porcentaje": 13.93
+                }
+            ],
+            "rentabilidad": 7.71
+        },
+        {
+            "gastos": 0.44,
             "indice_rotacion": 0.43,
             "participes": 231,
             "patrimonio": 2950988,
@@ -24,14 +51,17 @@
                     "nombre": "PARTICIPACIONES|Lyx World Clima",
                     "porcentaje": 9.65
                 }
-            ]
+            ],
+            "rentabilidad": 6.74
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.0,
             "participes": 3,
             "patrimonio": 1202000,
             "periodo": "2020T3",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5475,

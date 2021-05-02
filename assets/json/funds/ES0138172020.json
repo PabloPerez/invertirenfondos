@@ -3,6 +3,153 @@
     "fecha_registro": "05/10/2001",
     "historico_periodos": [
         {
+            "gastos": 0.24,
+            "indice_rotacion": 0.28,
+            "participes": 728,
+            "patrimonio": 57236578,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 34350204.0,
+                    "desde": "2018T3",
+                    "isin": "IE00BZ1CSN85",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LM GLOBAL FUNDS",
+                    "porcentaje": 13.73
+                },
+                {
+                    "cantidad": 30659812.0,
+                    "desde": "2017T1",
+                    "isin": "LU0226954369",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ROBECO LUX",
+                    "porcentaje": 12.26
+                },
+                {
+                    "cantidad": 24768206.0,
+                    "desde": "2018T2",
+                    "isin": "LU0429319774",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|T ROWE P F/LUX",
+                    "porcentaje": 9.9
+                },
+                {
+                    "cantidad": 22118397.0,
+                    "desde": "2020T3",
+                    "isin": "LU0219445649",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MFS INV MANAG",
+                    "porcentaje": 8.84
+                },
+                {
+                    "cantidad": 20513935.0,
+                    "desde": "2021T1",
+                    "isin": "IE00BG0R1F40",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BROWN ADVISORY",
+                    "porcentaje": 8.2
+                },
+                {
+                    "cantidad": 18369108.0,
+                    "desde": "2018T2",
+                    "isin": "LU1770939988",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPMORGAN SICAVL",
+                    "porcentaje": 7.34
+                },
+                {
+                    "cantidad": 12786180.0,
+                    "desde": "2021T1",
+                    "isin": "LU2270767804",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GOLDMAN SACHS",
+                    "porcentaje": 5.11
+                },
+                {
+                    "cantidad": 12359833.0,
+                    "desde": "2020T3",
+                    "isin": "LU0602539271",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|NORDEA INVESTME",
+                    "porcentaje": 4.94
+                },
+                {
+                    "cantidad": 9578240.0,
+                    "desde": "2019T4",
+                    "isin": "LU1883315647",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|AMUN FUN SICAV",
+                    "porcentaje": 3.83
+                },
+                {
+                    "cantidad": 9451195.0,
+                    "desde": "2018T2",
+                    "isin": "IE00B23Z8S99",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LM GLOBAL FUNDS",
+                    "porcentaje": 3.78
+                },
+                {
+                    "cantidad": 8848181.0,
+                    "desde": "2019T3",
+                    "isin": "LU0256883504",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ALLIANZ GI LUX",
+                    "porcentaje": 3.54
+                },
+                {
+                    "cantidad": 7801666.0,
+                    "desde": "2019T4",
+                    "isin": "LU1259265335",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|EASTSPRING INVE",
+                    "porcentaje": 3.12
+                },
+                {
+                    "cantidad": 7062804.0,
+                    "desde": "2017T1",
+                    "isin": "LU0100598282",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|INVES GT SI/LX",
+                    "porcentaje": 2.82
+                },
+                {
+                    "cantidad": 6334017.0,
+                    "desde": "2020T1",
+                    "isin": "LU1353442731",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FIDELITY FUNDS",
+                    "porcentaje": 2.53
+                },
+                {
+                    "cantidad": 6152979.0,
+                    "desde": "2017T3",
+                    "isin": "LU0231474593",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ABERDEEN GLOBAL",
+                    "porcentaje": 2.46
+                },
+                {
+                    "cantidad": 5559309.0,
+                    "desde": "2021T1",
+                    "isin": "LU2277564204",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GS FUNDS SICAV",
+                    "porcentaje": 2.22
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T3",
+                    "isin": "IE00B8FXN005",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BROWN PLC IRL",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 9.24
+        },
+        {
+            "gastos": 0.25,
             "indice_rotacion": 0.35,
             "participes": 2327,
             "patrimonio": 62015685,
@@ -136,9 +283,11 @@
                     "nombre": "PARTICIPACIONES|EASTSPRING INVE",
                     "porcentaje": 2.06
                 }
-            ]
+            ],
+            "rentabilidad": 10.7
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.45,
             "participes": 2553,
             "patrimonio": 9201650,
@@ -272,9 +421,11 @@
                     "nombre": "PARTICIPACIONES|INVES GT SI/LX",
                     "porcentaje": 2.33
                 }
-            ]
+            ],
+            "rentabilidad": 4.41
         },
         {
+            "gastos": 0.48,
             "indice_rotacion": 0.09,
             "participes": 2725,
             "patrimonio": 8597559,
@@ -400,9 +551,11 @@
                     "nombre": "PARTICIPACIONES|GS FUNDS SICAV",
                     "porcentaje": 2.14
                 }
-            ]
+            ],
+            "rentabilidad": 18.19
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.08,
             "participes": 2854,
             "patrimonio": 8019321,
@@ -528,9 +681,11 @@
                     "nombre": "PARTICIPACIONES|FIDELITY FUNDS",
                     "porcentaje": 2.12
                 }
-            ]
+            ],
+            "rentabilidad": -22.41
         },
         {
+            "gastos": 0.15,
             "indice_rotacion": 0.43,
             "participes": 3229,
             "patrimonio": 12291892,
@@ -664,9 +819,11 @@
                     "nombre": "PARTICIPACIONES|GOLDMAN SACHS",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 6.18
         },
         {
+            "gastos": 0.24,
             "indice_rotacion": 0.0,
             "participes": 3671,
             "patrimonio": 14800171,
@@ -808,9 +965,11 @@
                     "nombre": "PARTICIPACIONES|ABERDEEN GLOBAL",
                     "porcentaje": 1.57
                 }
-            ]
+            ],
+            "rentabilidad": 3.75
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.47,
             "participes": 241107,
             "patrimonio": 1151969060,
@@ -952,9 +1111,11 @@
                     "nombre": "PARTICIPACIONES|ABERDEEN GLOBAL",
                     "porcentaje": 1.65
                 }
-            ]
+            ],
+            "rentabilidad": 1.87
         },
         {
+            "gastos": 0.22,
             "indice_rotacion": 0.33,
             "participes": 238166,
             "patrimonio": 1384350263,
@@ -1112,9 +1273,11 @@
                     "nombre": "PARTICIPACIONES|CANDRIAM",
                     "porcentaje": 0.98
                 }
-            ]
+            ],
+            "rentabilidad": 14.09
         },
         {
+            "gastos": 0.19,
             "indice_rotacion": 0.66,
             "participes": 232825,
             "patrimonio": 1377946631,
@@ -1272,9 +1435,11 @@
                     "nombre": "PARTICIPACIONES|JUPITER GLOBAL",
                     "porcentaje": 1.08
                 }
-            ]
+            ],
+            "rentabilidad": -13.3
         },
         {
+            "gastos": 0.19,
             "indice_rotacion": 0.48,
             "participes": 227690,
             "patrimonio": 1376466735,
@@ -1408,9 +1573,11 @@
                     "nombre": "ETF|ISHARES ETFS/US",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 3.27
         },
         {
+            "gastos": 0.5,
             "indice_rotacion": 1.28,
             "participes": 216430,
             "patrimonio": 1241262796,
@@ -1544,9 +1711,11 @@
                     "nombre": "ETF|ISHARES ETFS/US",
                     "porcentaje": 1.27
                 }
-            ]
+            ],
+            "rentabilidad": 5.25
         },
         {
+            "gastos": 0.26,
             "indice_rotacion": 0.14,
             "participes": 192301,
             "patrimonio": 972534500,
@@ -1680,9 +1849,11 @@
                     "nombre": "PARTICIPACIONES|CANDRIAM",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -3.74
         },
         {
+            "gastos": 0.26,
             "indice_rotacion": 1.03,
             "participes": 145103,
             "patrimonio": 640510630,
@@ -1816,9 +1987,11 @@
                     "nombre": "PARTICIPACIONES|JP MORGAN INV",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 3.89
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.71,
             "participes": 67016,
             "patrimonio": 327552117,
@@ -1952,9 +2125,11 @@
                     "nombre": "PARTICIPACIONES|ABERDEEN GLOBAL",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 1.0
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.33,
             "participes": 58091,
             "patrimonio": 233465160,
@@ -2088,9 +2263,11 @@
                     "nombre": "PARTICIPACIONES|FIL FUND",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -2.6
         },
         {
+            "gastos": 0.01,
             "indice_rotacion": 1.02,
             "participes": 40676,
             "patrimonio": 53715881,
@@ -2216,7 +2393,8 @@
                     "nombre": "PARTICIPACIONES|ROBECO LUX",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 2475,

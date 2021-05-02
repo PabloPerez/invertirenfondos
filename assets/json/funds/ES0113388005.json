@@ -3,6 +3,49 @@
     "fecha_registro": "29/05/2020",
     "historico_periodos": [
         {
+            "gastos": 0.34,
+            "indice_rotacion": 0.0,
+            "participes": 15,
+            "patrimonio": 489511,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 141900.0,
+                    "desde": "2020T2",
+                    "isin": "US4642872349",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IShrs Emg Mkts",
+                    "porcentaje": 28.99
+                },
+                {
+                    "cantidad": 106519.0,
+                    "desde": "2020T2",
+                    "isin": "LU1681045453",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AmundiMSCIemerg",
+                    "porcentaje": 21.76
+                },
+                {
+                    "cantidad": 70956.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010429068",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|LyxMSCIEmMkts",
+                    "porcentaje": 14.5
+                },
+                {
+                    "cantidad": 70454.0,
+                    "desde": "2020T2",
+                    "isin": "IE00BTJRMP35",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|XtrackersEmerg",
+                    "porcentaje": 14.39
+                }
+            ],
+            "rentabilidad": 6.54
+        },
+        {
+            "gastos": 1.02,
             "indice_rotacion": 0.0,
             "participes": 19,
             "patrimonio": 469127,
@@ -40,9 +83,11 @@
                     "nombre": "PARTICIPACIONES|XtrackersEmerg",
                     "porcentaje": 14.1
                 }
-            ]
+            ],
+            "rentabilidad": 12.59
         },
         {
+            "gastos": 0.34,
             "indice_rotacion": 0.0,
             "participes": 7,
             "patrimonio": 331101,
@@ -80,9 +125,11 @@
                     "nombre": "PARTICIPACIONES|IShrs Emg Mkts",
                     "porcentaje": 15.33
                 }
-            ]
+            ],
+            "rentabilidad": 5.51
         },
         {
+            "gastos": 0.58,
             "indice_rotacion": 0.0,
             "participes": 6,
             "patrimonio": 313074,
@@ -120,7 +167,8 @@
                     "nombre": "PARTICIPACIONES|IShrs Emg Mkts",
                     "porcentaje": 15.35
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5455,

@@ -3,6 +3,81 @@
     "fecha_registro": "30/10/2020",
     "historico_periodos": [
         {
+            "gastos": 0.43,
+            "indice_rotacion": 0.6,
+            "participes": 22,
+            "patrimonio": 974965,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 153393.0,
+                    "desde": "2021T1",
+                    "isin": "NL0014555419",
+                    "moneda": "euro",
+                    "nombre": "Bonos|TESORO HOLANDES|0,000|2030-07-15",
+                    "porcentaje": 15.73
+                },
+                {
+                    "cantidad": 103919.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012F43",
+                    "moneda": "euro",
+                    "nombre": "Obligaciones|Bonos del Estado|0,600|2029-10-31",
+                    "porcentaje": 10.66
+                },
+                {
+                    "cantidad": 103488.0,
+                    "desde": "2021T1",
+                    "isin": "DE0001102499",
+                    "moneda": "euro",
+                    "nombre": "Cupón Cero|TESORO ALEMÁN|0,543|2030-02-15",
+                    "porcentaje": 10.61
+                },
+                {
+                    "cantidad": 103274.0,
+                    "desde": "2021T1",
+                    "isin": "DE0001102507",
+                    "moneda": "euro",
+                    "nombre": "Cupón Cero|TESORO ALEMÁN|0,507|2030-08-15",
+                    "porcentaje": 10.59
+                },
+                {
+                    "cantidad": 102690.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012F76",
+                    "moneda": "euro",
+                    "nombre": "Bonos|Bonos del Estado|0,500|2030-04-30",
+                    "porcentaje": 10.53
+                },
+                {
+                    "cantidad": 101340.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013451507",
+                    "moneda": "euro",
+                    "nombre": "Bonos|TESORO FRANCES|0,000|2029-11-25",
+                    "porcentaje": 10.39
+                },
+                {
+                    "cantidad": 100526.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013516549",
+                    "moneda": "euro",
+                    "nombre": "Bonos|TESORO FRANCES|0,000|2030-11-25",
+                    "porcentaje": 10.31
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000012G91",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO ALCA|0,045|2021-01-04",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 0.56
+        },
+        {
+            "gastos": 0.52,
             "indice_rotacion": 0.0,
             "participes": 8,
             "patrimonio": 718439,
@@ -16,7 +91,8 @@
                     "nombre": "REPO|BANCO ALCA|0,045|2021-01-04",
                     "porcentaje": 80.0
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5483,

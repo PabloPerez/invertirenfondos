@@ -3,6 +3,153 @@
     "fecha_registro": "24/02/2012",
     "historico_periodos": [
         {
+            "gastos": 0.21,
+            "indice_rotacion": 0.1,
+            "participes": 1565,
+            "patrimonio": 59976000,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 9541000.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000012G91",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|-0,309|2026-01-31",
+                    "porcentaje": 15.91
+                },
+                {
+                    "cantidad": 7928000.0,
+                    "desde": "2019T1",
+                    "isin": "ES00000124W3",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|3,800|2024-04-30",
+                    "porcentaje": 13.22
+                },
+                {
+                    "cantidad": 5006000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0000012F84",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|-0,231|2023-04-30",
+                    "porcentaje": 8.35
+                },
+                {
+                    "cantidad": 4978000.0,
+                    "desde": "2019T3",
+                    "isin": "ES00000126Z1",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|1,600|2025-04-30",
+                    "porcentaje": 8.3
+                },
+                {
+                    "cantidad": 4672000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012H41",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|0,100|2031-04-30",
+                    "porcentaje": 7.79
+                },
+                {
+                    "cantidad": 4392000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0000012E85",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|0,250|2024-07-30",
+                    "porcentaje": 7.32
+                },
+                {
+                    "cantidad": 4215000.0,
+                    "desde": "2020T3",
+                    "isin": "ES00000128H5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|1,300|2026-10-31",
+                    "porcentaje": 7.03
+                },
+                {
+                    "cantidad": 3592000.0,
+                    "desde": "2020T3",
+                    "isin": "ES00000127G9",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|2,150|2025-10-31",
+                    "porcentaje": 5.99
+                },
+                {
+                    "cantidad": 3548000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0200002006",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|ADIF ALTA VELOCIDAD|1,875|2025-01-28",
+                    "porcentaje": 5.92
+                },
+                {
+                    "cantidad": 3224000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0000101651",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|AUTONOMOUS COMMUNITY|1,826|2025-04-3",
+                    "porcentaje": 5.38
+                },
+                {
+                    "cantidad": 2310000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0000012F92",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|-0,207|2025-01-31",
+                    "porcentaje": 3.85
+                },
+                {
+                    "cantidad": 1703000.0,
+                    "desde": "2020T3",
+                    "isin": "ES00000126B2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|2,750|2024-10-31",
+                    "porcentaje": 2.84
+                },
+                {
+                    "cantidad": 1244000.0,
+                    "desde": "2021T1",
+                    "isin": "ES00001010B7",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|AUTONOMOUS COMMUNITY|0,420|2031-04-3",
+                    "porcentaje": 2.07
+                },
+                {
+                    "cantidad": 1218000.0,
+                    "desde": "2019T3",
+                    "isin": "ES0378641346",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|FONDO DE TITULIZACIO|0,050|2024-09-17",
+                    "porcentaje": 2.03
+                },
+                {
+                    "cantidad": 1055000.0,
+                    "desde": "2020T2",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|4,650|2025-07-30",
+                    "porcentaje": 1.76
+                },
+                {
+                    "cantidad": 724000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0001380098",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|PRINCIPALITY OF ASTU|0,989|2023-10-3",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 444000.0,
+                    "desde": "2019T4",
+                    "isin": "ES00000127Z9",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF SPAIN|1,950|2026-04-30",
+                    "porcentaje": 0.74
+                }
+            ],
+            "rentabilidad": -0.83
+        },
+        {
+            "gastos": 0.21,
             "indice_rotacion": 1.13,
             "participes": 1637,
             "patrimonio": 67558000,
@@ -136,9 +283,11 @@
                     "nombre": "DEUDA|KINGDOM OF SPAIN|1,950|2026-04-30",
                     "porcentaje": 0.66
                 }
-            ]
+            ],
+            "rentabilidad": 0.37
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.7,
             "participes": 1530,
             "patrimonio": 60607000,
@@ -264,9 +413,11 @@
                     "nombre": "DEUDA|KINGDOM OF SPAIN|1,950|2026-04-30",
                     "porcentaje": 0.73
                 }
-            ]
+            ],
+            "rentabilidad": 0.42
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.79,
             "participes": 1532,
             "patrimonio": 61415000,
@@ -400,9 +551,11 @@
                     "nombre": "DEUDA|KINGDOM OF SPAIN|1,950|2026-04-30",
                     "porcentaje": 0.71
                 }
-            ]
+            ],
+            "rentabilidad": 1.13
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.69,
             "participes": 1555,
             "patrimonio": 63031000,
@@ -560,9 +713,11 @@
                     "nombre": "DEUDA|KINGDOM OF SPAIN|1,500|2027-04-30",
                     "porcentaje": 0.38
                 }
-            ]
+            ],
+            "rentabilidad": -1.07
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.26,
             "participes": 1604,
             "patrimonio": 61931000,
@@ -704,9 +859,11 @@
                     "nombre": "DEUDA|KINGDOM OF SPAIN|1,950|2026-04-30",
                     "porcentaje": 0.7
                 }
-            ]
+            ],
+            "rentabilidad": -0.99
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.19,
             "participes": 1658,
             "patrimonio": 66598000,
@@ -856,9 +1013,11 @@
                     "nombre": "BONOS/OBLIGA.|BASQUE GOVERNMENT|1,450|2028-04-30",
                     "porcentaje": 0.79
                 }
-            ]
+            ],
+            "rentabilidad": 0.36
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.49,
             "participes": 1613,
             "patrimonio": 62760000,
@@ -992,9 +1151,11 @@
                     "nombre": "BONOS/OBLIGA.|BASQUE GOVERNMENT|1,450|2028-04-30",
                     "porcentaje": 0.82
                 }
-            ]
+            ],
+            "rentabilidad": 1.16
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.9,
             "participes": 1561,
             "patrimonio": 59323000,
@@ -1112,9 +1273,11 @@
                     "nombre": "BONOS/OBLIGA.|BASQUE GOVERNMENT|1,450|2028-04-30",
                     "porcentaje": 0.82
                 }
-            ]
+            ],
+            "rentabilidad": 0.71
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.2,
             "participes": 1545,
             "patrimonio": 57582000,
@@ -1232,9 +1395,11 @@
                     "nombre": "BONOS/OBLIGA.|BASQUE GOVERNMENT|1,450|2028-04-30",
                     "porcentaje": 0.81
                 }
-            ]
+            ],
+            "rentabilidad": 0.47
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.08,
             "participes": 1601,
             "patrimonio": 59325000,
@@ -1352,9 +1517,11 @@
                     "nombre": "BONOS/OBLIGA.|BASQUE GOVERNMENT|1,450|2028-04-30",
                     "porcentaje": 0.78
                 }
-            ]
+            ],
+            "rentabilidad": -0.52
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.73,
             "participes": 1636,
             "patrimonio": 61939000,
@@ -1472,9 +1639,11 @@
                     "nombre": "BONO|COMUNIDAD DE EUSKAD|01,450|2028-04-30",
                     "porcentaje": 0.76
                 }
-            ]
+            ],
+            "rentabilidad": -0.64
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.36,
             "participes": 1734,
             "patrimonio": 65205000,
@@ -1576,9 +1745,11 @@
                     "nombre": "BONO|COMUNIDAD DE MADRID|00,017|2020-04-30",
                     "porcentaje": 2.29
                 }
-            ]
+            ],
+            "rentabilidad": 0.95
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.42,
             "participes": 1915,
             "patrimonio": 72590000,
@@ -1680,9 +1851,11 @@
                     "nombre": "BONO|COMUNIDAD DE MADRID|00,017|2020-04-30",
                     "porcentaje": 2.07
                 }
-            ]
+            ],
+            "rentabilidad": -0.18
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.08,
             "participes": 2095,
             "patrimonio": 83337000,
@@ -1792,9 +1965,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|00,250|2019-01-31",
                     "porcentaje": 1.57
                 }
-            ]
+            ],
+            "rentabilidad": -0.1
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.95,
             "participes": 2214,
             "patrimonio": 88107000,
@@ -1920,9 +2095,11 @@
                     "nombre": "BONO|COMUNIDAD DE MADRID|00,747|2022-04-30",
                     "porcentaje": 0.99
                 }
-            ]
+            ],
+            "rentabilidad": 0.32
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.67,
             "participes": 2407,
             "patrimonio": 96398000,
@@ -2032,9 +2209,11 @@
                     "nombre": "BONO|COMUNIDAD DE MADRID|00,017|2020-04-30",
                     "porcentaje": 1.55
                 }
-            ]
+            ],
+            "rentabilidad": 0.06
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.15,
             "participes": 2654,
             "patrimonio": 107584000,
@@ -2176,9 +2355,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|02,750|2019-04-30",
                     "porcentaje": 0.31
                 }
-            ]
+            ],
+            "rentabilidad": -0.74
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.3,
             "participes": 1859,
             "patrimonio": 103771000,
@@ -2264,9 +2445,11 @@
                     "nombre": "BONO|COMUNIDAD DE MADRID|00,727|2021-05-19",
                     "porcentaje": 1.44
                 }
-            ]
+            ],
+            "rentabilidad": 0.36
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.43,
             "participes": 1830,
             "patrimonio": 102663000,
@@ -2352,9 +2535,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|01,950|2026-04-30",
                     "porcentaje": 1.35
                 }
-            ]
+            ],
+            "rentabilidad": 0.64
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.88,
             "participes": 1829,
             "patrimonio": 126645000,
@@ -2464,9 +2649,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|00,250|2018-04-30",
                     "porcentaje": 0.77
                 }
-            ]
+            ],
+            "rentabilidad": 1.22
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.54,
             "participes": 1883,
             "patrimonio": 128327000,
@@ -2584,9 +2771,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|00,250|2018-04-30",
                     "porcentaje": 0.76
                 }
-            ]
+            ],
+            "rentabilidad": 1.17
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.26,
             "participes": 2061,
             "patrimonio": 139023000,
@@ -2712,9 +2901,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|00,250|2018-04-30",
                     "porcentaje": 0.7
                 }
-            ]
+            ],
+            "rentabilidad": 2.27
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.06,
             "participes": 2406,
             "patrimonio": 159998000,
@@ -2840,9 +3031,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|00,250|2018-04-30",
                     "porcentaje": 0.62
                 }
-            ]
+            ],
+            "rentabilidad": -4.24
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.16,
             "participes": 3575,
             "patrimonio": 301052000,
@@ -3008,9 +3201,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|05,150|2044-10-31",
                     "porcentaje": 0.95
                 }
-            ]
+            ],
+            "rentabilidad": 1.66
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.05,
             "participes": 3046,
             "patrimonio": 285816000,
@@ -3160,9 +3355,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|05,150|2044-10-31",
                     "porcentaje": 0.85
                 }
-            ]
+            ],
+            "rentabilidad": 1.19
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.0,
             "participes": 2504,
             "patrimonio": 256637000,
@@ -3296,9 +3493,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|05,150|2044-10-31",
                     "porcentaje": 0.86
                 }
-            ]
+            ],
+            "rentabilidad": 1.89
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.97,
             "participes": 1682,
             "patrimonio": 199272000,
@@ -3424,9 +3623,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|05,150|2044-10-31",
                     "porcentaje": 1.02
                 }
-            ]
+            ],
+            "rentabilidad": 2.23
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.75,
             "participes": 1219,
             "patrimonio": 138510000,
@@ -3544,9 +3745,11 @@
                     "nombre": "REPO|BANCO BILBAO VIZCAY|01,220|2014-04-01",
                     "porcentaje": 0.46
                 }
-            ]
+            ],
+            "rentabilidad": 4.2
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.45,
             "participes": 703,
             "patrimonio": 98318000,
@@ -3672,9 +3875,11 @@
                     "nombre": "REPO|BANCO BILBAO VIZCAY|00,549|2014-01-02",
                     "porcentaje": 1.86
                 }
-            ]
+            ],
+            "rentabilidad": 1.55
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.63,
             "participes": 415,
             "patrimonio": 70428000,
@@ -3752,9 +3957,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|05,850|2022-01-31",
                     "porcentaje": 1.32
                 }
-            ]
+            ],
+            "rentabilidad": 2.92
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.63,
             "participes": 357,
             "patrimonio": 62732000,
@@ -3824,9 +4031,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|03,750|2015-10-31",
                     "porcentaje": 3.49
                 }
-            ]
+            ],
+            "rentabilidad": 1.5
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 1.27,
             "participes": 217,
             "patrimonio": 58149000,
@@ -3896,9 +4105,11 @@
                     "nombre": "LETRAS|REINO DE ESPAÑA|00,679|2013-06-21",
                     "porcentaje": 1.72
                 }
-            ]
+            ],
+            "rentabilidad": 2.69
         },
         {
+            "gastos": 0.21,
             "indice_rotacion": 0.43,
             "participes": 46,
             "patrimonio": 44393000,
@@ -3960,9 +4171,11 @@
                     "nombre": "REPO|BANCO BILBAO VIZCAY|00,299|2013-01-02",
                     "porcentaje": 1.68
                 }
-            ]
+            ],
+            "rentabilidad": 3.86
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.16,
             "participes": 12,
             "patrimonio": 40465000,
@@ -4024,9 +4237,11 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|03,750|2015-10-31",
                     "porcentaje": 5.22
                 }
-            ]
+            ],
+            "rentabilidad": 3.95
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.53,
             "participes": 13,
             "patrimonio": 37552000,
@@ -4088,9 +4303,11 @@
                     "nombre": "LETRAS|REINO DE ESPAÑA|05,211|2013-06-21",
                     "porcentaje": 4.62
                 }
-            ]
+            ],
+            "rentabilidad": -3.86
         },
         {
+            "gastos": 0.13,
             "indice_rotacion": 0.88,
             "participes": 3,
             "patrimonio": 32181000,
@@ -4144,7 +4361,8 @@
                     "nombre": "RENTA FIJA|REINO DE ESPAÑA|03,250|2016-04-30",
                     "porcentaje": 7.48
                 }
-            ]
+            ],
+            "rentabilidad": 0.0
         }
     ],
     "id_cnmv": 4446,

@@ -3,6 +3,89 @@
     "fecha_registro": "10/05/2019",
     "historico_periodos": [
         {
+            "gastos": 0.34,
+            "indice_rotacion": 0.74,
+            "participes": 22,
+            "patrimonio": 1523524,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 265056.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B9M6RS56",
+                    "moneda": "EUR",
+                    "nombre": "FONDOS|ISHARES J.P. MORGAN",
+                    "porcentaje": 17.4
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES00000121G2",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES00000128C6",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012B47",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012G34",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012H41",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 135745.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012H58",
+                    "moneda": "EUR",
+                    "nombre": "REPO|BONOS Y OBLIG DEL E|-0,60|2021-04-01",
+                    "porcentaje": 8.91
+                },
+                {
+                    "cantidad": 106320.0,
+                    "desde": "2020T2",
+                    "isin": "DE000A0H08M3",
+                    "moneda": "EUR",
+                    "nombre": "FONDOS|ISHARES STOXX EUROPE",
+                    "porcentaje": 6.98
+                },
+                {
+                    "cantidad": 38170.0,
+                    "desde": "2020T2",
+                    "isin": "ES0178430E18",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELEFONICA SA",
+                    "porcentaje": 2.51
+                }
+            ],
+            "rentabilidad": 4.97
+        },
+        {
+            "gastos": 0.32,
             "indice_rotacion": 0.77,
             "participes": 22,
             "patrimonio": 1437487,
@@ -136,9 +219,11 @@
                     "nombre": "DERECHOS|REPSOL SA",
                     "porcentaje": 0.16
                 }
-            ]
+            ],
+            "rentabilidad": 17.79
         },
         {
+            "gastos": 0.46,
             "indice_rotacion": 0.25,
             "participes": 21,
             "patrimonio": 1216016,
@@ -272,9 +357,11 @@
                     "nombre": "ACCIONES|AEGON NV",
                     "porcentaje": 1.83
                 }
-            ]
+            ],
+            "rentabilidad": -8.78
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 2.32,
             "participes": 17,
             "patrimonio": 1331884,
@@ -432,7 +519,8 @@
                     "nombre": "DERECHOS|TELEFONICA SA",
                     "porcentaje": 0.16
                 }
-            ]
+            ],
+            "rentabilidad": 6.23
         }
     ],
     "id_cnmv": 5316,
@@ -440,7 +528,7 @@
     "id_cnmv_gestora": 237,
     "isin": "ES0131445043",
     "nif": "V04893186",
-    "nombre": "ESFERA III MUSTALLAR",
+    "nombre": "GESTION BOUTIQUE VIII MUSTALLAR",
     "nombre_depositaria": "CECABANK, S.A.",
     "nombre_gestora": "ANDBANK WEALTH MANAGEMENT, SGIIC, S.A.U."
 }

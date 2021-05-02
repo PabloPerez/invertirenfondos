@@ -3,6 +3,105 @@
     "fecha_registro": "15/07/2019",
     "historico_periodos": [
         {
+            "gastos": 0.18,
+            "indice_rotacion": 0.0,
+            "participes": 62601,
+            "patrimonio": 94380548,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 13344312.0,
+                    "desde": "2020T2",
+                    "isin": "IE00BTJRMP35",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|XTRACKERS MSCI EMERGING",
+                    "porcentaje": 14.14
+                },
+                {
+                    "cantidad": 12651965.0,
+                    "desde": "2020T4",
+                    "isin": "IE00B5377D42",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI AUSTRALIA I",
+                    "porcentaje": 13.41
+                },
+                {
+                    "cantidad": 12620738.0,
+                    "desde": "2020T3",
+                    "isin": "LU1437017350",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|AMUNDI INDEX MSCI EMERGI",
+                    "porcentaje": 13.37
+                },
+                {
+                    "cantidad": 7530992.0,
+                    "desde": "2020T4",
+                    "isin": "LU1048313891",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|UBS ETF   MSCI EMERGING",
+                    "porcentaje": 7.98
+                },
+                {
+                    "cantidad": 6916349.0,
+                    "desde": "2020T3",
+                    "isin": "IE0007201266",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD INVESTMENT SERI",
+                    "porcentaje": 7.33
+                },
+                {
+                    "cantidad": 6238504.0,
+                    "desde": "2020T4",
+                    "isin": "LU1751207348",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SCHRODER INT EMERGING AS",
+                    "porcentaje": 6.61
+                },
+                {
+                    "cantidad": 4720073.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B0M63391",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI KOREA ETF",
+                    "porcentaje": 5.0
+                },
+                {
+                    "cantidad": 4337727.0,
+                    "desde": "2020T3",
+                    "isin": "LU2139470012",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|INVESCO JAPANESE EQUITY",
+                    "porcentaje": 4.6
+                },
+                {
+                    "cantidad": 4195744.0,
+                    "desde": "2020T3",
+                    "isin": "IE00BYW73306",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BAILLIE GIFFORD WORLDWID",
+                    "porcentaje": 4.45
+                },
+                {
+                    "cantidad": 3777799.0,
+                    "desde": "2020T4",
+                    "isin": "LU1601096537",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|AXA WORLD FUNDS   EURO C",
+                    "porcentaje": 4.0
+                },
+                {
+                    "cantidad": 3389134.0,
+                    "desde": "2020T4",
+                    "isin": "LU0880599641",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FIDELITY FUNDS   SOUTH E",
+                    "porcentaje": 3.59
+                }
+            ],
+            "rentabilidad": 6.68
+        },
+        {
+            "gastos": 0.17,
             "indice_rotacion": 1.33,
             "participes": 45970,
             "patrimonio": 48322215,
@@ -88,9 +187,11 @@
                     "nombre": "PARTICIPACIONES|AXA WORLD FUNDS   EURO C",
                     "porcentaje": 1.93
                 }
-            ]
+            ],
+            "rentabilidad": 8.01
         },
         {
+            "gastos": 0.13,
             "indice_rotacion": 1.0,
             "participes": 36372,
             "patrimonio": 87113021,
@@ -168,9 +269,11 @@
                     "nombre": "PARTICIPACIONES|INVESCO JAPANESE EQUITY",
                     "porcentaje": 4.49
                 }
-            ]
+            ],
+            "rentabilidad": 5.39
         },
         {
+            "gastos": 0.13,
             "indice_rotacion": 3.32,
             "participes": 34656,
             "patrimonio": 90236833,
@@ -240,9 +343,11 @@
                     "nombre": "PARTICIPACIONES|AXA WORLD FUNDS   EURO C",
                     "porcentaje": 8.16
                 }
-            ]
+            ],
+            "rentabilidad": -1.13
         },
         {
+            "gastos": 0.09,
             "indice_rotacion": 0.3,
             "participes": 34062,
             "patrimonio": 130905770,
@@ -312,9 +417,11 @@
                     "nombre": "PARTICIPACIONES|ISHARES CORE S AND P 500",
                     "porcentaje": 5.27
                 }
-            ]
+            ],
+            "rentabilidad": -23.08
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 1.9,
             "participes": 29246,
             "patrimonio": 137489235,
@@ -384,14 +491,17 @@
                     "nombre": "PARTICIPACIONES|ISHARES CORE S AND P 500",
                     "porcentaje": 6.75
                 }
-            ]
+            ],
+            "rentabilidad": 5.7
         },
         {
+            "gastos": null,
             "indice_rotacion": 0.0,
             "participes": 2,
             "patrimonio": 300281,
             "periodo": "2019T3",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5400,

@@ -3,6 +3,7 @@
     "fecha_registro": "27/03/2020",
     "historico_periodos": [
         {
+            "gastos": 1.61,
             "indice_rotacion": 0.13,
             "participes": 83,
             "patrimonio": 1011615,
@@ -216,9 +217,11 @@
                     "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 2.7
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 2.49,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 56988,
@@ -272,21 +275,26 @@
                     "nombre": "REPO|BANKINTER S.A.|-0,49|2020-10-01",
                     "porcentaje": 14.13
                 }
-            ]
+            ],
+            "rentabilidad": -2.57
         },
         {
+            "gastos": 2.41,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 58493,
             "periodo": "2020T2",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": -2.41
         },
         {
+            "gastos": 0.1,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 59937,
             "periodo": "2020T1",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5277,

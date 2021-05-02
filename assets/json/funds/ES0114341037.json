@@ -3,6 +3,145 @@
     "fecha_registro": "21/07/1997",
     "historico_periodos": [
         {
+            "gastos": 0.28,
+            "indice_rotacion": 0.34,
+            "participes": 2014,
+            "patrimonio": 58000000,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 7119000.0,
+                    "desde": "2020T2",
+                    "isin": "US912828QV50",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|0,625|2021-07-15",
+                    "porcentaje": 12.27
+                },
+                {
+                    "cantidad": 5538000.0,
+                    "desde": "2020T1",
+                    "isin": "US912828Q608",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|0,125|2021-04-15",
+                    "porcentaje": 9.55
+                },
+                {
+                    "cantidad": 4546000.0,
+                    "desde": "2020T4",
+                    "isin": "US912828SA95",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|0,125|2022-01-15",
+                    "porcentaje": 7.84
+                },
+                {
+                    "cantidad": 4293000.0,
+                    "desde": "2021T1",
+                    "isin": "US9128287A26",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|1,625|2021-06-30",
+                    "porcentaje": 7.4
+                },
+                {
+                    "cantidad": 3458000.0,
+                    "desde": "2021T1",
+                    "isin": "US9128284W72",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|2,750|2021-08-15",
+                    "porcentaje": 5.96
+                },
+                {
+                    "cantidad": 3430000.0,
+                    "desde": "2020T3",
+                    "isin": "CA135087J884",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|CANADA|1,750|2021-05-01",
+                    "porcentaje": 5.91
+                },
+                {
+                    "cantidad": 3411000.0,
+                    "desde": "2021T1",
+                    "isin": "US9127964Y20",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,078|2021-04-15",
+                    "porcentaje": 5.88
+                },
+                {
+                    "cantidad": 3410000.0,
+                    "desde": "2021T1",
+                    "isin": "US9127965A35",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,081|2021-05-06",
+                    "porcentaje": 5.88
+                },
+                {
+                    "cantidad": 2735000.0,
+                    "desde": "2020T3",
+                    "isin": "CA13509PFJ71",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|CANADA HOUSING TRUST|1,250|2021-06-15",
+                    "porcentaje": 4.72
+                },
+                {
+                    "cantidad": 2558000.0,
+                    "desde": "2021T1",
+                    "isin": "US912796B575",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,072|2021-07-08",
+                    "porcentaje": 4.41
+                },
+                {
+                    "cantidad": 1719000.0,
+                    "desde": "2021T1",
+                    "isin": "US912828WR74",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|2,125|2021-06-30",
+                    "porcentaje": 2.96
+                },
+                {
+                    "cantidad": 1705000.0,
+                    "desde": "2020T4",
+                    "isin": "US9127962Q14",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,097|2021-04-22",
+                    "porcentaje": 2.94
+                },
+                {
+                    "cantidad": 1705000.0,
+                    "desde": "2021T1",
+                    "isin": "US9127964X47",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,062|2021-04-08",
+                    "porcentaje": 2.94
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T4",
+                    "isin": "CA68323AAD69",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|PROVINCE OF ONTARIO|4,000|2021-06-02",
+                    "porcentaje": 2.39
+                },
+                {
+                    "cantidad": 1361000.0,
+                    "desde": "2021T1",
+                    "isin": "CA13509PFK45",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|CANADA HOUSING TRUST|0,613|2021-09-15",
+                    "porcentaje": 2.35
+                },
+                {
+                    "cantidad": 853000.0,
+                    "desde": "2021T1",
+                    "isin": "US912796F535",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|UNITED STATES OF AME|0,028|2021-09-23",
+                    "porcentaje": 1.47
+                }
+            ],
+            "rentabilidad": 3.99
+        },
+        {
+            "gastos": 0.28,
             "indice_rotacion": 0.18,
             "participes": 2134,
             "patrimonio": 58512000,
@@ -120,9 +259,11 @@
                     "nombre": "DEUDA|CANADA|0,750|2021-03-01",
                     "porcentaje": 2.21
                 }
-            ]
+            ],
+            "rentabilidad": -3.89
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.19,
             "participes": 2249,
             "patrimonio": 63051000,
@@ -248,9 +389,11 @@
                     "nombre": "BONOS|BANCO BILBAO VIZCAYA|3,000|2020-10-20",
                     "porcentaje": 0.95
                 }
-            ]
+            ],
+            "rentabilidad": -3.99
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.29,
             "participes": 2388,
             "patrimonio": 70835000,
@@ -392,9 +535,11 @@
                     "nombre": "BONOS|BANCO BILBAO VIZCAYA|3,000|2020-10-20",
                     "porcentaje": 0.89
                 }
-            ]
+            ],
+            "rentabilidad": -1.69
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.18,
             "participes": 2379,
             "patrimonio": 75057000,
@@ -544,9 +689,11 @@
                     "nombre": "BONOS|BANCO BILBAO VIZCAYA|3,000|2020-10-20",
                     "porcentaje": 0.84
                 }
-            ]
+            ],
+            "rentabilidad": 1.6
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.79,
             "participes": 2506,
             "patrimonio": 78659000,
@@ -656,9 +803,11 @@
                     "nombre": "REPO|KINGDOM OF SPAIN|-0,49|2020-01-02",
                     "porcentaje": 0.08
                 }
-            ]
+            ],
+            "rentabilidad": -2.31
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.5,
             "participes": 2594,
             "patrimonio": 83480000,
@@ -808,9 +957,11 @@
                     "nombre": "CÉDULAS|BANK OF NOVA SCOTIA/|1,850|2020-04-14",
                     "porcentaje": 1.09
                 }
-            ]
+            ],
+            "rentabilidad": 4.69
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.38,
             "participes": 2671,
             "patrimonio": 83058000,
@@ -936,9 +1087,11 @@
                     "nombre": "CÉDULAS|BANK OF NOVA SCOTIA/|1,850|2020-04-14",
                     "porcentaje": 1.05
                 }
-            ]
+            ],
+            "rentabilidad": -0.99
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.26,
             "participes": 2695,
             "patrimonio": 88426000,
@@ -1064,9 +1217,11 @@
                     "nombre": "BONOS/OBLIGA.|KOMMUNALBANKEN AS|2,625|2019-11-27",
                     "porcentaje": 2.02
                 }
-            ]
+            ],
+            "rentabilidad": 2.89
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.54,
             "participes": 2723,
             "patrimonio": 91969000,
@@ -1224,9 +1379,11 @@
                     "nombre": "REPOS|BANCO BILBAO VIZCAYA ARGENTARIA SA|-0,45|201",
                     "porcentaje": 1.22
                 }
-            ]
+            ],
+            "rentabilidad": 1.44
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.25,
             "participes": 2534,
             "patrimonio": 91861000,
@@ -1408,9 +1565,11 @@
                     "nombre": "BONOS/OBLIGA.|PROVINCE OF QUEBEC C|4,500|2018-12-0",
                     "porcentaje": 1.1
                 }
-            ]
+            ],
+            "rentabilidad": 0.71
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.78,
             "participes": 2647,
             "patrimonio": 94992000,
@@ -1600,9 +1759,11 @@
                     "nombre": "BONOS|DAIMLER FINANCE NORT|2,375|2018-08-01",
                     "porcentaje": 0.32
                 }
-            ]
+            ],
+            "rentabilidad": 5.35
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.54,
             "participes": 2871,
             "patrimonio": 106351000,
@@ -1816,9 +1977,11 @@
                     "nombre": "BONO|DAIMLER FINANCE NA|02,375|2018-08-01",
                     "porcentaje": 0.27
                 }
-            ]
+            ],
+            "rentabilidad": -2.24
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.34,
             "participes": 3213,
             "patrimonio": 123763000,
@@ -2024,9 +2187,11 @@
                     "nombre": "BONO|DAIMLER FINANCE NA|02,375|2018-08-01",
                     "porcentaje": 0.24
                 }
-            ]
+            ],
+            "rentabilidad": -1.59
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.02,
             "participes": 3819,
             "patrimonio": 169579000,
@@ -2240,9 +2405,11 @@
                     "nombre": "BONO|DAIMLER FINANCE NA|02,375|2018-08-01",
                     "porcentaje": 0.18
                 }
-            ]
+            ],
+            "rentabilidad": -3.21
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.08,
             "participes": 4088,
             "patrimonio": 177627000,
@@ -2464,9 +2631,11 @@
                     "nombre": "BONO|DAIMLER FINANCE NA|02,375|2018-08-01",
                     "porcentaje": 0.42
                 }
-            ]
+            ],
+            "rentabilidad": -7.06
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.52,
             "participes": 4459,
             "patrimonio": 203486000,
@@ -2664,9 +2833,11 @@
                     "nombre": "BONO|DAIMLER FINANCE NA|02,375|2018-08-01",
                     "porcentaje": 0.39
                 }
-            ]
+            ],
+            "rentabilidad": -1.39
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.66,
             "participes": 8099,
             "patrimonio": 248249000,
@@ -2832,9 +3003,11 @@
                     "nombre": "BONO|DEUTSCHE TELEKOM IN|02,250|2017-03-06",
                     "porcentaje": 0.58
                 }
-            ]
+            ],
+            "rentabilidad": 6.97
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.99,
             "participes": 9054,
             "patrimonio": 318053000,
@@ -3000,9 +3173,11 @@
                     "nombre": "BONO|SIEMENS FINANCIERIN|05,750|2016-10-17",
                     "porcentaje": 0.31
                 }
-            ]
+            ],
+            "rentabilidad": -1.31
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 1.28,
             "participes": 9073,
             "patrimonio": 319483000,
@@ -3192,9 +3367,11 @@
                     "nombre": "BONO|DEUTSCHE TELEKOM IN|02,250|2017-03-06",
                     "porcentaje": 0.43
                 }
-            ]
+            ],
+            "rentabilidad": 2.53
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.44,
             "participes": 8888,
             "patrimonio": 279436000,
@@ -3408,9 +3585,11 @@
                     "nombre": "BONO|JPMORGAN CHASE & CO|00,840|2017-02-15",
                     "porcentaje": 0.63
                 }
-            ]
+            ],
+            "rentabilidad": -4.59
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.67,
             "participes": 8931,
             "patrimonio": 277300000,
@@ -3600,9 +3779,11 @@
                     "nombre": "BONO|SVENSKA HANDELSBANK|00,450|2016-03-21",
                     "porcentaje": 0.33
                 }
-            ]
+            ],
+            "rentabilidad": 2.71
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.66,
             "participes": 9471,
             "patrimonio": 316790000,
@@ -3864,9 +4045,11 @@
                     "nombre": "BONO|SVENSKA HANDELSBANK|00,450|2016-03-21",
                     "porcentaje": 0.28
                 }
-            ]
+            ],
+            "rentabilidad": -0.46
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.87,
             "participes": 9264,
             "patrimonio": 296459000,
@@ -4248,9 +4431,11 @@
                     "nombre": "BONO|SVENSKA HANDELSBANK|00,450|2016-03-21",
                     "porcentaje": 0.3
                 }
-            ]
+            ],
+            "rentabilidad": -3.86
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.51,
             "participes": 8997,
             "patrimonio": 272108000,
@@ -4672,9 +4857,11 @@
                     "nombre": "BONO|BANCO BILBAO VIZCAY|01,007|2015-10-23",
                     "porcentaje": 0.26
                 }
-            ]
+            ],
+            "rentabilidad": 12.32
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.16,
             "participes": 7662,
             "patrimonio": 213136000,
@@ -5080,9 +5267,11 @@
                     "nombre": "BONO|STATE OF NORTH RHIN|00,130|2015-03-06",
                     "porcentaje": 0.19
                 }
-            ]
+            ],
+            "rentabilidad": 4.12
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.79,
             "participes": 6873,
             "patrimonio": 144402000,
@@ -5392,9 +5581,11 @@
                     "nombre": "BONO|STATE OF NORTH RHIN|00,130|2015-03-06",
                     "porcentaje": 0.27
                 }
-            ]
+            ],
+            "rentabilidad": 8.35
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.72,
             "participes": 6750,
             "patrimonio": 107084000,
@@ -5672,9 +5863,11 @@
                     "nombre": "BONO|SVENSKA HANDELSBANK|00,450|2016-03-21",
                     "porcentaje": 0.69
                 }
-            ]
+            ],
+            "rentabilidad": 0.4
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.84,
             "participes": 6853,
             "patrimonio": 88488000,
@@ -5896,9 +6089,11 @@
                     "nombre": "BONO|CAISSE AMORT DET CA|03,500|2014-07-01",
                     "porcentaje": 0.84
                 }
-            ]
+            ],
+            "rentabilidad": -0.29
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.88,
             "participes": 6989,
             "patrimonio": 85322000,
@@ -6128,9 +6323,11 @@
                     "nombre": "BONO|CONSEJO DE EUROPA|05,000|2014-01-29",
                     "porcentaje": 0.64
                 }
-            ]
+            ],
+            "rentabilidad": -2.08
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.51,
             "participes": 7078,
             "patrimonio": 76225000,
@@ -6280,9 +6477,11 @@
                     "nombre": "BONO|SANTANDER US DEBT S|02,991|2013-10-07",
                     "porcentaje": 0.97
                 }
-            ]
+            ],
+            "rentabilidad": -4.34
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.9,
             "participes": 7249,
             "patrimonio": 73199000,
@@ -6472,9 +6671,11 @@
                     "nombre": "REPO|BANCO BILBAO VIZCAY|00,829|2013-07-01",
                     "porcentaje": 0.81
                 }
-            ]
+            ],
+            "rentabilidad": -1.58
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.86,
             "participes": 7662,
             "patrimonio": 67027000,
@@ -6640,9 +6841,11 @@
                     "nombre": "BONO|INSTITUTO DE CRÉDIT|03,250|2013-05-14",
                     "porcentaje": 1.16
                 }
-            ]
+            ],
+            "rentabilidad": 2.54
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.06,
             "participes": 8108,
             "patrimonio": 69833000,
@@ -6768,9 +6971,11 @@
                     "nombre": "BONO|KREDITANSTALT FÜR W|01,875|2013-01-14",
                     "porcentaje": 1.09
                 }
-            ]
+            ],
+            "rentabilidad": -2.75
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.1,
             "participes": 8521,
             "patrimonio": 64917000,
@@ -6896,9 +7101,11 @@
                     "nombre": "BONO|REPUBLICA DE AUSTRI|02,000|2012-11-15",
                     "porcentaje": 1.14
                 }
-            ]
+            ],
+            "rentabilidad": -1.5
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.14,
             "participes": 982,
             "patrimonio": 51278000,
@@ -7056,9 +7263,11 @@
                     "nombre": "BONO|REPUBLICA DE AUSTRI|02,000|2012-11-15",
                     "porcentaje": 1.46
                 }
-            ]
+            ],
+            "rentabilidad": 4.83
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.74,
             "participes": 992,
             "patrimonio": 50120000,
@@ -7200,9 +7409,11 @@
                     "nombre": "BONO|WESTPAC SECURITIES|02,500|2012-05-25",
                     "porcentaje": 1.13
                 }
-            ]
+            ],
+            "rentabilidad": -2.56
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.41,
             "participes": 973,
             "patrimonio": 51421000,
@@ -7336,9 +7547,11 @@
                     "nombre": "BN.SANTANDER INTL DEB FLOAT 03",
                     "porcentaje": 1.47
                 }
-            ]
+            ],
+            "rentabilidad": 2.97
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.5,
             "participes": 1008,
             "patrimonio": 53948000,
@@ -7512,9 +7725,11 @@
                     "nombre": "BN.SANTANDER US DEBT FLOAT 211",
                     "porcentaje": 0.69
                 }
-            ]
+            ],
+            "rentabilidad": 7.46
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.77,
             "participes": 1107,
             "patrimonio": 52969000,
@@ -7640,9 +7855,11 @@
                     "nombre": "BN.BCO EUR INVERS 3.125 15071",
                     "porcentaje": 1.31
                 }
-            ]
+            ],
+            "rentabilidad": -2.49
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 1.27,
             "participes": 1069,
             "patrimonio": 52496000,
@@ -7728,9 +7945,11 @@
                     "nombre": "BN.TREASURY BILL 070411",
                     "porcentaje": 6.71
                 }
-            ]
+            ],
+            "rentabilidad": -5.57
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 2.82,
             "participes": 1022,
             "patrimonio": 50251000,
@@ -7840,9 +8059,11 @@
                     "nombre": "BN.SFEF  2% 250211",
                     "porcentaje": 0.75
                 }
-            ]
+            ],
+            "rentabilidad": 1.14
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.98,
             "participes": 1173,
             "patrimonio": 55635000,
@@ -7944,9 +8165,11 @@
                     "nombre": "BN.SFEF  2% 250211",
                     "porcentaje": 0.67
                 }
-            ]
+            ],
+            "rentabilidad": -9.32
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.39,
             "participes": 1224,
             "patrimonio": 59768000,
@@ -8080,9 +8303,11 @@
                     "nombre": "BN.KREDIT FUER WIEDERAU 3.125",
                     "porcentaje": 1.37
                 }
-            ]
+            ],
+            "rentabilidad": 9.27
         },
         {
+            "gastos": 0.27,
             "indice_rotacion": 0.31,
             "participes": 1131,
             "patrimonio": 52566000,
@@ -8200,9 +8425,11 @@
                     "nombre": "BN.RABOBANK NEDERLAND 5.00 250",
                     "porcentaje": 1.43
                 }
-            ]
+            ],
+            "rentabilidad": 6.01
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.97,
             "participes": 1124,
             "patrimonio": 49549000,
@@ -8320,9 +8547,11 @@
                     "nombre": "BN.RENTENBANK 4.00 280110",
                     "porcentaje": 1.32
                 }
-            ]
+            ],
+            "rentabilidad": 1.18
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 1.04,
             "participes": 1098,
             "patrimonio": 47570000,
@@ -8456,9 +8685,11 @@
                     "nombre": "BN.RENTENBANK 4.00 280110",
                     "porcentaje": 1.36
                 }
-            ]
+            ],
+            "rentabilidad": -4.09
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.51,
             "participes": 1132,
             "patrimonio": 52595000,
@@ -8632,7 +8863,8 @@
                     "nombre": "CUP.ESTADO CUP-0 310123",
                     "porcentaje": 0.78
                 }
-            ]
+            ],
+            "rentabilidad": -5.11
         }
     ],
     "id_cnmv": 1114,

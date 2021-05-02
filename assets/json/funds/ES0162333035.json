@@ -3,6 +3,153 @@
     "fecha_registro": "16/06/1987",
     "historico_periodos": [
         {
+            "gastos": 0.29,
+            "indice_rotacion": 0.01,
+            "participes": 251,
+            "patrimonio": 6302489,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 479969.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02202114",
+                    "moneda": "euro",
+                    "nombre": "REPO|INVERSIS BANCO, S.A.|-0,79|2021-04-07",
+                    "porcentaje": 7.62
+                },
+                {
+                    "cantidad": 426149.0,
+                    "desde": "2020T4",
+                    "isin": "US9127963H06",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Americano|0,08|2021-06-17",
+                    "porcentaje": 6.76
+                },
+                {
+                    "cantidad": 425603.0,
+                    "desde": "2020T3",
+                    "isin": "US9127964L09",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Americano|0,27|2021-09-09",
+                    "porcentaje": 6.75
+                },
+                {
+                    "cantidad": 413769.0,
+                    "desde": "2020T2",
+                    "isin": "XS1199964575",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Ryanair Holdings PLC|1,13|2023-03-10",
+                    "porcentaje": 6.57
+                },
+                {
+                    "cantidad": 406161.0,
+                    "desde": "2019T4",
+                    "isin": "XS1678372472",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BBVA|0,75|2022-09-11",
+                    "porcentaje": 6.44
+                },
+                {
+                    "cantidad": 391069.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013281888",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|Valeo SA|0,38|2022-09-12",
+                    "porcentaje": 6.21
+                },
+                {
+                    "cantidad": 348386.0,
+                    "desde": "2020T2",
+                    "isin": "XS2010445026",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BMW|0,13|2022-07-13",
+                    "porcentaje": 5.53
+                },
+                {
+                    "cantidad": 340084.0,
+                    "desde": "2021T1",
+                    "isin": "US9127965G05",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Americano|1,67|2021-12-02",
+                    "porcentaje": 5.4
+                },
+                {
+                    "cantidad": 312200.0,
+                    "desde": "2020T4",
+                    "isin": "US9128286C90",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Americano|2,50|2022-02-15",
+                    "porcentaje": 4.95
+                },
+                {
+                    "cantidad": 301151.0,
+                    "desde": "2020T2",
+                    "isin": "XS1322048619",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Amadeus|1,63|2021-11-17",
+                    "porcentaje": 4.78
+                },
+                {
+                    "cantidad": 254810.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02203047",
+                    "moneda": "euro",
+                    "nombre": "REPO|INVERSIS BANCO, S.A.|-0,64|2021-04-06",
+                    "porcentaje": 4.04
+                },
+                {
+                    "cantidad": 254810.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02202114",
+                    "moneda": "euro",
+                    "nombre": "REPO|INVERSIS BANCO, S.A.|-0,64|2021-04-06",
+                    "porcentaje": 4.04
+                },
+                {
+                    "cantidad": 249988.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02203047",
+                    "moneda": "euro",
+                    "nombre": "REPO|INVERSIS BANCO, S.A.|-0,64|2021-04-01",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 249988.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02202114",
+                    "moneda": "euro",
+                    "nombre": "REPO|INVERSIS BANCO, S.A.|-0,64|2021-04-01",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 199263.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013463643",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|ESSILOR|0,88|2023-05-27",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 132233.0,
+                    "desde": "2020T1",
+                    "isin": "US00287YAL39",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|AbbVie Inc|2,90|2022-11-06",
+                    "porcentaje": 2.1
+                },
+                {
+                    "cantidad": 101866.0,
+                    "desde": "2020T2",
+                    "isin": "XS1111559768",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|TotCa|1,13|2022-03-18",
+                    "porcentaje": 1.62
+                }
+            ],
+            "rentabilidad": 0.05
+        },
+        {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 262,
             "patrimonio": 7103823,
@@ -184,9 +331,11 @@
                     "nombre": "RENTA FIJA|TotCa|1,13|2022-03-18",
                     "porcentaje": 1.44
                 }
-            ]
+            ],
+            "rentabilidad": -0.13
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 270,
             "patrimonio": 7377513,
@@ -360,9 +509,11 @@
                     "nombre": "REPO|INVERSIS BANCO, S.A.|-0,54|2020-10-02",
                     "porcentaje": 1.35
                 }
-            ]
+            ],
+            "rentabilidad": 0.22
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 271,
             "patrimonio": 8796898,
@@ -552,9 +703,11 @@
                     "nombre": "RENTA FIJA|TotCa|1,13|2022-03-18",
                     "porcentaje": 1.16
                 }
-            ]
+            ],
+            "rentabilidad": 0.51
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 214,
             "patrimonio": 6630755,
@@ -704,9 +857,11 @@
                     "nombre": "RENTA FIJA|AbbVie Inc|2,90|2022-11-06",
                     "porcentaje": 2.07
                 }
-            ]
+            ],
+            "rentabilidad": -0.89
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 217,
             "patrimonio": 6813203,
@@ -848,9 +1003,11 @@
                     "nombre": "RENTA FIJA|Sherwood Int.|2,25|2020-05-15",
                     "porcentaje": 2.58
                 }
-            ]
+            ],
+            "rentabilidad": -0.44
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 226,
             "patrimonio": 8150160,
@@ -976,9 +1133,11 @@
                     "nombre": "RENTA FIJA|Sherwood Int.|2,25|2020-05-15",
                     "porcentaje": 2.22
                 }
-            ]
+            ],
+            "rentabilidad": -0.34
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 242,
             "patrimonio": 9908458,
@@ -1104,9 +1263,11 @@
                     "nombre": "RENTA FIJA|Sherwood Int.|2,25|2020-05-15",
                     "porcentaje": 1.75
                 }
-            ]
+            ],
+            "rentabilidad": -0.24
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
             "participes": 234,
             "patrimonio": 8210873,
@@ -1232,9 +1393,11 @@
                     "nombre": "BONO|SHERWIN-WILLIAMS CO|2,25|2020-05-15",
                     "porcentaje": 2.14
                 }
-            ]
+            ],
+            "rentabilidad": -0.01
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.02,
             "participes": 233,
             "patrimonio": 6800863,
@@ -1376,9 +1539,11 @@
                     "nombre": "BONO|SHERWIN-WILLIAMS CO|2,25|2020-05-15",
                     "porcentaje": 2.52
                 }
-            ]
+            ],
+            "rentabilidad": -0.48
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 233,
             "patrimonio": 7582353,
@@ -1512,9 +1677,11 @@
                     "nombre": "BONO|ABBOTT LABORATORIES|2,35|2019-11-22",
                     "porcentaje": 1.05
                 }
-            ]
+            ],
+            "rentabilidad": -0.1
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.38,
             "participes": 239,
             "patrimonio": 7112073,
@@ -1656,9 +1823,11 @@
                     "nombre": "BONO|ABBOTT LABORATORIES|2,35|2019-11-22",
                     "porcentaje": 1.11
                 }
-            ]
+            ],
+            "rentabilidad": -0.2
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 241,
             "patrimonio": 7411611,
@@ -1752,9 +1921,11 @@
                     "nombre": "BONO|JUNIPER|3,13|2019-02-26",
                     "porcentaje": 2.76
                 }
-            ]
+            ],
+            "rentabilidad": -0.58
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
             "participes": 253,
             "patrimonio": 8292619,
@@ -1872,9 +2043,11 @@
                     "nombre": "BONO|JUNIPER|3,13|2019-02-26",
                     "porcentaje": 2.54
                 }
-            ]
+            ],
+            "rentabilidad": -0.52
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
             "participes": 275,
             "patrimonio": 11597904,
@@ -2040,9 +2213,11 @@
                     "nombre": "REPO|UNICAJA|-0,38|2017-10-06",
                     "porcentaje": 1.72
                 }
-            ]
+            ],
+            "rentabilidad": -0.36
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 274,
             "patrimonio": 12924405,
@@ -2192,9 +2367,11 @@
                     "nombre": "BONO|BOSTON SCIENTIFIC|2,65|2018-10-01",
                     "porcentaje": 2.05
                 }
-            ]
+            ],
+            "rentabilidad": -0.17
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 287,
             "patrimonio": 13467508,
@@ -2344,9 +2521,11 @@
                     "nombre": "BONO|TOLL BROTHERS|4,00|2018-12-31",
                     "porcentaje": 3.04
                 }
-            ]
+            ],
+            "rentabilidad": -0.29
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 293,
             "patrimonio": 14930122,
@@ -2496,9 +2675,11 @@
                     "nombre": "BONO|TOLL BROTHERS|4,00|2018-12-31",
                     "porcentaje": 2.73
                 }
-            ]
+            ],
+            "rentabilidad": -0.2
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 295,
             "patrimonio": 14000424,
@@ -2648,9 +2829,11 @@
                     "nombre": "BONO|TOLL BROTHERS|4,00|2018-12-31",
                     "porcentaje": 2.8
                 }
-            ]
+            ],
+            "rentabilidad": -0.18
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.1,
             "participes": 286,
             "patrimonio": 14424092,
@@ -2792,9 +2975,11 @@
                     "nombre": "OBLIGACION|BARRICK G.|6,95|2019-04-01",
                     "porcentaje": 3.16
                 }
-            ]
+            ],
+            "rentabilidad": 0.96
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.06,
             "participes": 294,
             "patrimonio": 14857135,
@@ -2936,9 +3121,11 @@
                     "nombre": "REPO|UNICAJA|-0,30|2016-04-01",
                     "porcentaje": 1.68
                 }
-            ]
+            ],
+            "rentabilidad": 0.27
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 304,
             "patrimonio": 15590625,
@@ -3032,9 +3219,11 @@
                     "nombre": "BONO|FREEPORT|2,38|2018-03-15",
                     "porcentaje": 3.43
                 }
-            ]
+            ],
+            "rentabilidad": -0.41
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 335,
             "patrimonio": 18315328,
@@ -3112,9 +3301,11 @@
                     "nombre": "BONO|FREEPORT|2,38|2018-03-15",
                     "porcentaje": 2.97
                 }
-            ]
+            ],
+            "rentabilidad": -0.33
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 360,
             "patrimonio": 21385826,
@@ -3192,9 +3383,11 @@
                     "nombre": "BONO|REP. FED.DE ALEMANIA|0,25|2015-09-11",
                     "porcentaje": 4.46
                 }
-            ]
+            ],
+            "rentabilidad": -0.27
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 393,
             "patrimonio": 23859199,
@@ -3272,9 +3465,11 @@
                     "nombre": "BONO|REP. FED.DE ALEMANIA|0,25|2015-09-11",
                     "porcentaje": 4.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.2
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 421,
             "patrimonio": 30921904,
@@ -3368,9 +3563,11 @@
                     "nombre": "BONO|REP. FED.DE ALEMANIA|0,25|2015-09-11",
                     "porcentaje": 3.07
                 }
-            ]
+            ],
+            "rentabilidad": -0.14
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 428,
             "patrimonio": 31129082,
@@ -3480,9 +3677,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.87
                 }
-            ]
+            ],
+            "rentabilidad": 0.67
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.07,
             "participes": 446,
             "patrimonio": 31678528,
@@ -3576,9 +3775,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.86
                 }
-            ]
+            ],
+            "rentabilidad": -0.1
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.17,
             "participes": 465,
             "patrimonio": 29489161,
@@ -3680,9 +3881,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 2.03
                 }
-            ]
+            ],
+            "rentabilidad": -0.05
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.13,
             "participes": 478,
             "patrimonio": 32053581,
@@ -3784,9 +3987,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.89
                 }
-            ]
+            ],
+            "rentabilidad": -0.3
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.09,
             "participes": 481,
             "patrimonio": 33756660,
@@ -3896,9 +4101,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.82
                 }
-            ]
+            ],
+            "rentabilidad": -0.17
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.49,
             "participes": 478,
             "patrimonio": 33724662,
@@ -3992,9 +4199,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.84
                 }
-            ]
+            ],
+            "rentabilidad": 0.06
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.03,
             "participes": 495,
             "patrimonio": 36213698,
@@ -4088,9 +4297,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.73
                 }
-            ]
+            ],
+            "rentabilidad": 0.76
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 530,
             "patrimonio": 38700241,
@@ -4176,9 +4387,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.63
                 }
-            ]
+            ],
+            "rentabilidad": -0.53
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.03,
             "participes": 552,
             "patrimonio": 44768442,
@@ -4256,9 +4469,11 @@
                     "nombre": "OBLIGACION|REPSOL|4,63|2014-10-08",
                     "porcentaje": 1.39
                 }
-            ]
+            ],
+            "rentabilidad": -0.18
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.48,
             "participes": 550,
             "patrimonio": 46491199,
@@ -4320,9 +4535,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.31
                 }
-            ]
+            ],
+            "rentabilidad": 0.21
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 498,
             "patrimonio": 41781266,
@@ -4424,9 +4641,11 @@
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.14
                 }
-            ]
+            ],
+            "rentabilidad": -0.43
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 483,
             "patrimonio": 39933021,
@@ -4536,9 +4755,11 @@
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.19
                 }
-            ]
+            ],
+            "rentabilidad": 0.34
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 490,
             "patrimonio": 40601974,
@@ -4648,9 +4869,11 @@
                     "nombre": "DEPOSITOS|BBVA|2011-10-28",
                     "porcentaje": 1.17
                 }
-            ]
+            ],
+            "rentabilidad": 0.96
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 485,
             "patrimonio": 47370619,
@@ -4752,9 +4975,11 @@
                     "nombre": "DEPOSITOS|BBVA|2011-10-28",
                     "porcentaje": 1.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.21
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.0,
             "participes": 492,
             "patrimonio": 50158663,
@@ -4816,9 +5041,11 @@
                     "nombre": "DEPOSITOS|BBVA|2011-10-28",
                     "porcentaje": 0.95
                 }
-            ]
+            ],
+            "rentabilidad": -0.77
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 490,
             "patrimonio": 48542151,
@@ -4880,9 +5107,11 @@
                     "nombre": "DEPOSITOS|BBVA|2011-10-28",
                     "porcentaje": 0.98
                 }
-            ]
+            ],
+            "rentabilidad": 0.14
         },
         {
+            "gastos": 0.2,
             "indice_rotacion": 0.0,
             "participes": 490,
             "patrimonio": 36027462,
@@ -4952,9 +5181,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.82
                 }
-            ]
+            ],
+            "rentabilidad": -1.02
         },
         {
+            "gastos": 0.35,
             "indice_rotacion": 0.0,
             "participes": 501,
             "patrimonio": 37042587,
@@ -5024,9 +5255,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.73
                 }
-            ]
+            ],
+            "rentabilidad": 0.79
         },
         {
+            "gastos": 0.32,
             "indice_rotacion": 0.0,
             "participes": 495,
             "patrimonio": 36390403,
@@ -5112,9 +5345,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.81
                 }
-            ]
+            ],
+            "rentabilidad": 0.55
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
             "participes": 502,
             "patrimonio": 35258979,
@@ -5224,9 +5459,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.84
                 }
-            ]
+            ],
+            "rentabilidad": 0.21
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.0,
             "participes": 519,
             "patrimonio": 37963146,
@@ -5336,9 +5573,11 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.7
                 }
-            ]
+            ],
+            "rentabilidad": 0.13
         },
         {
+            "gastos": 0.34,
             "indice_rotacion": 0.0,
             "participes": 484,
             "patrimonio": 34492241,
@@ -5448,7 +5687,8 @@
                     "nombre": "OBLIGACION|REPSOL-YPF|4,63|2014-10-08",
                     "porcentaje": 1.84
                 }
-            ]
+            ],
+            "rentabilidad": 0.8
         }
     ],
     "id_cnmv": 63,

@@ -3,6 +3,153 @@
     "fecha_registro": "29/05/2015",
     "historico_periodos": [
         {
+            "gastos": 0.44,
+            "indice_rotacion": 0.0,
+            "participes": 128,
+            "patrimonio": 5698442,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 840000.0,
+                    "desde": "2015T3",
+                    "isin": null,
+                    "moneda": "euro",
+                    "nombre": "DEPOSITOS|Banco Caminos|2021-11-03",
+                    "porcentaje": 14.74
+                },
+                {
+                    "cantidad": 599254.0,
+                    "desde": "2017T4",
+                    "isin": "ES0313040034",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BANCA MARCH|0,10|2021-11-02",
+                    "porcentaje": 10.52
+                },
+                {
+                    "cantidad": 398964.0,
+                    "desde": "2020T4",
+                    "isin": "XS2259784333",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Cie Automotive SA|0,56|2021-05-13",
+                    "porcentaje": 7.0
+                },
+                {
+                    "cantidad": 297972.0,
+                    "desde": "2020T2",
+                    "isin": "XS2166025101",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Grupo Acciona|0,73|2021-04-23",
+                    "porcentaje": 5.23
+                },
+                {
+                    "cantidad": 227880.0,
+                    "desde": "2020T4",
+                    "isin": "DE0005785604",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|FRESENIUS AG",
+                    "porcentaje": 4.0
+                },
+                {
+                    "cantidad": 151000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0173093024",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Red Electrica Españo",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 146188.0,
+                    "desde": "2020T4",
+                    "isin": "DE0007164600",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SAP - AG",
+                    "porcentaje": 2.57
+                },
+                {
+                    "cantidad": 113360.0,
+                    "desde": "2021T1",
+                    "isin": "DE0005810055",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Deutsche Boerse",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 95160.0,
+                    "desde": "2021T1",
+                    "isin": "GB00B10RZP78",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Unilever PLC",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 89320.0,
+                    "desde": "2021T1",
+                    "isin": "ES0171996087",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Accs. Grifols S.A.",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 87880.0,
+                    "desde": "2021T1",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|IBERDROLA",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 77316.0,
+                    "desde": "2021T1",
+                    "isin": "US01609W1027",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Alibaba Group Hldng",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 74120.0,
+                    "desde": "2021T1",
+                    "isin": "NL0000395903",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|WOLTERS KLUWER",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 51700.0,
+                    "desde": "2021T1",
+                    "isin": "DE000SYM9999",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SYMRISE AG",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 49480.0,
+                    "desde": "2020T4",
+                    "isin": "DE000A27Z304",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BTCetc Bitcoin ETP",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 37040.0,
+                    "desde": "2021T1",
+                    "isin": "ES0130960018",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Enagas",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 32700.0,
+                    "desde": "2020T4",
+                    "isin": "ES0184933812",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ZARDOYA",
+                    "porcentaje": 0.57
+                }
+            ],
+            "rentabilidad": 1.16
+        },
+        {
+            "gastos": 0.45,
             "indice_rotacion": 0.22,
             "participes": 125,
             "patrimonio": 6906280,
@@ -96,9 +243,11 @@
                     "nombre": "ACCIONES|ZARDOYA",
                     "porcentaje": 0.5
                 }
-            ]
+            ],
+            "rentabilidad": -0.25
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 0.06,
             "participes": 125,
             "patrimonio": 7337676,
@@ -176,9 +325,11 @@
                     "nombre": "ACCIONES|TELEFONICA",
                     "porcentaje": 0.8
                 }
-            ]
+            ],
+            "rentabilidad": -1.49
         },
         {
+            "gastos": 0.44,
             "indice_rotacion": 0.22,
             "participes": 122,
             "patrimonio": 7459769,
@@ -248,9 +399,11 @@
                     "nombre": "ACCIONES|Nokia",
                     "porcentaje": 0.52
                 }
-            ]
+            ],
+            "rentabilidad": 4.28
         },
         {
+            "gastos": 0.42,
             "indice_rotacion": 0.17,
             "participes": 123,
             "patrimonio": 7747096,
@@ -320,9 +473,11 @@
                     "nombre": "ACCIONES|Nokia",
                     "porcentaje": 0.37
                 }
-            ]
+            ],
+            "rentabilidad": -2.14
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 0.33,
             "participes": 131,
             "patrimonio": 7978431,
@@ -392,9 +547,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.24
                 }
-            ]
+            ],
+            "rentabilidad": 0.52
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 0.14,
             "participes": 131,
             "patrimonio": 8025078,
@@ -488,9 +645,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.22
                 }
-            ]
+            ],
+            "rentabilidad": 0.28
         },
         {
+            "gastos": 0.42,
             "indice_rotacion": 0.31,
             "participes": 132,
             "patrimonio": 8113565,
@@ -656,9 +815,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.22
                 }
-            ]
+            ],
+            "rentabilidad": -0.05
         },
         {
+            "gastos": 0.44,
             "indice_rotacion": 0.23,
             "participes": 130,
             "patrimonio": 8838418,
@@ -816,9 +977,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.25
                 }
-            ]
+            ],
+            "rentabilidad": 1.25
         },
         {
+            "gastos": 0.46,
             "indice_rotacion": 0.21,
             "participes": 124,
             "patrimonio": 8666391,
@@ -936,9 +1099,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.21
                 }
-            ]
+            ],
+            "rentabilidad": -0.94
         },
         {
+            "gastos": 0.31,
             "indice_rotacion": 0.19,
             "participes": 125,
             "patrimonio": 9386981,
@@ -1096,9 +1261,11 @@
                     "nombre": "ACCIONES|Obrascón Huarte Laín",
                     "porcentaje": 0.07
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.43,
             "indice_rotacion": 0.28,
             "participes": 125,
             "patrimonio": 9626176,
@@ -1272,9 +1439,11 @@
                     "nombre": "ACCIONES|Obrascón Huarte Laín",
                     "porcentaje": 0.17
                 }
-            ]
+            ],
+            "rentabilidad": 1.7
         },
         {
+            "gastos": 0.42,
             "indice_rotacion": 0.01,
             "participes": 127,
             "patrimonio": 9984993,
@@ -1432,9 +1601,11 @@
                     "nombre": "ACCIONES|Obrascón Huarte Laín",
                     "porcentaje": 0.21
                 }
-            ]
+            ],
+            "rentabilidad": -0.76
         },
         {
+            "gastos": 0.41,
             "indice_rotacion": 0.04,
             "participes": 144,
             "patrimonio": 11776717,
@@ -1600,9 +1771,11 @@
                     "nombre": "ACCIONES|Nokia",
                     "porcentaje": 0.2
                 }
-            ]
+            ],
+            "rentabilidad": -1.3
         },
         {
+            "gastos": 0.41,
             "indice_rotacion": 0.0,
             "participes": 164,
             "patrimonio": 14014684,
@@ -1712,9 +1885,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.18
                 }
-            ]
+            ],
+            "rentabilidad": 0.06
         },
         {
+            "gastos": 0.81,
             "indice_rotacion": 0.0,
             "participes": 162,
             "patrimonio": 15554116,
@@ -1808,9 +1983,11 @@
                     "nombre": "ACCIONES|Lleidanetworks",
                     "porcentaje": 0.2
                 }
-            ]
+            ],
+            "rentabilidad": null
         },
         {
+            "gastos": 0.36,
             "indice_rotacion": 0.0,
             "participes": 165,
             "patrimonio": 20392905,
@@ -1928,9 +2105,11 @@
                     "nombre": "PARTICIPACIONES VANECK VECTORS GOLD MINERS E",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.57
         },
         {
+            "gastos": 0.37,
             "indice_rotacion": 0.0,
             "participes": 162,
             "patrimonio": 22200853,
@@ -2088,9 +2267,11 @@
                     "nombre": "ACCIONES KONINKLIJKE PHILIPS ELECTRONICS",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.0
         },
         {
+            "gastos": 0.37,
             "indice_rotacion": 0.0,
             "participes": 165,
             "patrimonio": 20696921,
@@ -2208,9 +2389,11 @@
                     "nombre": "ACCIONES KONINKLIJKE PHILIPS ELECTRONICS",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.22
         },
         {
+            "gastos": 0.38,
             "indice_rotacion": 0.0,
             "participes": 154,
             "patrimonio": 18723622,
@@ -2368,9 +2551,11 @@
                     "nombre": "PARTICIPACIONES MARKET VECTORS JR GOLD MINER",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 1.48
         },
         {
+            "gastos": 0.38,
             "indice_rotacion": 0.0,
             "participes": 143,
             "patrimonio": 15189228,
@@ -2488,9 +2673,11 @@
                     "nombre": "ACCIONES LINDE AG",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": 0.05
         },
         {
+            "gastos": 0.42,
             "indice_rotacion": 0.0,
             "participes": 119,
             "patrimonio": 13308881,
@@ -2696,9 +2883,11 @@
                     "nombre": "PARTICIPACIONES LYXOR ETF TURKEY",
                     "porcentaje": 0.0
                 }
-            ]
+            ],
+            "rentabilidad": -0.77
         },
         {
+            "gastos": 0.23,
             "indice_rotacion": 0.0,
             "participes": 99,
             "patrimonio": 9490148,
@@ -2856,7 +3045,8 @@
                     "nombre": "PARTICIPACIONES LYXOR ETF TURKEY",
                     "porcentaje": 0.1
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 4873,

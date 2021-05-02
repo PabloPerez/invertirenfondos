@@ -3,6 +3,89 @@
     "fecha_registro": "07/02/2020",
     "historico_periodos": [
         {
+            "gastos": 0.13,
+            "indice_rotacion": 0.0,
+            "participes": 539,
+            "patrimonio": 16828882,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 5083327.0,
+                    "desde": "2020T1",
+                    "isin": "IT0005323032",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|2,00|2028-02-01",
+                    "porcentaje": 30.2
+                },
+                {
+                    "cantidad": 5071356.0,
+                    "desde": "2020T1",
+                    "isin": "IT0004889033",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|4,75|2028-09-01",
+                    "porcentaje": 30.13
+                },
+                {
+                    "cantidad": 5068152.0,
+                    "desde": "2020T1",
+                    "isin": "IT0005340929",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIAN0|2,80|2028-12-01",
+                    "porcentaje": 30.11
+                },
+                {
+                    "cantidad": 805703.0,
+                    "desde": "2020T1",
+                    "isin": "IT0001278511",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|ESTADO ITALIAN0|5,25|2029-11-01",
+                    "porcentaje": 4.79
+                },
+                {
+                    "cantidad": 413371.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005422032",
+                    "moneda": "euro",
+                    "nombre": "BONO|CASSA DEPOSITI|1,00|2028-09-21",
+                    "porcentaje": 2.46
+                },
+                {
+                    "cantidad": 222374.0,
+                    "desde": "2020T1",
+                    "isin": "XS1953271225",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICREDIT SPA|4,88|2029-02-20",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 105586.0,
+                    "desde": "2020T1",
+                    "isin": "XS1645495349",
+                    "moneda": "euro",
+                    "nombre": "BONO|CAIXABANK|2,75|2028-07-14",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 15273.0,
+                    "desde": "2020T1",
+                    "isin": "ES0000011868",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|ESTADO ESPAÑOL|6,00|2029-01-31",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 11158.0,
+                    "desde": "2020T1",
+                    "isin": "ES0000012E51",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ESPAÑOL|1,45|2029-04-30",
+                    "porcentaje": 0.07
+                }
+            ],
+            "rentabilidad": -0.55
+        },
+        {
+            "gastos": 0.13,
             "indice_rotacion": 0.04,
             "participes": 585,
             "patrimonio": 18424106,
@@ -80,9 +163,11 @@
                     "nombre": "BONO|ESTADO ESPAÑOL|1,45|2029-04-30",
                     "porcentaje": 0.06
                 }
-            ]
+            ],
+            "rentabilidad": 2.42
         },
         {
+            "gastos": 0.13,
             "indice_rotacion": 0.04,
             "participes": 626,
             "patrimonio": 19472121,
@@ -160,9 +245,11 @@
                     "nombre": "BONO|ESTADO ESPAÑOL|1,45|2029-04-30",
                     "porcentaje": 0.06
                 }
-            ]
+            ],
+            "rentabilidad": 3.15
         },
         {
+            "gastos": 0.14,
             "indice_rotacion": 0.0,
             "participes": 532,
             "patrimonio": 15820756,
@@ -232,9 +319,11 @@
                     "nombre": "OBLIGACION|ESTADO ESPAÑOL|6,00|2029-01-31",
                     "porcentaje": 0.09
                 }
-            ]
+            ],
+            "rentabilidad": 2.38
         },
         {
+            "gastos": 0.16,
             "indice_rotacion": 0.0,
             "participes": 391,
             "patrimonio": 11396141,
@@ -304,7 +393,8 @@
                     "nombre": "BONO|ESTADO ESPAÑOL|1,45|2029-04-30",
                     "porcentaje": 0.09
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5430,

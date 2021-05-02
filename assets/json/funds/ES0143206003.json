@@ -3,6 +3,81 @@
     "fecha_registro": "07/06/2019",
     "historico_periodos": [
         {
+            "gastos": 0.39,
+            "indice_rotacion": 0.27,
+            "participes": 109,
+            "patrimonio": 2787953,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 701830.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02107099",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,56|2021-07-09",
+                    "porcentaje": 17.87
+                },
+                {
+                    "cantidad": 578593.0,
+                    "desde": "2020T4",
+                    "isin": "ES0L02106117",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,68|2021-06-11",
+                    "porcentaje": 14.73
+                },
+                {
+                    "cantidad": 401362.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02111125",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,53|2021-11-12",
+                    "porcentaje": 10.22
+                },
+                {
+                    "cantidad": 401250.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02110085",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,53|2021-10-08",
+                    "porcentaje": 10.21
+                },
+                {
+                    "cantidad": 160441.0,
+                    "desde": "2020T4",
+                    "isin": "ES0L02104161",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,54|2021-04-16",
+                    "porcentaje": 4.08
+                },
+                {
+                    "cantidad": 100279.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02108139",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,55|2021-08-13",
+                    "porcentaje": 2.55
+                },
+                {
+                    "cantidad": 100311.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02109103",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,55|2021-09-10",
+                    "porcentaje": 2.55
+                },
+                {
+                    "cantidad": 65208.0,
+                    "desde": "2020T4",
+                    "isin": "FR0126001793",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Francés|-0,64|2021-05-19",
+                    "porcentaje": 1.66
+                }
+            ],
+            "rentabilidad": -0.13
+        },
+        {
+            "gastos": 0.44,
             "indice_rotacion": 0.9,
             "participes": 104,
             "patrimonio": 1978214,
@@ -56,9 +131,11 @@
                     "nombre": "RENTA FIJA|Estado Francés|-0,64|2021-05-19",
                     "porcentaje": 2.09
                 }
-            ]
+            ],
+            "rentabilidad": -1.87
         },
         {
+            "gastos": 0.4,
             "indice_rotacion": 0.33,
             "participes": 105,
             "patrimonio": 2025686,
@@ -120,9 +197,11 @@
                     "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,50|2020-10-09",
                     "porcentaje": 0.3
                 }
-            ]
+            ],
+            "rentabilidad": 2.27
         },
         {
+            "gastos": 0.36,
             "indice_rotacion": 0.55,
             "participes": 105,
             "patrimonio": 2084381,
@@ -192,9 +271,11 @@
                     "nombre": "LETRA|DEUDA ESTADO ESPAÑOL|-0,50|2020-10-09",
                     "porcentaje": 0.32
                 }
-            ]
+            ],
+            "rentabilidad": 3.63
         },
         {
+            "gastos": 0.36,
             "indice_rotacion": 0.32,
             "participes": 48,
             "patrimonio": 1983355,
@@ -256,9 +337,11 @@
                     "nombre": "LETRA|DEUDA Eí|-0,50|2020-10-09",
                     "porcentaje": 0.33
                 }
-            ]
+            ],
+            "rentabilidad": -7.91
         },
         {
+            "gastos": 0.41,
             "indice_rotacion": 0.48,
             "participes": 28,
             "patrimonio": 2158131,
@@ -440,9 +523,11 @@
                     "nombre": "LETRA|DEUDA Eí|-0,58|2020-04-17",
                     "porcentaje": 0.32
                 }
-            ]
+            ],
+            "rentabilidad": 1.2
         },
         {
+            "gastos": 0.1,
             "indice_rotacion": 3.19,
             "participes": 7,
             "patrimonio": 333615,
@@ -536,14 +621,17 @@
                     "nombre": "LETRA|DEUDA Eí|-0,58|2020-04-17",
                     "porcentaje": 3.01
                 }
-            ]
+            ],
+            "rentabilidad": 1.03
         },
         {
+            "gastos": 0.0,
             "indice_rotacion": 0.0,
             "participes": 5,
             "patrimonio": 330000,
             "periodo": "2019T2",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5388,

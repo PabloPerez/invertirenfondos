@@ -3,6 +3,97 @@
     "fecha_registro": "28/02/2020",
     "historico_periodos": [
         {
+            "gastos": 0.5,
+            "indice_rotacion": 0.0,
+            "participes": 107,
+            "patrimonio": 31536948,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 6251288.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010251660",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Amund-Cash Corp.IC.C",
+                    "porcentaje": 19.82
+                },
+                {
+                    "cantidad": 6050176.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010017731",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Allianz Securicash S",
+                    "porcentaje": 19.18
+                },
+                {
+                    "cantidad": 3493382.0,
+                    "desde": "2020T2",
+                    "isin": "FR0011088657",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Amundi 3-6 M-I Cap",
+                    "porcentaje": 11.08
+                },
+                {
+                    "cantidad": 3490240.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000978371",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AXA IM Euro Liquidit",
+                    "porcentaje": 11.07
+                },
+                {
+                    "cantidad": 3330359.0,
+                    "desde": "2020T2",
+                    "isin": "LU0490618542",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF Xtrackers S&P Sw",
+                    "porcentaje": 10.56
+                },
+                {
+                    "cantidad": 1688336.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B4L5Y983",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF Ishares MSCI Wor",
+                    "porcentaje": 5.35
+                },
+                {
+                    "cantidad": 1647710.0,
+                    "desde": "2020T2",
+                    "isin": "LU0908500753",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF Lyxor Eurstx600",
+                    "porcentaje": 5.22
+                },
+                {
+                    "cantidad": 1488745.0,
+                    "desde": "2020T2",
+                    "isin": "IE00BQSBX418",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|GAM Star-MBS TOT RT",
+                    "porcentaje": 4.72
+                },
+                {
+                    "cantidad": 1108094.0,
+                    "desde": "2020T3",
+                    "isin": "LU1694214633",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Nordea 1 Low Dur Eur",
+                    "porcentaje": 3.51
+                },
+                {
+                    "cantidad": 686191.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B4ND3602",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ETC Ish Phys GoldE",
+                    "porcentaje": 2.18
+                }
+            ],
+            "rentabilidad": 1.45
+        },
+        {
+            "gastos": 0.51,
             "indice_rotacion": 0.08,
             "participes": 1,
             "patrimonio": 32449842,
@@ -88,9 +179,11 @@
                     "nombre": "ACCIONES|ETC Ish Phys GoldE",
                     "porcentaje": 2.25
                 }
-            ]
+            ],
+            "rentabilidad": 0.73
         },
         {
+            "gastos": 0.5,
             "indice_rotacion": 0.1,
             "participes": 1,
             "patrimonio": 33533967,
@@ -176,9 +269,11 @@
                     "nombre": "ACCIONES|ETC Ish Phys GoldE",
                     "porcentaje": 2.28
                 }
-            ]
+            ],
+            "rentabilidad": 0.25
         },
         {
+            "gastos": 0.48,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 34071903,
@@ -256,14 +351,17 @@
                     "nombre": "ACCIONES|ETF Ishares MSCI Glo",
                     "porcentaje": 2.2
                 }
-            ]
+            ],
+            "rentabilidad": 0.31
         },
         {
+            "gastos": 0.36,
             "indice_rotacion": 0.0,
             "participes": 1,
             "patrimonio": 298930,
             "periodo": "2020T1",
-            "posiciones": []
+            "posiciones": [],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5439,

@@ -3,6 +3,161 @@
     "fecha_registro": "05/05/2017",
     "historico_periodos": [
         {
+            "gastos": 0.28,
+            "indice_rotacion": 0.19,
+            "participes": 627,
+            "patrimonio": 139608378,
+            "periodo": "2021T1",
+            "posiciones": [
+                {
+                    "cantidad": 26826607.0,
+                    "desde": "2019T2",
+                    "isin": "ES0165142011",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Mutuafondo FIM",
+                    "porcentaje": 19.22
+                },
+                {
+                    "cantidad": 20892493.0,
+                    "desde": "2018T3",
+                    "isin": "ES0182631012",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Polar Renta Fija FI",
+                    "porcentaje": 14.97
+                },
+                {
+                    "cantidad": 15541841.0,
+                    "desde": "2021T1",
+                    "isin": "FR0012599645",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Groupama UltraSHTerm",
+                    "porcentaje": 11.13
+                },
+                {
+                    "cantidad": 10490111.0,
+                    "desde": "2020T1",
+                    "isin": "IE00B579F325",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ETN Source Phys Gold",
+                    "porcentaje": 7.51
+                },
+                {
+                    "cantidad": 7132508.0,
+                    "desde": "2020T1",
+                    "isin": "IE00B3VWN518",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF Ishares US",
+                    "porcentaje": 5.11
+                },
+                {
+                    "cantidad": 7051252.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010807123",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|R-CO Conv Credit Eur",
+                    "porcentaje": 5.05
+                },
+                {
+                    "cantidad": 3859841.0,
+                    "desde": "2018T3",
+                    "isin": "LU0454739615",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Robeco US Premium",
+                    "porcentaje": 2.76
+                },
+                {
+                    "cantidad": 3637089.0,
+                    "desde": "2020T1",
+                    "isin": "IE00BF5H4L99",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Seilern America",
+                    "porcentaje": 2.61
+                },
+                {
+                    "cantidad": 3324920.0,
+                    "desde": "2020T4",
+                    "isin": "LU0731783477",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Fidelity Gl Dividend",
+                    "porcentaje": 2.38
+                },
+                {
+                    "cantidad": 3268131.0,
+                    "desde": "2019T1",
+                    "isin": "LU0360482987",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Morgan ST Inv F-Glb",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 3185393.0,
+                    "desde": "2019T2",
+                    "isin": "ES0112611001",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AzValor Intern. FI",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 3180514.0,
+                    "desde": "2018T2",
+                    "isin": "IE00B7WC3B40",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|TRAD FD-F&C RE EQ",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 3167166.0,
+                    "desde": "2020T3",
+                    "isin": "IE00B5WN3467",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Comgest Growth Europ",
+                    "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 2509636.0,
+                    "desde": "2020T3",
+                    "isin": "IE00BDGV0L82",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|GQG Partners EM Mkt",
+                    "porcentaje": 1.8
+                },
+                {
+                    "cantidad": 2178972.0,
+                    "desde": "2017T3",
+                    "isin": "ES0172603005",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|EDM Radar Inversion",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 1837365.0,
+                    "desde": "2019T2",
+                    "isin": "LU0578148610",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BL Equities Japan-I",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 1411642.0,
+                    "desde": "2020T1",
+                    "isin": "LU0360484686",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|JPMorgan US Advantag",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 1062522.0,
+                    "desde": "2021T1",
+                    "isin": "LU1400167562",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Fidelity Asia Focus",
+                    "porcentaje": 0.76
+                }
+            ],
+            "rentabilidad": 0.93
+        },
+        {
+            "gastos": 0.3,
             "indice_rotacion": 0.35,
             "participes": 605,
             "patrimonio": 129706740,
@@ -144,9 +299,11 @@
                     "nombre": "PARTICIPACIONES|JPMorgan US Advantag",
                     "porcentaje": 0.97
                 }
-            ]
+            ],
+            "rentabilidad": 2.2
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.17,
             "participes": 576,
             "patrimonio": 127486785,
@@ -296,9 +453,11 @@
                     "nombre": "PARTICIPACIONES|JPMorgan US Advantag",
                     "porcentaje": 1.02
                 }
-            ]
+            ],
+            "rentabilidad": 1.2
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 1.22,
             "participes": 562,
             "patrimonio": 121770356,
@@ -448,9 +607,11 @@
                     "nombre": "PARTICIPACIONES|BL Equities Japan-I",
                     "porcentaje": 1.58
                 }
-            ]
+            ],
+            "rentabilidad": 6.03
         },
         {
+            "gastos": 0.3,
             "indice_rotacion": 0.76,
             "participes": 526,
             "patrimonio": 104389385,
@@ -600,9 +761,11 @@
                     "nombre": "PARTICIPACIONES|JPMorgan US Advantag",
                     "porcentaje": 1.67
                 }
-            ]
+            ],
+            "rentabilidad": -5.82
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.13,
             "participes": 554,
             "patrimonio": 109859642,
@@ -744,9 +907,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 1.25
                 }
-            ]
+            ],
+            "rentabilidad": 1.01
         },
         {
+            "gastos": 0.25,
             "indice_rotacion": 0.17,
             "participes": 519,
             "patrimonio": 105117850,
@@ -888,9 +1053,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 1.27
                 }
-            ]
+            ],
+            "rentabilidad": 0.46
         },
         {
+            "gastos": 0.25,
             "indice_rotacion": 0.9,
             "participes": 487,
             "patrimonio": 99537677,
@@ -1048,9 +1215,11 @@
                     "nombre": "PARTICIPACIONES|COBAS INTERNACIONAL",
                     "porcentaje": 0.42
                 }
-            ]
+            ],
+            "rentabilidad": 0.52
         },
         {
+            "gastos": 0.26,
             "indice_rotacion": 0.44,
             "participes": 457,
             "patrimonio": 89205582,
@@ -1192,9 +1361,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 1.28
                 }
-            ]
+            ],
+            "rentabilidad": 4.01
         },
         {
+            "gastos": 0.28,
             "indice_rotacion": 0.67,
             "participes": 419,
             "patrimonio": 76343337,
@@ -1328,9 +1499,11 @@
                     "nombre": "PARTICIPACIONES|Schroder Itl US SMMC",
                     "porcentaje": 1.83
                 }
-            ]
+            ],
+            "rentabilidad": -4.69
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.39,
             "participes": 435,
             "patrimonio": 89498267,
@@ -1472,9 +1645,11 @@
                     "nombre": "PARTICIPACIONES|Schroder Itl US SMMC",
                     "porcentaje": 1.76
                 }
-            ]
+            ],
+            "rentabilidad": 0.4
         },
         {
+            "gastos": 0.31,
             "indice_rotacion": 0.11,
             "participes": 428,
             "patrimonio": 87493476,
@@ -1632,9 +1807,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 1.27
                 }
-            ]
+            ],
+            "rentabilidad": -0.17
         },
         {
+            "gastos": 0.29,
             "indice_rotacion": 0.01,
             "participes": 353,
             "patrimonio": 67439667,
@@ -1792,9 +1969,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 0.5
                 }
-            ]
+            ],
+            "rentabilidad": -0.88
         },
         {
+            "gastos": 0.34,
             "indice_rotacion": 0.22,
             "participes": 257,
             "patrimonio": 31132336,
@@ -1952,9 +2131,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 0.42
                 }
-            ]
+            ],
+            "rentabilidad": 0.55
         },
         {
+            "gastos": 0.32,
             "indice_rotacion": 0.26,
             "participes": 226,
             "patrimonio": 22290307,
@@ -2112,9 +2293,11 @@
                     "nombre": "PARTICIPACIONES|Uni-Global-Eq Europ",
                     "porcentaje": 0.59
                 }
-            ]
+            ],
+            "rentabilidad": 0.37
         },
         {
+            "gastos": 0.18,
             "indice_rotacion": 0.0,
             "participes": 58,
             "patrimonio": 12936899,
@@ -2256,7 +2439,8 @@
                     "nombre": "PARTICIPACIONES|Schroder Itl US SMMC",
                     "porcentaje": 0.41
                 }
-            ]
+            ],
+            "rentabilidad": null
         }
     ],
     "id_cnmv": 5159,
