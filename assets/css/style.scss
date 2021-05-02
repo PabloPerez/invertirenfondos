@@ -91,6 +91,10 @@ body {
     height: 6.5rem;            /* Footer height */
 }
 
+.nav-icon {
+    max-height: 2em;
+}
+
 @media (max-width: 1200px) {
     .isincolumn, .isintd, .amounttd, .amountcolumn {
       display: none;
