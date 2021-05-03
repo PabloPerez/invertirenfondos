@@ -39,7 +39,7 @@
   <body>
   {% include navbar.html %}  
   <h1 class="text-center">Fondos con {{ page.title }} {{ page.isin }}</h1>
-  {%- assign slug = page.isin | slugify %}
+  {%- assign slug = page.isin | upcase | slugify %}
   <div id="asset-container" class="container">
     <div id="quarter">
       <span id="previous-quarter">◀</span>

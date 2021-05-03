@@ -39,7 +39,7 @@
     {% include navbar.html %}  
     <div id='post-container' class='container'>
         <h1 class="text-center">{{page.title}}</h1>
-        {%- assign slug = page.slug | slugify %}
+        {%- assign slug = page.slug | upcase | slugify %}
         <br/>
         <p class="lead">{% assign m = page.date | date: "%-m" %}
             {{ page.date | date: "%-d" }}

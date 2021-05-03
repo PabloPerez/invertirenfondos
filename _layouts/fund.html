@@ -37,7 +37,7 @@
   <body>
   {% include navbar.html %}  
   <h1 class="text-center">Posiciones {{ page.title }} {{ page.isin }}</h1>
-  {%- assign slug = page.isin | slugify %}
+  {%- assign slug = page.isin | upcase | slugify %}
   <div id="fund-container" class="container">
 
     <div id="quarter">
