@@ -79,7 +79,20 @@ async function populatePositions(fundIsin) {
     document.querySelector('#assets').innerHTML = `${assets.toLocaleString()} €`;
     let participants = fundData.historico_periodos[pos].participes;
     document.querySelector('#participants').innerHTML = participants;
-    let positions = fundData.historico_periodos[pos].posiciones;
+
+    let returns = fundData.historico_periodos[pos].rentabilidad
+    if (returns){
+        document.querySelector('#returns').innerHTML = returns;
+        document.querySelector('#returns-row').style.display = 'initial';
+    }
+    let expenses = fundData.historico_periodos[pos].gastos
+    if (expenses){
+        document.querySelector('#expenses').innerHTML = expenses;
+        document.querySelector('#expenses-row').style.display = 'initial';
+    }
+    
+    document.querySelector('#assets').innerHTML = `${assets.toLocaleString()} €`;
+    let participants = fundData.historico_periodos[pos].participes;
 
     document.querySelector('#previous-quarter').style.visibility = "visible";
     document.querySelector('#next-quarter').style.visibility = "visible";    
@@ -90,6 +103,7 @@ async function populatePositions(fundIsin) {
         document.querySelector('#previous-quarter').style.visibility = "hidden";
     } 
 
+    let positions = fundData.historico_periodos[pos].posiciones;
 
     tableBody = document.querySelector('#positions-table tbody')
     tableBody.innerHTML = ''
