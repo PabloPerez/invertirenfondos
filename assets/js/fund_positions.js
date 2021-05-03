@@ -91,9 +91,6 @@ async function populatePositions(fundIsin) {
         document.querySelector('#expenses-row').style.display = 'initial';
     }
     
-    document.querySelector('#assets').innerHTML = `${assets.toLocaleString()} €`;
-    let participants = fundData.historico_periodos[pos].participes;
-
     document.querySelector('#previous-quarter').style.visibility = "visible";
     document.querySelector('#next-quarter').style.visibility = "visible";    
 
