@@ -83,12 +83,12 @@ async function populatePositions(fundIsin) {
     let returns = fundData.historico_periodos[pos].rentabilidad
     if (returns){
         document.querySelector('#returns').innerHTML = returns;
-        document.querySelector('#returns-row').style.display = 'initial';
+        document.querySelector('#returns-row').style.display = 'table-row';
     }
     let expenses = fundData.historico_periodos[pos].gastos
     if (expenses){
         document.querySelector('#expenses').innerHTML = expenses;
-        document.querySelector('#expenses-row').style.display = 'initial';
+        document.querySelector('#expenses-row').style.display = 'table-row';
     }
     
     document.querySelector('#previous-quarter').style.visibility = "visible";
