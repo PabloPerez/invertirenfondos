@@ -1,0 +1,259 @@
+<script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"></script>
+<script src="assets/js/bootstrap-slider.min.js"></script>
+<p id="table-label">Aquí puedes comparar distintos parámetros de los fondos de inversión que selecciones durante los periodos que quieras.</p>
+<input type="text" class="form-control autocomplete mb-3" id="autocomplete-input" autocomplete="off" placeholder="ISIN o Nombre para añadir un fondo" aria-describedby="isin-name-description">
+<div id="fund-pills" class="mb-3"></div>
+<div id="param-selector" class="btn-group btn-group-lg d-flex justify-content-center mb-4" role="group" aria-label="Selector de atributo a comparar">
+    <button id="patrimonio-button" type="button" class="btn btn-secondary" onclick="updateParam('patrimonio', this.id)">Patrimonio</button>
+    <button id="participes-button" type="button" class="btn btn-secondary" onclick="updateParam('participes', this.id)">Partícipes</button>
+    <button id="indice_rotacion-button" type="button" class="btn btn-secondary" onclick="updateParam('indice_rotacion', this.id)">Rotación</button>
+    <button id="rentabilidad-button" type="button" class="btn btn-secondary" onclick="updateParam('rentabilidad', this.id)">Rentabilidad</button>  
+    <button id="gastos-button" type="button" class="btn btn-secondary" onclick="updateParam('gastos', this.id)">Gastos</button>
+</div>
+<input id="timerange" type="text" data-slider-lock-to-ticks="true"/>
+
+<div>
+    <canvas id="myChart" class="mt-3"></canvas>
+</div>
+<script src="assets/js/funds.js"> </script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+
+    function updateParam(param, buttonId) {
+        document.querySelectorAll('#param-selector button').forEach(node =>{
+            node.classList.remove('btn-primary')
+            node.classList.add('btn-secondary')
+        })
+        document.getElementById(buttonId).classList.add('btn-primary')
+        document.getElementById(buttonId).classList.remove('btn-secondary')
+        labelIndexes = undefined
+        if(typeof slider !== "undefined"){
+            labelIndexes = document.querySelector('#timerange').value.split(',').map(s => Number(s))
+        }
+        parameter = param
+        updateChart(funds, labelIndexes, param)
+    }
+
+    function debounce(func, wait, immediate) {
+        var timeout;
+        return function() {
+            var context = this, args = arguments;
+            var later = function() {
+                timeout = null;
+                if (!immediate) func.apply(context, args);
+            };
+            var callNow = immediate && !timeout;
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+            if (callNow) func.apply(context, args);
+        };
+    }
+
+    const colorScheme = ["#3366cc","#dc3912","#ff9900","#109618","#990099","#0099c6","#dd4477","#66aa00","#b82e2e","#316395","#994499","#22aa99","#aaaa11","#6633cc","#e67300","#8b0707","#651067","#329262","#5574a6","#3b3eac","#b77322","#16d620","#b91383","#f4359e","#9c5935","#a9c413","#2a778d","#668d1c","#bea413","#0c5922","#743411"]
+    function addFundPill(name) {
+        let pill = document.createElement('button');
+        pill.innerText = name;
+        pill.classList.add("btn")
+        pill.classList.add("btn-primary")
+        pill.classList.add("mr-3")
+        pill.classList.add("mb-2")
+
+        let closePill = document.createElement('button');
+        closePill.innerText = '×';
+        closePill.classList.add("close")
+        closePill.classList.add("close-pill")
+        closePill.addEventListener("click", function() { deleteFundPill(name); })
+
+        pill.prepend(closePill);
+        document.querySelector('#fund-pills').appendChild(pill);
+    }
+
+    function deleteFundPill(name) {
+        funds = funds.filter(function(el) { return el.text !=name; }); 
+        document.querySelectorAll('#fund-pills button').forEach(node =>{
+            if (node.innerText.includes(name)) {
+                node.remove();
+                return
+            }
+        })
+        updateChart(funds, undefined, parameter);
+    }
+
+    var urlParams = new URLSearchParams(window.location.search);
+
+    var funds= urlParams.get("funds") ? urlParams.get("funds").split(",").map(s => {addFundPill(FUNDS[s].nombre) ;return {isin: s, text : FUNDS[s].nombre}}) : []; 
+    console.log("funds")
+    console.log(funds)
+    var myChart;
+    var slider;
+    var parameter = urlParams.get("param") || "patrimonio"
+    document.querySelector(`#${parameter}-button`)?.classList.add('btn-primary')
+    document.querySelector(`#${parameter}-button`)?.classList.remove('btn-secondary')
+    var labelIndexes = urlParams.get("periods")?.split(',').map(s =>Number(s)) 
+
+    $('#autocomplete-input').autoComplete({
+        resolver: 'custom',
+        events: {
+            search: function (qry, callback) {
+                results = [];
+                qry = qry.toUpperCase();
+                if (qry.length >= 3) {
+                    if (!qry.startsWith('ES0')) {
+                        for (const isin in FUNDS) {
+                            if (FUNDS[isin].nombre.includes(qry)) {
+                                results.push({"isin": isin, "text":FUNDS[isin].nombre})
+                            }
+                        }
+                    } else {
+                        if (qry.length > 8) {
+                            for (const isin in FUNDS) {
+                                if (isin.includes(qry)) {
+                                    results.push({"isin": isin, "text":FUNDS[isin].nombre})
+                                }
+                            }
+                        }
+                    }
+                }
+                callback(results)
+            }
+        }
+    });
+    $('#autocomplete-input').on('autocomplete.select', function(evt, item) {
+        funds.push(item)
+        addFundPill(item.text)
+        document.querySelector('#autocomplete-input').value = ''
+        updateChart(funds, undefined, parameter)
+    });
+
+    async function updateChart(funds, labelIndexes, param) {
+        var fundsData = {}
+        parameter = param? param: parameter
+
+        labels = new Set()
+
+        for (let i = 0; i < funds.length; i++) {
+            let value = funds[i].isin;
+            try {
+                response = (await axios.get(`../assets/json/funds/${value}.json`)).data;
+                fundsData[value] = response
+                response.historico_periodos.forEach(period => {
+                    //console.log(labels)
+                    labels.add(period.periodo)
+                })
+            }
+            catch (error) {
+                console.error(error);
+            }
+        }
+
+        labels = Array.from(labels).sort();
+
+        console.log("labelindexes")
+        console.log(labelIndexes)
+        if (labelIndexes){
+            chartLabels = labels.slice(labelIndexes[0], labelIndexes[1]+1);
+            sliderValues = labelIndexes
+        } else {
+            chartLabels = labels;
+            sliderValues =  [0, labels.length]
+        }
+
+        if (funds.length != 0 && (!labelIndexes || !myChart)){
+            if(typeof slider !== "undefined"){
+                try {
+                    slider.destroy();
+                }
+                catch {} 
+            }
+
+            slider = new Slider('#timerange', {
+                ticks: ([...new Array(labels.length)]).map((e,i) => i),
+                ticks_labels: labels.map((e) => {
+                    if (e.includes('T1')){
+                        return e.substring(0,4)
+                    }
+                    else {
+                        return ''
+                    }
+                }),
+                value: sliderValues,
+                formatter: function(value) {
+                    if (Array.isArray(value)){
+                        return  labels[value[0]] + ':' + labels[value[1]];
+                    }
+                }
+            });
+            slider.on("change", function(sliderValue) {
+                setTimeout(debounce(function() {updateChart(funds, sliderValue.newValue)}, 250), 100);
+            });
+        } else {
+            if (funds.length == 0 && typeof slider !== "undefined") {
+                try {
+                    slider.destroy();
+                }
+                catch {} 
+            }
+        }
+
+        datasets = []
+
+        Object.entries(fundsData).forEach((entry, index) => {
+            const [isin, value] = entry;
+            valueToChart = parameter
+            periodValues = value.historico_periodos.reduce((acc, e) => (acc[e.periodo] = e[valueToChart], acc), {});
+            d = chartLabels.map(l => {
+                    if (l in periodValues){
+                        return periodValues[l]
+                    } else {
+                        return null
+                    }
+                })
+            datasets.push({
+                label: value.nombre,
+                data: d,
+                backgroundColor: colorScheme[index % colorScheme.length],
+                borderColor: colorScheme[index % colorScheme.length]
+            })
+        });
+        
+        const data = {
+            labels: chartLabels,
+            datasets: datasets
+        };
+
+        const config = {
+            type: 'line',
+            data,
+            options: {}
+        };
+
+        if(typeof myChart !== "undefined"){
+            myChart.destroy();
+            config.options = {
+                scales: {
+                    y: {
+                        title: {
+                            display: true,
+                            text: parameter,
+                            font: {
+                                size: 14
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        myChart = new Chart(
+            document.getElementById('myChart'),
+            config
+        );
+        if (funds.length>0) {
+            console.log(funds)
+            window.history.pushState({}, document.title, `${window.location.pathname}?funds=${funds.map(f=>f.isin).join(',')}&periods=${sliderValues}&param=${parameter}`);
+        }
+
+    }
+
+    updateChart(funds, labelIndexes, parameter);
+</script>

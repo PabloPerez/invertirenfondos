@@ -3,6 +3,7 @@
 
 @import "bootstrap/bootstrap";
 @import "comment-styles";
+@import "bootstrap-slider.min";
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:700,900");
 
 table {
@@ -116,9 +117,28 @@ body {
   .container {
     padding-bottom: 8.1rem;
   }
+  #param-selector {
+    flex-wrap: wrap
+  }
+  #param-selector>button{
+    border-radius: 0.3em;
+    margin: 0.1em;
+  }
 }
 
 #expenses-row,
 #returns-row {
+  display: none;
+}
+
+.close-pill {
+  padding-left: 5px !important;
+}
+
+.slider-horizontal {
+  width: 100% !important;
+}
+
+#timerange {
   display: none;
 }
