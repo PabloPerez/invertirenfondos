@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FRANKLIN TEMPLET INT SERV SARL
+isin: IE00BQQPSH35
+---

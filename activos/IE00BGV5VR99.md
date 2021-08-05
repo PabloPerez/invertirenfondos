@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|XTRACKERS FUTURE
+isin: IE00BGV5VR99
+---

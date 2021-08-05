@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF INVESCO MSCI WOR
+isin: IE00BJQRDK83
+---

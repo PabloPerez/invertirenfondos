@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PART.PIMCO GIS COMMODI REAL RE-IEURUA
+isin: IE0005YFAVJ3
+---

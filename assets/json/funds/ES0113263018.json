@@ -1,7 +1,33 @@
 {
-    "auditora": "-",
+    "auditora": "Deloitte, S.L.",
     "fecha_registro": "25/09/2020",
     "historico_periodos": [
+        {
+            "gastos": 0.31,
+            "indice_rotacion": 0.18,
+            "participes": 557,
+            "patrimonio": 6016146,
+            "periodo": "2021T2",
+            "posiciones": [
+                {
+                    "cantidad": 1196065.0,
+                    "desde": "2020T4",
+                    "isin": "LU2056739464",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Lyx World Clima",
+                    "porcentaje": 18.66
+                },
+                {
+                    "cantidad": 1113104.0,
+                    "desde": "2020T4",
+                    "isin": "LU1602144492",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI GLOBCLIM",
+                    "porcentaje": 17.36
+                }
+            ],
+            "rentabilidad": 6.2
+        },
         {
             "gastos": 0.04,
             "indice_rotacion": 0.19,
@@ -66,10 +92,10 @@
     ],
     "id_cnmv": 5475,
     "id_cnmv_depositaria": 236,
-    "id_cnmv_gestora": 85,
+    "id_cnmv_gestora": 15,
     "isin": "ES0113263018",
     "nif": "V01748870",
-    "nombre": "BANKIA INDEX CLIMA MUNDIAL, FI CLASE INTERNA",
+    "nombre": "CAIXABANK INDEX CLIMA MUNDIAL, FI CLASE INTERNA",
     "nombre_depositaria": "CECABANK, S.A.",
-    "nombre_gestora": "BANKIA FONDOS, S.G.I.I.C., S.A."
+    "nombre_gestora": "CAIXABANK ASSET MANAGEMENT SGIIC, S.A."
 }

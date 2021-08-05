@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|METALCORP GROUP SA|6,250|2026-06-28
+isin: DE000A3KRAP3
+---

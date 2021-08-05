@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|VP HEALTHCARE-CLS A USD
+isin: IE00BSM8VZ90
+---

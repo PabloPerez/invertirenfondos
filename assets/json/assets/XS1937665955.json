@@ -3,31 +3,391 @@
         {
             "fondos": [
                 {
+                    "cantidad": 1600000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369001",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI BASE",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 1600000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369019",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI EMPRESA",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 1600000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369027",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PLUS",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 1600000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369035",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PREMIER",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 1600000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369043",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PYME",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 161226.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 161226.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 746000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607009",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI BASE",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 746000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607017",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI EMPRESA",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 746000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607025",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PLUS",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 746000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607033",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PREMIER",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 746000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607041",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PYME",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 2120000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0117091035",
+                    "nombre": "BBVA CREDITO EUROPA, FI",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 530575.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769005",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 530575.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769013",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 530575.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769021",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 530575.0,
+                    "desde": "2021T1",
+                    "isin": "ES0114769039",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE INTERNA",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 1567014.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782007",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE A",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 1567014.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782015",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE C",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 1567014.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782023",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE I",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 404326.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606000",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE A",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 404326.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606018",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE C",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 404326.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606026",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE I",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 108649.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 108649.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "porcentaje": 0.05
+                }
+            ],
+            "periodo": "2021T2"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 161544.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 161544.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369001",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI BASE",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369019",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI EMPRESA",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369027",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PLUS",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369035",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PREMIER",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 1387000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0166369043",
+                    "nombre": "SABADELL ACUMULA SOSTENIBLE, FI PYME",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 427000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607009",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI BASE",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 427000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607017",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI EMPRESA",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 427000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607025",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PLUS",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 427000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607033",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PREMIER",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 427000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0179607041",
+                    "nombre": "SABADELL CRECE SOSTENIBLE, FI PYME",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 531560.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769005",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 531560.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769013",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 531560.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114769021",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 531560.0,
+                    "desde": "2021T1",
+                    "isin": "ES0114769039",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE INTERNA",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1571929.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782007",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE A",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 1571929.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782015",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE C",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 1571929.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107782023",
+                    "nombre": "SANTANDER SOSTENIBLE 1, FI CLASE I",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 405699.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606000",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE A",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 405699.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606018",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE C",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 405699.0,
+                    "desde": "2019T1",
+                    "isin": "ES0113606026",
+                    "nombre": "SANTANDER SOSTENIBLE 2, FI CLASE I",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 108715.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 108715.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "porcentaje": 0.04
+                }
+            ],
+            "periodo": "2021T1"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 162010.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 162010.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 1.26
+                },
+                {
                     "cantidad": 534000.0,
                     "desde": "2020T2",
                     "isin": "ES0114769005",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.71
                 },
                 {
                     "cantidad": 534000.0,
                     "desde": "2020T2",
                     "isin": "ES0114769013",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
                     "porcentaje": 0.71
                 },
                 {
                     "cantidad": 534000.0,
                     "desde": "2020T2",
                     "isin": "ES0114769021",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
-                    "porcentaje": 0.71
-                },
-                {
-                    "cantidad": 534000.0,
-                    "desde": "2020T4",
-                    "isin": "ES0114769039",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE INTERNA",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.71
                 },
                 {
@@ -232,24 +592,38 @@
                     "porcentaje": 1.32
                 },
                 {
+                    "cantidad": 161446.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 161446.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 1.29
+                },
+                {
                     "cantidad": 213156.0,
                     "desde": "2020T2",
                     "isin": "ES0114769005",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.66
                 },
                 {
                     "cantidad": 213156.0,
                     "desde": "2020T2",
                     "isin": "ES0114769013",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
                     "porcentaje": 0.66
                 },
                 {
                     "cantidad": 213156.0,
                     "desde": "2020T2",
                     "isin": "ES0114769021",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.66
                 },
                 {
@@ -335,24 +709,38 @@
         {
             "fondos": [
                 {
+                    "cantidad": 160105.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 160105.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 1.3
+                },
+                {
                     "cantidad": 211630.0,
                     "desde": "2020T2",
                     "isin": "ES0114769005",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 211630.0,
                     "desde": "2020T2",
                     "isin": "ES0114769013",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE PLUS",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 211630.0,
                     "desde": "2020T2",
                     "isin": "ES0114769021",
-                    "nombre": "BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
+                    "nombre": "CAIXABANK BANKIA MIXTO FUTURO SOSTENIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.82
                 },
                 {
@@ -444,6 +832,20 @@
         },
         {
             "fondos": [
+                {
+                    "cantidad": 153312.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 153312.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 0.98
+                },
                 {
                     "cantidad": 511039.0,
                     "desde": "2019T2",
@@ -581,6 +983,20 @@
                     "isin": "ES0175185000",
                     "nombre": "SANTANDER RF HORIZONTE 2025, FI",
                     "porcentaje": 2.73
+                },
+                {
+                    "cantidad": 160182.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 160182.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 0.95
                 },
                 {
                     "cantidad": 1064023.0,
@@ -728,6 +1144,20 @@
                     "porcentaje": 1.06
                 },
                 {
+                    "cantidad": 161071.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 161071.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 0.96
+                },
+                {
                     "cantidad": 1071652.0,
                     "desde": "2019T1",
                     "isin": "ES0137896009",
@@ -761,6 +1191,13 @@
                     "isin": "ES0113608014",
                     "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 160622.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107942007",
+                    "nombre": "SANTANDER RENTA FIJA FLEXIBLE, FI CLASE A",
+                    "porcentaje": 0.29
                 },
                 {
                     "cantidad": 1826850.0,
@@ -866,6 +1303,20 @@
                     "porcentaje": 1.22
                 },
                 {
+                    "cantidad": 159593.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230005",
+                    "nombre": "CALIOPE, FI INSTITUCIONAL",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 159593.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109230013",
+                    "nombre": "CALIOPE, FI ESTÁNDAR",
+                    "porcentaje": 0.96
+                },
+                {
                     "cantidad": 1063431.0,
                     "desde": "2019T1",
                     "isin": "ES0137896009",
@@ -892,6 +1343,13 @@
                     "isin": "ES0102564038",
                     "nombre": "IBERCAJA SOSTENIBLE Y SOLIDARIO, FI",
                     "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 159385.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107942007",
+                    "nombre": "SANTANDER RENTA FIJA FLEXIBLE, FI CLASE A",
+                    "porcentaje": 0.3
                 },
                 {
                     "cantidad": 1810332.0,
@@ -1009,6 +1467,13 @@
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 155797.0,
+                    "desde": "2019T1",
+                    "isin": "ES0107942007",
+                    "nombre": "SANTANDER RENTA FIJA FLEXIBLE, FI CLASE A",
+                    "porcentaje": 0.32
                 },
                 {
                     "cantidad": 1007477.0,

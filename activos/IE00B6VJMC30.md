@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BNY MELLON EM CORP
+isin: IE00B6VJMC30
+---

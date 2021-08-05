@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELLINGTON FINTECH S (EU
+isin: IE00BL0BNS87
+---

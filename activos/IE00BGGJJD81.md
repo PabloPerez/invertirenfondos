@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BAILLIE GIFFORD INV
+isin: IE00BGGJJD81
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NOMURA JPA SMALL C
+isin: IE00BJCW7L63
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|EUROPEAN STABILITY M|-0,598|2022-05-12
+isin: EU000A3JZQC6
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI WOR
+isin: IE00BFNM3J75
+---

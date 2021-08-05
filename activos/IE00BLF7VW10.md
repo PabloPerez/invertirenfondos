@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR BLOOMBERG SB CR
+isin: IE00BLF7VW10
+---

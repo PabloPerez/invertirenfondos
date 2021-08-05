@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|CRABEL GEMINI UCITS FUND
+isin: IE00BKPFD774
+---

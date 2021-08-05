@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF S&PDIVIDEND ARIS
+isin: IE00BMP3HG27
+---
