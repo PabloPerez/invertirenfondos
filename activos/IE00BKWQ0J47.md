@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF X MSCI World-IC
+title: PARTICIPACIONES|ETF SPDR MSCI Eur In
 isin: IE00BKWQ0J47
 ---

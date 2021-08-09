@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CCR SA
+title: AC.CIA DE CONCESSOES RODOVIARIA (BRL)
 isin: BRCCROACNOR2
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: MARFRIG ALIMENTOS SA
+title: ACCIONES|MARFRIG GLOBAL FOODS SA
 isin: BRMRFGACNOR0
 ---

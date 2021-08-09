@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Muzinich L|S Cr
+title: IIC Muzinich Long Short Credit Yield N (EURHDG) 
 isin: IE00BH3WKV28
 ---

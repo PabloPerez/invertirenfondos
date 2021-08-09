@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MUZINICH & CO LTD
+title: PARTICIPACIONES|MUZINICH & CO INC|IRELAND
 isin: IE00BDT6FZ99
 ---

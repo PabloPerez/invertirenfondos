@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: CYRELA BRAZIL REALTY S.A.-BRL-
+title: ACCIONES|Cyrela Braz Rlty
 isin: BRCYREACNOR7
 ---

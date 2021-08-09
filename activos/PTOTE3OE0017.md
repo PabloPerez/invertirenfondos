@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OBLIGACION|REPUB PORTUGAL|3,35|2015-10-15
+title: Bonos|REPUBLICA DE PORTUGAL|3,350|2015-10-15
 isin: PTOTE3OE0017
 ---

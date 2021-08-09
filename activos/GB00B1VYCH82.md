@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|THOMAS COOK GRO
+title: ACCIONES|THOMAS COOK
 isin: GB00B1VYCH82
 ---

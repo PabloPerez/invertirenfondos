@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: TELE NORTE LESTE-BRL-
+title: ACCIONES|TELE NORTE LESTE  PARTICIPACOES
 isin: BRTNLPACNOR3
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ARTEMIS FUND MANAGERS
+title: PARTICIPACIONES|ARTEMIS INVESTMENT
 isin: GB00BMMV5M10
 ---

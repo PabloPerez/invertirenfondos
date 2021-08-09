@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: NET SEVICOS DE COMUNIC-PREF BR
+title: ACCIONES|NET SERVICOS DE COMUNI
 isin: BRNETCACNPR3
 ---

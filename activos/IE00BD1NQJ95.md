@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ACTAVIS INC
+title: ACCIONES|ACTAVIS PLC
 isin: IE00BD1NQJ95
 ---

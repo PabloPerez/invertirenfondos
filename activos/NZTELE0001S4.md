@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.SPARK NEW ZEALAND LTD (NZD)
+title: ACCIONES|SPARK NEW ZEALAND LT
 isin: NZTELE0001S4
 ---

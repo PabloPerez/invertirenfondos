@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Comgest Growth Europ
+title: PARTICIPACIONES|COMGEST ASSET MANAGEMENT INTER
 isin: IE00BDZQR684
 ---

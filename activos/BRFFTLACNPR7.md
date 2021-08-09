@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: VALE FERTILIZANTES SA
+title: ACCIONES|VALE FERTILIZANTES
 isin: BRFFTLACNPR7
 ---

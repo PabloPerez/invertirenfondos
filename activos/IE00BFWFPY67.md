@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF SPDR Bloomberg B
+title: ETF|SPDR BLOOMBERG BARCL
 isin: IE00BFWFPY67
 ---

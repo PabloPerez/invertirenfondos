@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BEAZLEY PLC
+title: Acciones|BEAZLEY PLC
 isin: GB00BYQ0JC66
 ---

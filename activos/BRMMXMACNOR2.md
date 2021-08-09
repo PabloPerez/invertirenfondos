@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: MMX MINERACAO E METALICOS SA
+title: ACCIONES|MMX MINERACAO
 isin: BRMMXMACNOR2
 ---

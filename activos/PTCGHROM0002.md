@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: EUROB. CAIXA GERAL DEPOS FRN 05|10                          
+title: OBLIGACION|CAIXA GENERAL DEPOS|1,31|2010-05-21
 isin: PTCGHROM0002
 ---

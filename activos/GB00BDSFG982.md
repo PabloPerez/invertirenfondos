@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|FTI US TechnipFMC PLC
+title: Acciones|TECHNIPFMC PLC
 isin: GB00BDSFG982
 ---

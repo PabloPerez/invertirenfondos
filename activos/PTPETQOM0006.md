@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: R.|PARPUBLICA|3,50|2013-07-08
+title: RENTA FIJA|Parpublica|3,50|2013-07-08
 isin: PTPETQOM0006
 ---

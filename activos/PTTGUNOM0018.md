@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|VOLTA ELECTRICITY RECEIVABLES|0,34
+title: RENTA FIJA|VOLTA ELECTRICITY|4,17|2017-02-16
 isin: PTTGUNOM0018
 ---

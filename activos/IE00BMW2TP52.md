@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|LAZARD GLOB CONV REC
+title: Participaciones|LAZARD FUND MANAGERS
 isin: IE00BMW2TP52
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES GLOBAL CLEAN
+title: Acciones|ISHARES
 isin: IE00B1XNHC34
 ---

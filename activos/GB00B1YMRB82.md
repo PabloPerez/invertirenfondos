@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: MONITISE PLC --  LONDRES
+title: ACCIONES|MONITISE PLC
 isin: GB00B1YMRB82
 ---

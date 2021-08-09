@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.IBERSOL SGPS SA
+title: ACCIONES|IBERSOL SGPS SA
 isin: PTIBS0AM0008
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF X MSCI World-IC
+title: PARTICIPACIONES|ETF JPM Eur Ultsht I
 isin: IE00BD9MMF62
 ---

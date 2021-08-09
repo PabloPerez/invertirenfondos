@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|KROTON EDUCACIONAL SA
+title: AC.KROTON EDUCACIONAL SA (BRL)
 isin: BRKROTACNOR9
 ---

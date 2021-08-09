@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: REDECARD SA
+title: ACCIONES|REDECARD SA
 isin: BRRDCDACNOR3
 ---

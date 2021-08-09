@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: M G GLOBAL BASICS USD C|M G||
+title: PARTICIPACIONES|M&G GLB BASICS- C
 isin: GB00B1RXYV77
 ---

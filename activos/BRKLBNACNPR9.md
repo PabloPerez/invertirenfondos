@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: KLABIN SA -BRL-
+title: ACCIONES|Klabin SA
 isin: BRKLBNACNPR9
 ---

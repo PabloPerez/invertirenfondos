@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MINERVA SA BRASIL
+title: ACCIONES|MINERVA,S.A.
 isin: BRBEEFACNOR6
 ---

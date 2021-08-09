@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SLC AGRICOLA SA
+title: ACCIONES|SLC AGRICOLA
 isin: BRSLCEACNOR2
 ---

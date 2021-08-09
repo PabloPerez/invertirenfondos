@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AMIL PARTICIPACIONES SA
+title: ACCIONES|AMIL PARTICIPACOES
 isin: BRAMILACNOR0
 ---

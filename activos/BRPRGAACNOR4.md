@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PERDIGAO SA -BRL-
+title: ACCIONES|PERDIGAO SA
 isin: BRPRGAACNOR4
 ---

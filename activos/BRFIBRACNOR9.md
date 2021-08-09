@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.FIBRIA CELULOSE SA (BRL)
+title: ACCIONES|FIBRIA CELULOSE SA
 isin: BRFIBRACNOR9
 ---

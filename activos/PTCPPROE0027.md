@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|SANTANDER TOTTA|2.62|2013-04-15
+title: BONO|BANCO BSCH TOTTA|2,63|2013-04-15
 isin: PTCPPROE0027
 ---

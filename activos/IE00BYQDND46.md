@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pimco Dyn Mlt Ast-IN
+title: PARTICIPACIONES|PIMCO EUROPE LTD|LONDON
 isin: IE00BYQDND46
 ---

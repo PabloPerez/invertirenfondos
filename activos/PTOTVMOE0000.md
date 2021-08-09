@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|ESTADO PORTUGUES|1,000|2025-07-23
+title: Obrigacoes Do Tesouro Float 230725
 isin: PTOTVMOE0000
 ---

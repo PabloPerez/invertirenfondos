@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|LIGHT S.A.
+title: ACCIONES|LIGHT
 isin: BRLIGTACNOR2
 ---

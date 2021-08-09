@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: LLX LOGISTICA SA
+title: ACCIONES|LLX LOGISTICA
 isin: BRLLXLACNOR8
 ---

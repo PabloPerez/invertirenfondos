@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|SPDR MSCI WORLD SMAL
+title: ETF|SPDR MSCI WORLD SMAL
 isin: IE00BCBJG560
 ---

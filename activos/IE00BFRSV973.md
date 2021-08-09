@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pimco Global HY Bond
+title: FONDO|PIMCO GIS CAPITAL SE
 isin: IE00BFRSV973
 ---

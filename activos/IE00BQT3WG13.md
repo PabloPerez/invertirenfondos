@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES MSCI CHINA A
+title: Participaciones|BLACKROCK FUND ADVISORS
 isin: IE00BQT3WG13
 ---

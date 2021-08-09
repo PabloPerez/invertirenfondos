@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|DURATEX SA C
+title: ACCIONES|DURATEX SA
 isin: BRDTEXACNOR3
 ---

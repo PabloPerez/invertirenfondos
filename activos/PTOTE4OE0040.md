@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO. REP. PORTUGAL 3,2% 04|11                                
+title: BONO|EST.PORTU|3,20|2011-04-15
 isin: PTOTE4OE0040
 ---

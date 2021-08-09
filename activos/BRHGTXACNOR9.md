@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CIA HERING
+title: ACCIONES|COMPANHIA HERING
 isin: BRHGTXACNOR9
 ---

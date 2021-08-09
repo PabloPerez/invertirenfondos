@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|TREA DIRECT LENDING S.C.A
+title: PARTICIPACIONES|Trea Direct Lending
 isin: LU00TREADIR3
 ---

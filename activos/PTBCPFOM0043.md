@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|Banco Comercial Port|9,25|2049-01-31
+title: Bonos|BANCO COMERCIAL PORT|2,312|2099-01-31
 isin: PTBCPFOM0043
 ---

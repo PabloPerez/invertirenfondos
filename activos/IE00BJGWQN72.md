@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF WisdomTree Cloud
+title: PARTICIPACIONES|WISDOM TREE CLOUD
 isin: IE00BJGWQN72
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SMILES FIDELIDADE SA
+title: ACCIONES|SMILES SA
 isin: BRSMLSACNOR1
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES MSCI JAPAN ESG
+title: Participaciones|BLACKROCK ASSET MANAGEMENT
 isin: IE00BHZPJ346
 ---

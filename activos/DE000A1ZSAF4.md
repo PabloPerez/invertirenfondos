@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA|JAB HOLDINGS BV|1,500|2021-11-24
+title: JAB HOLDINGS BV
 isin: DE000A1ZSAF4
 ---

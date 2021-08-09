@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ALL AMERICA LATINA LOGISTICA
+title: ACCIONES|ALL AMER LATINA
 isin: BRALLLACNOR6
 ---

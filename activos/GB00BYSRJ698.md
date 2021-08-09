@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Lonmin plc
+title: ACCIONES|LONMIN PLC
 isin: GB00BYSRJ698
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: GERDAU METALURGIA
+title: ACCIONES|GERDAU METALURGICA SA
 isin: BRGOAUACNPR8
 ---

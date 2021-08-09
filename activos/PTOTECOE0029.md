@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|DEUDA PORTUGAL|4,80|2020-06-15
+title: OB.PORTUGAL 4,8% VT.15|06|2020
 isin: PTOTECOE0029
 ---

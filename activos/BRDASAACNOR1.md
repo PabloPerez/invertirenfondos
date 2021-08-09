@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DIAGNOSTICOS DA AMERICA SA -BR
+title: ACCIONES|Diag America
 isin: BRDASAACNOR1
 ---

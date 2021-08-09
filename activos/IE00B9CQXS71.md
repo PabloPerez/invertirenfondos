@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|S&P GLOBAL DIV ARIST
+title: PARTICIPACIONES|ETF ZPRG GY Equity
 isin: IE00B9CQXS71
 ---

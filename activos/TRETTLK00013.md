@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.TURK TELEKOMUNIKASYON AS (TRY)
+title: ACCIONES|TURK TELEKOMUNIKASYO
 isin: TRETTLK00013
 ---

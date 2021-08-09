@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: NATURA COSMETICOS
+title: ACCIONES|NATURA COSMETICOS
 isin: BRNATUACNOR6
 ---

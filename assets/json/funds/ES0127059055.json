@@ -1,13 +1,56 @@
 {
     "auditora": "PricewaterhouseCoopers Auditores. S.L.",
     "fecha_registro": "30/04/2021",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 0.61,
+            "indice_rotacion": 0.0,
+            "participes": 4,
+            "patrimonio": 562248,
+            "periodo": "2021T2",
+            "posiciones": [
+                {
+                    "cantidad": 9330.0,
+                    "desde": "2021T2",
+                    "isin": "US8740391003",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TAIWAN SEMICONDUCTORS",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 8039.0,
+                    "desde": "2021T2",
+                    "isin": "US01609W1027",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ALIBABA GROUP HOLDING",
+                    "porcentaje": 1.43
+                },
+                {
+                    "cantidad": 7753.0,
+                    "desde": "2021T2",
+                    "isin": "US88032Q1094",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TENCENT HOLDINGS LTS",
+                    "porcentaje": 1.38
+                },
+                {
+                    "cantidad": 7526.0,
+                    "desde": "2021T2",
+                    "isin": "US7960508882",
+                    "moneda": "euro",
+                    "nombre": "Acciones|SAMSUNG ELECTRONICS",
+                    "porcentaje": 1.34
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5259,
     "id_cnmv_depositaria": 27,
     "id_cnmv_gestora": 206,
     "isin": "ES0127059055",
     "nif": "V88056783",
-    "nombre": "DUX UMBRELLAEFIFUND RENTA VARIABLE EMERGENTES",
+    "nombre": "DUX UMBRELLA EFIFUND RENTA VARIABLE EMERGENTES",
     "nombre_depositaria": "BANKINTER, S.A.",
     "nombre_gestora": "DUX INVERSORES, SGIIC, S.A."
 }

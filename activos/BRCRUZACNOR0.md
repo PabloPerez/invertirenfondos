@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: SOUZA CRUZ S.A. -BRL-
+title: ACCIONES|SOUZA CRUZ SA
 isin: BRCRUZACNOR0
 ---

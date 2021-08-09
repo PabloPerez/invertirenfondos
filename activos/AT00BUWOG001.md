@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|EVN AG
+title: ACCIONES|BUWOG AG
 isin: AT00BUWOG001
 ---

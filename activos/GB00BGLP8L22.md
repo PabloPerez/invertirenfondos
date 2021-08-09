@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|IMI PLC
+title: Acciones|DIRECT LINE INSURANCE GROUP
 isin: GB00BGLP8L22
 ---

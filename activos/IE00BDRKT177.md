@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|MAN GLG Inv VI-Innov
+title: PARTICIPACIONES|GLG INV VI-INNOV EQ ALT-
 isin: IE00BDRKT177
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pimco Euro S|T
+title: Participaciones|PIMCO EURIBORPLUS FD-INS-ACC
 isin: IE00B0XJBQ64
 ---

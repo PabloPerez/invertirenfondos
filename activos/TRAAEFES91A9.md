@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.ANADOLU EFES BIRACILIK VE (TRY)
+title: ACCIONES|ANADOLU EFES BIRACIL
 isin: TRAAEFES91A9
 ---

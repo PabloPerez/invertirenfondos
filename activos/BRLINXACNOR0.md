@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|LINX SA
+title: ACCIONES|LINX SA
 isin: BRLINXACNOR0
 ---

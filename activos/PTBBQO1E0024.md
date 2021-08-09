@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BN.BANCO BPI 5.75 050810
+title: BONO|Banco BPI SA|5.75|2010-08-05
 isin: PTBBQO1E0024
 ---

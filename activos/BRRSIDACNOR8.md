@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ROSSI RESIDENCIAL SA -BRL-
+title: ACCIONES|Rossi Residenci
 isin: BRRSIDACNOR8
 ---

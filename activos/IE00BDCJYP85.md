@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BNY US MUNI INFRA DBT USDCA
+title: PARTICIPACIONES|BNY US Muni Infra D
 isin: IE00BDCJYP85
 ---

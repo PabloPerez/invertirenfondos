@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OB.HT1 FUNDING GMBH FTF %VAR PERP(C6|20)
+title: RFIJA|HT1 FUNDING PLC|6.35|2049-06-30
 isin: DE000A0KAAA7
 ---

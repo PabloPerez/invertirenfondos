@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|TELEFONICA BRAS
+title: ACCIONES|VIVO PARTICIPACOES SA(BRC)
 isin: BRVIVTACNPR7
 ---

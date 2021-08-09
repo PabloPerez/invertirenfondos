@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|NOMURA FUNDS IR
+title: FONDO|NOMURA FUNDS IRELAND
 isin: IE00B3VTHJ49
 ---
