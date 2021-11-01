@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|FORT GLOBAL UCITS FUNDS PLC
+title: Participaciones|HERMES INTERNATIONAL
 isin: IE00BYJR3D38
 ---

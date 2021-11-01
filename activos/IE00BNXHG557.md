@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MELLON GLOBAL MANAGEMENT LTD
+title: Participaciones|LIONTRUST INVESTMENT PARTNERS
 isin: IE00BNXHG557
 ---

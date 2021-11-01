@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|IE00BMYLVC17
+isin: IE00BMYLVD24
+---

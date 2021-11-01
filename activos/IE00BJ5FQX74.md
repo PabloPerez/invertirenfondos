@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Uniphar Plc
+title: ACCIONES|UNIPHAR PLC
 isin: IE00BJ5FQX74
 ---

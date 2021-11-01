@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Muzin-Em
+title: PARTICIPACIONES|Muzinich E
 isin: IE00BFNXVS58
 ---

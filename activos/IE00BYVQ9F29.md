@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|IShares Euro Corp Bo
+title: PARTICIPACIONES|BLACKROCK ASSET
 isin: IE00BYVQ9F29
 ---

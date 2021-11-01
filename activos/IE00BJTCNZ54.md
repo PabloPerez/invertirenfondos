@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PIMCO GLOBAL FUNDS
+title: PARTICIPACIONES|PIMCO FUNDS GLOBAL INVES
 isin: IE00BJTCNZ54
 ---

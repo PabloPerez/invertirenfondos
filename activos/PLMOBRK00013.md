@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MBR PW Mo-BRUK SA
+title: ACCIONES|MO-BRUK SA
 isin: PLMOBRK00013
 ---

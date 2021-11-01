@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|XTRACKER AI&BIG DATA
+isin: IE00BGV5VN51
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|ARMAC LOCACAO LOGISTICA E SERVI
+isin: BRARMLACNOR1
+---

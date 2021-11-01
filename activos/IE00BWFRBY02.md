@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|LYXOR | CHENAVARI CREDIT FUND
+title: Participaciones|XTRACKERS LUXEMBOURG
 isin: IE00BWFRBY02
 ---

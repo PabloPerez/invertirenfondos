@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES MSCI JAPAN ESG S
+isin: IE00BFNM3L97
+---

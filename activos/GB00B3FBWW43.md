@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SDI GROUP PLC
+title: Acciones|SDI GROUP PLC
 isin: GB00B3FBWW43
 ---

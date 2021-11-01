@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELLINGTON EM DEVE
+isin: IE00BY7RRW28
+---

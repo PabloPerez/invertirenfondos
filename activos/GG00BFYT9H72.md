@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|HIPGNOSIS FUND
+title: Participaciones|EURO STOCK
 isin: GG00BFYT9H72
 ---

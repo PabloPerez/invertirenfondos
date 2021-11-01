@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Nomura US High Yld
+title: PARTICIPACIONES|NOMURA ASSET MANAGEMENT
 isin: IE00BTL1FT87
 ---

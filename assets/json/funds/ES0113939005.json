@@ -3,6 +3,576 @@
     "fecha_registro": "01/12/2017",
     "historico_periodos": [
         {
+            "gastos": 0.02,
+            "indice_rotacion": 0.0,
+            "participes": 19381,
+            "patrimonio": 339433000,
+            "periodo": "2021T3",
+            "posiciones": [
+                {
+                    "cantidad": 26555000.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005188120",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF ITALY|0,100|2022-05-15",
+                    "porcentaje": 7.82
+                },
+                {
+                    "cantidad": 23421000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0010899765",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC|1,100|2022-07-25",
+                    "porcentaje": 6.9
+                },
+                {
+                    "cantidad": 12365000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0L02206107",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,543|2022-06-10",
+                    "porcentaje": 3.64
+                },
+                {
+                    "cantidad": 10949000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0L02205067",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,585|2022-05-06",
+                    "porcentaje": 3.23
+                },
+                {
+                    "cantidad": 10162000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0413307101",
+                    "moneda": "EUR",
+                    "nombre": "CÉDULAS|CAIXABANK SA|1,125|2022-08-05",
+                    "porcentaje": 2.99
+                },
+                {
+                    "cantidad": 7957000.0,
+                    "desde": "2020T2",
+                    "isin": "XS1594368539",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANCO BILBAO VIZCAYA|0,055|2022-04-12",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 7754000.0,
+                    "desde": "2020T4",
+                    "isin": "XS1788584321",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANCO BILBAO VIZCAYA|0,057|2023-03-09",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 7055000.0,
+                    "desde": "2021T3",
+                    "isin": "EU000A1G0DK9",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|EUROPEAN FINANCIAL S|-0,605|2022-11-17",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 7015000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005447195",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|REPUBLIC OF ITALY|-0,545|2021-12-31",
+                    "porcentaje": 2.07
+                },
+                {
+                    "cantidad": 6769000.0,
+                    "desde": "2021T3",
+                    "isin": "EU000A3K4C18",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|EUROPEAN UNION BILL|-0,677|2022-03-04",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 6034000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0513495UP8",
+                    "moneda": "EUR",
+                    "nombre": "PAGARÉS|SANTANDER CONSUMER F|-0,370|2023-03-21",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 6022000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0L02203047",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,547|2022-03-04",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 6012000.0,
+                    "desde": "2021T3",
+                    "isin": "BE0312779516",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF BELGIUM|-0,649|2021-11-11",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 6016000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0126461815",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FRENCH REPUBLIC|-0,646|2021-12-15",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 5930000.0,
+                    "desde": "2020T2",
+                    "isin": "DE000A19HBM3",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DAIMLER INTERNATIONA|0,935|2022-05-11",
+                    "porcentaje": 1.75
+                },
+                {
+                    "cantidad": 5867000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0200002014",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|ADIF ALTA VELOCIDAD|1,875|2022-09-22",
+                    "porcentaje": 1.73
+                },
+                {
+                    "cantidad": 5444000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0000101289",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|AUTONOMOUS COMMUNITY|0,022|2021-11-2",
+                    "porcentaje": 1.6
+                },
+                {
+                    "cantidad": 5176000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005454860",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|REPUBLIC OF ITALY|-0,519|2022-08-12",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 5127000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0L02202114",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,510|2022-02-11",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 5100000.0,
+                    "desde": "2020T4",
+                    "isin": "XS1557268221",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BANCO SANTANDER SA|1,375|2022-02-09",
+                    "porcentaje": 1.5
+                },
+                {
+                    "cantidad": 5069000.0,
+                    "desde": "2020T1",
+                    "isin": "XS1940133298",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DNB BANK ASA|0,201|2022-07-25",
+                    "porcentaje": 1.49
+                },
+                {
+                    "cantidad": 5007000.0,
+                    "desde": "2021T3",
+                    "isin": "FR0126893504",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FRENCH REPUBLIC|-0,653|2021-11-24",
+                    "porcentaje": 1.48
+                },
+                {
+                    "cantidad": 5019000.0,
+                    "desde": "2019T4",
+                    "isin": "XS2093769383",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SANTANDER CONSUMER F|0,058|2021-12-17",
+                    "porcentaje": 1.48
+                },
+                {
+                    "cantidad": 5003000.0,
+                    "desde": "2020T3",
+                    "isin": "IT0001247284",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|REPUBLIC OF ITALY|-0,029|2021-11-01",
+                    "porcentaje": 1.47
+                },
+                {
+                    "cantidad": 4817000.0,
+                    "desde": "2020T4",
+                    "isin": "DE000LB2CRD3",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|LANDESBANK BADEN-WUE|0,119|2022-02-07",
+                    "porcentaje": 1.42
+                },
+                {
+                    "cantidad": 4738000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2176687270",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT SUISSE AG/LON|0,401|2022-05-18",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 4623000.0,
+                    "desde": "2020T4",
+                    "isin": "XS1555575320",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|CORP ANDINA DE FOMEN|0,500|2022-01-25",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 4041000.0,
+                    "desde": "2021T1",
+                    "isin": "XS1394777665",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|TELEFONICA EMISIONES|0,750|2022-04-13",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 4019000.0,
+                    "desde": "2021T3",
+                    "isin": "BE0312782544",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF BELGIUM|-0,660|2022-05-12",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 4022000.0,
+                    "desde": "2020T3",
+                    "isin": "XS2221879153",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BMW FINANCE NV|0,060|2022-06-24",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 3652000.0,
+                    "desde": "2021T3",
+                    "isin": "XS1801906279",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MIZUHO FINANCIAL GRO|-0,447|2023-04-10",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 3615000.0,
+                    "desde": "2021T3",
+                    "isin": "XS1615065320",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SANTANDER UK GROUP H|0,230|2023-05-18",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 3629000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2343835315",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPSOL INTERNATIONAL|0,157|2023-05-25",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 3522000.0,
+                    "desde": "2021T3",
+                    "isin": "BE0312783559",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF BELGIUM|-0,651|2022-07-14",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 3421000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0L02208129",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,554|2022-08-12",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 3417000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005456659",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|REPUBLIC OF ITALY|-0,470|2022-09-14",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 3409000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005456667",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|REPUBLIC OF ITALY|-0,542|2022-03-31",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 3317000.0,
+                    "desde": "2021T1",
+                    "isin": "DE0001030278",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FEDERAL REPUBLIC OF|-0,652|2021-11-24",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 3324000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013321791",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SOCIETE GENERALE SA|-0,262|2023-03-06",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 3076000.0,
+                    "desde": "2020T4",
+                    "isin": "XS1374993712",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INTESA SANPAOLO SPA|1,065|2023-03-03",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 3040000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1237271009",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|MCDONALD'S CORP|1,125|2022-05-26",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 3061000.0,
+                    "desde": "2021T1",
+                    "isin": "XS1957541953",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|DANSKE BANK A/S|1,375|2022-05-24",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 3032000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2345868744",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TOYOTA MOTOR FINANCE|0,205|2023-05-24",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 2997000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0313040034",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANCA MARCH SA|0,100|2021-11-02",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 2974000.0,
+                    "desde": "2021T1",
+                    "isin": "XS1173845436",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|GOLDMAN SACHS GROUP|1,375|2022-07-26",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 2952000.0,
+                    "desde": "2021T1",
+                    "isin": "XS2310947259",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HSBC BANK PLC|0,454|2023-03-08",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 2966000.0,
+                    "desde": "2020T2",
+                    "isin": "XS1586146851",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SOCIETE GENERALE SA|0,309|2022-04-01",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 2928000.0,
+                    "desde": "2020T4",
+                    "isin": "XS1598861588",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT AGRICOLE SA/L|0,262|2022-04-20",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 2647000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2384578824",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANCO BILBAO VIZCAYA|0,457|2023-09-09",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 2614000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0L02204086",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,509|2022-04-08",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 2517000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0513495UM5",
+                    "moneda": "EUR",
+                    "nombre": "PAGARÉS|SANTANDER CONSUMER F|-0,360|2022-09-29",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 2506000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0578430OV8",
+                    "moneda": "EUR",
+                    "nombre": "PAGARÉS|TELEFONICA EMISIONES|-0,469|2022-03-17",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 2515000.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005440679",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF ITALY|-0,326|2022-11-29",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 2497000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1529838085",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|MORGAN STANLEY|1,000|2022-12-02",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 2493000.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005185456",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPUBLIC OF ITALY|0,187|2023-07-15",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 2360000.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000101693",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|AUTONOMOUS COMMUNITY|1,189|2022-05-0",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 2257000.0,
+                    "desde": "2021T2",
+                    "isin": "DE0001030328",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FEDERAL REPUBLIC OF|-0,653|2021-12-15",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 2230000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1678372472",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BANCO BILBAO VIZCAYA|0,750|2022-09-11",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 2075000.0,
+                    "desde": "2021T3",
+                    "isin": "FR0011261064",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|CREDIT AGRICOLE SA|-34,018|2022-08-09",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 2020000.0,
+                    "desde": "2021T1",
+                    "isin": "XS1823532996",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BNP PARIBAS SA|0,075|2023-05-22",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 2050000.0,
+                    "desde": "2020T2",
+                    "isin": "XS1584041252",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BNP PARIBAS SA|0,305|2022-09-22",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 2011000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2240133459",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MEDTRONIC GLOBAL HOL|-0,346|2023-03-15",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 1808000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2020670696",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MEDTRONIC GLOBAL HOL|-0,380|2022-12-02",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 1590000.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005199267",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICREDIT SPA|0,164|2023-06-30",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 1555000.0,
+                    "desde": "2021T3",
+                    "isin": "XS0881362502",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|TOYOTA MOTOR CREDIT|2,375|2023-02-01",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 1513000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2333655210",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|IBERDROLA FINANZAS S|0,112|2023-04-28",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 1509000.0,
+                    "desde": "2021T3",
+                    "isin": "XS1756434194",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BNP PARIBAS SA|-0,485|2023-01-19",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 1339000.0,
+                    "desde": "2021T3",
+                    "isin": "XS0823975585",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|VOLKSWAGEN LEASING G|2,375|2022-09-06",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1332000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1290850707",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BANK OF AMERICA CORP|1,625|2022-09-14",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1115000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1944384350",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VOLKSWAGEN BANK GMBH|0,926|2022-08-01",
+                    "porcentaje": 0.33
+                }
+            ],
+            "rentabilidad": 0.1
+        },
+        {
             "gastos": 0.03,
             "indice_rotacion": 0.0,
             "participes": 9270,

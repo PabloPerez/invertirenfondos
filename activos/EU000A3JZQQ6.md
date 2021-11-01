@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|EUROPEAN STABILITY M|-0,613|2022-09-15
+isin: EU000A3JZQQ6
+---

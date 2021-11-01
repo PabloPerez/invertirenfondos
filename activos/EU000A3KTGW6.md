@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|345300Z BB EUROPEAN UNION|0,70|2051-07-06
+isin: EU000A3KTGW6
+---

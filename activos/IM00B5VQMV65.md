@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|GVC HOLDINGS PLC
+title: Acciones|ENTAIN PLC
 isin: IM00B5VQMV65
 ---

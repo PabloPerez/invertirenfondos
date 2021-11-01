@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MAN GROUP PLC
+title: PARTICIPACIONES|MAN FUNDS
 isin: IE00BJQ2XG97
 ---
