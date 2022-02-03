@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|MERC SD GLB1
+title: PARTICIPACIONES|MERCER QIF
 isin: IE00BKBDT551
 ---

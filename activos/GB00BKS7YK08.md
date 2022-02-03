@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|TREATT PLC
+title: ACCIONES|Treatt PLC
 isin: GB00BKS7YK08
 ---

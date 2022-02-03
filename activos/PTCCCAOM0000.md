@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|815251 CRL CREDITO AGRICOLA MUT|2,50|2025-11-05
+isin: PTCCCAOM0000
+---

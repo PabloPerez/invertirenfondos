@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNY US Muni Infra D
+title: IIC BNY Mellon U.S. Municipal Infrastructure Debt 
 isin: IE00BDCJYP85
 ---

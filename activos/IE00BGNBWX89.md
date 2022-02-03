@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LM MARTIN CURRI EU
+isin: IE00BGNBWX89
+---

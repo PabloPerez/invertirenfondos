@@ -3,6 +3,25 @@
         {
             "fondos": [
                 {
+                    "cantidad": 10314229.0,
+                    "desde": "2017T1",
+                    "isin": "ES0158976003",
+                    "nombre": "CAIXABANK SOY ASI CAUTO, FI CLASE CARTERA",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 10314229.0,
+                    "desde": "2018T1",
+                    "isin": "ES0158976037",
+                    "nombre": "CAIXABANK SOY ASI CAUTO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.16
+                }
+            ],
+            "periodo": "2021T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 7071870.0,
                     "desde": "2017T2",
                     "isin": "ES0180864003",
@@ -15,6 +34,13 @@
                     "isin": "ES0180864011",
                     "nombre": "UNIFOND CARTERA DEFENSIVA, FI CLASE C",
                     "porcentaje": 3.73
+                },
+                {
+                    "cantidad": 9417502.0,
+                    "desde": "2017T4",
+                    "isin": "ES0113386009",
+                    "nombre": "CAIXABANK GESTION ACTIVA, FI",
+                    "porcentaje": 0.3
                 },
                 {
                     "cantidad": 10334461.0,
@@ -702,14 +728,14 @@
                     "cantidad": 0.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 0.0
                 },
                 {
@@ -756,14 +782,14 @@
                     "cantidad": 4906974.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 7.83
                 },
                 {
                     "cantidad": 4906974.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 7.83
                 },
                 {
@@ -915,14 +941,14 @@
                     "cantidad": 3885858.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 5.81
                 },
                 {
                     "cantidad": 3885858.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 5.81
                 },
                 {
@@ -1039,14 +1065,14 @@
                     "cantidad": 7358823.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 9.39
                 },
                 {
                     "cantidad": 7358823.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 9.39
                 },
                 {
@@ -1177,14 +1203,14 @@
                     "cantidad": 7979227.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 9.22
                 },
                 {
                     "cantidad": 7979227.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 9.22
                 },
                 {
@@ -1287,14 +1313,14 @@
                     "cantidad": 10247702.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 10.36
                 },
                 {
                     "cantidad": 10247702.0,
                     "desde": "2018T1",
                     "isin": "ES0158314023",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE P",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE P",
                     "porcentaje": 10.36
                 },
                 {
@@ -1411,7 +1437,7 @@
                     "cantidad": 9081691.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 10.25
                 },
                 {
@@ -1486,7 +1512,7 @@
                     "cantidad": 8514005.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 9.29
                 },
                 {
@@ -1554,7 +1580,7 @@
                     "cantidad": 7046807.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 8.54
                 },
                 {
@@ -1622,7 +1648,7 @@
                     "cantidad": 3846564.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 9.49
                 },
                 {
@@ -1683,7 +1709,7 @@
                     "cantidad": 1624570.0,
                     "desde": "2016T4",
                     "isin": "ES0158314007",
-                    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+                    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
                     "porcentaje": 10.01
                 },
                 {

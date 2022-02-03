@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHA USD  Agg B
+title: ETF|ISHARES ETFS|IR
 isin: IE00BDFJYM28
 ---

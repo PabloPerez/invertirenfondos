@@ -4,6 +4,24 @@
     "historico_periodos": [
         {
             "gastos": 0.73,
+            "indice_rotacion": 0.01,
+            "participes": 2316,
+            "patrimonio": 45696098,
+            "periodo": "2021T4",
+            "posiciones": [
+                {
+                    "cantidad": 55232900.0,
+                    "desde": "2019T3",
+                    "isin": "LU1327549264",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|JP MORGAN ASSET MANAGEMENT EUR",
+                    "porcentaje": 98.55
+                }
+            ],
+            "rentabilidad": null
+        },
+        {
+            "gastos": 0.73,
             "indice_rotacion": 0.0,
             "participes": 2375,
             "patrimonio": 46607668,
@@ -2314,7 +2332,7 @@
     "id_cnmv_gestora": 243,
     "isin": "ES0158314007",
     "nif": "V87617585",
-    "nombre": "LIBERBANK MULTI MANAGER, FI CLASE A",
+    "nombre": "LIBERBANK MULTI-MANAGER, FI CLASE A",
     "nombre_depositaria": "CECABANK, S.A.",
     "nombre_gestora": "LIBERBANK GESTION, SGIIC, S.A."
 }

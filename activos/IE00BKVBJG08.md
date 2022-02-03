@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BROWN ADVISORY
+isin: IE00BKVBJG08
+---

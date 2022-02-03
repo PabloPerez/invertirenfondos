@@ -4,6 +4,418 @@
     "historico_periodos": [
         {
             "gastos": 0.12,
+            "indice_rotacion": 0.03,
+            "participes": 111,
+            "patrimonio": 12080962,
+            "periodo": "2021T4",
+            "posiciones": [
+                {
+                    "cantidad": 2000781.0,
+                    "desde": "2020T2",
+                    "isin": null,
+                    "moneda": "EUR",
+                    "nombre": "DEPOSITO|BANCO CAMINOS S.A.      |0.0|2022-05-14",
+                    "porcentaje": 16.56
+                },
+                {
+                    "cantidad": 1796259.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000101693",
+                    "moneda": "EUR",
+                    "nombre": "REPO|COMUNIDAD DE MADRID|-0,53|2021-07-29",
+                    "porcentaje": 14.87
+                },
+                {
+                    "cantidad": 1796259.0,
+                    "desde": "2020T2",
+                    "isin": "ES0000012F76",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 14.87
+                },
+                {
+                    "cantidad": 997922.0,
+                    "desde": "2020T2",
+                    "isin": "ES00000128Q6",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 8.26
+                },
+                {
+                    "cantidad": 494518.0,
+                    "desde": "2021T2",
+                    "isin": "ES0164838015",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|GVC GAESCO VALUE MIN",
+                    "porcentaje": 4.09
+                },
+                {
+                    "cantidad": 443964.0,
+                    "desde": "2020T1",
+                    "isin": "GB00B03MLX29",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROYALDUTCHSHELL",
+                    "porcentaje": 3.67
+                },
+                {
+                    "cantidad": 440101.0,
+                    "desde": "2017T4",
+                    "isin": "CH0023405456",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DUFRY AG",
+                    "porcentaje": 3.64
+                },
+                {
+                    "cantidad": 381237.0,
+                    "desde": "2017T4",
+                    "isin": "CH0012214059",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HOLCIM LTD.",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 330000.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000077919",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JC DECAUX",
+                    "porcentaje": 2.73
+                },
+                {
+                    "cantidad": 299377.0,
+                    "desde": "2017T3",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 2.48
+                },
+                {
+                    "cantidad": 262500.0,
+                    "desde": "2017T3",
+                    "isin": "ES0113211835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BBVA",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 256200.0,
+                    "desde": "2020T1",
+                    "isin": "NL0000852580",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOSKALIS WESTMI",
+                    "porcentaje": 2.12
+                },
+                {
+                    "cantidad": 238923.0,
+                    "desde": "2018T1",
+                    "isin": "DE0005190003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BMW",
+                    "porcentaje": 1.98
+                },
+                {
+                    "cantidad": 212199.0,
+                    "desde": "2017T3",
+                    "isin": "PA1436583006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARNIVAL CORP",
+                    "porcentaje": 1.76
+                },
+                {
+                    "cantidad": 179537.0,
+                    "desde": "2020T1",
+                    "isin": "LU0633102719",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAMSONITE INTER",
+                    "porcentaje": 1.49
+                },
+                {
+                    "cantidad": 168758.0,
+                    "desde": "2017T3",
+                    "isin": "ES0113900J37",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BSCH",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 156605.0,
+                    "desde": "2021T2",
+                    "isin": "US01609W1027",
+                    "moneda": "EUR",
+                    "nombre": "ADR|ALIBABA GROUP H",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 155166.0,
+                    "desde": "2017T3",
+                    "isin": "ES0178430E18",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELEFÓNICA",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 130200.0,
+                    "desde": "2020T1",
+                    "isin": "DE0007231334",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SIXT AG",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 99701.0,
+                    "desde": "2021T3",
+                    "isin": "JP3659000008",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|WEST JAPAN RAIL",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 72220.0,
+                    "desde": "2017T3",
+                    "isin": "ES0124244E34",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MAPFRE",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 50400.0,
+                    "desde": "2021T3",
+                    "isin": "BE0003789063",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DECEUNINCK NV",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 49896.0,
+                    "desde": "2021T3",
+                    "isin": "ES00000127A2",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,52|2022-01-27",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 31754.0,
+                    "desde": "2021T4",
+                    "isin": "ES0105621009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROFITHOL",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 24412.0,
+                    "desde": "2018T4",
+                    "isin": "ES0000012B88",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 0.2
+                }
+            ],
+            "rentabilidad": -1.79
+        },
+        {
+            "gastos": 0.12,
+            "indice_rotacion": 0.02,
+            "participes": 111,
+            "patrimonio": 12300558,
+            "periodo": "2021T3",
+            "posiciones": [
+                {
+                    "cantidad": 2000781.0,
+                    "desde": "2020T2",
+                    "isin": null,
+                    "moneda": "EUR",
+                    "nombre": "DEPOSITO|BANCO CAMINOS S.A.      |0.0|2022-05-14",
+                    "porcentaje": 16.27
+                },
+                {
+                    "cantidad": 1798410.0,
+                    "desde": "2020T2",
+                    "isin": "ES00000128Q6",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 14.62
+                },
+                {
+                    "cantidad": 1798410.0,
+                    "desde": "2020T2",
+                    "isin": "ES0000012F76",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 14.62
+                },
+                {
+                    "cantidad": 999117.0,
+                    "desde": "2018T4",
+                    "isin": "ES0000012B88",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 8.12
+                },
+                {
+                    "cantidad": 555417.0,
+                    "desde": "2021T2",
+                    "isin": "ES0164838015",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|GVC GAESCO VALUE MIN",
+                    "porcentaje": 4.52
+                },
+                {
+                    "cantidad": 493830.0,
+                    "desde": "2017T4",
+                    "isin": "CH0023405456",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DUFRY AG",
+                    "porcentaje": 4.01
+                },
+                {
+                    "cantidad": 443519.0,
+                    "desde": "2020T1",
+                    "isin": "GB00B03MLX29",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROYALDUTCHSHELL",
+                    "porcentaje": 3.61
+                },
+                {
+                    "cantidad": 354891.0,
+                    "desde": "2017T4",
+                    "isin": "CH0012214059",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HOLCIM LTD.",
+                    "porcentaje": 2.89
+                },
+                {
+                    "cantidad": 344100.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000077919",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JC DECAUX",
+                    "porcentaje": 2.8
+                },
+                {
+                    "cantidad": 299735.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000101693",
+                    "moneda": "EUR",
+                    "nombre": "REPO|COMUNIDAD DE MADRID|-0,53|2021-07-29",
+                    "porcentaje": 2.44
+                },
+                {
+                    "cantidad": 289660.0,
+                    "desde": "2018T1",
+                    "isin": "DE0005190003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BMW",
+                    "porcentaje": 2.35
+                },
+                {
+                    "cantidad": 285850.0,
+                    "desde": "2017T3",
+                    "isin": "ES0113211835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BBVA",
+                    "porcentaje": 2.32
+                },
+                {
+                    "cantidad": 262800.0,
+                    "desde": "2020T1",
+                    "isin": "NL0000852580",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOSKALIS WESTMI",
+                    "porcentaje": 2.14
+                },
+                {
+                    "cantidad": 259104.0,
+                    "desde": "2017T3",
+                    "isin": "PA1436583006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARNIVAL CORP",
+                    "porcentaje": 2.11
+                },
+                {
+                    "cantidad": 192500.0,
+                    "desde": "2020T1",
+                    "isin": "DE0007231334",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SIXT AG",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 191725.0,
+                    "desde": "2021T2",
+                    "isin": "US01609W1027",
+                    "moneda": "EUR",
+                    "nombre": "ADR|ALIBABA GROUP H",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 186034.0,
+                    "desde": "2020T1",
+                    "isin": "LU0633102719",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAMSONITE INTER",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 180007.0,
+                    "desde": "2017T3",
+                    "isin": "ES0113900J37",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BSCH",
+                    "porcentaje": 1.46
+                },
+                {
+                    "cantidad": 156987.0,
+                    "desde": "2017T3",
+                    "isin": "ES0178430E18",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELEFÓNICA",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 117513.0,
+                    "desde": "2021T3",
+                    "isin": "JP3659000008",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|WEST JAPAN RAIL",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 75400.0,
+                    "desde": "2017T3",
+                    "isin": "ES0124244E34",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MAPFRE",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 54750.0,
+                    "desde": "2021T3",
+                    "isin": "BE0003789063",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DECEUNINCK NV",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 49956.0,
+                    "desde": "2021T3",
+                    "isin": "ES00000127A2",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,52|2021-10-28",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 24441.0,
+                    "desde": "2017T3",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|-0,53|2021-07-29",
+                    "porcentaje": 0.2
+                }
+            ],
+            "rentabilidad": -0.71
+        },
+        {
+            "gastos": 0.12,
             "indice_rotacion": 0.25,
             "participes": 112,
             "patrimonio": 12388127,

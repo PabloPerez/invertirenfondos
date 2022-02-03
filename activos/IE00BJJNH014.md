@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MAN GROUP PLC
+title: PARTICIPACIONES|MAN GLG EVENT DRIVEN
 isin: IE00BJJNH014
 ---

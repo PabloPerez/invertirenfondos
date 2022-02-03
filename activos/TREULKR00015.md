@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ULKER BISKUVI SANAYI
+title: Acciones|ULKER BISKUVI SANAYI
 isin: TREULKR00015
 ---

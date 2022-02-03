@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Rize Sustainable
+title: PARTICIPACIONES|RIZE SUSTAINABLE
 isin: IE00BLRPQH31
 ---

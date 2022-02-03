@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ETF SECURITIES LTF
+title: Participaciones|LEGAL&GENERAL INVESTMENT MANAG
 isin: IE00BMW3QX54
 ---

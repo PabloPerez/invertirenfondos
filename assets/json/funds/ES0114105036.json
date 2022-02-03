@@ -4,6 +4,48 @@
     "historico_periodos": [
         {
             "gastos": 0.18,
+            "indice_rotacion": 0.2,
+            "participes": 2,
+            "patrimonio": 36412,
+            "periodo": "2021T4",
+            "posiciones": [
+                {
+                    "cantidad": 33500725.0,
+                    "desde": "2021T4",
+                    "isin": "ES00000128E2",
+                    "moneda": "euro",
+                    "nombre": "REPO|BKT|-0,75|2022-01-03",
+                    "porcentaje": 25.53
+                },
+                {
+                    "cantidad": 24225400.0,
+                    "desde": "2021T3",
+                    "isin": "LU1681038599",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI INVESTMENT",
+                    "porcentaje": 18.46
+                },
+                {
+                    "cantidad": 24110170.0,
+                    "desde": "2021T3",
+                    "isin": "IE00BYVQ9F29",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BLACKROCK ASSET",
+                    "porcentaje": 18.37
+                },
+                {
+                    "cantidad": 23610000.0,
+                    "desde": "2021T3",
+                    "isin": "IE00BYVTMS52",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|INVESCO GLOBAL ASSET",
+                    "porcentaje": 17.99
+                }
+            ],
+            "rentabilidad": 11.47
+        },
+        {
+            "gastos": 0.18,
             "indice_rotacion": 0.48,
             "participes": 2,
             "patrimonio": 34885,

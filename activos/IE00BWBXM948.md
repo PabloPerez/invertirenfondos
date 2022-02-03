@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|SPDR
+title: PARTICIPACIONES|SPDR S&P US TECH
 isin: IE00BWBXM948
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|HER MAJESTY THE QUEE|2,000|2032-05-15
+isin: NZGOVDT532C8
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|AEGON SUSTANINABLE
+isin: IE00BYZHYQ76
+---

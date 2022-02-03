@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PAGARES|MOTA ENGIL SGPS SA|2,400|2022-12-05
+isin: PTME1BJM0067
+---

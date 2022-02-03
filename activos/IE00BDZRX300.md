@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NEUBERGER BERMAN EUROPE LTD
+isin: IE00BDZRX300
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|HEKTAS TICARET TAS
+title: ACCIONES|HEKTAS TICARET T.A.S
 isin: TRAHEKTS91E4
 ---

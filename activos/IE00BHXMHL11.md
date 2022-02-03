@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|UBSETF SyP 500
+title: ETF|UBS IRL
 isin: IE00BHXMHL11
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|VANECK VECTORS MORNI
+title: PARTICIPACIONES|VanEck Vectors Morni
 isin: IE00BQQP9H09
 ---

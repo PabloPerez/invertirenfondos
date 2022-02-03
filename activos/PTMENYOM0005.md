@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|EGL PL MOTA ENGIL SGPS SA|4,25|2026-12-02
+isin: PTMENYOM0005
+---

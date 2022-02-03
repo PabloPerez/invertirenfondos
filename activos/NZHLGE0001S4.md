@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|HALLENSTEIN GLASSON
+title: ACCIONES|Hallenstein Glasson
 isin: NZHLGE0001S4
 ---

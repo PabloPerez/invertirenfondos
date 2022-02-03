@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|CSIF IE MSCI USA SMA
+isin: IE00BMDX0L03
+---

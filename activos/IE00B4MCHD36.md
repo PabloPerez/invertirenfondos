@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares MSCI Glo
+title: PARTICIPACIONES|BLACKROCK IRELAN
 isin: IE00B4MCHD36
 ---

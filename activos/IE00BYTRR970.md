@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR WORLD FINANCIALS(WF
+isin: IE00BYTRR970
+---

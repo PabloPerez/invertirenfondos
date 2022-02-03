@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|VANGUARD FTSE EMERGI
+title: PARTICIPACIONES|ETF Vanguard
 isin: IE00B3VVMM84
 ---
