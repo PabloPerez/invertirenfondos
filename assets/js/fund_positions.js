@@ -90,7 +90,11 @@ async function populatePositions(fundIsin) {
         document.querySelector('#expenses').innerHTML = expenses;
         document.querySelector('#expenses-row').style.display = 'table-row';
     }
-    
+    let liquidity = fundData.historico_periodos[pos].liquidez
+    if (liquidez){
+        document.querySelector('#liquidity').innerHTML = `${liquidity.toLocaleString()} %`;
+        document.querySelector('#liquidity-row').style.display = 'table-row';
+    }
     document.querySelector('#previous-quarter').style.visibility = "visible";
     document.querySelector('#next-quarter').style.visibility = "visible";    
 
