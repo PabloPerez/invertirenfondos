@@ -91,7 +91,7 @@ async function populatePositions(fundIsin) {
         document.querySelector('#expenses-row').style.display = 'table-row';
     }
     let liquidity = fundData.historico_periodos[pos].liquidez
-    if (liquidez){
+    if (liquidity){
         document.querySelector('#liquidity').innerHTML = `${liquidity.toLocaleString()} %`;
         document.querySelector('#liquidity-row').style.display = 'table-row';
     }
