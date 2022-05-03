@@ -1,10 +1,846 @@
 {
     "auditora": "Deloitte, S.L.",
-    "fecha_registro": "31/03/1986",
+    "fecha_registro": "19/01/2018",
     "historico_periodos": [
         {
             "gastos": 0.13,
+            "indice_rotacion": 0.06,
+            "liquidez": 4.7,
+            "participes": 3880,
+            "patrimonio": 90768688,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 5713859.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005419848",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,50|2026-02-01",
+                    "porcentaje": 3.58
+                },
+                {
+                    "cantidad": 5414725.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005416570",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,95|2027-09-15",
+                    "porcentaje": 3.39
+                },
+                {
+                    "cantidad": 4778856.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012H33",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ESPAÑOL|0,12|2024-05-31",
+                    "porcentaje": 3.0
+                },
+                {
+                    "cantidad": 4028892.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005045270",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|2,50|2024-12-01",
+                    "porcentaje": 2.53
+                },
+                {
+                    "cantidad": 3519423.0,
+                    "desde": "2021T4",
+                    "isin": "LU1915690835",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|NORDEA FUNDS",
+                    "porcentaje": 2.21
+                },
+                {
+                    "cantidad": 3505797.0,
+                    "desde": "2020T3",
+                    "isin": "XS0802995166",
+                    "moneda": "euro",
+                    "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
+                    "porcentaje": 2.2
+                },
+                {
+                    "cantidad": 3352121.0,
+                    "desde": "2021T4",
+                    "isin": "IE0033758917",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MUZINICH & CO LTD",
+                    "porcentaje": 2.1
+                },
+                {
+                    "cantidad": 3288215.0,
+                    "desde": "2020T3",
+                    "isin": "FR0010674978",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
+                    "porcentaje": 2.06
+                },
+                {
+                    "cantidad": 3276377.0,
+                    "desde": "2022T1",
+                    "isin": "FI0008812011",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|EVLI NORDIC",
+                    "porcentaje": 2.05
+                },
+                {
+                    "cantidad": 3210704.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012G91",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ESPAÑOL|0,46|2026-01-31",
+                    "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 3044399.0,
+                    "desde": "2021T1",
+                    "isin": "XS1824425265",
+                    "moneda": "euro",
+                    "nombre": "BONO|PETROLEOS MEXICANOS|1,87|2023-08-24",
+                    "porcentaje": 1.91
+                },
+                {
+                    "cantidad": 2318395.0,
+                    "desde": "2020T4",
+                    "isin": "FR0013413556",
+                    "moneda": "euro",
+                    "nombre": "BONO|ELIS SA|1,75|2024-04-11",
+                    "porcentaje": 1.45
+                },
+                {
+                    "cantidad": 2211211.0,
+                    "desde": "2020T3",
+                    "isin": "XS1201001572",
+                    "moneda": "euro",
+                    "nombre": "BONO|SANT.CENTHISP|2,50|2025-03-18",
+                    "porcentaje": 1.39
+                },
+                {
+                    "cantidad": 2098884.0,
+                    "desde": "2021T4",
+                    "isin": "XS2325693369",
+                    "moneda": "euro",
+                    "nombre": "BONO|SACYR SA|3,25|2024-04-02",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 2053049.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005363780",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 2015155.0,
+                    "desde": "2020T3",
+                    "isin": "XS1627337881",
+                    "moneda": "euro",
+                    "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 1993796.0,
+                    "desde": "2020T3",
+                    "isin": "XS1717591884",
+                    "moneda": "euro",
+                    "nombre": "BONO|SANT.CENTHISP|0,22|2024-11-21",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 1973994.0,
+                    "desde": "2021T3",
+                    "isin": "XS1596739364",
+                    "moneda": "euro",
+                    "nombre": "BONO|MADRILEÑA RED DE GAS|1,38|2025-04-11",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 1930453.0,
+                    "desde": "2020T3",
+                    "isin": "XS2081491727",
+                    "moneda": "euro",
+                    "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 1888810.0,
+                    "desde": "2020T3",
+                    "isin": "XS1691349796",
+                    "moneda": "euro",
+                    "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 1852691.0,
+                    "desde": "2021T1",
+                    "isin": "XS1489184900",
+                    "moneda": "euro",
+                    "nombre": "BONO|GLENCORE FINANCE EUR|1,88|2023-09-13",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 1805452.0,
+                    "desde": "2020T3",
+                    "isin": "XS1326311070",
+                    "moneda": "euro",
+                    "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 1744549.0,
+                    "desde": "2020T4",
+                    "isin": "XS1811213781",
+                    "moneda": "euro",
+                    "nombre": "BONO|SOFTBANK GROUP CORP|4,00|2023-04-20",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 1729985.0,
+                    "desde": "2021T3",
+                    "isin": "XS2228683277",
+                    "moneda": "euro",
+                    "nombre": "BONO|NISSAN|2,65|2026-03-17",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 1717632.0,
+                    "desde": "2021T2",
+                    "isin": "XS2242979719",
+                    "moneda": "euro",
+                    "nombre": "BONO|HEATHROW FUNDING LTD|1,50|2025-10-12",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 1688344.0,
+                    "desde": "2020T3",
+                    "isin": "BE6286963051",
+                    "moneda": "euro",
+                    "nombre": "BONO|BARRY CALLEBAUT AG|2,38|2024-05-24",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 1653707.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005386245",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,35|2025-02-01",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 1646350.0,
+                    "desde": "2021T1",
+                    "isin": "XS2202744384",
+                    "moneda": "euro",
+                    "nombre": "BONO|CEPSA FINANCE SA|2,25|2026-02-13",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 1626645.0,
+                    "desde": "2021T4",
+                    "isin": "ES0205061007",
+                    "moneda": "euro",
+                    "nombre": "BONO|CANAL ISABEL II|1,68|2025-02-26",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 1610870.0,
+                    "desde": "2021T2",
+                    "isin": "XS1791704189",
+                    "moneda": "euro",
+                    "nombre": "BONO|CNAC HK FINBRIDGE CO|1,75|2022-06-14",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 1591602.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005454050",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,00|2024-01-30",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 1584370.0,
+                    "desde": "2020T4",
+                    "isin": "IE00B81TMV64",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ALGEBRIS FINAN",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 1571412.0,
+                    "desde": "2021T1",
+                    "isin": "FR0011593300",
+                    "moneda": "euro",
+                    "nombre": "BONO|TECHNIP SA|3,15|2023-10-18",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 1535844.0,
+                    "desde": "2021T2",
+                    "isin": "FR0013144201",
+                    "moneda": "euro",
+                    "nombre": "BONO|TDF INFRASTRUCTURE|2,50|2026-04-07",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 1524785.0,
+                    "desde": "2021T1",
+                    "isin": "XS1388625425",
+                    "moneda": "euro",
+                    "nombre": "BONO|STELLANTIS NV|3,75|2024-03-29",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 1523615.0,
+                    "desde": "2020T3",
+                    "isin": "XS1509942923",
+                    "moneda": "euro",
+                    "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 1538414.0,
+                    "desde": "2020T4",
+                    "isin": "XS1758716085",
+                    "moneda": "euro",
+                    "nombre": "BONO|CROWN EURO HOLDING|2,25|2023-02-01",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 1510173.0,
+                    "desde": "2020T3",
+                    "isin": "XS2030530450",
+                    "moneda": "euro",
+                    "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 1494297.0,
+                    "desde": "2021T4",
+                    "isin": "XS1316569638",
+                    "moneda": "euro",
+                    "nombre": "BONO|AUTOSTRADA BRESCIA V|1,88|2025-11-04",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 1501027.0,
+                    "desde": "2021T3",
+                    "isin": "XS1439749281",
+                    "moneda": "euro",
+                    "nombre": "BONO|TEVA PHARMACEUTICAL|1,13|2024-10-15",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 1480457.0,
+                    "desde": "2021T1",
+                    "isin": "XS1935256369",
+                    "moneda": "euro",
+                    "nombre": "BONO|TELECOM ITALIA SPA|4,00|2024-04-11",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 1476956.0,
+                    "desde": "2020T4",
+                    "isin": "XS2237302646",
+                    "moneda": "euro",
+                    "nombre": "BONO|STG GLOBAL|1,38|2025-09-24",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 1489209.0,
+                    "desde": "2021T2",
+                    "isin": "FR0013322146",
+                    "moneda": "euro",
+                    "nombre": "BONO|RCI BANQUE SA|0,08|2025-03-12",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 1486692.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005204406",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICREDITO ITALIANO|0,17|2024-08-31",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 1460376.0,
+                    "desde": "2021T2",
+                    "isin": "XS2009152591",
+                    "moneda": "euro",
+                    "nombre": "BONO|EASYJET PLC|0,88|2025-06-11",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 1412659.0,
+                    "desde": "2020T3",
+                    "isin": "PTGGDAOE0001",
+                    "moneda": "euro",
+                    "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 1408322.0,
+                    "desde": "2021T2",
+                    "isin": "DE000A2TEDB8",
+                    "moneda": "euro",
+                    "nombre": "BONO|THYSSENKRUPP AG|2,88|2024-02-22",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 1385641.0,
+                    "desde": "2021T2",
+                    "isin": "XS2081500907",
+                    "moneda": "euro",
+                    "nombre": "BONO|SERVICIOS MEDIO AMBI|1,66|2026-12-04",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 1348555.0,
+                    "desde": "2021T1",
+                    "isin": "XS1982819994",
+                    "moneda": "euro",
+                    "nombre": "BONO|TELECOM ITALIA SPA|2,75|2025-04-15",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 1323219.0,
+                    "desde": "2020T3",
+                    "isin": "XS1967635621",
+                    "moneda": "euro",
+                    "nombre": "BONO|ABERTIS|1,50|2024-06-27",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 1318190.0,
+                    "desde": "2020T3",
+                    "isin": "XS1912656375",
+                    "moneda": "euro",
+                    "nombre": "BONO|CEZ AS|0,88|2022-11-21",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 1312278.0,
+                    "desde": "2021T1",
+                    "isin": "XS1405816312",
+                    "moneda": "euro",
+                    "nombre": "BONO|ALIMENTACION COUCHE|1,88|2026-05-06",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 1296867.0,
+                    "desde": "2020T3",
+                    "isin": "XS1883245331",
+                    "moneda": "euro",
+                    "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 1184529.0,
+                    "desde": "2021T1",
+                    "isin": "XS2189592616",
+                    "moneda": "euro",
+                    "nombre": "BONO|ACS|1,38|2025-06-17",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 1165670.0,
+                    "desde": "2021T3",
+                    "isin": "XS2363989273",
+                    "moneda": "euro",
+                    "nombre": "BONO|LAR ESPAÑA REAL|1,75|2026-07-22",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 1114085.0,
+                    "desde": "2020T4",
+                    "isin": "XS1575640054",
+                    "moneda": "euro",
+                    "nombre": "BONO|ENERGA FINANCE AB|2,13|2027-03-07",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 1104550.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005279887",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTESA SANPAOLO SPA|1,31|2024-09-26",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 1091437.0,
+                    "desde": "2020T3",
+                    "isin": "PTMENXOM0006",
+                    "moneda": "euro",
+                    "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 1034915.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013512944",
+                    "moneda": "euro",
+                    "nombre": "BONO|PEUGEOT SA|2,75|2026-05-15",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 1026017.0,
+                    "desde": "2021T3",
+                    "isin": "XS2239813301",
+                    "moneda": "euro",
+                    "nombre": "BONO|EL CORTE INGLES|3,63|2024-03-15",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1026295.0,
+                    "desde": "2020T3",
+                    "isin": "XS1398336351",
+                    "moneda": "euro",
+                    "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1019766.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A2E4QG3",
+                    "moneda": "euro",
+                    "nombre": "BONO|IKB DEUSTCHE INDUS|4,50|2022-07-23",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1011464.0,
+                    "desde": "2021T4",
+                    "isin": "XS2240494471",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTERCONT. HOTEL|1,63|2024-10-08",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 997288.0,
+                    "desde": "2020T4",
+                    "isin": "XS2081611993",
+                    "moneda": "euro",
+                    "nombre": "BONO|AZIMUT HOLDNG SA|1,63|2024-12-12",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 1000982.0,
+                    "desde": "2020T3",
+                    "isin": "XS1602557495",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANKAMERICA CORP|0,23|2023-05-04",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 1011571.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005118838",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTESA SANPAOLO SPA|1,78|2022-06-30",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 1002300.0,
+                    "desde": "2022T1",
+                    "isin": "PTME11JM0063",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|MOTA-ENGIL SGPS SA|5,55|2022-04-22",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 987202.0,
+                    "desde": "2021T4",
+                    "isin": "ES0582870I06",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|SACYR SA|1,42|2022-09-22",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 991910.0,
+                    "desde": "2022T1",
+                    "isin": "XS2199265617",
+                    "moneda": "euro",
+                    "nombre": "BONO|BAYER AG|0,38|2024-07-06",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 985800.0,
+                    "desde": "2021T4",
+                    "isin": "XS2398745849",
+                    "moneda": "euro",
+                    "nombre": "BONO|BLACKSTONE PP EUR|0,13|2023-10-20",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 993584.0,
+                    "desde": "2020T3",
+                    "isin": "XS1225626461",
+                    "moneda": "euro",
+                    "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 968957.0,
+                    "desde": "2021T4",
+                    "isin": "ES0280907017",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICAJA|2,88|2029-11-13",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 973386.0,
+                    "desde": "2021T4",
+                    "isin": "XS2332219612",
+                    "moneda": "euro",
+                    "nombre": "BONO|NEINOR HOMES SLU|4,50|2026-10-15",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 972363.0,
+                    "desde": "2020T3",
+                    "isin": "XS2054209320",
+                    "moneda": "euro",
+                    "nombre": "BONO|WINTERSHALL DEA FIN|0,45|2023-09-25",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 935222.0,
+                    "desde": "2020T4",
+                    "isin": "ES0378165007",
+                    "moneda": "euro",
+                    "nombre": "BONO|TECNICAS REUNIDAS SA|2,75|2024-12-30",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 917284.0,
+                    "desde": "2021T4",
+                    "isin": "ES0213679OF4",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANKINTER, S.A.|1,25|2032-12-23",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 903327.0,
+                    "desde": "2021T2",
+                    "isin": "XS2321651031",
+                    "moneda": "euro",
+                    "nombre": "BONO|VIA CELERE DESARROLL|5,25|2026-04-01",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 903143.0,
+                    "desde": "2020T3",
+                    "isin": "XS2193969370",
+                    "moneda": "euro",
+                    "nombre": "BONO|UPJOHN FINANCE|1,02|2024-06-23",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 876553.0,
+                    "desde": "2021T2",
+                    "isin": "ES0236463008",
+                    "moneda": "euro",
+                    "nombre": "BONO|AUDAX RENOVABLES SA|4,20|2027-12-18",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 878519.0,
+                    "desde": "2021T2",
+                    "isin": "XS2343532417",
+                    "moneda": "euro",
+                    "nombre": "BONO|ACCIONA|1,20|2025-01-14",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 841708.0,
+                    "desde": "2021T2",
+                    "isin": "XS1523028436",
+                    "moneda": "euro",
+                    "nombre": "BONO|MPT OPER PARTNESP|3,33|2025-03-24",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 831298.0,
+                    "desde": "2021T2",
+                    "isin": "XS2154325489",
+                    "moneda": "euro",
+                    "nombre": "BONO|SYNGENTA AG|3,38|2026-04-16",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 823768.0,
+                    "desde": "2020T4",
+                    "isin": "FR0012370872",
+                    "moneda": "euro",
+                    "nombre": "BONO|IMERYS|2,00|2024-12-10",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 803937.0,
+                    "desde": "2021T2",
+                    "isin": "XS1829325239",
+                    "moneda": "euro",
+                    "nombre": "BONO|ATRIUM INVEST|3,00|2025-09-11",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 787159.0,
+                    "desde": "2021T3",
+                    "isin": "XS2363244513",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUTSCHE LUFTHANSA|2,00|2024-07-14",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 788833.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013519048",
+                    "moneda": "euro",
+                    "nombre": "BONO|CAP GEMINI|0,63|2025-06-23",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 771131.0,
+                    "desde": "2021T2",
+                    "isin": "XS2344385815",
+                    "moneda": "euro",
+                    "nombre": "BONO|RYANAIR HOLDINGS PLC|0,88|2026-05-25",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 759216.0,
+                    "desde": "2020T3",
+                    "isin": "XS1584122177",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESSITY|1,13|2024-03-27",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 744106.0,
+                    "desde": "2021T2",
+                    "isin": "FR0013354297",
+                    "moneda": "euro",
+                    "nombre": "BONO|NEXANS|3,75|2023-08-08",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 725646.0,
+                    "desde": "2021T2",
+                    "isin": "XS2356039268",
+                    "moneda": "euro",
+                    "nombre": "BONO|GTC AURORA LUXEM|2,25|2026-06-23",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 710692.0,
+                    "desde": "2020T3",
+                    "isin": "XS2178957077",
+                    "moneda": "euro",
+                    "nombre": "BONO|REDEXIS GAS FINANCE|1,88|2025-05-28",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 709704.0,
+                    "desde": "2021T4",
+                    "isin": "XS1851268893",
+                    "moneda": "euro",
+                    "nombre": "BONO|BLACKSTONE PP EUR|2,20|2025-07-24",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 616356.0,
+                    "desde": "2020T3",
+                    "isin": "XS2177552390",
+                    "moneda": "euro",
+                    "nombre": "BONO|AMADEUS SA.|2,50|2024-05-20",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 613979.0,
+                    "desde": "2021T3",
+                    "isin": "ES0305198022",
+                    "moneda": "euro",
+                    "nombre": "BONO|EMPRESA NAVIERA|4,88|2026-07-16",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 517059.0,
+                    "desde": "2021T3",
+                    "isin": "XS1844997970",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTERNATIONAL GAME|3,50|2024-07-15",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 498841.0,
+                    "desde": "2021T4",
+                    "isin": "ES0536463385",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|AUDAX RENOVABLES SA|0,45|2022-04-11",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 499437.0,
+                    "desde": "2020T4",
+                    "isin": "XS2200215213",
+                    "moneda": "euro",
+                    "nombre": "BONO|INFRAST. WIRELESS|1,88|2026-07-08",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 409436.0,
+                    "desde": "2020T4",
+                    "isin": "XS2228676735",
+                    "moneda": "euro",
+                    "nombre": "BONO|NISSAN|1,94|2023-09-15",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 355327.0,
+                    "desde": "2020T4",
+                    "isin": "XS2077646391",
+                    "moneda": "euro",
+                    "nombre": "BONO|GRIFOLS SA|2,25|2027-11-15",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 299523.0,
+                    "desde": "2021T2",
+                    "isin": "XS1598757760",
+                    "moneda": "euro",
+                    "nombre": "BONO|GRIFOLS SA|3,20|2025-05-01",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 297530.0,
+                    "desde": "2021T4",
+                    "isin": "PTME18JM0058",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|MOTA-ENGIL SGPS SA|1,67|2022-06-16",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 271791.0,
+                    "desde": "2020T3",
+                    "isin": "PTOTVJOE0005",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 202172.0,
+                    "desde": "2020T3",
+                    "isin": "XS2180007549",
+                    "moneda": "euro",
+                    "nombre": "BONO|AT&T INC|1,60|2028-05-19",
+                    "porcentaje": 0.13
+                }
+            ],
+            "rentabilidad": -2.62
+        },
+        {
+            "gastos": 0.13,
             "indice_rotacion": 0.16,
+            "liquidez": 7.17,
             "participes": 3603,
             "patrimonio": 88507866,
             "periodo": "2021T4",
@@ -27,7 +863,7 @@
                 },
                 {
                     "cantidad": 4094983.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO ITALIANO|2,50|2024-12-01",
@@ -35,7 +871,7 @@
                 },
                 {
                     "cantidad": 3522915.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -43,7 +879,7 @@
                 },
                 {
                     "cantidad": 3488032.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -83,7 +919,7 @@
                 },
                 {
                     "cantidad": 2331559.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,38|2022-05-23",
@@ -91,7 +927,7 @@
                 },
                 {
                     "cantidad": 2274016.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -99,7 +935,7 @@
                 },
                 {
                     "cantidad": 2231507.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -107,7 +943,7 @@
                 },
                 {
                     "cantidad": 2191913.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -123,7 +959,7 @@
                 },
                 {
                     "cantidad": 2085717.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -139,7 +975,7 @@
                 },
                 {
                     "cantidad": 2018154.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -147,7 +983,7 @@
                 },
                 {
                     "cantidad": 2008863.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,19|2024-11-21",
@@ -155,7 +991,7 @@
                 },
                 {
                     "cantidad": 1947878.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -163,7 +999,7 @@
                 },
                 {
                     "cantidad": 1895324.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -187,7 +1023,7 @@
                 },
                 {
                     "cantidad": 1822451.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -307,7 +1143,7 @@
                 },
                 {
                     "cantidad": 1565341.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -331,7 +1167,7 @@
                 },
                 {
                     "cantidad": 1540529.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -379,7 +1215,7 @@
                 },
                 {
                     "cantidad": 1497933.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,13|2024-08-31",
@@ -403,7 +1239,7 @@
                 },
                 {
                     "cantidad": 1426779.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -435,7 +1271,7 @@
                 },
                 {
                     "cantidad": 1348081.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -443,7 +1279,7 @@
                 },
                 {
                     "cantidad": 1343482.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -451,7 +1287,7 @@
                 },
                 {
                     "cantidad": 1323461.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -491,7 +1327,7 @@
                 },
                 {
                     "cantidad": 1099992.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -539,7 +1375,7 @@
                 },
                 {
                     "cantidad": 1033264.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -579,7 +1415,7 @@
                 },
                 {
                     "cantidad": 1008819.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,19|2022-03-08",
@@ -611,7 +1447,7 @@
                 },
                 {
                     "cantidad": 1002778.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,21|2023-05-04",
@@ -619,7 +1455,7 @@
                 },
                 {
                     "cantidad": 1000549.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -811,7 +1647,7 @@
                 },
                 {
                     "cantidad": 501008.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -859,7 +1695,7 @@
                 },
                 {
                     "cantidad": 272631.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -879,6 +1715,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.04,
+            "liquidez": 10.85,
             "participes": 3309,
             "patrimonio": 84662850,
             "periodo": "2021T3",
@@ -901,7 +1738,7 @@
                 },
                 {
                     "cantidad": 4130441.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,50|2024-12-01",
@@ -909,7 +1746,7 @@
                 },
                 {
                     "cantidad": 3538347.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -933,7 +1770,7 @@
                 },
                 {
                     "cantidad": 2346349.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -941,7 +1778,7 @@
                 },
                 {
                     "cantidad": 2307495.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -949,7 +1786,7 @@
                 },
                 {
                     "cantidad": 2254964.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -957,7 +1794,7 @@
                 },
                 {
                     "cantidad": 2202226.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -965,7 +1802,7 @@
                 },
                 {
                     "cantidad": 2116705.0,
-                    "desde": "2018T2",
+                    "desde": "2020T3",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,61|2022-06-10",
@@ -973,7 +1810,7 @@
                 },
                 {
                     "cantidad": 2104731.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -989,7 +1826,7 @@
                 },
                 {
                     "cantidad": 2012280.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,20|2024-11-21",
@@ -997,7 +1834,7 @@
                 },
                 {
                     "cantidad": 2024653.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -1005,7 +1842,7 @@
                 },
                 {
                     "cantidad": 1950174.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -1013,7 +1850,7 @@
                 },
                 {
                     "cantidad": 1898102.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -1053,7 +1890,7 @@
                 },
                 {
                     "cantidad": 1833917.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -1069,7 +1906,7 @@
                 },
                 {
                     "cantidad": 1780730.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -1085,7 +1922,7 @@
                 },
                 {
                     "cantidad": 1752519.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -1165,7 +2002,7 @@
                 },
                 {
                     "cantidad": 1576831.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -1197,7 +2034,7 @@
                 },
                 {
                     "cantidad": 1547881.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -1261,7 +2098,7 @@
                 },
                 {
                     "cantidad": 1498406.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,15|2024-08-31",
@@ -1293,7 +2130,7 @@
                 },
                 {
                     "cantidad": 1430875.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2013574202",
                     "moneda": "euro",
                     "nombre": "BONO|FORD MOTOR|1,51|2023-02-17",
@@ -1301,7 +2138,7 @@
                 },
                 {
                     "cantidad": 1433578.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -1325,7 +2162,7 @@
                 },
                 {
                     "cantidad": 1378101.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -1333,7 +2170,7 @@
                 },
                 {
                     "cantidad": 1352380.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -1341,7 +2178,7 @@
                 },
                 {
                     "cantidad": 1325447.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -1405,7 +2242,7 @@
                 },
                 {
                     "cantidad": 1104984.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -1429,7 +2266,7 @@
                 },
                 {
                     "cantidad": 1040396.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -1469,7 +2306,7 @@
                 },
                 {
                     "cantidad": 1004543.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,24|2023-05-04",
@@ -1477,7 +2314,7 @@
                 },
                 {
                     "cantidad": 1006304.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -1493,7 +2330,7 @@
                 },
                 {
                     "cantidad": 1009497.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,20|2022-03-08",
@@ -1661,7 +2498,7 @@
                 },
                 {
                     "cantidad": 502944.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -1693,7 +2530,7 @@
                 },
                 {
                     "cantidad": 273679.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -1713,6 +2550,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.33,
+            "liquidez": 7.83,
             "participes": 3089,
             "patrimonio": 77913919,
             "periodo": "2021T2",
@@ -1735,7 +2573,7 @@
                 },
                 {
                     "cantidad": 4134019.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,50|2024-12-01",
@@ -1743,7 +2581,7 @@
                 },
                 {
                     "cantidad": 3552691.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -1775,7 +2613,7 @@
                 },
                 {
                     "cantidad": 2359162.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -1783,7 +2621,7 @@
                 },
                 {
                     "cantidad": 2310335.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -1799,7 +2637,7 @@
                 },
                 {
                     "cantidad": 2262786.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -1807,7 +2645,7 @@
                 },
                 {
                     "cantidad": 2210046.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -1823,7 +2661,7 @@
                 },
                 {
                     "cantidad": 2101154.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -1831,7 +2669,7 @@
                 },
                 {
                     "cantidad": 2104030.0,
-                    "desde": "2018T2",
+                    "desde": "2020T3",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,61|2022-06-10",
@@ -1839,7 +2677,7 @@
                 },
                 {
                     "cantidad": 2078967.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -1847,7 +2685,7 @@
                 },
                 {
                     "cantidad": 2030913.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -1855,7 +2693,7 @@
                 },
                 {
                     "cantidad": 2007925.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,20|2024-11-21",
@@ -1863,7 +2701,7 @@
                 },
                 {
                     "cantidad": 1948426.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -1871,7 +2709,7 @@
                 },
                 {
                     "cantidad": 1901921.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -1895,7 +2733,7 @@
                 },
                 {
                     "cantidad": 1839841.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -1919,7 +2757,7 @@
                 },
                 {
                     "cantidad": 1758659.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -1927,7 +2765,7 @@
                 },
                 {
                     "cantidad": 1765422.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -1959,7 +2797,7 @@
                 },
                 {
                     "cantidad": 1705262.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005199267",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,16|2023-06-30",
@@ -2023,7 +2861,7 @@
                 },
                 {
                     "cantidad": 1588283.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -2039,7 +2877,7 @@
                 },
                 {
                     "cantidad": 1579156.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -2087,7 +2925,7 @@
                 },
                 {
                     "cantidad": 1547539.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -2135,7 +2973,7 @@
                 },
                 {
                     "cantidad": 1496142.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,16|2024-08-31",
@@ -2151,7 +2989,7 @@
                 },
                 {
                     "cantidad": 1435212.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2013574202",
                     "moneda": "euro",
                     "nombre": "BONO|FORD MOTOR|1,51|2023-02-17",
@@ -2159,7 +2997,7 @@
                 },
                 {
                     "cantidad": 1436892.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -2199,7 +3037,7 @@
                 },
                 {
                     "cantidad": 1374555.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -2207,7 +3045,7 @@
                 },
                 {
                     "cantidad": 1355765.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -2215,7 +3053,7 @@
                 },
                 {
                     "cantidad": 1327242.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -2263,7 +3101,7 @@
                 },
                 {
                     "cantidad": 1102085.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -2271,7 +3109,7 @@
                 },
                 {
                     "cantidad": 1102586.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005163339",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|0,15|2022-03-31",
@@ -2287,7 +3125,7 @@
                 },
                 {
                     "cantidad": 1044423.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -2311,7 +3149,7 @@
                 },
                 {
                     "cantidad": 1009355.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -2319,7 +3157,7 @@
                 },
                 {
                     "cantidad": 1005724.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,24|2023-05-04",
@@ -2327,7 +3165,7 @@
                 },
                 {
                     "cantidad": 1010046.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,20|2022-03-08",
@@ -2479,7 +3317,7 @@
                 },
                 {
                     "cantidad": 504616.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -2511,7 +3349,7 @@
                 },
                 {
                     "cantidad": 274681.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -2539,6 +3377,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.12,
+            "liquidez": 8.14,
             "participes": 2689,
             "patrimonio": 71762276,
             "periodo": "2021T1",
@@ -2561,7 +3400,7 @@
                 },
                 {
                     "cantidad": 4143630.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,50|2024-12-01",
@@ -2569,7 +3408,7 @@
                 },
                 {
                     "cantidad": 3563611.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -2585,7 +3424,7 @@
                 },
                 {
                     "cantidad": 2604210.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1082660744",
                     "moneda": "euro",
                     "nombre": "BONO|ORLEN CAPITALA AB|2,50|2021-06-30",
@@ -2601,7 +3440,7 @@
                 },
                 {
                     "cantidad": 2371468.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -2617,7 +3456,7 @@
                 },
                 {
                     "cantidad": 2290891.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -2633,7 +3472,7 @@
                 },
                 {
                     "cantidad": 2273528.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -2641,7 +3480,7 @@
                 },
                 {
                     "cantidad": 2217670.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -2649,7 +3488,7 @@
                 },
                 {
                     "cantidad": 2096225.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -2657,7 +3496,7 @@
                 },
                 {
                     "cantidad": 2092313.0,
-                    "desde": "2018T2",
+                    "desde": "2020T3",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,61|2022-06-10",
@@ -2673,7 +3512,7 @@
                 },
                 {
                     "cantidad": 2081051.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -2681,7 +3520,7 @@
                 },
                 {
                     "cantidad": 2053036.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2106861771",
                     "moneda": "euro",
                     "nombre": "BONO|MEDIOBANCA SPA|1,13|2025-04-23",
@@ -2689,7 +3528,7 @@
                 },
                 {
                     "cantidad": 2040573.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "DE000A2YB699",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SCHAEFFLER AG|1,13|2022-03-26",
@@ -2697,7 +3536,7 @@
                 },
                 {
                     "cantidad": 2036109.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -2705,7 +3544,7 @@
                 },
                 {
                     "cantidad": 2005508.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,21|2024-11-21",
@@ -2721,7 +3560,7 @@
                 },
                 {
                     "cantidad": 1949198.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -2729,7 +3568,7 @@
                 },
                 {
                     "cantidad": 1933884.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTSDRCOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|SAUDAÇOR SA|3,50|2021-06-29",
@@ -2737,7 +3576,7 @@
                 },
                 {
                     "cantidad": 1904383.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -2761,7 +3600,7 @@
                 },
                 {
                     "cantidad": 1847483.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -2777,7 +3616,7 @@
                 },
                 {
                     "cantidad": 1762977.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -2809,7 +3648,7 @@
                 },
                 {
                     "cantidad": 1726334.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -2817,7 +3656,7 @@
                 },
                 {
                     "cantidad": 1703230.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005199267",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,16|2023-06-30",
@@ -2833,7 +3672,7 @@
                 },
                 {
                     "cantidad": 1643002.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0324964666",
                     "moneda": "euro",
                     "nombre": "BONO|HBOS PLC|5,37|2021-06-30",
@@ -2857,7 +3696,7 @@
                 },
                 {
                     "cantidad": 1594290.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1468525057",
                     "moneda": "euro",
                     "nombre": "BONO|CELLNEX TELECOM|2,38|2024-01-16",
@@ -2873,7 +3712,7 @@
                 },
                 {
                     "cantidad": 1575952.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -2881,7 +3720,7 @@
                 },
                 {
                     "cantidad": 1576542.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "FR0013016631",
                     "moneda": "euro",
                     "nombre": "BONO|TDF INFRASTRUCTURE|2,88|2022-10-19",
@@ -2889,7 +3728,7 @@
                 },
                 {
                     "cantidad": 1581224.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -2897,7 +3736,7 @@
                 },
                 {
                     "cantidad": 1572307.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1169199152",
                     "moneda": "euro",
                     "nombre": "BONO|HIPERCOR SA|3,88|2022-01-19",
@@ -2945,7 +3784,7 @@
                 },
                 {
                     "cantidad": 1545198.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -2969,7 +3808,7 @@
                 },
                 {
                     "cantidad": 1527673.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1568875444",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|2,50|2021-08-21",
@@ -3001,7 +3840,7 @@
                 },
                 {
                     "cantidad": 1496340.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,16|2024-08-31",
@@ -3017,7 +3856,7 @@
                 },
                 {
                     "cantidad": 1442349.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -3033,7 +3872,7 @@
                 },
                 {
                     "cantidad": 1422549.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2013574202",
                     "moneda": "euro",
                     "nombre": "BONO|FORD MOTOR|1,51|2023-02-17",
@@ -3057,7 +3896,7 @@
                 },
                 {
                     "cantidad": 1359672.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -3065,7 +3904,7 @@
                 },
                 {
                     "cantidad": 1357424.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -3073,7 +3912,7 @@
                 },
                 {
                     "cantidad": 1327684.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -3113,7 +3952,7 @@
                 },
                 {
                     "cantidad": 1153145.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0765448757",
                     "moneda": "euro",
                     "nombre": "BONO|THYSSENKRUPP AG|5,00|2022-04-04",
@@ -3129,7 +3968,7 @@
                 },
                 {
                     "cantidad": 1103190.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005163339",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|0,20|2022-03-31",
@@ -3137,7 +3976,7 @@
                 },
                 {
                     "cantidad": 1087629.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -3145,7 +3984,7 @@
                 },
                 {
                     "cantidad": 1048909.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -3185,7 +4024,7 @@
                 },
                 {
                     "cantidad": 1013422.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGALLOM0004",
                     "moneda": "euro",
                     "nombre": "BONO|GALP ENERGY SGPS SA|1,00|2023-02-15",
@@ -3193,7 +4032,7 @@
                 },
                 {
                     "cantidad": 1010589.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -3201,7 +4040,7 @@
                 },
                 {
                     "cantidad": 1006125.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,24|2023-05-04",
@@ -3209,7 +4048,7 @@
                 },
                 {
                     "cantidad": 1009922.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,21|2022-03-08",
@@ -3265,7 +4104,7 @@
                 },
                 {
                     "cantidad": 801831.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTJLLBOE0000",
                     "moneda": "euro",
                     "nombre": "BONO|JOSE DE MELLO SAUDE|2,45|2021-05-17",
@@ -3305,7 +4144,7 @@
                 },
                 {
                     "cantidad": 505839.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -3321,7 +4160,7 @@
                 },
                 {
                     "cantidad": 275402.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -3341,6 +4180,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.38,
+            "liquidez": 2.93,
             "participes": 2219,
             "patrimonio": 62499243,
             "periodo": "2020T4",
@@ -3363,7 +4203,7 @@
                 },
                 {
                     "cantidad": 4155770.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,50|2024-12-01",
@@ -3371,7 +4211,7 @@
                 },
                 {
                     "cantidad": 3659105.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005370306",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,10|2026-07-15",
@@ -3379,7 +4219,7 @@
                 },
                 {
                     "cantidad": 3579011.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -3387,7 +4227,7 @@
                 },
                 {
                     "cantidad": 2610543.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1082660744",
                     "moneda": "euro",
                     "nombre": "BONO|ORLEN CAPITALA AB|2,50|2021-06-30",
@@ -3403,7 +4243,7 @@
                 },
                 {
                     "cantidad": 2385708.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -3411,7 +4251,7 @@
                 },
                 {
                     "cantidad": 2311856.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -3427,7 +4267,7 @@
                 },
                 {
                     "cantidad": 2284271.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "ES0205045000",
                     "moneda": "euro",
                     "nombre": "BONO|CRITERIA CAIXAHOLDIN|1,63|2022-04-21",
@@ -3435,7 +4275,7 @@
                 },
                 {
                     "cantidad": 2276643.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -3443,7 +4283,7 @@
                 },
                 {
                     "cantidad": 2219029.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -3451,7 +4291,7 @@
                 },
                 {
                     "cantidad": 2094947.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -3459,7 +4299,7 @@
                 },
                 {
                     "cantidad": 2083682.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -3467,7 +4307,7 @@
                 },
                 {
                     "cantidad": 2090134.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1362349943",
                     "moneda": "euro",
                     "nombre": "BONO|FCE BANK PLC|1,66|2021-02-11",
@@ -3475,7 +4315,7 @@
                 },
                 {
                     "cantidad": 2074105.0,
-                    "desde": "2018T2",
+                    "desde": "2020T3",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,60|2022-06-10",
@@ -3483,7 +4323,7 @@
                 },
                 {
                     "cantidad": 2051599.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2106861771",
                     "moneda": "euro",
                     "nombre": "BONO|MEDIOBANCA SPA|1,13|2025-04-23",
@@ -3491,7 +4331,7 @@
                 },
                 {
                     "cantidad": 2039809.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "DE000A2YB699",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SCHAEFFLER AG|1,13|2022-03-26",
@@ -3499,7 +4339,7 @@
                 },
                 {
                     "cantidad": 2040080.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -3507,7 +4347,7 @@
                 },
                 {
                     "cantidad": 2035767.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1241701413",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|2,73|2023-06-05",
@@ -3515,7 +4355,7 @@
                 },
                 {
                     "cantidad": 2006399.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,22|2024-11-21",
@@ -3523,7 +4363,7 @@
                 },
                 {
                     "cantidad": 1949300.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -3531,7 +4371,7 @@
                 },
                 {
                     "cantidad": 1945177.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTSDRCOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|SAUDAÇOR SA|3,50|2021-06-29",
@@ -3539,7 +4379,7 @@
                 },
                 {
                     "cantidad": 1905335.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -3547,7 +4387,7 @@
                 },
                 {
                     "cantidad": 1856624.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -3555,7 +4395,7 @@
                 },
                 {
                     "cantidad": 1835546.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1110430193",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|1,63|2022-01-18",
@@ -3563,7 +4403,7 @@
                 },
                 {
                     "cantidad": 1809568.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1196536731",
                     "moneda": "euro",
                     "nombre": "BONO|FLOWSERVE|1,25|2022-03-17",
@@ -3571,7 +4411,7 @@
                 },
                 {
                     "cantidad": 1768128.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -3595,7 +4435,7 @@
                 },
                 {
                     "cantidad": 1703174.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005199267",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,29|2023-06-30",
@@ -3603,7 +4443,7 @@
                 },
                 {
                     "cantidad": 1700051.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -3619,7 +4459,7 @@
                 },
                 {
                     "cantidad": 1644865.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0324964666",
                     "moneda": "euro",
                     "nombre": "BONO|HBOS PLC|5,37|2021-06-30",
@@ -3643,7 +4483,7 @@
                 },
                 {
                     "cantidad": 1591388.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1468525057",
                     "moneda": "euro",
                     "nombre": "BONO|CELLNEX TELECOM|2,38|2024-01-16",
@@ -3683,7 +4523,7 @@
                 },
                 {
                     "cantidad": 1576758.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -3691,7 +4531,7 @@
                 },
                 {
                     "cantidad": 1582025.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "FR0013016631",
                     "moneda": "euro",
                     "nombre": "BONO|TDF INFRASTRUCTURE|2,88|2022-10-19",
@@ -3699,7 +4539,7 @@
                 },
                 {
                     "cantidad": 1575865.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1169199152",
                     "moneda": "euro",
                     "nombre": "BONO|HIPERCOR SA|3,88|2022-01-19",
@@ -3707,7 +4547,7 @@
                 },
                 {
                     "cantidad": 1584292.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -3747,7 +4587,7 @@
                 },
                 {
                     "cantidad": 1534429.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -3771,7 +4611,7 @@
                 },
                 {
                     "cantidad": 1490863.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,17|2024-08-31",
@@ -3795,7 +4635,7 @@
                 },
                 {
                     "cantidad": 1446245.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -3803,7 +4643,7 @@
                 },
                 {
                     "cantidad": 1426747.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0525912449",
                     "moneda": "euro",
                     "nombre": "BONO|BARCLAYS PLC|6,00|2021-01-14",
@@ -3811,7 +4651,7 @@
                 },
                 {
                     "cantidad": 1409721.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2013574202",
                     "moneda": "euro",
                     "nombre": "BONO|FORD MOTOR|1,51|2023-02-17",
@@ -3827,7 +4667,7 @@
                 },
                 {
                     "cantidad": 1365593.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -3835,7 +4675,7 @@
                 },
                 {
                     "cantidad": 1335461.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -3843,7 +4683,7 @@
                 },
                 {
                     "cantidad": 1328294.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -3867,7 +4707,7 @@
                 },
                 {
                     "cantidad": 1161953.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0765448757",
                     "moneda": "euro",
                     "nombre": "BONO|THYSSENKRUPP AG|5,00|2022-04-04",
@@ -3891,7 +4731,7 @@
                 },
                 {
                     "cantidad": 1100613.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005163339",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|0,20|2022-03-31",
@@ -3899,7 +4739,7 @@
                 },
                 {
                     "cantidad": 1094622.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0011731876",
                     "moneda": "euro",
                     "nombre": "BONO|ACCOR SA|2,63|2021-02-05",
@@ -3907,7 +4747,7 @@
                 },
                 {
                     "cantidad": 1074844.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS0999654873",
                     "moneda": "euro",
                     "nombre": "BONO|LEONARDO SPA|4,50|2021-01-19",
@@ -3915,7 +4755,7 @@
                 },
                 {
                     "cantidad": 1052977.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -3931,7 +4771,7 @@
                 },
                 {
                     "cantidad": 1012564.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -3947,7 +4787,7 @@
                 },
                 {
                     "cantidad": 1008455.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGALLOM0004",
                     "moneda": "euro",
                     "nombre": "BONO|GALP ENERGY SGPS SA|1,00|2023-02-15",
@@ -3955,7 +4795,7 @@
                 },
                 {
                     "cantidad": 1007350.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,26|2023-05-04",
@@ -3963,7 +4803,7 @@
                 },
                 {
                     "cantidad": 1008041.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,22|2022-03-08",
@@ -3971,7 +4811,7 @@
                 },
                 {
                     "cantidad": 999997.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000DHY4788",
                     "moneda": "euro",
                     "nombre": "BONO|HYPOTHEKENBK IN|0,28|2021-02-08",
@@ -3979,7 +4819,7 @@
                 },
                 {
                     "cantidad": 1005531.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1560862580",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,28|2022-02-07",
@@ -3995,7 +4835,7 @@
                 },
                 {
                     "cantidad": 919105.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1568875444",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|2,50|2021-08-21",
@@ -4043,7 +4883,7 @@
                 },
                 {
                     "cantidad": 802430.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTJLLBOE0000",
                     "moneda": "euro",
                     "nombre": "BONO|JOSE DE MELLO SAUDE|2,45|2021-05-17",
@@ -4059,7 +4899,7 @@
                 },
                 {
                     "cantidad": 777351.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -4091,7 +4931,7 @@
                 },
                 {
                     "cantidad": 507358.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -4107,7 +4947,7 @@
                 },
                 {
                     "cantidad": 276833.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -4127,13 +4967,14 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.02,
+            "liquidez": 5.95,
             "participes": 1886,
             "patrimonio": 61994023,
             "periodo": "2020T3",
             "posiciones": [
                 {
                     "cantidad": 4249183.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "ES00000126B2",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO ESPAÑOL|2,75|2024-10-31",
@@ -4149,7 +4990,7 @@
                 },
                 {
                     "cantidad": 4110385.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005045270",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,50|2024-12-01",
@@ -4157,7 +4998,7 @@
                 },
                 {
                     "cantidad": 3596052.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005370306",
                     "moneda": "euro",
                     "nombre": "BONO|BUONI POLIENNALI TES|2,10|2026-07-15",
@@ -4165,7 +5006,7 @@
                 },
                 {
                     "cantidad": 3582050.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -4173,7 +5014,7 @@
                 },
                 {
                     "cantidad": 2831200.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1418631930",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|1,00|2021-05-24",
@@ -4181,7 +5022,7 @@
                 },
                 {
                     "cantidad": 2670882.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0920705737",
                     "moneda": "euro",
                     "nombre": "BONO|ORIGIN ENERGY|2,50|2020-10-23",
@@ -4189,7 +5030,7 @@
                 },
                 {
                     "cantidad": 2615611.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1082660744",
                     "moneda": "euro",
                     "nombre": "BONO|ORLEN CAPITALA AB|2,50|2021-06-30",
@@ -4197,7 +5038,7 @@
                 },
                 {
                     "cantidad": 2516798.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTCPEDOM0000",
                     "moneda": "euro",
                     "nombre": "BONO|REFER-REDE FERRONVIA|4,25|2021-12-13",
@@ -4205,7 +5046,7 @@
                 },
                 {
                     "cantidad": 2389483.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -4213,7 +5054,7 @@
                 },
                 {
                     "cantidad": 2286993.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "ES0205045000",
                     "moneda": "euro",
                     "nombre": "BONO|CRITERIA CAIXAHOLDIN|1,63|2022-04-21",
@@ -4221,7 +5062,7 @@
                 },
                 {
                     "cantidad": 2262670.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -4229,7 +5070,7 @@
                 },
                 {
                     "cantidad": 2241972.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -4237,7 +5078,7 @@
                 },
                 {
                     "cantidad": 2188023.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -4245,7 +5086,7 @@
                 },
                 {
                     "cantidad": 2111984.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1492457236",
                     "moneda": "euro",
                     "nombre": "BONO|MYLAN NV|1,25|2020-11-23",
@@ -4253,7 +5094,7 @@
                 },
                 {
                     "cantidad": 2078703.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1554112281",
                     "moneda": "euro",
                     "nombre": "BONO|NIBC BANK NV|1,50|2022-01-31",
@@ -4261,7 +5102,7 @@
                 },
                 {
                     "cantidad": 2081089.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -4269,7 +5110,7 @@
                 },
                 {
                     "cantidad": 2085400.0,
-                    "desde": "2018T2",
+                    "desde": "2020T3",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,66|2022-06-10",
@@ -4277,7 +5118,7 @@
                 },
                 {
                     "cantidad": 2069316.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005363780",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,70|2024-03-13",
@@ -4285,7 +5126,7 @@
                 },
                 {
                     "cantidad": 2068331.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1362349943",
                     "moneda": "euro",
                     "nombre": "BONO|FCE BANK PLC|1,66|2021-02-11",
@@ -4293,7 +5134,7 @@
                 },
                 {
                     "cantidad": 2035231.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -4301,7 +5142,7 @@
                 },
                 {
                     "cantidad": 2026410.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1241701413",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|2,73|2023-06-05",
@@ -4309,7 +5150,7 @@
                 },
                 {
                     "cantidad": 2001079.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2106861771",
                     "moneda": "euro",
                     "nombre": "BONO|MEDIOBANCA SPA|1,13|2025-04-23",
@@ -4317,7 +5158,7 @@
                 },
                 {
                     "cantidad": 1980406.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "DE000A2YB699",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SCHAEFFLER AG|1,13|2022-03-26",
@@ -4325,7 +5166,7 @@
                 },
                 {
                     "cantidad": 1963095.0,
-                    "desde": "2018T3",
+                    "desde": "2020T3",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,26|2024-11-21",
@@ -4333,7 +5174,7 @@
                 },
                 {
                     "cantidad": 1963827.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTSDRCOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|SAUDAÇOR SA|3,50|2021-06-29",
@@ -4349,7 +5190,7 @@
                 },
                 {
                     "cantidad": 1924876.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS2081491727",
                     "moneda": "euro",
                     "nombre": "BONO|SERVICIOS MEDIO AMBI|0,82|2023-12-04",
@@ -4357,7 +5198,7 @@
                 },
                 {
                     "cantidad": 1898771.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -4365,7 +5206,7 @@
                 },
                 {
                     "cantidad": 1852924.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -4373,7 +5214,7 @@
                 },
                 {
                     "cantidad": 1834249.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1110430193",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|1,63|2022-01-18",
@@ -4381,7 +5222,7 @@
                 },
                 {
                     "cantidad": 1794629.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1196536731",
                     "moneda": "euro",
                     "nombre": "BONO|FLOWSERVE|1,25|2022-03-17",
@@ -4389,7 +5230,7 @@
                 },
                 {
                     "cantidad": 1772324.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -4397,7 +5238,7 @@
                 },
                 {
                     "cantidad": 1746952.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS1944388856",
                     "moneda": "euro",
                     "nombre": "BONO|VOLKSWAGEN BANK|1,25|2022-08-01",
@@ -4405,7 +5246,7 @@
                 },
                 {
                     "cantidad": 1731423.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS0986063864",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|5,75|2025-10-28",
@@ -4429,7 +5270,7 @@
                 },
                 {
                     "cantidad": 1686237.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005199267",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,30|2023-06-30",
@@ -4437,7 +5278,7 @@
                 },
                 {
                     "cantidad": 1645078.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0324964666",
                     "moneda": "euro",
                     "nombre": "BONO|HBOS PLC|5,37|2021-06-30",
@@ -4445,7 +5286,7 @@
                 },
                 {
                     "cantidad": 1595026.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1468525057",
                     "moneda": "euro",
                     "nombre": "BONO|CELLNEX TELECOM|2,38|2024-01-16",
@@ -4453,7 +5294,7 @@
                 },
                 {
                     "cantidad": 1599037.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -4461,7 +5302,7 @@
                 },
                 {
                     "cantidad": 1581354.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -4469,7 +5310,7 @@
                 },
                 {
                     "cantidad": 1580959.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1040508167",
                     "moneda": "euro",
                     "nombre": "BONO|IMPERIAL BRANDS|2,25|2021-02-26",
@@ -4477,7 +5318,7 @@
                 },
                 {
                     "cantidad": 1568181.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "FR0013016631",
                     "moneda": "euro",
                     "nombre": "BONO|TDF INFRASTRUCTURE|2,88|2022-10-19",
@@ -4485,7 +5326,7 @@
                 },
                 {
                     "cantidad": 1564055.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1169199152",
                     "moneda": "euro",
                     "nombre": "BONO|HIPERCOR SA|3,88|2022-01-19",
@@ -4501,7 +5342,7 @@
                 },
                 {
                     "cantidad": 1554203.0,
-                    "desde": "2019T2",
+                    "desde": "2020T3",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -4517,7 +5358,7 @@
                 },
                 {
                     "cantidad": 1495677.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0013260486",
                     "moneda": "euro",
                     "nombre": "BONO|RCI BANQUE SA|0,18|2022-03-14",
@@ -4525,7 +5366,7 @@
                 },
                 {
                     "cantidad": 1492213.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2030530450",
                     "moneda": "euro",
                     "nombre": "BONO|JEFFERIES GROUP|1,00|2024-07-19",
@@ -4533,7 +5374,7 @@
                 },
                 {
                     "cantidad": 1492772.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0997484430",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|3,13|2020-11-27",
@@ -4541,7 +5382,7 @@
                 },
                 {
                     "cantidad": 1494048.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2094530297",
                     "moneda": "euro",
                     "nombre": "PAGARE|ACCIONA|0,40|2020-12-14",
@@ -4549,7 +5390,7 @@
                 },
                 {
                     "cantidad": 1468118.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "IT0005204406",
                     "moneda": "euro",
                     "nombre": "BONO|UNICREDITO ITALIANO|0,22|2024-08-31",
@@ -4557,7 +5398,7 @@
                 },
                 {
                     "cantidad": 1435079.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -4565,7 +5406,7 @@
                 },
                 {
                     "cantidad": 1434884.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0525912449",
                     "moneda": "euro",
                     "nombre": "BONO|BARCLAYS PLC|6,00|2021-01-14",
@@ -4573,7 +5414,7 @@
                 },
                 {
                     "cantidad": 1428939.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "PTOTEKOE0011",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|2,88|2025-10-15",
@@ -4589,7 +5430,7 @@
                 },
                 {
                     "cantidad": 1340291.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "XS2013574202",
                     "moneda": "euro",
                     "nombre": "BONO|FORD MOTOR|1,51|2023-02-17",
@@ -4597,7 +5438,7 @@
                 },
                 {
                     "cantidad": 1326170.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -4605,7 +5446,7 @@
                 },
                 {
                     "cantidad": 1330665.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -4613,7 +5454,7 @@
                 },
                 {
                     "cantidad": 1305008.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "FR0013236312",
                     "moneda": "euro",
                     "nombre": "BONO|AUCHAN HOLDING SA|0,63|2022-02-07",
@@ -4621,7 +5462,7 @@
                 },
                 {
                     "cantidad": 1307762.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -4629,7 +5470,7 @@
                 },
                 {
                     "cantidad": 1231664.0,
-                    "desde": "2020T1",
+                    "desde": "2020T3",
                     "isin": "XS1004236185",
                     "moneda": "euro",
                     "nombre": "BONO|AEROPORTI DI ROMA|4,26|2021-02-20",
@@ -4645,7 +5486,7 @@
                 },
                 {
                     "cantidad": 1144978.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS0765448757",
                     "moneda": "euro",
                     "nombre": "BONO|THYSSENKRUPP AG|5,00|2022-04-04",
@@ -4653,7 +5494,7 @@
                 },
                 {
                     "cantidad": 1098333.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "IT0005163339",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|0,20|2022-03-31",
@@ -4661,7 +5502,7 @@
                 },
                 {
                     "cantidad": 1094594.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "FR0011731876",
                     "moneda": "euro",
                     "nombre": "BONO|ACCOR SA|2,63|2021-02-05",
@@ -4669,7 +5510,7 @@
                 },
                 {
                     "cantidad": 1076578.0,
-                    "desde": "2019T1",
+                    "desde": "2020T3",
                     "isin": "XS0999654873",
                     "moneda": "euro",
                     "nombre": "BONO|LEONARDO SPA|4,50|2021-01-19",
@@ -4685,7 +5526,7 @@
                 },
                 {
                     "cantidad": 1037649.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -4693,7 +5534,7 @@
                 },
                 {
                     "cantidad": 998781.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTGALLOM0004",
                     "moneda": "euro",
                     "nombre": "BONO|GALP ENERGY SGPS SA|1,00|2023-02-15",
@@ -4701,7 +5542,7 @@
                 },
                 {
                     "cantidad": 1003730.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -4709,7 +5550,7 @@
                 },
                 {
                     "cantidad": 999689.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1788584321",
                     "moneda": "euro",
                     "nombre": "BONO|BBVA|0,25|2023-03-09",
@@ -4717,7 +5558,7 @@
                 },
                 {
                     "cantidad": 1006775.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,32|2023-05-04",
@@ -4725,7 +5566,7 @@
                 },
                 {
                     "cantidad": 1004806.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,40|2022-03-08",
@@ -4733,7 +5574,7 @@
                 },
                 {
                     "cantidad": 999274.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "DE000DHY4788",
                     "moneda": "euro",
                     "nombre": "BONO|HYPOTHEKENBK IN|0,33|2021-02-08",
@@ -4741,7 +5582,7 @@
                 },
                 {
                     "cantidad": 1006712.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1560862580",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,33|2022-02-07",
@@ -4757,7 +5598,7 @@
                 },
                 {
                     "cantidad": 950441.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTOTEVOE0018",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|2,13|2028-10-17",
@@ -4781,7 +5622,7 @@
                 },
                 {
                     "cantidad": 904390.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1568875444",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|2,50|2021-08-21",
@@ -4829,7 +5670,7 @@
                 },
                 {
                     "cantidad": 802388.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTJLLBOE0000",
                     "moneda": "euro",
                     "nombre": "BONO|JOSE DE MELLO SAUDE|2,81|2021-05-17",
@@ -4845,7 +5686,7 @@
                 },
                 {
                     "cantidad": 769997.0,
-                    "desde": "2019T4",
+                    "desde": "2020T3",
                     "isin": "PTMENXOM0006",
                     "moneda": "euro",
                     "nombre": "BONO|MOTA-ENGIL SGPS SA|4,38|2024-10-30",
@@ -4869,7 +5710,7 @@
                 },
                 {
                     "cantidad": 503036.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1693260702",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|0,75|2022-10-03",
@@ -4877,7 +5718,7 @@
                 },
                 {
                     "cantidad": 507089.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -4893,7 +5734,7 @@
                 },
                 {
                     "cantidad": 276411.0,
-                    "desde": "2018T1",
+                    "desde": "2020T3",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -4911,8 +5752,140 @@
             "rentabilidad": 1.22
         },
         {
+            "gastos": 0.45,
+            "indice_rotacion": 2.28,
+            "liquidez": 36.59,
+            "participes": 67,
+            "patrimonio": 1649393,
+            "periodo": "2020T2",
+            "posiciones": [
+                {
+                    "cantidad": 303167.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010830844",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMTR12P FP Amundi - Amundi 12 M",
+                    "porcentaje": 18.38
+                },
+                {
+                    "cantidad": 200048.0,
+                    "desde": "2020T2",
+                    "isin": "IE00BYVZV757",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|JE13 LN JPMorgan BetaBuilders EUR Govt",
+                    "porcentaje": 12.13
+                },
+                {
+                    "cantidad": 97956.0,
+                    "desde": "2020T2",
+                    "isin": "LU1910837415",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|CALSGAE LX Carmignac Portfolio Long-Short",
+                    "porcentaje": 5.94
+                },
+                {
+                    "cantidad": 97418.0,
+                    "desde": "2020T2",
+                    "isin": "ES0573365030",
+                    "moneda": "euro",
+                    "nombre": "BONO|REN SM RENTA CORP REAL ESTATE |2,79|2020-10-02",
+                    "porcentaje": 5.91
+                },
+                {
+                    "cantidad": 92321.0,
+                    "desde": "2020T2",
+                    "isin": "LU1378879081",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MSAIOPA LX Morgan Stanley Investment Fund",
+                    "porcentaje": 5.6
+                },
+                {
+                    "cantidad": 54346.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B3ZW0K18",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IUSE LN iShares S&P 500 EUR Hedged UCI",
+                    "porcentaje": 3.29
+                },
+                {
+                    "cantidad": 52854.0,
+                    "desde": "2020T2",
+                    "isin": "LU1331973468",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ELEARER LX Eleva UCITS Fund - Eleva Absol",
+                    "porcentaje": 3.2
+                },
+                {
+                    "cantidad": 31530.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B3VPKB53",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|XLUS LN Invesco Utilities S&P US Selec",
+                    "porcentaje": 1.91
+                },
+                {
+                    "cantidad": 24085.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B4LN9N13",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IUIS LN iShares S&P 500 Industrials Se",
+                    "porcentaje": 1.46
+                },
+                {
+                    "cantidad": 23078.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B42Z5J44",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IJPE LN iShares MSCI Japan EUR Hedged",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 22433.0,
+                    "desde": "2020T2",
+                    "isin": "FR0010655712",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|CG1 FP Amundi ETF MSCI Germany UCITS",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 19140.0,
+                    "desde": "2020T2",
+                    "isin": "FR0007054358",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MSE FP Lyxor EURO STOXX 50 DR UCITS E",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 18412.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B0M63284",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IPRP LN iShares European Property Yiel",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 13292.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B43HR379",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IUHC LN iShares S&P 500 Health Care Se",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 10226.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B02KXK85",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FXC LN iShares China Large Cap UCITS",
+                    "porcentaje": 0.62
+                }
+            ],
+            "rentabilidad": 1.43
+        },
+        {
             "gastos": 0.13,
             "indice_rotacion": 0.12,
+            "liquidez": 6.41,
             "participes": 1588,
             "patrimonio": 56810799,
             "periodo": "2020T1",
@@ -4943,7 +5916,7 @@
                 },
                 {
                     "cantidad": 3434391.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -4951,7 +5924,7 @@
                 },
                 {
                     "cantidad": 2803121.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1418631930",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|1,00|2021-05-24",
@@ -4959,7 +5932,7 @@
                 },
                 {
                     "cantidad": 2768233.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTPETUOM0018",
                     "moneda": "euro",
                     "nombre": "BONO|PARPUBLICA|3,75|2021-07-05",
@@ -4967,7 +5940,7 @@
                 },
                 {
                     "cantidad": 2767238.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -4975,7 +5948,7 @@
                 },
                 {
                     "cantidad": 2671167.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0920705737",
                     "moneda": "euro",
                     "nombre": "BONO|ORIGIN ENERGY|2,50|2020-10-23",
@@ -4983,7 +5956,7 @@
                 },
                 {
                     "cantidad": 2617054.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1082660744",
                     "moneda": "euro",
                     "nombre": "BONO|ORLEN CAPITALA AB|2,50|2021-06-30",
@@ -4991,7 +5964,7 @@
                 },
                 {
                     "cantidad": 2545383.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTCPEDOM0000",
                     "moneda": "euro",
                     "nombre": "BONO|REFER-REDE FERRONVIA|4,25|2021-12-13",
@@ -5007,7 +5980,7 @@
                 },
                 {
                     "cantidad": 2375227.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -5015,7 +5988,7 @@
                 },
                 {
                     "cantidad": 2229446.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "ES0205045000",
                     "moneda": "euro",
                     "nombre": "BONO|CRITERIA CAIXAHOLDIN|1,63|2022-04-21",
@@ -5023,7 +5996,7 @@
                 },
                 {
                     "cantidad": 2217645.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0974877150",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|3,38|2020-09-30",
@@ -5031,7 +6004,7 @@
                 },
                 {
                     "cantidad": 2161159.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -5039,7 +6012,7 @@
                 },
                 {
                     "cantidad": 2103781.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1492457236",
                     "moneda": "euro",
                     "nombre": "BONO|MYLAN NV|1,25|2020-11-23",
@@ -5047,7 +6020,7 @@
                 },
                 {
                     "cantidad": 2073895.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -5055,7 +6028,7 @@
                 },
                 {
                     "cantidad": 2068973.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -5063,7 +6036,7 @@
                 },
                 {
                     "cantidad": 2063581.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -5071,7 +6044,7 @@
                 },
                 {
                     "cantidad": 2042385.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1554112281",
                     "moneda": "euro",
                     "nombre": "BONO|NIBC BANK NV|1,50|2022-01-31",
@@ -5079,7 +6052,7 @@
                 },
                 {
                     "cantidad": 2053117.0,
-                    "desde": "2018T2",
+                    "desde": "2019T4",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,76|2022-06-10",
@@ -5095,7 +6068,7 @@
                 },
                 {
                     "cantidad": 2004665.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -5111,7 +6084,7 @@
                 },
                 {
                     "cantidad": 1971536.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1241701413",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|2,73|2023-06-05",
@@ -5119,7 +6092,7 @@
                 },
                 {
                     "cantidad": 1965172.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTSDRCOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|SAUDAÇOR SA|3,50|2021-06-29",
@@ -5127,7 +6100,7 @@
                 },
                 {
                     "cantidad": 1945449.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1362349943",
                     "moneda": "euro",
                     "nombre": "BONO|FCE BANK PLC|1,66|2021-02-11",
@@ -5143,7 +6116,7 @@
                 },
                 {
                     "cantidad": 1879249.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -5151,7 +6124,7 @@
                 },
                 {
                     "cantidad": 1867995.0,
-                    "desde": "2018T3",
+                    "desde": "2019T4",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,35|2024-11-21",
@@ -5159,7 +6132,7 @@
                 },
                 {
                     "cantidad": 1860195.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "DE000A2YB699",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SCHAEFFLER AG|1,13|2022-03-26",
@@ -5175,7 +6148,7 @@
                 },
                 {
                     "cantidad": 1789358.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -5183,7 +6156,7 @@
                 },
                 {
                     "cantidad": 1757758.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1196536731",
                     "moneda": "euro",
                     "nombre": "BONO|FLOWSERVE|1,25|2022-03-17",
@@ -5191,7 +6164,7 @@
                 },
                 {
                     "cantidad": 1756487.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1110430193",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|1,63|2022-01-18",
@@ -5199,7 +6172,7 @@
                 },
                 {
                     "cantidad": 1740962.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -5239,7 +6212,7 @@
                 },
                 {
                     "cantidad": 1582651.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -5247,7 +6220,7 @@
                 },
                 {
                     "cantidad": 1583587.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0324964666",
                     "moneda": "euro",
                     "nombre": "BONO|HBOS PLC|5,37|2021-06-30",
@@ -5255,7 +6228,7 @@
                 },
                 {
                     "cantidad": 1571740.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1040508167",
                     "moneda": "euro",
                     "nombre": "BONO|IMPERIAL BRANDS|2,25|2021-02-26",
@@ -5263,7 +6236,7 @@
                 },
                 {
                     "cantidad": 1552446.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "FR0013016631",
                     "moneda": "euro",
                     "nombre": "BONO|TDF INFRASTRUCTURE|2,88|2022-10-19",
@@ -5271,7 +6244,7 @@
                 },
                 {
                     "cantidad": 1548729.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1169199152",
                     "moneda": "euro",
                     "nombre": "BONO|HIPERCOR SA|3,88|2022-01-19",
@@ -5279,7 +6252,7 @@
                 },
                 {
                     "cantidad": 1511718.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1468525057",
                     "moneda": "euro",
                     "nombre": "BONO|CELLNEX TELECOM|2,38|2024-01-16",
@@ -5303,7 +6276,7 @@
                 },
                 {
                     "cantidad": 1499055.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS1989508319",
                     "moneda": "euro",
                     "nombre": "PAGARE|ACS|0,07|2020-04-27",
@@ -5311,7 +6284,7 @@
                 },
                 {
                     "cantidad": 1491238.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -5319,7 +6292,7 @@
                 },
                 {
                     "cantidad": 1491517.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS2006340801",
                     "moneda": "euro",
                     "nombre": "PAGARE|ACCIONA|0,56|2020-05-28",
@@ -5327,7 +6300,7 @@
                 },
                 {
                     "cantidad": 1464696.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0013260486",
                     "moneda": "euro",
                     "nombre": "BONO|RCI BANQUE SA|0,28|2022-03-14",
@@ -5335,7 +6308,7 @@
                 },
                 {
                     "cantidad": 1450793.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "CH0359915425",
                     "moneda": "euro",
                     "nombre": "BONO|UBS GROUP FUNDING|0,30|2022-09-20",
@@ -5343,7 +6316,7 @@
                 },
                 {
                     "cantidad": 1425149.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0525912449",
                     "moneda": "euro",
                     "nombre": "BONO|BARCLAYS PLC|6,00|2021-01-14",
@@ -5359,7 +6332,7 @@
                 },
                 {
                     "cantidad": 1401825.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0997484430",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|3,13|2020-11-27",
@@ -5367,7 +6340,7 @@
                 },
                 {
                     "cantidad": 1390195.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "PTOTEKOE0011",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|2,88|2025-10-15",
@@ -5383,7 +6356,7 @@
                 },
                 {
                     "cantidad": 1385221.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -5391,7 +6364,7 @@
                 },
                 {
                     "cantidad": 1353686.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1568875444",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|2,50|2021-08-21",
@@ -5399,7 +6372,7 @@
                 },
                 {
                     "cantidad": 1291905.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -5415,7 +6388,7 @@
                 },
                 {
                     "cantidad": 1247704.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -5423,7 +6396,7 @@
                 },
                 {
                     "cantidad": 1235623.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1439749109",
                     "moneda": "euro",
                     "nombre": "BONO|TEVA PHARMACEUTICAL|0,38|2020-07-25",
@@ -5439,7 +6412,7 @@
                 },
                 {
                     "cantidad": 1195358.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -5455,7 +6428,7 @@
                 },
                 {
                     "cantidad": 1169544.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0765448757",
                     "moneda": "euro",
                     "nombre": "BONO|THYSSENKRUPP AG|5,00|2022-04-04",
@@ -5471,7 +6444,7 @@
                 },
                 {
                     "cantidad": 1056399.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS0999654873",
                     "moneda": "euro",
                     "nombre": "BONO|LEONARDO SPA|4,50|2021-01-19",
@@ -5479,7 +6452,7 @@
                 },
                 {
                     "cantidad": 1064942.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0011731876",
                     "moneda": "euro",
                     "nombre": "BONO|ACCOR SA|2,63|2021-02-05",
@@ -5487,7 +6460,7 @@
                 },
                 {
                     "cantidad": 1035540.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS0503454166",
                     "moneda": "euro",
                     "nombre": "BONO|REPUBLIC OF TURKEY|5,13|2020-05-18",
@@ -5495,7 +6468,7 @@
                 },
                 {
                     "cantidad": 1035726.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -5511,7 +6484,7 @@
                 },
                 {
                     "cantidad": 995712.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,28|2022-03-08",
@@ -5519,7 +6492,7 @@
                 },
                 {
                     "cantidad": 996425.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "DE000DHY4788",
                     "moneda": "euro",
                     "nombre": "BONO|HYPOTHEKENBK IN|0,40|2021-02-08",
@@ -5535,7 +6508,7 @@
                 },
                 {
                     "cantidad": 986250.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTGALLOM0004",
                     "moneda": "euro",
                     "nombre": "BONO|GALP ENERGY SGPS SA|1,00|2023-02-15",
@@ -5543,7 +6516,7 @@
                 },
                 {
                     "cantidad": 987379.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -5551,7 +6524,7 @@
                 },
                 {
                     "cantidad": 978328.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1560862580",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,40|2022-02-07",
@@ -5559,7 +6532,7 @@
                 },
                 {
                     "cantidad": 949306.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1788584321",
                     "moneda": "euro",
                     "nombre": "BONO|BBVA|0,13|2023-03-09",
@@ -5567,7 +6540,7 @@
                 },
                 {
                     "cantidad": 953027.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,39|2023-05-04",
@@ -5591,7 +6564,7 @@
                 },
                 {
                     "cantidad": 799219.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTJLLBOE0000",
                     "moneda": "euro",
                     "nombre": "BONO|JOSE DE MELLO SAUDE|2,62|2021-05-17",
@@ -5599,7 +6572,7 @@
                 },
                 {
                     "cantidad": 589299.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "ES0582870B86",
                     "moneda": "euro",
                     "nombre": "PAGARE|SACYR VALLEHERMOSO|1,78|2020-06-24",
@@ -5607,7 +6580,7 @@
                 },
                 {
                     "cantidad": 489066.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1693260702",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|0,75|2022-10-03",
@@ -5615,7 +6588,7 @@
                 },
                 {
                     "cantidad": 489583.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -5631,7 +6604,7 @@
                 },
                 {
                     "cantidad": 274056.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -5643,6 +6616,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.1,
+            "liquidez": 3.92,
             "participes": 1441,
             "patrimonio": 64923387,
             "periodo": "2019T4",
@@ -5665,7 +6639,7 @@
                 },
                 {
                     "cantidad": 3623296.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0802995166",
                     "moneda": "euro",
                     "nombre": "BONO|ABN-AMRO BANK|7,13|2022-07-06",
@@ -5689,7 +6663,7 @@
                 },
                 {
                     "cantidad": 3283226.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "IT0005028003",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO ITALIANO|2,15|2021-12-15",
@@ -5697,7 +6671,7 @@
                 },
                 {
                     "cantidad": 2855976.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1418631930",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|1,00|2021-05-24",
@@ -5705,7 +6679,7 @@
                 },
                 {
                     "cantidad": 2800960.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTPETUOM0018",
                     "moneda": "euro",
                     "nombre": "BONO|PARPUBLICA|3,75|2021-07-05",
@@ -5713,7 +6687,7 @@
                 },
                 {
                     "cantidad": 2698277.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0920705737",
                     "moneda": "euro",
                     "nombre": "BONO|ORIGIN ENERGY|2,50|2020-10-23",
@@ -5721,7 +6695,7 @@
                 },
                 {
                     "cantidad": 2662033.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1082660744",
                     "moneda": "euro",
                     "nombre": "BONO|ORLEN CAPITALA AB|2,50|2021-06-30",
@@ -5729,7 +6703,7 @@
                 },
                 {
                     "cantidad": 2598487.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "LU0135559408",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|DUEMME INTERNATIONAL",
@@ -5737,7 +6711,7 @@
                 },
                 {
                     "cantidad": 2579392.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTCPEDOM0000",
                     "moneda": "euro",
                     "nombre": "BONO|REFER-REDE FERRONVIA|4,25|2021-12-13",
@@ -5745,7 +6719,7 @@
                 },
                 {
                     "cantidad": 2429651.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1416688890",
                     "moneda": "euro",
                     "nombre": "BONO|METROVACESA|2,38|2022-05-23",
@@ -5761,7 +6735,7 @@
                 },
                 {
                     "cantidad": 2353758.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "IT0004966401",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO ITALIANO|3,75|2021-05-01",
@@ -5769,7 +6743,7 @@
                 },
                 {
                     "cantidad": 2304271.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "ES0205045000",
                     "moneda": "euro",
                     "nombre": "BONO|CRITERIA CAIXAHOLDIN|1,63|2022-04-21",
@@ -5777,7 +6751,7 @@
                 },
                 {
                     "cantidad": 2309019.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1201001572",
                     "moneda": "euro",
                     "nombre": "BONO|SANTANDER ISSUANCES|2,50|2025-03-18",
@@ -5785,7 +6759,7 @@
                 },
                 {
                     "cantidad": 2248121.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1117297512",
                     "moneda": "euro",
                     "nombre": "BONO|EXPEDIA INC|2,50|2022-06-03",
@@ -5793,7 +6767,7 @@
                 },
                 {
                     "cantidad": 2250590.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0974877150",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|3,38|2020-09-30",
@@ -5801,7 +6775,7 @@
                 },
                 {
                     "cantidad": 2231098.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1185941850",
                     "moneda": "euro",
                     "nombre": "BONO|SPP INFRASTRUCTURE|2,63|2025-02-12",
@@ -5809,7 +6783,7 @@
                 },
                 {
                     "cantidad": 2116513.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1492457236",
                     "moneda": "euro",
                     "nombre": "BONO|MYLAN NV|1,25|2020-11-23",
@@ -5817,7 +6791,7 @@
                 },
                 {
                     "cantidad": 2093898.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1554112281",
                     "moneda": "euro",
                     "nombre": "BONO|NIBC BANK NV|1,50|2022-01-31",
@@ -5825,7 +6799,7 @@
                 },
                 {
                     "cantidad": 2092516.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1529934801",
                     "moneda": "euro",
                     "nombre": "BONO|CETIN FINANCE BV|1,42|2021-12-06",
@@ -5833,7 +6807,7 @@
                 },
                 {
                     "cantidad": 2093253.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1362349943",
                     "moneda": "euro",
                     "nombre": "BONO|FCE BANK PLC|1,66|2021-02-11",
@@ -5841,7 +6815,7 @@
                 },
                 {
                     "cantidad": 2101883.0,
-                    "desde": "2018T2",
+                    "desde": "2019T4",
                     "isin": "XS1837195640",
                     "moneda": "euro",
                     "nombre": "BONO|SACYR SA|2,76|2022-06-10",
@@ -5849,7 +6823,7 @@
                 },
                 {
                     "cantidad": 2083625.0,
-                    "desde": "2018T3",
+                    "desde": "2019T4",
                     "isin": "PTOTVLOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,10|2022-12-05",
@@ -5865,7 +6839,7 @@
                 },
                 {
                     "cantidad": 2052413.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "DE000A2YB699",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SCHAEFFLER AG|1,13|2022-03-26",
@@ -5873,7 +6847,7 @@
                 },
                 {
                     "cantidad": 2053476.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1627337881",
                     "moneda": "euro",
                     "nombre": "BONO|FCC AQUALIA SA|1,41|2022-06-08",
@@ -5881,7 +6855,7 @@
                 },
                 {
                     "cantidad": 2041130.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1241701413",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|2,73|2023-06-05",
@@ -5889,7 +6863,7 @@
                 },
                 {
                     "cantidad": 2022005.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0942100388",
                     "moneda": "euro",
                     "nombre": "BONO|NASDAQ|3,88|2021-06-07",
@@ -5897,7 +6871,7 @@
                 },
                 {
                     "cantidad": 1991063.0,
-                    "desde": "2018T3",
+                    "desde": "2019T4",
                     "isin": "XS1717591884",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|0,34|2024-11-21",
@@ -5905,7 +6879,7 @@
                 },
                 {
                     "cantidad": 1995216.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTSDRCOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|SAUDAÇOR SA|3,50|2021-06-29",
@@ -5913,7 +6887,7 @@
                 },
                 {
                     "cantidad": 1917699.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1691349796",
                     "moneda": "euro",
                     "nombre": "BONO|NORTEGAS ENERGIA|0,92|2022-09-28",
@@ -5921,7 +6895,7 @@
                 },
                 {
                     "cantidad": 1854590.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1326311070",
                     "moneda": "euro",
                     "nombre": "BONO|ELECTRA DE VIESGO ELECTRA DE VIESGO|2,38|2023-11-27",
@@ -5929,7 +6903,7 @@
                 },
                 {
                     "cantidad": 1850175.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1110430193",
                     "moneda": "euro",
                     "nombre": "BONO|GLENCORE FINANCE EUR|1,63|2022-01-18",
@@ -5937,7 +6911,7 @@
                 },
                 {
                     "cantidad": 1828000.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1196536731",
                     "moneda": "euro",
                     "nombre": "BONO|FLOWSERVE|1,25|2022-03-17",
@@ -5945,7 +6919,7 @@
                 },
                 {
                     "cantidad": 1791742.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0270347304",
                     "moneda": "euro",
                     "nombre": "BONO|GOLDMAN SACHS|4,75|2021-10-12",
@@ -5953,7 +6927,7 @@
                 },
                 {
                     "cantidad": 1654365.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0324964666",
                     "moneda": "euro",
                     "nombre": "BONO|HBOS PLC|5,37|2021-06-30",
@@ -5969,7 +6943,7 @@
                 },
                 {
                     "cantidad": 1621803.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1169199152",
                     "moneda": "euro",
                     "nombre": "BONO|HIPERCOR SA|3,88|2022-01-19",
@@ -5977,7 +6951,7 @@
                 },
                 {
                     "cantidad": 1603149.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "FR0013016631",
                     "moneda": "euro",
                     "nombre": "BONO|TDF INFRASTRUCTURE|2,88|2022-10-19",
@@ -5985,7 +6959,7 @@
                 },
                 {
                     "cantidad": 1610362.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1468525057",
                     "moneda": "euro",
                     "nombre": "BONO|CELLNEX TELECOM|2,38|2024-01-16",
@@ -6001,7 +6975,7 @@
                 },
                 {
                     "cantidad": 1596097.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0012872174",
                     "moneda": "euro",
                     "nombre": "BONO|BOLLORE SA|2,88|2021-07-29",
@@ -6009,7 +6983,7 @@
                 },
                 {
                     "cantidad": 1586192.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1040508167",
                     "moneda": "euro",
                     "nombre": "BONO|IMPERIAL BRANDS|2,25|2021-02-26",
@@ -6017,7 +6991,7 @@
                 },
                 {
                     "cantidad": 1572758.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS1509942923",
                     "moneda": "euro",
                     "nombre": "BONO|INMOBILIARIA COLONIA|1,45|2024-10-28",
@@ -6025,7 +6999,7 @@
                 },
                 {
                     "cantidad": 1563223.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1568875444",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|2,50|2021-08-21",
@@ -6033,7 +7007,7 @@
                 },
                 {
                     "cantidad": 1536949.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1366786983",
                     "moneda": "euro",
                     "nombre": "BONO|U.TECHNOLOGIES|1,13|2021-12-15",
@@ -6049,7 +7023,7 @@
                 },
                 {
                     "cantidad": 1510072.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "CH0359915425",
                     "moneda": "euro",
                     "nombre": "BONO|UBS GROUP FUNDING|0,30|2022-09-20",
@@ -6057,7 +7031,7 @@
                 },
                 {
                     "cantidad": 1508786.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0013260486",
                     "moneda": "euro",
                     "nombre": "BONO|RCI BANQUE SA|0,28|2022-03-14",
@@ -6065,7 +7039,7 @@
                 },
                 {
                     "cantidad": 1505742.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0997484430",
                     "moneda": "euro",
                     "nombre": "BONO|PETROLEOS MEXICANOS|3,13|2020-11-27",
@@ -6089,7 +7063,7 @@
                 },
                 {
                     "cantidad": 1499117.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS1989508319",
                     "moneda": "euro",
                     "nombre": "PAGARE|ACS|0,07|2020-04-27",
@@ -6097,7 +7071,7 @@
                 },
                 {
                     "cantidad": 1491564.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS2006340801",
                     "moneda": "euro",
                     "nombre": "PAGARE|ACCIONA|0,56|2020-05-28",
@@ -6105,7 +7079,7 @@
                 },
                 {
                     "cantidad": 1460320.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0525912449",
                     "moneda": "euro",
                     "nombre": "BONO|BARCLAYS PLC|6,00|2021-01-14",
@@ -6113,7 +7087,7 @@
                 },
                 {
                     "cantidad": 1472245.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0010674978",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|LA FRANCAISE AM INTE",
@@ -6121,7 +7095,7 @@
                 },
                 {
                     "cantidad": 1449232.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTGGDAOE0001",
                     "moneda": "euro",
                     "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
@@ -6129,7 +7103,7 @@
                 },
                 {
                     "cantidad": 1413396.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "PTOTEKOE0011",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|2,88|2025-10-15",
@@ -6161,7 +7135,7 @@
                 },
                 {
                     "cantidad": 1357267.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1557268221",
                     "moneda": "euro",
                     "nombre": "BONO|SANT.CENTHISP|1,38|2022-02-09",
@@ -6169,7 +7143,7 @@
                 },
                 {
                     "cantidad": 1344912.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1967635621",
                     "moneda": "euro",
                     "nombre": "BONO|ABERTIS|1,50|2024-06-27",
@@ -6177,7 +7151,7 @@
                 },
                 {
                     "cantidad": 1329006.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1912656375",
                     "moneda": "euro",
                     "nombre": "BONO|CEZ AS|0,88|2022-11-21",
@@ -6193,7 +7167,7 @@
                 },
                 {
                     "cantidad": 1312038.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS1883245331",
                     "moneda": "euro",
                     "nombre": "BONO|DXC TECHNOLOGY|1,75|2026-01-15",
@@ -6201,7 +7175,7 @@
                 },
                 {
                     "cantidad": 1258001.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1439749109",
                     "moneda": "euro",
                     "nombre": "BONO|TEVA PHARMACEUTICAL|0,38|2020-07-25",
@@ -6217,7 +7191,7 @@
                 },
                 {
                     "cantidad": 1175614.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0765448757",
                     "moneda": "euro",
                     "nombre": "BONO|THYSSENKRUPP AG|5,00|2022-04-04",
@@ -6225,7 +7199,7 @@
                 },
                 {
                     "cantidad": 1101133.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "FR0011731876",
                     "moneda": "euro",
                     "nombre": "BONO|ACCOR SA|2,63|2021-02-05",
@@ -6241,7 +7215,7 @@
                 },
                 {
                     "cantidad": 1084284.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1325078308",
                     "moneda": "euro",
                     "nombre": "BONO|NE PROPERTY COOPERAT|3,75|2021-02-26",
@@ -6249,7 +7223,7 @@
                 },
                 {
                     "cantidad": 1079861.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS0999654873",
                     "moneda": "euro",
                     "nombre": "BONO|LEONARDO SPA|4,50|2021-01-19",
@@ -6257,7 +7231,7 @@
                 },
                 {
                     "cantidad": 1065913.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1398336351",
                     "moneda": "euro",
                     "nombre": "BONO|MERLIN PROPERTIES|2,23|2023-04-25",
@@ -6265,7 +7239,7 @@
                 },
                 {
                     "cantidad": 1044813.0,
-                    "desde": "2019T1",
+                    "desde": "2019T4",
                     "isin": "XS0503454166",
                     "moneda": "euro",
                     "nombre": "BONO|REPUBLIC OF TURKEY|5,13|2020-05-18",
@@ -6273,7 +7247,7 @@
                 },
                 {
                     "cantidad": 1011632.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTGALLOM0004",
                     "moneda": "euro",
                     "nombre": "BONO|GALP ENERGY SGPS SA|1,00|2023-02-15",
@@ -6281,7 +7255,7 @@
                 },
                 {
                     "cantidad": 1018821.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1225626461",
                     "moneda": "euro",
                     "nombre": "BONO|SMITHS GROUP PLC|1,25|2023-04-28",
@@ -6289,7 +7263,7 @@
                 },
                 {
                     "cantidad": 1009319.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1602557495",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,39|2023-05-04",
@@ -6297,7 +7271,7 @@
                 },
                 {
                     "cantidad": 1008949.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "DE000CZ40L22",
                     "moneda": "euro",
                     "nombre": "BONO|COMMERZBANK AG|0,36|2022-03-08",
@@ -6305,7 +7279,7 @@
                 },
                 {
                     "cantidad": 1008793.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1560862580",
                     "moneda": "euro",
                     "nombre": "BONO|BANKAMERICA CORP|0,40|2022-02-07",
@@ -6313,7 +7287,7 @@
                 },
                 {
                     "cantidad": 1000711.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1788584321",
                     "moneda": "euro",
                     "nombre": "BONO|BBVA|0,21|2023-03-09",
@@ -6321,7 +7295,7 @@
                 },
                 {
                     "cantidad": 993595.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "DE000DHY4788",
                     "moneda": "euro",
                     "nombre": "BONO|HYPOTHEKENBK IN|0,39|2021-02-08",
@@ -6337,7 +7311,7 @@
                 },
                 {
                     "cantidad": 885033.0,
-                    "desde": "2018T2",
+                    "desde": "2019T4",
                     "isin": "PTOTVKOE0002",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,60|2022-08-02",
@@ -6345,7 +7319,7 @@
                 },
                 {
                     "cantidad": 811287.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "XS1651850569",
                     "moneda": "euro",
                     "nombre": "BONO|DREAM GLOBAL FUNDING|1,38|2021-12-21",
@@ -6353,7 +7327,7 @@
                 },
                 {
                     "cantidad": 806218.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTJLLBOE0000",
                     "moneda": "euro",
                     "nombre": "BONO|JOSE DE MELLO SAUDE|2,62|2021-05-17",
@@ -6369,7 +7343,7 @@
                 },
                 {
                     "cantidad": 589385.0,
-                    "desde": "2019T2",
+                    "desde": "2019T4",
                     "isin": "ES0582870B86",
                     "moneda": "euro",
                     "nombre": "PAGARE|SACYR VALLEHERMOSO|1,78|2020-06-24",
@@ -6385,7 +7359,7 @@
                 },
                 {
                     "cantidad": 507141.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1693260702",
                     "moneda": "euro",
                     "nombre": "BONO|LEASEPLAN FINANCE NV|0,75|2022-10-03",
@@ -6393,7 +7367,7 @@
                 },
                 {
                     "cantidad": 510095.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS1197351577",
                     "moneda": "euro",
                     "nombre": "BONO|INTESA SANPAOLO SPA|1,13|2022-03-04",
@@ -6401,7 +7375,7 @@
                 },
                 {
                     "cantidad": 277745.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "PTOTVJOE0005",
                     "moneda": "euro",
                     "nombre": "BONO|ESTADO PORTUGUES|1,90|2022-04-12",
@@ -6409,7 +7383,7 @@
                 },
                 {
                     "cantidad": 101293.0,
-                    "desde": "2018T1",
+                    "desde": "2019T4",
                     "isin": "XS0868458653",
                     "moneda": "euro",
                     "nombre": "BONO|TELECOM ITALIA SPA|4,00|2020-01-21",
@@ -6419,8 +7393,132 @@
             "rentabilidad": -0.11
         },
         {
+            "gastos": 0.4,
+            "indice_rotacion": 0.01,
+            "liquidez": 25.21,
+            "participes": 51,
+            "patrimonio": 1680666,
+            "periodo": "2019T3",
+            "posiciones": [
+                {
+                    "cantidad": 324243.0,
+                    "desde": "2019T3",
+                    "isin": "ES0128520006",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|RENTA 4 RENTA FIJA 6",
+                    "porcentaje": 19.29
+                },
+                {
+                    "cantidad": 141490.0,
+                    "desde": "2019T3",
+                    "isin": "FR0010830844",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMTR12P FP",
+                    "porcentaje": 8.42
+                },
+                {
+                    "cantidad": 109413.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B3VPKB53",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|XLUS LN",
+                    "porcentaje": 6.51
+                },
+                {
+                    "cantidad": 98472.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B3ZW0K18",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IUSE LN",
+                    "porcentaje": 5.86
+                },
+                {
+                    "cantidad": 97903.0,
+                    "desde": "2019T3",
+                    "isin": "ES0573365014",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|RTC GR|3,01|2019-10-03",
+                    "porcentaje": 5.83
+                },
+                {
+                    "cantidad": 97519.0,
+                    "desde": "2019T3",
+                    "isin": "LU1910837415",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|CALSGAE LX",
+                    "porcentaje": 5.8
+                },
+                {
+                    "cantidad": 72426.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B42Z5J44",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IJPE LN",
+                    "porcentaje": 4.31
+                },
+                {
+                    "cantidad": 71697.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B53SZB19",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|CSNDX SW",
+                    "porcentaje": 4.27
+                },
+                {
+                    "cantidad": 55850.0,
+                    "desde": "2019T3",
+                    "isin": "LU1700711077",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|RGFIEQD LX",
+                    "porcentaje": 3.32
+                },
+                {
+                    "cantidad": 51952.0,
+                    "desde": "2019T3",
+                    "isin": "FR0007054358",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MSE FP",
+                    "porcentaje": 3.09
+                },
+                {
+                    "cantidad": 49155.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B02KXK85",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FXC LN",
+                    "porcentaje": 2.92
+                },
+                {
+                    "cantidad": 43387.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B0M63284",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|IPRP LN",
+                    "porcentaje": 2.58
+                },
+                {
+                    "cantidad": 35496.0,
+                    "desde": "2019T3",
+                    "isin": "LU1598691217",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MI10 FP",
+                    "porcentaje": 2.11
+                },
+                {
+                    "cantidad": 25000.0,
+                    "desde": "2019T3",
+                    "isin": "LU1331973468",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ELEARER LX",
+                    "porcentaje": 1.49
+                }
+            ],
+            "rentabilidad": 0.71
+        },
+        {
             "gastos": 0.13,
             "indice_rotacion": 0.19,
+            "liquidez": 2.61,
             "participes": 1174,
             "patrimonio": 53892131,
             "periodo": "2019T2",
@@ -7151,6 +8249,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.14,
+            "liquidez": 3.13,
             "participes": 856,
             "patrimonio": 47874884,
             "periodo": "2019T1",
@@ -7841,6 +8940,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.09,
+            "liquidez": 0.21,
             "participes": 755,
             "patrimonio": 23910603,
             "periodo": "2018T4",
@@ -8507,6 +9607,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.05,
+            "liquidez": 0.38,
             "participes": 646,
             "patrimonio": 20112639,
             "periodo": "2018T3",
@@ -9277,6 +10378,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.06,
+            "liquidez": 0.59,
             "participes": 394,
             "patrimonio": 15117215,
             "periodo": "2018T2",
@@ -10087,6 +11189,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.04,
+            "liquidez": 0.65,
             "participes": 150,
             "patrimonio": 8971112,
             "periodo": "2018T1",

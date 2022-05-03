@@ -1,10 +1,902 @@
 {
     "auditora": "Deloitte",
-    "fecha_registro": "20/01/2005",
+    "fecha_registro": "11/12/2015",
     "historico_periodos": [
         {
             "gastos": 0.22,
+            "indice_rotacion": 0.16,
+            "liquidez": 7.97,
+            "participes": 847,
+            "patrimonio": 21022685,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 5000540.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012A97",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|-.675|2022-04-01",
+                    "porcentaje": 11.35
+                },
+                {
+                    "cantidad": 2635347.0,
+                    "desde": "2021T2",
+                    "isin": "IE00BYZTVT56",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 5.98
+                },
+                {
+                    "cantidad": 1065540.0,
+                    "desde": "2020T4",
+                    "isin": "XS2125914833",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ABBVIE INC|2.625|2028-11-15",
+                    "porcentaje": 2.42
+                },
+                {
+                    "cantidad": 1023093.0,
+                    "desde": "2021T3",
+                    "isin": "IE00BF3N7094",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 2.32
+                },
+                {
+                    "cantidad": 889961.0,
+                    "desde": "2020T1",
+                    "isin": "XS2125145867",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GM FINL CO|.85|2026-02-26",
+                    "porcentaje": 2.02
+                },
+                {
+                    "cantidad": 687919.0,
+                    "desde": "2021T2",
+                    "isin": "XS2343340852",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AIB GROUP PLC|.5|2027-11-17",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 607033.0,
+                    "desde": "2019T1",
+                    "isin": "FR0011225143",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ELECTRICITE DE|4.125|2027-03-25",
+                    "porcentaje": 1.38
+                },
+                {
+                    "cantidad": 603723.0,
+                    "desde": "2021T1",
+                    "isin": "XS2321466133",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BARCLAYS|1.125|2023-03-22",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 566633.0,
+                    "desde": "2021T1",
+                    "isin": "XS2310118976",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAIXABANK|1.25|2022-06-20",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 564795.0,
+                    "desde": "2021T2",
+                    "isin": "XS2346253730",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAIXABANK|.75|2028-05-26",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 560594.0,
+                    "desde": "2019T3",
+                    "isin": "XS2053052895",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|EDP FINANCE BV|.375|2026-09-16",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 546905.0,
+                    "desde": "2021T2",
+                    "isin": "AT0000A2RAA0",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ERSTE GR BK AKT|.125|2028-05-17",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 524500.0,
+                    "desde": "2018T4",
+                    "isin": "XS1907120791",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AT&amp;T|2.35|2029-09-05",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 522080.0,
+                    "desde": "2020T2",
+                    "isin": "XS2156244043",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HOLCIM FINANCE|2.375|2025-04-09",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 520976.0,
+                    "desde": "2022T1",
+                    "isin": "XS1953271225",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICREDIT SPA|4.875|2023-02-20",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 504723.0,
+                    "desde": "2018T3",
+                    "isin": "XS1846632104",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|EDP FINANCE BV|1.625|2026-01-26",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 505153.0,
+                    "desde": "2020T1",
+                    "isin": "XS2002017361",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VODAFONE|.9|2026-11-24",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 500581.0,
+                    "desde": "2018T3",
+                    "isin": "DE000A2GSCY9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DAIMLER AG|-.56559375|2022-04-04",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 496019.0,
+                    "desde": "2019T1",
+                    "isin": "XS1721051495",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|EDP FINANCE BV|1.5|2027-11-22",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 483547.0,
+                    "desde": "2020T2",
+                    "isin": "XS2055758804",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAIXABANK|.625|2024-10-01",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 482604.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013515749",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANQUE FED CRED|1.25|2030-06-03",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 485968.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013517307",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CM AREKA|1.25|2029-06-11",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 468387.0,
+                    "desde": "2020T3",
+                    "isin": "XS2191509038",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CARLSBERG A/S|.375|2027-06-30",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 460177.0,
+                    "desde": "2020T4",
+                    "isin": "FR0014000Y93",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT AGRICOLE|.125|2027-12-09",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 449801.0,
+                    "desde": "2019T1",
+                    "isin": "XS1597324950",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ERSTE GR BK AKT|6.5|2022-04-15",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 445592.0,
+                    "desde": "2019T1",
+                    "isin": "XS1629866432",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AT&amp;T|3.15|2036-09-04",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 441315.0,
+                    "desde": "2021T1",
+                    "isin": "DE000A3E5FR9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VONOVIA SE|.625|2031-03-24",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 440551.0,
+                    "desde": "2019T1",
+                    "isin": "XS0162869076",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TELEFONICA NL|5.875|2033-02-14",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 434841.0,
+                    "desde": "2022T1",
+                    "isin": "XS1963834251",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICREDIT SPA|7.5|2022-06-03",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 420519.0,
+                    "desde": "2020T2",
+                    "isin": "BE6320935271",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ANHEUSER-BUSCH|2.875|2032-04-02",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 411141.0,
+                    "desde": "2021T4",
+                    "isin": "XS1403264291",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MCDONALDS|1.75|2028-05-03",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 409896.0,
+                    "desde": "2020T4",
+                    "isin": "XS2056697951",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AIB GROUP PLC|5.25|2022-04-11",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 388766.0,
+                    "desde": "2019T1",
+                    "isin": "BE0002592708",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|KBC|4.25|2022-04-24",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 388281.0,
+                    "desde": "2020T1",
+                    "isin": "XS2056491587",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GENERALI|2.124|2030-10-01",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 371563.0,
+                    "desde": "2020T3",
+                    "isin": "XS2075811948",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|JPMORGAN CHASE|1.047|2032-11-04",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 366911.0,
+                    "desde": "2020T2",
+                    "isin": "XS2176560444",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VERIZON|1.3|2033-05-18",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 366391.0,
+                    "desde": "2021T3",
+                    "isin": "XS2361358299",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPSOL EUROPE|.375|2029-07-06",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 359209.0,
+                    "desde": "2021T2",
+                    "isin": "FR0014003S56",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ELECTRICITE DE|2.625|2022-06-01",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 350101.0,
+                    "desde": "2020T2",
+                    "isin": "XS2177580508",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|E.ON|.875|2031-08-20",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 346458.0,
+                    "desde": "2021T1",
+                    "isin": "XS2293060658",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TELEFONICA NL|2.376|2022-05-12",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 338149.0,
+                    "desde": "2021T2",
+                    "isin": "XS2353182020",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENEL FINANCE NV||2027-06-17",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 333867.0,
+                    "desde": "2021T2",
+                    "isin": "XS2340236327",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANK OF IRELAND|1.375|2022-08-11",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 332574.0,
+                    "desde": "2021T1",
+                    "isin": "XS1708335978",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VERIZON|2.875|2038-01-15",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 329429.0,
+                    "desde": "2020T4",
+                    "isin": "XS2271225281",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GRAND CITY PROP|1.5|2099-03-11",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 309394.0,
+                    "desde": "2021T3",
+                    "isin": "FR0013504693",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENGIE SA|2.125|2032-03-30",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 305398.0,
+                    "desde": "2019T2",
+                    "isin": "XS1721423462",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VODAFONE|1.125|2025-11-20",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 300567.0,
+                    "desde": "2020T2",
+                    "isin": "XS1795406575",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TELEFONICA NL|3|2022-12-05",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 299552.0,
+                    "desde": "2021T3",
+                    "isin": "XS2230399441",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AIB GROUP PLC|2.875|2031-05-30",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 292429.0,
+                    "desde": "2021T4",
+                    "isin": "XS2170736180",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|RICHEMONT INTER|.75|2028-05-26",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 285375.0,
+                    "desde": "2020T3",
+                    "isin": "XS2199266003",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BAYER|.75|2027-01-06",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 280997.0,
+                    "desde": "2021T1",
+                    "isin": "PTEDPROM0029",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ELECTRCPORTUGAL|1.875|2022-08-02",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 281667.0,
+                    "desde": "2020T4",
+                    "isin": "XS2023873149",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AROUNDTOWN SA|1.45|2028-07-09",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 283719.0,
+                    "desde": "2021T4",
+                    "isin": "XS2390400633",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENEL FINANCE NV|.00001|2026-05-28",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 279300.0,
+                    "desde": "2019T4",
+                    "isin": "DE000A2R8ND3",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VONOVIA SE|.625|2027-10-07",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 278629.0,
+                    "desde": "2020T4",
+                    "isin": "FR00140003P3",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANQUE FED CRED|.1|2027-10-08",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 273212.0,
+                    "desde": "2020T4",
+                    "isin": "XS2273810510",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AROUNDTOWN SA|.001|2026-07-16",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 268239.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A3E5MH6",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VONOVIA SE|.625|2029-12-14",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 231256.0,
+                    "desde": "2020T3",
+                    "isin": "XS2148370211",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANK OF AMERICA|3.648|2022-03-31",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 231110.0,
+                    "desde": "2022T1",
+                    "isin": "XS2431319107",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|LOGICOR FIN|2|2034-01-17",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 225529.0,
+                    "desde": "2021T2",
+                    "isin": "XS2344735811",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENI|.375|2028-06-14",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 220282.0,
+                    "desde": "2019T1",
+                    "isin": "XS1207058733",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPSOL ITL|4.5|2023-03-27",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 216041.0,
+                    "desde": "2020T1",
+                    "isin": "XS1890845875",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|IBER INTL|3.25|2023-02-12",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 214847.0,
+                    "desde": "2021T2",
+                    "isin": "XS2314312179",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AXA|1.375|2041-10-07",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 213133.0,
+                    "desde": "2020T4",
+                    "isin": "XS1109765005",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INTESA SANPAOLO|3.928|2026-09-15",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 210359.0,
+                    "desde": "2021T1",
+                    "isin": "XS2325733413",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|STELLANTIS|.625|2027-03-30",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 208755.0,
+                    "desde": "2021T1",
+                    "isin": "XS1881593971",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SAINT-GOBAIN|1.875|2028-09-21",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 205321.0,
+                    "desde": "2020T4",
+                    "isin": "XS2264977146",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|COCA-COLA EUROP|.2|2028-12-02",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 202560.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A28VQD2",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VONOVIA SE|2.25|2030-04-07",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 201536.0,
+                    "desde": "2022T1",
+                    "isin": "XS2463505581",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|E.ON|.875|2025-01-08",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 198698.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A3MQS64",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VONOVIA SE|1.875|2028-06-28",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 197386.0,
+                    "desde": "2021T3",
+                    "isin": "XS1981823542",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GLENCORE FIN EU|1.5|2026-10-15",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 196374.0,
+                    "desde": "2019T3",
+                    "isin": "XS2055728054",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BMW FINANCE NV|.375|2027-09-24",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 192507.0,
+                    "desde": "2022T1",
+                    "isin": "ES0244251015",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|IBERCAJA BANCO|2.75|2022-07-25",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 193700.0,
+                    "desde": "2021T1",
+                    "isin": "XS2317069685",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INTESA SANPAOLO|.75|2028-03-16",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 187640.0,
+                    "desde": "2020T1",
+                    "isin": "ES0213679JR9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANKINTER|.625|2027-10-06",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 189563.0,
+                    "desde": "2020T4",
+                    "isin": "XS2101558307",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICREDIT SPA|2.731|2032-01-15",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 183391.0,
+                    "desde": "2021T2",
+                    "isin": "ES0213679OF4",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANKINTER|1.25|2022-12-23",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 187093.0,
+                    "desde": "2020T4",
+                    "isin": "XS2261215011",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HOLCIM FINANCE|.5|2031-04-23",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 183732.0,
+                    "desde": "2021T1",
+                    "isin": "XS2286441964",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HOLCIM FINANCE|.125|2027-07-19",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 183020.0,
+                    "desde": "2021T1",
+                    "isin": "XS2297549391",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAIXABANK|.5|2029-02-09",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 186457.0,
+                    "desde": "2021T2",
+                    "isin": "XS2350756446",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INGGROEP|.875|2022-06-09",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 185835.0,
+                    "desde": "2021T2",
+                    "isin": "XS2357417257",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BSAN|.625|2022-06-24",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 181029.0,
+                    "desde": "2021T2",
+                    "isin": "ES0239140025",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INMOB COLONIAL|.75|2029-06-22",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 180932.0,
+                    "desde": "2021T3",
+                    "isin": "DE000A3H3JM4",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DAIMLER AG|.75|2033-03-11",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 179212.0,
+                    "desde": "2020T4",
+                    "isin": "FR0014000RR2",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENGIE SA|1.5|2022-11-30",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 177021.0,
+                    "desde": "2021T3",
+                    "isin": "XS2361358539",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPSOL EUROPE|.875|2033-07-06",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 168906.0,
+                    "desde": "2021T4",
+                    "isin": "XS2225157424",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VODAFONE|2.625|2022-08-29",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 161180.0,
+                    "desde": "2019T4",
+                    "isin": "XS1980064833",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CITIGROUP|1.25|2029-04-10",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 151006.0,
+                    "desde": "2020T3",
+                    "isin": "DE000A289QR9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DAIMLER AG|.75|2030-09-10",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 149161.0,
+                    "desde": "2021T1",
+                    "isin": "XS2321526480",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|NORDBANKEN ABP|.5|2031-03-19",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 145551.0,
+                    "desde": "2021T3",
+                    "isin": "XS2381261424",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MUENCHENER R.|1|2042-05-26",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 137696.0,
+                    "desde": "2021T3",
+                    "isin": "XS2384273715",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HOLCIM FINANCE|.5|2030-09-03",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 119004.0,
+                    "desde": "2019T4",
+                    "isin": "XS2066706735",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENEL FINANCE NV|1.125|2034-10-17",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 120348.0,
+                    "desde": "2021T4",
+                    "isin": "XS2412044567",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|RWE|.5|2028-11-26",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 109947.0,
+                    "desde": "2019T4",
+                    "isin": "XS1678970291",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BARCLAYS|2|2028-02-07",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 106185.0,
+                    "desde": "2021T1",
+                    "isin": "XS2307853098",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|NATWEST|.78|2030-02-26",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 95064.0,
+                    "desde": "2021T1",
+                    "isin": "XS2189970317",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ZURICH FIN IREL|1.875|2022-09-19",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 94108.0,
+                    "desde": "2021T3",
+                    "isin": "FR0013463676",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ESSILORLUXOTTIC|.75|2031-11-27",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 92326.0,
+                    "desde": "2020T4",
+                    "isin": "FR0014000PF1",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VINCI||2028-11-27",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 93044.0,
+                    "desde": "2021T1",
+                    "isin": "XS2311407352",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANK OF IRELAND|.375|2022-05-10",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 91227.0,
+                    "desde": "2021T4",
+                    "isin": "XS2411241693",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TALANX AG|1.75|2042-12-01",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 90740.0,
+                    "desde": "2021T4",
+                    "isin": "FR0014006UO0",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ELECTRICITE DE|1|2033-11-29",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 85033.0,
+                    "desde": "2021T4",
+                    "isin": "FR0014005ZQ6",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENGIE SA|1|2036-10-26",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 75760.0,
+                    "desde": "2019T2",
+                    "isin": "XS1781401085",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GRAND CITY PROP|1.5|2027-02-22",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 75659.0,
+                    "desde": "2020T4",
+                    "isin": "XS2242633258",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|PEPSICO INC|.4|2032-10-09",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T2",
+                    "isin": "PTEDPKOM0034",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ELECTRCPORTUGAL|4.496|2079-04-30",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T4",
+                    "isin": "XS1796209010",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|GOLDMAN SACHS|2|2028-03-22",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "XS2082324018",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ARCELOR|1.75|2025-11-19",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "XS2327420977",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|E.ON|.6|2032-10-01",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "XS2410367747",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TELEFONICA NL|2.88|2023-05-24",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -2.29
+        },
+        {
+            "gastos": 0.22,
             "indice_rotacion": 0.12,
+            "liquidez": 3.89,
             "participes": 897,
             "patrimonio": 24190377,
             "periodo": "2021T4",
@@ -1031,6 +1923,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.07,
+            "liquidez": 3.61,
             "participes": 937,
             "patrimonio": 26070973,
             "periodo": "2021T3",
@@ -2049,6 +2942,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.41,
+            "liquidez": 5.13,
             "participes": 959,
             "patrimonio": 26753117,
             "periodo": "2021T2",
@@ -3011,6 +3905,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.13,
+            "liquidez": 4.1,
             "participes": 988,
             "patrimonio": 27178369,
             "periodo": "2021T1",
@@ -4029,6 +4924,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.64,
+            "liquidez": 2.76,
             "participes": 1021,
             "patrimonio": 27677271,
             "periodo": "2020T4",
@@ -4911,6 +5807,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.28,
+            "liquidez": 2.52,
             "participes": 1070,
             "patrimonio": 28540512,
             "periodo": "2020T3",
@@ -5713,6 +6610,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.81,
+            "liquidez": 2.59,
             "participes": 1111,
             "patrimonio": 29465951,
             "periodo": "2020T2",
@@ -6539,6 +7437,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.27,
+            "liquidez": 6.27,
             "participes": 1138,
             "patrimonio": 29048349,
             "periodo": "2020T1",
@@ -7269,6 +8168,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.53,
+            "liquidez": 5.23,
             "participes": 1214,
             "patrimonio": 35305607,
             "periodo": "2019T4",
@@ -7943,6 +8843,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.4,
+            "liquidez": 3.4,
             "participes": 1203,
             "patrimonio": 33320799,
             "periodo": "2019T3",
@@ -8593,6 +9494,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 1.4,
+            "liquidez": 3.93,
             "participes": 1231,
             "patrimonio": 33836545,
             "periodo": "2019T2",
@@ -9259,6 +10161,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.97,
+            "liquidez": 7.27,
             "participes": 1272,
             "patrimonio": 35097987,
             "periodo": "2019T1",
@@ -9893,6 +10796,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 2.66,
+            "liquidez": 4.33,
             "participes": 1340,
             "patrimonio": 35113794,
             "periodo": "2018T4",
@@ -10383,6 +11287,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 1.7,
+            "liquidez": 15.06,
             "participes": 1466,
             "patrimonio": 39999105,
             "periodo": "2018T3",
@@ -10929,6 +11834,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.57,
+            "liquidez": 0.77,
             "participes": 1508,
             "patrimonio": 40078505,
             "periodo": "2018T2",
@@ -11163,6 +12069,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.45,
+            "liquidez": 2.46,
             "participes": 1561,
             "patrimonio": 41837393,
             "periodo": "2018T1",
@@ -11429,6 +12336,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 1.15,
+            "liquidez": 1.69,
             "participes": 1689,
             "patrimonio": 45290554,
             "periodo": "2017T4",
@@ -11687,6 +12595,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.47,
+            "liquidez": 1.09,
             "participes": 1855,
             "patrimonio": 52249347,
             "periodo": "2017T3",
@@ -11945,6 +12854,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.76,
+            "liquidez": 0.88,
             "participes": 1955,
             "patrimonio": 56416020,
             "periodo": "2017T2",
@@ -12227,6 +13137,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.5,
+            "liquidez": 1.63,
             "participes": 2076,
             "patrimonio": 59896690,
             "periodo": "2017T1",
@@ -12501,6 +13412,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.58,
+            "liquidez": 8.3,
             "participes": 2324,
             "patrimonio": 72315608,
             "periodo": "2016T4",
@@ -12775,6 +13687,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.3,
+            "liquidez": 2.28,
             "participes": 2503,
             "patrimonio": 82905878,
             "periodo": "2016T3",
@@ -13105,6 +14018,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 1.46,
+            "liquidez": 1.71,
             "participes": 2459,
             "patrimonio": 74913376,
             "periodo": "2016T2",
@@ -13427,6 +14341,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.69,
+            "liquidez": 2.2,
             "participes": 2617,
             "patrimonio": 76763441,
             "periodo": "2016T1",
@@ -13741,6 +14656,7 @@
         {
             "gastos": 0.01,
             "indice_rotacion": 1.12,
+            "liquidez": 2.18,
             "participes": 1,
             "patrimonio": 104156,
             "periodo": "2015T4",

@@ -3,8 +3,84 @@
     "fecha_registro": "12/01/2018",
     "historico_periodos": [
         {
+            "gastos": 0.15,
+            "indice_rotacion": 0.01,
+            "liquidez": 4.29,
+            "participes": 123024,
+            "patrimonio": 111965713,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 19612760.0,
+                    "desde": "2020T3",
+                    "isin": "US46138E7195",
+                    "moneda": "EUR",
+                    "nombre": "ETF|INVESCO ETFSUSA",
+                    "porcentaje": 17.52
+                },
+                {
+                    "cantidad": 18706855.0,
+                    "desde": "2021T2",
+                    "isin": "IE00BDR5HM97",
+                    "moneda": "EUR",
+                    "nombre": "ETF|XTRACKERS IE PL",
+                    "porcentaje": 16.71
+                },
+                {
+                    "cantidad": 14617725.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B7N3YW49",
+                    "moneda": "EUR",
+                    "nombre": "ETF|PIMCO FIXED INC",
+                    "porcentaje": 13.06
+                },
+                {
+                    "cantidad": 13305990.0,
+                    "desde": "2018T1",
+                    "isin": "LU1435356149",
+                    "moneda": "EUR",
+                    "nombre": "ETF|LYXOR ETFS/FRAN",
+                    "porcentaje": 11.88
+                },
+                {
+                    "cantidad": 11102807.0,
+                    "desde": "2018T1",
+                    "isin": "IE00BCRY6003",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 9.92
+                },
+                {
+                    "cantidad": 10421524.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B99FL386",
+                    "moneda": "EUR",
+                    "nombre": "ETF|STATE ST ETFS I",
+                    "porcentaje": 9.31
+                },
+                {
+                    "cantidad": 9448771.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B4PY7Y77",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 8.44
+                },
+                {
+                    "cantidad": 8902936.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B74DQ490",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 7.95
+                }
+            ],
+            "rentabilidad": -1.25
+        },
+        {
             "gastos": 0.16,
             "indice_rotacion": 0.08,
+            "liquidez": 3.55,
             "participes": 118984,
             "patrimonio": 108175337,
             "periodo": "2021T4",
@@ -79,6 +155,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.07,
+            "liquidez": 3.58,
             "participes": 113702,
             "patrimonio": 96439579,
             "periodo": "2021T3",
@@ -169,6 +246,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
+            "liquidez": 4.98,
             "participes": 103776,
             "patrimonio": 184646557,
             "periodo": "2021T2",
@@ -259,6 +337,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.01,
+            "liquidez": 4.92,
             "participes": 84764,
             "patrimonio": 137105371,
             "periodo": "2021T1",
@@ -341,6 +420,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.03,
+            "liquidez": 4.75,
             "participes": 74415,
             "patrimonio": 114901834,
             "periodo": "2020T4",
@@ -423,6 +503,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.03,
+            "liquidez": 5.19,
             "participes": 67088,
             "patrimonio": 104118314,
             "periodo": "2020T3",
@@ -505,6 +586,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 5.13,
             "participes": 29831,
             "patrimonio": 13188005,
             "periodo": "2020T2",
@@ -579,6 +661,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 4.1,
             "participes": 25820,
             "patrimonio": 11118719,
             "periodo": "2020T1",
@@ -637,6 +720,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 0.0,
+            "liquidez": 5.3,
             "participes": 23150,
             "patrimonio": 11560205,
             "periodo": "2019T4",
@@ -695,6 +779,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 0.0,
+            "liquidez": 6.7,
             "participes": 11057,
             "patrimonio": 5283403,
             "periodo": "2019T3",
@@ -753,6 +838,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.02,
+            "liquidez": 5.89,
             "participes": 6819,
             "patrimonio": 4034897,
             "periodo": "2019T2",
@@ -811,6 +897,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.01,
+            "liquidez": 5.04,
             "participes": 3720,
             "patrimonio": 3552621,
             "periodo": "2019T1",
@@ -869,6 +956,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.0,
+            "liquidez": 6.05,
             "participes": 3312,
             "patrimonio": 3285067,
             "periodo": "2018T4",
@@ -927,6 +1015,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.0,
+            "liquidez": 4.85,
             "participes": 2522,
             "patrimonio": 3333284,
             "periodo": "2018T3",
@@ -985,6 +1074,7 @@
         {
             "gastos": 0.96,
             "indice_rotacion": 0.91,
+            "liquidez": 6.06,
             "participes": 1042,
             "patrimonio": 353152,
             "periodo": "2018T2",
@@ -1043,6 +1133,7 @@
         {
             "gastos": 0.49,
             "indice_rotacion": 0.97,
+            "liquidez": 3.46,
             "participes": 165,
             "patrimonio": 299070,
             "periodo": "2018T1",

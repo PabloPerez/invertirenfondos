@@ -3,8 +3,100 @@
     "fecha_registro": "27/01/2017",
     "historico_periodos": [
         {
+            "gastos": 0.53,
+            "indice_rotacion": 0.0,
+            "liquidez": 3.5,
+            "participes": 7,
+            "patrimonio": 5925340,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 14394619.0,
+                    "desde": "2017T1",
+                    "isin": "ES0112611001",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AzValor Intern. FI",
+                    "porcentaje": 18.99
+                },
+                {
+                    "cantidad": 13188304.0,
+                    "desde": "2017T1",
+                    "isin": "ES0124037005",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|COBAS SELECCIÓN, FI",
+                    "porcentaje": 17.4
+                },
+                {
+                    "cantidad": 11554039.0,
+                    "desde": "2017T1",
+                    "isin": "ES0114638036",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Bestinver Internacional",
+                    "porcentaje": 15.25
+                },
+                {
+                    "cantidad": 10582127.0,
+                    "desde": "2017T1",
+                    "isin": "ES0159259029",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Magallanes European",
+                    "porcentaje": 13.96
+                },
+                {
+                    "cantidad": 4660613.0,
+                    "desde": "2017T2",
+                    "isin": "ES0119184002",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|COBAS IBERIA FI",
+                    "porcentaje": 6.15
+                },
+                {
+                    "cantidad": 4352919.0,
+                    "desde": "2017T1",
+                    "isin": "ES0112616000",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AzValor Iberia FI",
+                    "porcentaje": 5.74
+                },
+                {
+                    "cantidad": 4134025.0,
+                    "desde": "2017T1",
+                    "isin": "US0846707026",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Berkshire Hathaway",
+                    "porcentaje": 5.45
+                },
+                {
+                    "cantidad": 4090179.0,
+                    "desde": "2017T1",
+                    "isin": "ES0159201021",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Magallanes Iberian E",
+                    "porcentaje": 5.4
+                },
+                {
+                    "cantidad": 4085555.0,
+                    "desde": "2017T1",
+                    "isin": "ES0147622031",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Bestinver Bolsa FIM",
+                    "porcentaje": 5.39
+                },
+                {
+                    "cantidad": 2220126.0,
+                    "desde": "2017T2",
+                    "isin": "ES0159202003",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Magallanes Value Eur",
+                    "porcentaje": 2.93
+                }
+            ],
+            "rentabilidad": 7.6
+        },
+        {
             "gastos": 0.56,
             "indice_rotacion": 0.0,
+            "liquidez": 1.71,
             "participes": 7,
             "patrimonio": 5506920,
             "periodo": "2021T4",
@@ -95,6 +187,7 @@
         {
             "gastos": 0.56,
             "indice_rotacion": 0.0,
+            "liquidez": 1.51,
             "participes": 7,
             "patrimonio": 5456514,
             "periodo": "2021T3",
@@ -185,6 +278,7 @@
         {
             "gastos": 0.56,
             "indice_rotacion": 0.0,
+            "liquidez": 2.6,
             "participes": 7,
             "patrimonio": 5391326,
             "periodo": "2021T2",
@@ -275,6 +369,7 @@
         {
             "gastos": 0.55,
             "indice_rotacion": 0.0,
+            "liquidez": 2.99,
             "participes": 7,
             "patrimonio": 5058739,
             "periodo": "2021T1",
@@ -365,6 +460,7 @@
         {
             "gastos": 0.55,
             "indice_rotacion": 0.03,
+            "liquidez": 6.61,
             "participes": 15,
             "patrimonio": 6553246,
             "periodo": "2020T4",
@@ -452,7 +548,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2020T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Andbank España|2021-01-04",
                     "porcentaje": 0.19
@@ -463,6 +559,7 @@
         {
             "gastos": 0.55,
             "indice_rotacion": 0.04,
+            "liquidez": 6.47,
             "participes": 22,
             "patrimonio": 6763072,
             "periodo": "2020T3",
@@ -553,6 +650,7 @@
         {
             "gastos": 0.53,
             "indice_rotacion": 0.0,
+            "liquidez": 3.2,
             "participes": 26,
             "patrimonio": 9760935,
             "periodo": "2020T2",
@@ -643,6 +741,7 @@
         {
             "gastos": 0.54,
             "indice_rotacion": 0.04,
+            "liquidez": 12.13,
             "participes": 32,
             "patrimonio": 8857834,
             "periodo": "2020T1",
@@ -733,6 +832,7 @@
         {
             "gastos": 0.56,
             "indice_rotacion": 0.0,
+            "liquidez": 2.45,
             "participes": 43,
             "patrimonio": 15580995,
             "periodo": "2019T4",
@@ -823,6 +923,7 @@
         {
             "gastos": 0.56,
             "indice_rotacion": 0.0,
+            "liquidez": 2.74,
             "participes": 47,
             "patrimonio": 15186772,
             "periodo": "2019T3",
@@ -913,6 +1014,7 @@
         {
             "gastos": 0.55,
             "indice_rotacion": 0.0,
+            "liquidez": 1.97,
             "participes": 51,
             "patrimonio": 15516479,
             "periodo": "2019T2",
@@ -1003,6 +1105,7 @@
         {
             "gastos": 0.51,
             "indice_rotacion": 0.0,
+            "liquidez": 2.0,
             "participes": 52,
             "patrimonio": 16376668,
             "periodo": "2019T1",
@@ -1093,6 +1196,7 @@
         {
             "gastos": 0.52,
             "indice_rotacion": 0.0,
+            "liquidez": 2.83,
             "participes": 59,
             "patrimonio": 16517367,
             "periodo": "2018T4",
@@ -1183,6 +1287,7 @@
         {
             "gastos": 0.51,
             "indice_rotacion": 0.0,
+            "liquidez": 3.32,
             "participes": 61,
             "patrimonio": 19103126,
             "periodo": "2018T3",
@@ -1273,6 +1378,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 3.83,
             "participes": 55,
             "patrimonio": 16375258,
             "periodo": "2018T2",
@@ -1363,6 +1469,7 @@
         {
             "gastos": 0.49,
             "indice_rotacion": 0.01,
+            "liquidez": 3.46,
             "participes": 58,
             "patrimonio": 15878113,
             "periodo": "2018T1",
@@ -1453,6 +1560,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.0,
+            "liquidez": 5.0,
             "participes": 46,
             "patrimonio": 13956675,
             "periodo": "2017T4",
@@ -1543,6 +1651,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.02,
+            "liquidez": 100,
             "participes": 19,
             "patrimonio": 7091084,
             "periodo": "2017T3",
@@ -1633,6 +1742,7 @@
         {
             "gastos": 0.15,
             "indice_rotacion": 0.0,
+            "liquidez": 5.26,
             "participes": 19,
             "patrimonio": 6127453,
             "periodo": "2017T2",
@@ -1723,6 +1833,7 @@
         {
             "gastos": 0.1,
             "indice_rotacion": 0.0,
+            "liquidez": 6.09,
             "participes": 16,
             "patrimonio": 3316504,
             "periodo": "2017T1",

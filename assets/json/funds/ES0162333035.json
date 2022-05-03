@@ -4,7 +4,115 @@
     "historico_periodos": [
         {
             "gastos": 0.3,
+            "indice_rotacion": 0.07,
+            "liquidez": 13.9,
+            "participes": 183,
+            "patrimonio": 4640919,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 402058.0,
+                    "desde": "2019T4",
+                    "isin": "XS1678372472",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BBVA|0,75|2022-09-11",
+                    "porcentaje": 8.66
+                },
+                {
+                    "cantidad": 396112.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012F84",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO INVERSIS, S.A.|-0,66|2022-04-01",
+                    "porcentaje": 8.54
+                },
+                {
+                    "cantidad": 396112.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000123X3",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO INVERSIS, S.A.|-0,66|2022-04-01",
+                    "porcentaje": 8.54
+                },
+                {
+                    "cantidad": 388622.0,
+                    "desde": "2020T2",
+                    "isin": "XS1199964575",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Ryanair Holdings PLC|1,13|2023-03-10",
+                    "porcentaje": 8.37
+                },
+                {
+                    "cantidad": 378353.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013281888",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|Valeo SA|0,38|2022-09-12",
+                    "porcentaje": 8.15
+                },
+                {
+                    "cantidad": 361277.0,
+                    "desde": "2021T4",
+                    "isin": "US912796Q284",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TREASURY BILL|0,07|2022-05-12",
+                    "porcentaje": 7.78
+                },
+                {
+                    "cantidad": 359857.0,
+                    "desde": "2022T1",
+                    "isin": "US912796M713",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TREASURY BILL|0,73|2022-09-08",
+                    "porcentaje": 7.75
+                },
+                {
+                    "cantidad": 343023.0,
+                    "desde": "2022T1",
+                    "isin": "US912796Q441",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TREASURY BILL|0,29|2022-06-02",
+                    "porcentaje": 7.39
+                },
+                {
+                    "cantidad": 343094.0,
+                    "desde": "2020T2",
+                    "isin": "XS2010445026",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BMW|0,13|2022-07-13",
+                    "porcentaje": 7.39
+                },
+                {
+                    "cantidad": 207356.0,
+                    "desde": "2022T1",
+                    "isin": "US912796R688",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TREASURY BILL|0,63|2022-07-07",
+                    "porcentaje": 4.47
+                },
+                {
+                    "cantidad": 196547.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013463643",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|ESSILOR|0,88|2023-05-27",
+                    "porcentaje": 4.24
+                },
+                {
+                    "cantidad": 135655.0,
+                    "desde": "2020T1",
+                    "isin": "US00287YAL39",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|AbbVie Inc|2,90|2022-11-06",
+                    "porcentaje": 2.92
+                }
+            ],
+            "rentabilidad": -0.37
+        },
+        {
+            "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 13.68,
             "participes": 188,
             "patrimonio": 4659782,
             "periodo": "2021T4",
@@ -119,6 +227,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 13.62,
             "participes": 230,
             "patrimonio": 5642942,
             "periodo": "2021T3",
@@ -257,6 +366,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 13.31,
             "participes": 239,
             "patrimonio": 5935710,
             "periodo": "2021T2",
@@ -403,6 +513,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.01,
+            "liquidez": 15.12,
             "participes": 251,
             "patrimonio": 6302489,
             "periodo": "2021T1",
@@ -549,6 +660,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 6.9,
             "participes": 262,
             "patrimonio": 7103823,
             "periodo": "2020T4",
@@ -735,6 +847,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 20.0,
             "participes": 270,
             "patrimonio": 7377513,
             "periodo": "2020T3",
@@ -913,6 +1026,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 16.16,
             "participes": 271,
             "patrimonio": 8796898,
             "periodo": "2020T2",
@@ -1107,6 +1221,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 16.39,
             "participes": 214,
             "patrimonio": 6630755,
             "periodo": "2020T1",
@@ -1261,6 +1376,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 17.07,
             "participes": 217,
             "patrimonio": 6813203,
             "periodo": "2019T4",
@@ -1407,6 +1523,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 13.82,
             "participes": 226,
             "patrimonio": 8150160,
             "periodo": "2019T3",
@@ -1537,6 +1654,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 31.17,
             "participes": 242,
             "patrimonio": 9908458,
             "periodo": "2019T2",
@@ -1667,6 +1785,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 20.67,
             "participes": 234,
             "patrimonio": 8210873,
             "periodo": "2019T1",
@@ -1797,6 +1916,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.02,
+            "liquidez": 14.2,
             "participes": 233,
             "patrimonio": 6800863,
             "periodo": "2018T4",
@@ -1943,6 +2063,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 24.05,
             "participes": 233,
             "patrimonio": 7582353,
             "periodo": "2018T3",
@@ -2081,6 +2202,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.38,
+            "liquidez": 10.32,
             "participes": 239,
             "patrimonio": 7112073,
             "periodo": "2018T2",
@@ -2096,7 +2218,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2018-09-27",
                     "porcentaje": 9.84
@@ -2227,6 +2349,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 18.67,
             "participes": 241,
             "patrimonio": 7411611,
             "periodo": "2018T1",
@@ -2258,7 +2381,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2018-09-27",
                     "porcentaje": 9.44
@@ -2325,6 +2448,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 8.81,
             "participes": 253,
             "patrimonio": 8292619,
             "periodo": "2017T4",
@@ -2364,7 +2488,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2018-09-27",
                     "porcentaje": 8.44
@@ -2447,6 +2571,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 10.9,
             "participes": 275,
             "patrimonio": 11597904,
             "periodo": "2017T3",
@@ -2486,7 +2611,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2018-09-27",
                     "porcentaje": 6.04
@@ -2617,6 +2742,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 13.84,
             "participes": 274,
             "patrimonio": 12924405,
             "periodo": "2017T2",
@@ -2632,7 +2758,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,15|2017-09-30",
                     "porcentaje": 6.96
@@ -2744,7 +2870,7 @@
                 {
                     "cantidad": 450000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2017-09-26",
                     "porcentaje": 3.48
@@ -2771,6 +2897,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 10.32,
             "participes": 287,
             "patrimonio": 13467508,
             "periodo": "2017T1",
@@ -2786,7 +2913,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,15|2017-09-30",
                     "porcentaje": 6.68
@@ -2906,7 +3033,7 @@
                 {
                     "cantidad": 450000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2017-09-26",
                     "porcentaje": 3.34
@@ -2925,6 +3052,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 8.73,
             "participes": 293,
             "patrimonio": 14930122,
             "periodo": "2016T4",
@@ -2972,7 +3100,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,15|2017-09-30",
                     "porcentaje": 6.03
@@ -3060,7 +3188,7 @@
                 {
                     "cantidad": 450000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2017-09-26",
                     "porcentaje": 3.01
@@ -3079,6 +3207,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 5.78,
             "participes": 295,
             "patrimonio": 14000424,
             "periodo": "2016T3",
@@ -3110,7 +3239,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,15|2017-09-30",
                     "porcentaje": 6.43
@@ -3214,7 +3343,7 @@
                 {
                     "cantidad": 450000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2017-09-26",
                     "porcentaje": 3.21
@@ -3233,6 +3362,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.1,
+            "liquidez": 6.82,
             "participes": 286,
             "patrimonio": 14424092,
             "periodo": "2016T2",
@@ -3256,7 +3386,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,30|2016-09-30",
                     "porcentaje": 6.24
@@ -3304,7 +3434,7 @@
                 {
                     "cantidad": 600000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,20|2016-09-25",
                     "porcentaje": 4.16
@@ -3379,6 +3509,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.06,
+            "liquidez": 5.5,
             "participes": 294,
             "patrimonio": 14857135,
             "periodo": "2016T1",
@@ -3410,7 +3541,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,30|2016-09-30",
                     "porcentaje": 6.06
@@ -3458,7 +3589,7 @@
                 {
                     "cantidad": 600000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,20|2016-09-25",
                     "porcentaje": 4.04
@@ -3525,6 +3656,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 12.64,
             "participes": 304,
             "patrimonio": 15590625,
             "periodo": "2015T4",
@@ -3572,7 +3704,7 @@
                 {
                     "cantidad": 900000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,30|2016-09-30",
                     "porcentaje": 5.77
@@ -3588,7 +3720,7 @@
                 {
                     "cantidad": 600000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,20|2016-09-25",
                     "porcentaje": 3.85
@@ -3623,6 +3755,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 8.34,
             "participes": 335,
             "patrimonio": 18315328,
             "periodo": "2015T3",
@@ -3670,7 +3803,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,30|2016-09-30",
                     "porcentaje": 7.64
@@ -3678,7 +3811,7 @@
                 {
                     "cantidad": 1100000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,20|2016-09-25",
                     "porcentaje": 6.01
@@ -3705,6 +3838,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 4.34,
             "participes": 360,
             "patrimonio": 21385826,
             "periodo": "2015T2",
@@ -3760,7 +3894,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2015-09-30",
                     "porcentaje": 6.55
@@ -3768,7 +3902,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,30|2015-09-26",
                     "porcentaje": 6.55
@@ -3787,6 +3921,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 4.93,
             "participes": 393,
             "patrimonio": 23859199,
             "periodo": "2015T1",
@@ -3842,7 +3977,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2015-09-30",
                     "porcentaje": 5.87
@@ -3850,7 +3985,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,30|2015-09-26",
                     "porcentaje": 5.87
@@ -3869,6 +4004,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 3.96,
             "participes": 421,
             "patrimonio": 30921904,
             "periodo": "2014T4",
@@ -3940,7 +4076,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2015-09-30",
                     "porcentaje": 4.53
@@ -3948,7 +4084,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,30|2015-09-26",
                     "porcentaje": 4.53
@@ -3967,6 +4103,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 8.62,
             "participes": 428,
             "patrimonio": 31129082,
             "periodo": "2014T3",
@@ -4014,7 +4151,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2015-09-30",
                     "porcentaje": 4.5
@@ -4022,7 +4159,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,30|2015-09-26",
                     "porcentaje": 4.5
@@ -4081,6 +4218,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.07,
+            "liquidez": 7.18,
             "participes": 446,
             "patrimonio": 31678528,
             "periodo": "2014T2",
@@ -4144,7 +4282,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,75|2014-09-30",
                     "porcentaje": 4.42
@@ -4152,7 +4290,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,25|2014-09-26",
                     "porcentaje": 4.42
@@ -4179,6 +4317,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.17,
+            "liquidez": 3.41,
             "participes": 465,
             "patrimonio": 29489161,
             "periodo": "2014T1",
@@ -4242,7 +4381,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,75|2014-09-30",
                     "porcentaje": 4.75
@@ -4250,7 +4389,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,25|2014-09-26",
                     "porcentaje": 4.75
@@ -4285,6 +4424,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.13,
+            "liquidez": 3.22,
             "participes": 478,
             "patrimonio": 32053581,
             "periodo": "2013T4",
@@ -4340,7 +4480,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,75|2014-09-30",
                     "porcentaje": 4.37
@@ -4348,7 +4488,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,25|2014-09-26",
                     "porcentaje": 4.37
@@ -4391,6 +4531,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.09,
+            "liquidez": 3.81,
             "participes": 481,
             "patrimonio": 33756660,
             "periodo": "2013T3",
@@ -4446,7 +4587,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,75|2014-09-30",
                     "porcentaje": 4.15
@@ -4454,7 +4595,7 @@
                 {
                     "cantidad": 1400000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,25|2014-09-26",
                     "porcentaje": 4.15
@@ -4505,6 +4646,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.49,
+            "liquidez": 5.55,
             "participes": 478,
             "patrimonio": 33724662,
             "periodo": "2013T2",
@@ -4536,7 +4678,7 @@
                 {
                     "cantidad": 3500000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,45|2013-09-26",
                     "porcentaje": 10.38
@@ -4603,6 +4745,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.03,
+            "liquidez": 7.21,
             "participes": 495,
             "patrimonio": 36213698,
             "periodo": "2013T1",
@@ -4634,7 +4777,7 @@
                 {
                     "cantidad": 3500000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,45|2013-09-26",
                     "porcentaje": 9.66
@@ -4701,6 +4844,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 8.15,
             "participes": 530,
             "patrimonio": 38700241,
             "periodo": "2012T4",
@@ -4732,7 +4876,7 @@
                 {
                     "cantidad": 3500000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,45|2013-09-26",
                     "porcentaje": 9.04
@@ -4791,6 +4935,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.03,
+            "liquidez": 11.26,
             "participes": 552,
             "patrimonio": 44768442,
             "periodo": "2012T3",
@@ -4822,7 +4967,7 @@
                 {
                     "cantidad": 4000000.0,
                     "desde": "2012T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,45|2013-09-26",
                     "porcentaje": 8.93
@@ -4873,6 +5018,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.48,
+            "liquidez": 14.52,
             "participes": 550,
             "patrimonio": 46491199,
             "periodo": "2012T2",
@@ -4939,6 +5085,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 5.39,
             "participes": 498,
             "patrimonio": 41781266,
             "periodo": "2012T1",
@@ -4994,7 +5141,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|3,50|2012-04-06",
                     "porcentaje": 4.79
@@ -5026,7 +5173,7 @@
                 {
                     "cantidad": 475000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.14
@@ -5034,7 +5181,7 @@
                 {
                     "cantidad": 475000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.14
@@ -5045,6 +5192,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 10.52,
             "participes": 483,
             "patrimonio": 39933021,
             "periodo": "2011T4",
@@ -5100,7 +5248,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|3,50|2012-04-06",
                     "porcentaje": 5.01
@@ -5124,7 +5272,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-03-21",
                     "porcentaje": 1.75
@@ -5140,7 +5288,7 @@
                 {
                     "cantidad": 475000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.19
@@ -5148,7 +5296,7 @@
                 {
                     "cantidad": 475000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|3,00|2012-10-27",
                     "porcentaje": 1.19
@@ -5159,6 +5307,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 6.59,
             "participes": 490,
             "patrimonio": 40601974,
             "periodo": "2011T3",
@@ -5273,6 +5422,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 4.54,
             "participes": 485,
             "patrimonio": 47370619,
             "periodo": "2011T2",
@@ -5379,6 +5529,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 5.88,
             "participes": 492,
             "patrimonio": 50158663,
             "periodo": "2011T1",
@@ -5445,6 +5596,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 6.46,
             "participes": 490,
             "patrimonio": 48542151,
             "periodo": "2010T4",
@@ -5511,6 +5663,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.0,
+            "liquidez": 12.37,
             "participes": 490,
             "patrimonio": 36027462,
             "periodo": "2010T3",
@@ -5585,6 +5738,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 14.6,
             "participes": 501,
             "patrimonio": 37042587,
             "periodo": "2010T2",
@@ -5659,6 +5813,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 5.7,
             "participes": 495,
             "patrimonio": 36390403,
             "periodo": "2010T1",
@@ -5749,6 +5904,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 5.72,
             "participes": 502,
             "patrimonio": 35258979,
             "periodo": "2009T4",
@@ -5863,6 +6019,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 3.7,
             "participes": 519,
             "patrimonio": 37963146,
             "periodo": "2009T3",
@@ -5977,6 +6134,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 4.69,
             "participes": 484,
             "patrimonio": 34492241,
             "periodo": "2009T2",

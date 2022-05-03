@@ -1,10 +1,406 @@
 {
     "auditora": "Deloitte, S.L.",
-    "fecha_registro": "04/08/1997",
+    "fecha_registro": "01/02/2018",
     "historico_periodos": [
         {
             "gastos": 0.36,
+            "indice_rotacion": 0.54,
+            "liquidez": 1.72,
+            "participes": 2822,
+            "patrimonio": 65917402,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 6448670.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005439275",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY||2024-04-15",
+                    "porcentaje": 9.72
+                },
+                {
+                    "cantidad": 6265323.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005454050",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY|.00001|2024-01-30",
+                    "porcentaje": 9.45
+                },
+                {
+                    "cantidad": 6118010.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005405318",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY|.6|2023-06-15",
+                    "porcentaje": 9.23
+                },
+                {
+                    "cantidad": 6101155.0,
+                    "desde": "2020T3",
+                    "isin": "ES0000012B62",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TESORO PUBLICO|.35|2023-07-30",
+                    "porcentaje": 9.2
+                },
+                {
+                    "cantidad": 6038720.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005384497",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY|.05|2023-01-15",
+                    "porcentaje": 9.11
+                },
+                {
+                    "cantidad": 5092966.0,
+                    "desde": "2020T3",
+                    "isin": "ES00000128O1",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TESORO PUBLICO|.4|2022-04-30",
+                    "porcentaje": 7.68
+                },
+                {
+                    "cantidad": 5039195.0,
+                    "desde": "2020T2",
+                    "isin": "ES0000012F84",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TESORO PUBLICO||2023-04-30",
+                    "porcentaje": 7.6
+                },
+                {
+                    "cantidad": 3036420.0,
+                    "desde": "2018T1",
+                    "isin": "FR0007054358",
+                    "moneda": "EUR",
+                    "nombre": "ETF|LYXOR ETFS/FRAN",
+                    "porcentaje": 4.58
+                },
+                {
+                    "cantidad": 2189647.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005386245",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY|.35|2025-02-01",
+                    "porcentaje": 3.3
+                },
+                {
+                    "cantidad": 2183137.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B3F81R35",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 3.29
+                },
+                {
+                    "cantidad": 1220000.0,
+                    "desde": "2018T1",
+                    "isin": "NL0010273215",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASML HOLDING NV",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 826908.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005408502",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ITALY|1.85|2025-07-01",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 729225.0,
+                    "desde": "2020T2",
+                    "isin": "IT0000072618",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INTESA SANPAOLO",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 729209.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 710160.0,
+                    "desde": "2022T1",
+                    "isin": "ES0109067019",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AMADEUS HOLDING",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 712620.0,
+                    "desde": "2022T1",
+                    "isin": "NL0000226223",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|STMICROELECTRON",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 712655.0,
+                    "desde": "2020T3",
+                    "isin": "DE0006231004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INFINEON TECH",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 685367.0,
+                    "desde": "2018T1",
+                    "isin": "ES0113900J37",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BSAN",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 675090.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000131104",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BNP",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 656821.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 649400.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000121014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LVMH MOET HENNE",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 638662.0,
+                    "desde": "2020T4",
+                    "isin": "ES0000012G00",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TESORO PUBLICO|1|2050-10-31",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 625200.0,
+                    "desde": "2020T4",
+                    "isin": "ES0113211835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BBVA",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 577196.0,
+                    "desde": "2018T1",
+                    "isin": "ES00000126A4",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|TESORO PUBLICO|1.8|2024-11-30",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 521013.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 505600.0,
+                    "desde": "2018T1",
+                    "isin": "DE0007164600",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAP",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 446670.0,
+                    "desde": "2021T2",
+                    "isin": "DE0007100000",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DAIMLER AG",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 392280.0,
+                    "desde": "2022T1",
+                    "isin": "BE0003565737",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KBC",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 393000.0,
+                    "desde": "2018T1",
+                    "isin": "DE0005190003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BMW",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 376255.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011821202",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INGGROEP",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 376980.0,
+                    "desde": "2018T1",
+                    "isin": "DE0007236101",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SIEMENS",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 344407.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000121667",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ESSILORLUXOTTIC",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 304320.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000121972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCHNEIDER",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 305286.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000125486",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VINCI",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 298240.0,
+                    "desde": "2022T1",
+                    "isin": "ES0113860A34",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SABADELL",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 291080.0,
+                    "desde": "2021T4",
+                    "isin": "FR0000120321",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LOREAL",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 292949.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000125007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAINT-GOBAIN",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 287268.0,
+                    "desde": "2018T1",
+                    "isin": "DE000BASF111",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BASF",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 275279.0,
+                    "desde": "2018T1",
+                    "isin": "IT0003132476",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENI",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 277080.0,
+                    "desde": "2022T1",
+                    "isin": "DE000CBK1001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|COMMERZBANK",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 202757.0,
+                    "desde": "2020T2",
+                    "isin": "XS2194282948",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INFINEON TECH|.75|2023-06-24",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 201682.0,
+                    "desde": "2020T2",
+                    "isin": "XS2194283672",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|INFINEON TECH|1.125|2026-06-24",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 177206.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000120644",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DANONE",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 115664.0,
+                    "desde": "2019T2",
+                    "isin": "FI0009000681",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOKIA",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 98301.0,
+                    "desde": "2020T3",
+                    "isin": "XS2230884657",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|VOLVO TREASURY|.125|2024-09-17",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 1.0,
+                    "desde": "2021T4",
+                    "isin": "ES0246750113",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HUARTE||2044-12-30",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T1",
+                    "isin": "FR0000131906",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RENAULT",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000120271",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TOTAL FINA",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -4.21
+        },
+        {
+            "gastos": 0.36,
             "indice_rotacion": 0.0,
+            "liquidez": 5.51,
             "participes": 2927,
             "patrimonio": 73222467,
             "periodo": "2021T4",
@@ -367,6 +763,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.52,
+            "liquidez": 6.26,
             "participes": 3039,
             "patrimonio": 74361326,
             "periodo": "2021T3",
@@ -809,6 +1206,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.31,
+            "liquidez": 6.94,
             "participes": 16,
             "patrimonio": 1062128,
             "periodo": "2021T2",
@@ -1355,6 +1753,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.16,
+            "liquidez": 8.31,
             "participes": 18,
             "patrimonio": 1014789,
             "periodo": "2021T1",
@@ -1869,6 +2268,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.31,
+            "liquidez": 7.23,
             "participes": 22,
             "patrimonio": 997565,
             "periodo": "2020T4",
@@ -2383,6 +2783,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.22,
+            "liquidez": 16.36,
             "participes": 16,
             "patrimonio": 887742,
             "periodo": "2020T3",
@@ -2857,6 +3258,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 17.14,
             "participes": 17,
             "patrimonio": 914918,
             "periodo": "2020T2",
@@ -3315,6 +3717,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 14.7,
             "participes": 16,
             "patrimonio": 742579,
             "periodo": "2020T1",
@@ -3733,6 +4136,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 4.62,
             "participes": 25,
             "patrimonio": 1075219,
             "periodo": "2019T4",
@@ -4172,7 +4576,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 0.0
@@ -4180,7 +4584,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|.04|2019-11-29",
                     "porcentaje": 0.0
@@ -4223,6 +4627,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.03,
+            "liquidez": 6.06,
             "participes": 23,
             "patrimonio": 1044101,
             "periodo": "2019T3",
@@ -4310,7 +4715,7 @@
                 {
                     "cantidad": 1700000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|.04|2019-11-29",
                     "porcentaje": 2.09
@@ -4646,7 +5051,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 0.0
@@ -4689,6 +5094,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 2.28,
             "participes": 18,
             "patrimonio": 747113,
             "periodo": "2019T2",
@@ -4760,7 +5166,7 @@
                 {
                     "cantidad": 1900000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 2.33
@@ -4784,7 +5190,7 @@
                 {
                     "cantidad": 1700000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|.04|2019-11-29",
                     "porcentaje": 2.09
@@ -5187,6 +5593,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.01,
+            "liquidez": 2.81,
             "participes": 15,
             "patrimonio": 594600,
             "periodo": "2019T1",
@@ -5258,7 +5665,7 @@
                 {
                     "cantidad": 1900000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 2.31
@@ -5282,7 +5689,7 @@
                 {
                     "cantidad": 1700000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|.04|2019-11-29",
                     "porcentaje": 2.07
@@ -5645,6 +6052,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.08,
+            "liquidez": 5.36,
             "participes": 20,
             "patrimonio": 814738,
             "periodo": "2018T4",
@@ -5724,7 +6132,7 @@
                 {
                     "cantidad": 1900000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 2.29
@@ -5748,7 +6156,7 @@
                 {
                     "cantidad": 1700000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|.04|2019-11-29",
                     "porcentaje": 2.04
@@ -6127,6 +6535,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.12,
+            "liquidez": 3.37,
             "participes": 27,
             "patrimonio": 1436629,
             "periodo": "2018T3",
@@ -6214,7 +6623,7 @@
                 {
                     "cantidad": 1900000.0,
                     "desde": "2018T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|Banco Sabadell|-.1|2019-08-13",
                     "porcentaje": 2.18
@@ -6593,6 +7002,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
+            "liquidez": 14.93,
             "participes": 31,
             "patrimonio": 2033270,
             "periodo": "2018T2",
@@ -7035,6 +7445,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 14.04,
             "participes": 28,
             "patrimonio": 1833090,
             "periodo": "2018T1",

@@ -3,8 +3,564 @@
     "fecha_registro": "12/12/1997",
     "historico_periodos": [
         {
+            "gastos": 0.58,
+            "indice_rotacion": 0.05,
+            "liquidez": 2.48,
+            "participes": 1664,
+            "patrimonio": 44844716,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 3785327.0,
+                    "desde": "2016T4",
+                    "isin": "GB00BH4HKS39",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VODAFONE GROUP",
+                    "porcentaje": 8.44
+                },
+                {
+                    "cantidad": 3071950.0,
+                    "desde": "2010T4",
+                    "isin": "ES0178430E18",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELEFÓNICA",
+                    "porcentaje": 6.85
+                },
+                {
+                    "cantidad": 3008678.0,
+                    "desde": "2018T1",
+                    "isin": "IE00BTN1Y115",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MEDTRONIC PLC",
+                    "porcentaje": 6.71
+                },
+                {
+                    "cantidad": 2734200.0,
+                    "desde": "2016T4",
+                    "isin": "DE0005785802",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FRESENIUS MEDIC",
+                    "porcentaje": 6.1
+                },
+                {
+                    "cantidad": 2274941.0,
+                    "desde": "2009T2",
+                    "isin": "SE0000667925",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELIASONERA",
+                    "porcentaje": 5.07
+                },
+                {
+                    "cantidad": 1824867.0,
+                    "desde": "2010T3",
+                    "isin": "US8816242098",
+                    "moneda": "EUR",
+                    "nombre": "ADR|TEVA PHARMA.",
+                    "porcentaje": 4.07
+                },
+                {
+                    "cantidad": 1560593.0,
+                    "desde": "2013T2",
+                    "isin": "JP3967200001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RAKUTEN",
+                    "porcentaje": 3.48
+                },
+                {
+                    "cantidad": 1525600.0,
+                    "desde": "2013T2",
+                    "isin": "PTZON0AM0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOS SGPS",
+                    "porcentaje": 3.4
+                },
+                {
+                    "cantidad": 1430164.0,
+                    "desde": "2009T2",
+                    "isin": "JP3734800000",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NIDEC CORPORATI",
+                    "porcentaje": 3.19
+                },
+                {
+                    "cantidad": 1424544.0,
+                    "desde": "2021T1",
+                    "isin": "HK0941009539",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CHINA MOBILE",
+                    "porcentaje": 3.18
+                },
+                {
+                    "cantidad": 1278496.0,
+                    "desde": "2021T1",
+                    "isin": "US01609W1027",
+                    "moneda": "EUR",
+                    "nombre": "ADR|ALIBABA GROUP H",
+                    "porcentaje": 2.85
+                },
+                {
+                    "cantidad": 1270246.0,
+                    "desde": "2009T2",
+                    "isin": "JP3802400006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FANUC",
+                    "porcentaje": 2.83
+                },
+                {
+                    "cantidad": 839765.0,
+                    "desde": "2020T4",
+                    "isin": "GB0009895292",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASTRAZENECA",
+                    "porcentaje": 1.87
+                },
+                {
+                    "cantidad": 824000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0171996087",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GRIFOLS",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 724500.0,
+                    "desde": "2020T2",
+                    "isin": "IT0005274094",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PHARMANUTRA SPA",
+                    "porcentaje": 1.62
+                },
+                {
+                    "cantidad": 709500.0,
+                    "desde": "2013T1",
+                    "isin": "IT0003492391",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DIASORIN SPA",
+                    "porcentaje": 1.58
+                },
+                {
+                    "cantidad": 690681.0,
+                    "desde": "2009T2",
+                    "isin": "US92343V1044",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VERIZON COMM",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 619500.0,
+                    "desde": "2021T1",
+                    "isin": "DE0006636681",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VA-Q-TEC AG",
+                    "porcentaje": 1.38
+                },
+                {
+                    "cantidad": 588000.0,
+                    "desde": "2012T2",
+                    "isin": "BE0165385973",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MELEXIS NV",
+                    "porcentaje": 1.31
+                },
+                {
+                    "cantidad": 578200.0,
+                    "desde": "2021T4",
+                    "isin": "BE0003874915",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARSEUS",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 536815.0,
+                    "desde": "2016T3",
+                    "isin": "IT0004496029",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EXPERT SYSTEM S",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 501628.0,
+                    "desde": "2017T1",
+                    "isin": "CH0012032048",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROCHE HOLDING",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 503361.0,
+                    "desde": "2014T1",
+                    "isin": "DK0060534915",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVO NORDISK A/",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 468403.0,
+                    "desde": "2019T2",
+                    "isin": "CH0432492467",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALCON",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 444997.0,
+                    "desde": "2020T3",
+                    "isin": "US58933Y1055",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MERCK",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 440850.0,
+                    "desde": "2014T3",
+                    "isin": "DE0005313704",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARL ZEISS MEDI",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 427949.0,
+                    "desde": "2009T2",
+                    "isin": "US0028241000",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 419968.0,
+                    "desde": "2018T3",
+                    "isin": "JP3236200006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KEYENCE CORP",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 419014.0,
+                    "desde": "2021T4",
+                    "isin": "JP3732000009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SOFTBANK",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 406761.0,
+                    "desde": "2020T4",
+                    "isin": "US87936R2058",
+                    "moneda": "EUR",
+                    "nombre": "ADR|TELEF BRASIL",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 403580.0,
+                    "desde": "2012T1",
+                    "isin": "JP3188220002",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|OTSUKA HOLDINGS",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 388500.0,
+                    "desde": "2021T2",
+                    "isin": "DE000A3CMGM5",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|APONTIS PHARMA",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 353873.0,
+                    "desde": "2009T2",
+                    "isin": "JP3475350009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DAIICHI SANKYO",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 351284.0,
+                    "desde": "2020T1",
+                    "isin": "DE000A0JCY11",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MYNARIC AG",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 342808.0,
+                    "desde": "2018T3",
+                    "isin": "KYG9830T1067",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KIAOMI CLASS B",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 325044.0,
+                    "desde": "2018T2",
+                    "isin": "JP3765150002",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HARMONIC DRIVE",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 298024.0,
+                    "desde": "2015T4",
+                    "isin": "NL0000852531",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KENDRION",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 295500.0,
+                    "desde": "2021T1",
+                    "isin": "NL00150002Q7",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VIVORYON THERAP",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 292200.0,
+                    "desde": "2020T2",
+                    "isin": "BE0003826436",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELENET",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 278055.0,
+                    "desde": "2009T2",
+                    "isin": "CH0012005267",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVARTIS",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 258600.0,
+                    "desde": "2013T4",
+                    "isin": "FR0000065484",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LECTRA",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 250000.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A2QEFA1",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FASHIONETTE",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 251250.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005421646",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LABOMAR SPA",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 252462.0,
+                    "desde": "2015T4",
+                    "isin": "US02079K1079",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALPHABET INC/CA",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 247000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005351496",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NEOSPERIENCE",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 242772.0,
+                    "desde": "2017T4",
+                    "isin": "KYG2121R1039",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CHINA LITERATUR",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 238175.0,
+                    "desde": "2009T2",
+                    "isin": "JP3914400001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MURATA",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 237291.0,
+                    "desde": "2009T2",
+                    "isin": "US7960508882",
+                    "moneda": "EUR",
+                    "nombre": "GDR|SAMSUNG ELECTRO",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 233600.0,
+                    "desde": "2009T2",
+                    "isin": "DE000A0BL849",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VITA 34 INTERNA",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 235405.0,
+                    "desde": "2014T2",
+                    "isin": "KYG875721634",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TENCENT HOLDING",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 230800.0,
+                    "desde": "2020T4",
+                    "isin": "DE000A2GS5D8",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DERMAPHARM HOLD",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 230303.0,
+                    "desde": "2011T3",
+                    "isin": "US79466L3024",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SALESFORCE.COM",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 218545.0,
+                    "desde": "2013T4",
+                    "isin": "JP3546800008",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TERUMO CORP, S.",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 214951.0,
+                    "desde": "2020T2",
+                    "isin": "US3755581036",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GILEAD SCIENCES",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 213739.0,
+                    "desde": "2018T4",
+                    "isin": "US8807701029",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TERADYNE INC",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 208084.0,
+                    "desde": "2009T2",
+                    "isin": "SE0000108656",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ERICSSON",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 194200.0,
+                    "desde": "2021T2",
+                    "isin": "DE000A2TSQH7",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KATEK SE",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 192353.0,
+                    "desde": "2013T2",
+                    "isin": "US0758871091",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BECTON DICKINSO",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 185500.0,
+                    "desde": "2009T2",
+                    "isin": "FR0005854700",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|I2S SA",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 121568.0,
+                    "desde": "2010T1",
+                    "isin": "ES0161857018",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MEDCOMTECH",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 102929.0,
+                    "desde": "2011T3",
+                    "isin": "US9285634021",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VMWARE INC-CLAS",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 86445.0,
+                    "desde": "2021T4",
+                    "isin": "ES0105621009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROFITHOL",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 84420.0,
+                    "desde": "2020T3",
+                    "isin": "DE000A289V03",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MPH MITTELSTAEN",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 56833.0,
+                    "desde": "2021T2",
+                    "isin": "US68622V1061",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ORGANON CO",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 55645.0,
+                    "desde": "2021T2",
+                    "isin": "US53228T1016",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LIGHTNING EMOTO",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 28600.0,
+                    "desde": "2012T1",
+                    "isin": "AT000KAPSCH9",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KAPSCH TRAFFICC",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 9900.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005460149",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MEDICA SPA",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 6986.0,
+                    "desde": "2022T1",
+                    "isin": "KYG8208B1014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JD.COM CL A",
+                    "porcentaje": 0.02
+                }
+            ],
+            "rentabilidad": -4.7
+        },
+        {
             "gastos": 0.6,
             "indice_rotacion": 0.09,
+            "liquidez": 2.74,
             "participes": 1762,
             "patrimonio": 49983016,
             "periodo": "2021T4",
@@ -551,6 +1107,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.06,
+            "liquidez": 1.89,
             "participes": 1792,
             "patrimonio": 53310991,
             "periodo": "2021T3",
@@ -1073,6 +1630,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.27,
+            "liquidez": 1.72,
             "participes": 1791,
             "patrimonio": 56237456,
             "periodo": "2021T2",
@@ -1595,6 +2153,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.24,
+            "liquidez": 1.91,
             "participes": 1793,
             "patrimonio": 56237211,
             "periodo": "2021T1",
@@ -2101,6 +2660,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 2.77,
             "participes": 1730,
             "patrimonio": 52016430,
             "periodo": "2020T4",
@@ -2631,6 +3191,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.01,
+            "liquidez": 1.9,
             "participes": 1722,
             "patrimonio": 46365418,
             "periodo": "2020T3",
@@ -3137,6 +3698,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 1.77,
             "participes": 1697,
             "patrimonio": 44900312,
             "periodo": "2020T2",
@@ -3643,6 +4205,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 1.22,
             "participes": 1562,
             "patrimonio": 34716111,
             "periodo": "2020T1",
@@ -4117,6 +4680,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.06,
+            "liquidez": 2.0,
             "participes": 1505,
             "patrimonio": 39764002,
             "periodo": "2019T4",
@@ -4599,6 +5163,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.07,
+            "liquidez": 2.76,
             "participes": 1521,
             "patrimonio": 35027652,
             "periodo": "2019T3",
@@ -5105,6 +5670,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.03,
+            "liquidez": 1.13,
             "participes": 1529,
             "patrimonio": 34284366,
             "periodo": "2019T2",
@@ -5627,6 +6193,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.06,
+            "liquidez": 2.35,
             "participes": 1521,
             "patrimonio": 32983945,
             "periodo": "2019T1",
@@ -6205,6 +6772,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.11,
+            "liquidez": 0.05,
             "participes": 1508,
             "patrimonio": 29737272,
             "periodo": "2018T4",
@@ -6775,6 +7343,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 1.14,
             "participes": 1517,
             "patrimonio": 33627977,
             "periodo": "2018T3",
@@ -7321,6 +7890,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 0.3,
             "participes": 1485,
             "patrimonio": 33734910,
             "periodo": "2018T2",
@@ -7859,6 +8429,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.04,
+            "liquidez": 1.74,
             "participes": 1450,
             "patrimonio": 33755000,
             "periodo": "2018T1",
@@ -8397,6 +8968,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 1.5,
             "participes": 1350,
             "patrimonio": 34129377,
             "periodo": "2017T4",
@@ -8919,6 +9491,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 2.15,
             "participes": 1318,
             "patrimonio": 32068624,
             "periodo": "2017T3",
@@ -9433,6 +10006,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 2.35,
             "participes": 1316,
             "patrimonio": 31214785,
             "periodo": "2017T2",
@@ -9939,6 +10513,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.05,
+            "liquidez": 0.59,
             "participes": 1315,
             "patrimonio": 30337246,
             "periodo": "2017T1",
@@ -10453,6 +11028,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.18,
+            "liquidez": 2.2,
             "participes": 1272,
             "patrimonio": 28574254,
             "periodo": "2016T4",
@@ -10983,6 +11559,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.1,
+            "liquidez": 4.63,
             "participes": 1255,
             "patrimonio": 28698608,
             "periodo": "2016T3",
@@ -11088,7 +11665,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 2.62
                 },
                 {
@@ -11352,7 +11929,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.55
                 },
                 {
@@ -11505,6 +12082,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.05,
+            "liquidez": 16.77,
             "participes": 1233,
             "patrimonio": 26360606,
             "periodo": "2016T2",
@@ -11666,7 +12244,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.75
                 },
                 {
@@ -11930,7 +12508,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.52
                 },
                 {
@@ -12051,6 +12629,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 1.4,
             "participes": 1227,
             "patrimonio": 24844764,
             "periodo": "2016T1",
@@ -12324,7 +12903,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.04
                 },
                 {
@@ -12492,7 +13071,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.51
                 },
                 {
@@ -12605,6 +13184,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.21,
+            "liquidez": 1.92,
             "participes": 1210,
             "patrimonio": 26369823,
             "periodo": "2015T4",
@@ -12870,7 +13450,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.1
                 },
                 {
@@ -13054,7 +13634,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.46
                 },
                 {
@@ -13167,6 +13747,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.01,
+            "liquidez": 1.79,
             "participes": 1173,
             "patrimonio": 22464911,
             "periodo": "2015T3",
@@ -13488,7 +14069,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.12
                 },
                 {
@@ -13680,7 +14261,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.44
                 },
                 {
@@ -13793,6 +14374,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.04,
+            "liquidez": 7.31,
             "participes": 1151,
             "patrimonio": 24134939,
             "periodo": "2015T2",
@@ -14034,7 +14616,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.28
                 },
                 {
@@ -14266,7 +14848,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.53
                 },
                 {
@@ -14395,6 +14977,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.0,
+            "liquidez": 2.08,
             "participes": 1128,
             "patrimonio": 24602780,
             "periodo": "2015T1",
@@ -14644,7 +15227,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.23
                 },
                 {
@@ -14900,7 +15483,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.53
                 },
                 {
@@ -15053,6 +15636,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.1,
+            "liquidez": 9.5,
             "participes": 1077,
             "patrimonio": 19576251,
             "periodo": "2014T4",
@@ -15246,7 +15830,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.33
                 },
                 {
@@ -15558,7 +16142,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.47
                 },
                 {
@@ -15687,6 +16271,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 2.87,
             "participes": 1091,
             "patrimonio": 22584964,
             "periodo": "2014T3",
@@ -15984,7 +16569,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.02
                 },
                 {
@@ -16200,7 +16785,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.36
                 },
                 {
@@ -16345,6 +16930,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.13,
+            "liquidez": 1.34,
             "participes": 1069,
             "patrimonio": 20070706,
             "periodo": "2014T2",
@@ -16650,7 +17236,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.04
                 },
                 {
@@ -16866,7 +17452,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.39
                 },
                 {
@@ -17019,6 +17605,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.06,
+            "liquidez": 2.29,
             "participes": 1060,
             "patrimonio": 20710785,
             "periodo": "2014T1",
@@ -17124,7 +17711,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 2.02
                 },
                 {
@@ -17532,7 +18119,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.38
                 },
                 {
@@ -17685,6 +18272,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.26,
+            "liquidez": 2.73,
             "participes": 992,
             "patrimonio": 19009999,
             "periodo": "2013T4",
@@ -17734,7 +18322,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 2.93
                 },
                 {
@@ -18190,7 +18778,7 @@
                     "desde": "2013T4",
                     "isin": "FR0000065484",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|LECTRA  ",
+                    "nombre": "ACCIONES|LECTRA",
                     "porcentaje": 0.44
                 },
                 {
@@ -18359,6 +18947,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.12,
+            "liquidez": 1.35,
             "participes": 931,
             "patrimonio": 15965119,
             "periodo": "2013T3",
@@ -18736,7 +19325,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 0.77
                 },
                 {
@@ -19017,6 +19606,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 1.22,
             "participes": 894,
             "patrimonio": 13790603,
             "periodo": "2013T2",
@@ -19322,7 +19912,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 0.97
                 },
                 {
@@ -19683,6 +20273,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.01,
+            "liquidez": 1.29,
             "participes": 851,
             "patrimonio": 12529013,
             "periodo": "2013T1",
@@ -19948,7 +20539,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.1
                 },
                 {
@@ -20301,6 +20892,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.21,
+            "liquidez": 1.65,
             "participes": 844,
             "patrimonio": 11915928,
             "periodo": "2012T4",
@@ -20414,7 +21006,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 2.08
                 },
                 {
@@ -20903,6 +21495,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.05,
+            "liquidez": 2.1,
             "participes": 838,
             "patrimonio": 12374848,
             "periodo": "2012T3",
@@ -21104,7 +21697,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.29
                 },
                 {
@@ -21304,7 +21897,7 @@
                     "desde": "2012T3",
                     "isin": "ES0118594417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|INDRA ",
+                    "nombre": "ACCIONES|INDRA",
                     "porcentaje": 0.61
                 },
                 {
@@ -21505,6 +22098,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.27,
+            "liquidez": 1.34,
             "participes": 840,
             "patrimonio": 11635461,
             "periodo": "2012T2",
@@ -21706,7 +22300,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.32
                 },
                 {
@@ -22099,6 +22693,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.19,
+            "liquidez": 0.54,
             "participes": 844,
             "patrimonio": 12265209,
             "periodo": "2012T1",
@@ -22364,7 +22959,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.12
                 },
                 {
@@ -22669,6 +23264,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.19,
+            "liquidez": 3.48,
             "participes": 844,
             "patrimonio": 10668334,
             "periodo": "2011T4",
@@ -22910,7 +23506,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.22
                 },
                 {
@@ -23199,6 +23795,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.16,
+            "liquidez": 2.49,
             "participes": 872,
             "patrimonio": 9995493,
             "periodo": "2011T3",
@@ -23464,7 +24061,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.14
                 },
                 {
@@ -23729,6 +24326,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 1.51,
             "participes": 887,
             "patrimonio": 11645787,
             "periodo": "2011T2",
@@ -24074,7 +24672,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 0.94
                 },
                 {
@@ -24203,6 +24801,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 0.93,
             "participes": 889,
             "patrimonio": 12780809,
             "periodo": "2011T1",
@@ -24588,7 +25187,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 0.81
                 },
                 {
@@ -24701,6 +25300,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.13,
+            "liquidez": 0.6,
             "participes": 865,
             "patrimonio": 12096875,
             "periodo": "2010T4",
@@ -25038,7 +25638,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 0.89
                 },
                 {
@@ -25199,6 +25799,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.07,
+            "liquidez": 1.48,
             "participes": 862,
             "patrimonio": 8696635,
             "periodo": "2010T3",
@@ -25464,7 +26065,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.32
                 },
                 {
@@ -25665,6 +26266,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.0,
+            "liquidez": 4.84,
             "participes": 878,
             "patrimonio": 9960994,
             "periodo": "2010T2",
@@ -25970,7 +26572,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.15
                 },
                 {
@@ -26155,6 +26757,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.0,
+            "liquidez": 1.36,
             "participes": 873,
             "patrimonio": 10492595,
             "periodo": "2010T1",
@@ -26484,7 +27087,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.12
                 },
                 {
@@ -26645,6 +27248,7 @@
         {
             "gastos": 0.74,
             "indice_rotacion": 0.07,
+            "liquidez": 1.73,
             "participes": 842,
             "patrimonio": 8195671,
             "periodo": "2009T4",
@@ -26926,7 +27530,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.37
                 },
                 {
@@ -27087,6 +27691,7 @@
         {
             "gastos": 0.72,
             "indice_rotacion": 0.0,
+            "liquidez": 3.23,
             "participes": 831,
             "patrimonio": 7409878,
             "periodo": "2009T3",
@@ -27360,7 +27965,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.37
                 },
                 {
@@ -27513,6 +28118,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.2,
+            "liquidez": 2.98,
             "participes": 828,
             "patrimonio": 6131645,
             "periodo": "2009T2",
@@ -27746,7 +28352,7 @@
                     "desde": "2009T2",
                     "isin": "US0028241000",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ABBOTT LABORATO ",
+                    "nombre": "ACCIONES|ABBOTT LABORATO",
                     "porcentaje": 1.63
                 },
                 {

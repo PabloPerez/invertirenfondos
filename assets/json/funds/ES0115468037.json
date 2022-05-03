@@ -3,8 +3,476 @@
     "fecha_registro": "28/07/1994",
     "historico_periodos": [
         {
+            "gastos": 0.63,
+            "indice_rotacion": 0.25,
+            "liquidez": 7.28,
+            "participes": 403,
+            "patrimonio": 3276389,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 200690.0,
+                    "desde": "2012T4",
+                    "isin": "NL0010273215",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ASML HOLDING NV",
+                    "porcentaje": 6.13
+                },
+                {
+                    "cantidad": 166600.0,
+                    "desde": "2018T2",
+                    "isin": "ES0000012B39",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,40|2028-04-30",
+                    "porcentaje": 5.08
+                },
+                {
+                    "cantidad": 156886.0,
+                    "desde": "2018T1",
+                    "isin": "ES00000124C5",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|5,15|2028-10-31",
+                    "porcentaje": 4.79
+                },
+                {
+                    "cantidad": 142868.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000121014",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|LVMH",
+                    "porcentaje": 4.36
+                },
+                {
+                    "cantidad": 119396.0,
+                    "desde": "2018T4",
+                    "isin": "IE00BZ12WP82",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|LINDE AG",
+                    "porcentaje": 3.64
+                },
+                {
+                    "cantidad": 108084.0,
+                    "desde": "2022T1",
+                    "isin": "LU1681042518",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI",
+                    "porcentaje": 3.3
+                },
+                {
+                    "cantidad": 99563.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120271",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TOTAL",
+                    "porcentaje": 3.04
+                },
+                {
+                    "cantidad": 86963.0,
+                    "desde": "2009T2",
+                    "isin": "DE0007164600",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SAP AG",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 86580.0,
+                    "desde": "2009T2",
+                    "isin": "DE0007236101",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SIEMENS",
+                    "porcentaje": 2.64
+                },
+                {
+                    "cantidad": 81502.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120321",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|L´OREAL",
+                    "porcentaje": 2.49
+                },
+                {
+                    "cantidad": 79004.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120578",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 2.41
+                },
+                {
+                    "cantidad": 77596.0,
+                    "desde": "2019T3",
+                    "isin": "ES0000012F43",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|0,60|2029-10-31",
+                    "porcentaje": 2.37
+                },
+                {
+                    "cantidad": 75624.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000121972",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SCHNEIDER",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 67997.0,
+                    "desde": "2009T2",
+                    "isin": "DE0008404005",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALLIANZ AG",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 66746.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120073",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AIR LIQUIDE",
+                    "porcentaje": 2.04
+                },
+                {
+                    "cantidad": 58086.0,
+                    "desde": "2019T2",
+                    "isin": "ES0000012E69",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,85|2035-07-30",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 54086.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120628",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AXA-UAP",
+                    "porcentaje": 1.65
+                },
+                {
+                    "cantidad": 50730.0,
+                    "desde": "2018T2",
+                    "isin": "ES0000012A89",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,45|2027-10-31",
+                    "porcentaje": 1.55
+                },
+                {
+                    "cantidad": 47775.0,
+                    "desde": "2009T2",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|IBERDROLA",
+                    "porcentaje": 1.46
+                },
+                {
+                    "cantidad": 47053.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000125486",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VINCI SA",
+                    "porcentaje": 1.44
+                },
+                {
+                    "cantidad": 47028.0,
+                    "desde": "2009T2",
+                    "isin": "DE0007100000",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DAIMLER BENZ",
+                    "porcentaje": 1.44
+                },
+                {
+                    "cantidad": 46166.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000131104",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BNP",
+                    "porcentaje": 1.41
+                },
+                {
+                    "cantidad": 45581.0,
+                    "desde": "2009T3",
+                    "isin": "DE000BAY0017",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BAYER",
+                    "porcentaje": 1.39
+                },
+                {
+                    "cantidad": 44070.0,
+                    "desde": "2012T3",
+                    "isin": "FR0000121667",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ESSILOR INTL",
+                    "porcentaje": 1.35
+                },
+                {
+                    "cantidad": 43659.0,
+                    "desde": "2009T2",
+                    "isin": "IT0003128367",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ENEL SPA",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 41460.0,
+                    "desde": "2010T3",
+                    "isin": "DE000BASF111",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BASF AG",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 40637.0,
+                    "desde": "2009T2",
+                    "isin": "DE0005557508",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE TELEKOM",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 39854.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113900J37",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SANTANDER",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 39798.0,
+                    "desde": "2020T3",
+                    "isin": "NL0012969182",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ADYEN",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 39761.0,
+                    "desde": "2013T3",
+                    "isin": "DE0005552004",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUT. POST",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 39148.0,
+                    "desde": "2018T4",
+                    "isin": "FR0000121485",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KERING",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 38431.0,
+                    "desde": "2018T3",
+                    "isin": "ES00000127G9",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|2,15|2025-10-31",
+                    "porcentaje": 1.17
+                },
+                {
+                    "cantidad": 36162.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000052292",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|HERMES INTERNATIONAL",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 35217.0,
+                    "desde": "2020T3",
+                    "isin": "NL0013654783",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PROSUS",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 34207.0,
+                    "desde": "2021T1",
+                    "isin": "DE0006231004",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|INFINEON",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 34238.0,
+                    "desde": "2016T3",
+                    "isin": "BE0974293251",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ANHEUSER BUSCH INBEV",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 33488.0,
+                    "desde": "2016T3",
+                    "isin": "NL0011821202",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ING GROEP",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 31997.0,
+                    "desde": "2017T1",
+                    "isin": "DE000A1EWWW0",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ADIDAS",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 31680.0,
+                    "desde": "2009T2",
+                    "isin": "IT0000072618",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BANCA INTESA SPA",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 29697.0,
+                    "desde": "2021T3",
+                    "isin": "ES0113211835",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BBVA",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 29403.0,
+                    "desde": "2009T2",
+                    "isin": "DE0008430026",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MUENCHENER",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 28867.0,
+                    "desde": "2009T2",
+                    "isin": "FR0000120644",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DANONE",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 28301.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000120693",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Pernord Ricard",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 24420.0,
+                    "desde": "2021T3",
+                    "isin": "NL00150001Q9",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|STELLANTIS NV",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 23839.0,
+                    "desde": "2015T1",
+                    "isin": "ES00000126Z1",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,60|2025-04-30",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 23707.0,
+                    "desde": "2011T3",
+                    "isin": "DE0007664039",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VOLKSWAGEN",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 23146.0,
+                    "desde": "2019T3",
+                    "isin": "DE0005810055",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE BOERSE AG",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 23371.0,
+                    "desde": "2009T2",
+                    "isin": "IT0003132476",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ENI SPA",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 21751.0,
+                    "desde": "2021T4",
+                    "isin": "ES00000124W3",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|3,80|2024-04-30",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 21629.0,
+                    "desde": "2009T2",
+                    "isin": "NL0000009538",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PHILIPS",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 20419.0,
+                    "desde": "2011T3",
+                    "isin": "ES00000122E5",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|4,65|2025-07-30",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 19973.0,
+                    "desde": "2016T3",
+                    "isin": "NL0011794037",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 19729.0,
+                    "desde": "2010T3",
+                    "isin": "DE0005190003",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BMW",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 19420.0,
+                    "desde": "2020T3",
+                    "isin": "DE000A1ML7J1",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VONOVIA",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 19120.0,
+                    "desde": "2016T3",
+                    "isin": "IE0001827041",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CRH PLC",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 18336.0,
+                    "desde": "2014T3",
+                    "isin": "ES0148396007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|INDITEX",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 13230.0,
+                    "desde": "2020T3",
+                    "isin": "FI0009013403",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KONE OYJ",
+                    "porcentaje": 0.4
+                }
+            ],
+            "rentabilidad": -6.5
+        },
+        {
             "gastos": 0.64,
             "indice_rotacion": 0.34,
+            "liquidez": 2.18,
             "participes": 405,
             "patrimonio": 3835052,
             "periodo": "2021T4",
@@ -487,6 +955,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.04,
+            "liquidez": 0.66,
             "participes": 419,
             "patrimonio": 3796528,
             "periodo": "2021T3",
@@ -969,6 +1438,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.02,
+            "liquidez": 2.81,
             "participes": 433,
             "patrimonio": 3954748,
             "periodo": "2021T2",
@@ -1451,6 +1921,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.01,
+            "liquidez": 9.47,
             "participes": 452,
             "patrimonio": 4021461,
             "periodo": "2021T1",
@@ -1941,6 +2412,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.3,
+            "liquidez": 1.86,
             "participes": 485,
             "patrimonio": 4009296,
             "periodo": "2020T4",
@@ -2479,6 +2951,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.14,
+            "liquidez": 7.33,
             "participes": 506,
             "patrimonio": 4021493,
             "periodo": "2020T3",
@@ -3025,6 +3498,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.02,
+            "liquidez": 6.98,
             "participes": 515,
             "patrimonio": 4089449,
             "periodo": "2020T2",
@@ -3563,6 +4037,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 11.59,
             "participes": 520,
             "patrimonio": 3777650,
             "periodo": "2020T1",
@@ -4101,6 +4576,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.09,
+            "liquidez": 1.24,
             "participes": 551,
             "patrimonio": 4897515,
             "periodo": "2019T4",
@@ -4647,6 +5123,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.02,
+            "liquidez": 18.01,
             "participes": 584,
             "patrimonio": 5165591,
             "periodo": "2019T3",
@@ -5169,6 +5646,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.19,
+            "liquidez": 18.51,
             "participes": 595,
             "patrimonio": 5305512,
             "periodo": "2019T2",
@@ -5659,6 +6137,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.12,
+            "liquidez": 18.18,
             "participes": 613,
             "patrimonio": 5306437,
             "periodo": "2019T1",
@@ -6149,6 +6628,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 0.89,
             "participes": 625,
             "patrimonio": 5145532,
             "periodo": "2018T4",
@@ -6647,6 +7127,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 13.06,
             "participes": 637,
             "patrimonio": 5749612,
             "periodo": "2018T3",
@@ -7137,6 +7618,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 18.92,
             "participes": 662,
             "patrimonio": 6058046,
             "periodo": "2018T2",
@@ -7611,6 +8093,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 17.12,
             "participes": 681,
             "patrimonio": 6170746,
             "periodo": "2018T1",
@@ -8069,6 +8552,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 16.41,
             "participes": 700,
             "patrimonio": 6706676,
             "periodo": "2017T4",
@@ -8535,6 +9019,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.02,
+            "liquidez": 17.41,
             "participes": 709,
             "patrimonio": 7045414,
             "periodo": "2017T3",
@@ -9009,6 +9494,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 16.58,
             "participes": 719,
             "patrimonio": 6941040,
             "periodo": "2017T2",
@@ -9491,6 +9977,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.01,
+            "liquidez": 17.02,
             "participes": 726,
             "patrimonio": 7142637,
             "periodo": "2017T1",
@@ -9973,6 +10460,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 16.75,
             "participes": 765,
             "patrimonio": 7362375,
             "periodo": "2016T4",
@@ -10447,6 +10935,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.01,
+            "liquidez": 16.92,
             "participes": 819,
             "patrimonio": 7567038,
             "periodo": "2016T3",
@@ -10929,6 +11418,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.11,
+            "liquidez": 18.3,
             "participes": 845,
             "patrimonio": 7596890,
             "periodo": "2016T2",
@@ -11411,6 +11901,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.02,
+            "liquidez": 18.31,
             "participes": 862,
             "patrimonio": 7973461,
             "periodo": "2016T1",
@@ -11891,498 +12382,9 @@
             "rentabilidad": -6.03
         },
         {
-            "gastos": 0.62,
-            "indice_rotacion": 0.0,
-            "participes": 882,
-            "patrimonio": 8710891,
-            "periodo": "2015T4",
-            "posiciones": [
-                {
-                    "cantidad": 1600077.0,
-                    "desde": "2015T4",
-                    "isin": "ES00000124V5",
-                    "moneda": "EUR",
-                    "nombre": "RD.REPO DEUDA|CAJA LABORAL|0|2016-01-07",
-                    "porcentaje": 18.37
-                },
-                {
-                    "cantidad": 499499.0,
-                    "desde": "2011T3",
-                    "isin": "ES00000122X5",
-                    "moneda": "EUR",
-                    "nombre": "BN ESTADO 3,25% 20160430|DIRECCION GENERAL TESORO|",
-                    "porcentaje": 5.73
-                },
-                {
-                    "cantidad": 246912.0,
-                    "desde": "2014T2",
-                    "isin": "ES00000122T3",
-                    "moneda": "EUR",
-                    "nombre": "BN ESTADO 4,85% 20201031|DIRECCION GENERAL TESORO|",
-                    "porcentaje": 2.83
-                },
-                {
-                    "cantidad": 195555.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120271",
-                    "moneda": "EUR",
-                    "nombre": "AC.TOTAL FINA|TOTAL FINA||",
-                    "porcentaje": 2.24
-                },
-                {
-                    "cantidad": 180648.0,
-                    "desde": "2009T3",
-                    "isin": "DE000BAY0017",
-                    "moneda": "EUR",
-                    "nombre": "AC.BAYER|BAYER||",
-                    "porcentaje": 2.07
-                },
-                {
-                    "cantidad": 177081.0,
-                    "desde": "2015T1",
-                    "isin": "ES00000126Z1",
-                    "moneda": "EUR",
-                    "nombre": "BN ESTADO 30042025 1.6%|DIRECCION GENERAL TESORO|1",
-                    "porcentaje": 2.03
-                },
-                {
-                    "cantidad": 174099.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120578",
-                    "moneda": "EUR",
-                    "nombre": "AC.SANOFI-SYNTHELABO|SANOFI-SYNTHELABO||",
-                    "porcentaje": 2.0
-                },
-                {
-                    "cantidad": 172926.0,
-                    "desde": "2009T2",
-                    "isin": "DE0007100000",
-                    "moneda": "EUR",
-                    "nombre": "AC.DAIMLERCHRYSLER AG NPV REGD|DAIMLERCHRYSLER INT",
-                    "porcentaje": 1.99
-                },
-                {
-                    "cantidad": 164220.0,
-                    "desde": "2011T3",
-                    "isin": "ES00000122E5",
-                    "moneda": "EUR",
-                    "nombre": "BN. ESTADO 4.65% 20250730|DIRECCION GENERAL TESORO",
-                    "porcentaje": 1.89
-                },
-                {
-                    "cantidad": 159817.0,
-                    "desde": "2009T3",
-                    "isin": "BE0003793107",
-                    "moneda": "EUR",
-                    "nombre": "AC.ANHEUSER-BUSCH INBEV|INTERBREW||",
-                    "porcentaje": 1.83
-                },
-                {
-                    "cantidad": 145560.0,
-                    "desde": "2009T2",
-                    "isin": "DE0008404005",
-                    "moneda": "EUR",
-                    "nombre": "AC.ALLIANZ AG|ALLIANZ AG||",
-                    "porcentaje": 1.67
-                },
-                {
-                    "cantidad": 144617.0,
-                    "desde": "2009T2",
-                    "isin": "DE0007236101",
-                    "moneda": "EUR",
-                    "nombre": "AC.SIEMENS|SIEMENS||",
-                    "porcentaje": 1.66
-                },
-                {
-                    "cantidad": 141110.0,
-                    "desde": "2009T2",
-                    "isin": "DE0007164600",
-                    "moneda": "EUR",
-                    "nombre": "AC.SAP AG VZ|SAP AG VZ||",
-                    "porcentaje": 1.62
-                },
-                {
-                    "cantidad": 127278.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113900J37",
-                    "moneda": "EUR",
-                    "nombre": "AC.BCO.SANT.CENT.HISP.|BANCO SANTANDER||",
-                    "porcentaje": 1.46
-                },
-                {
-                    "cantidad": 122487.0,
-                    "desde": "2010T3",
-                    "isin": "DE000BASF111",
-                    "moneda": "EUR",
-                    "nombre": "AC.BASF AG|BASF AG||",
-                    "porcentaje": 1.41
-                },
-                {
-                    "cantidad": 106236.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000131104",
-                    "moneda": "EUR",
-                    "nombre": "AC.BNP|BANCO NACIONAL DE PARIS||",
-                    "porcentaje": 1.22
-                },
-                {
-                    "cantidad": 99331.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120628",
-                    "moneda": "EUR",
-                    "nombre": "AC.AXA|AXA||",
-                    "porcentaje": 1.14
-                },
-                {
-                    "cantidad": 96214.0,
-                    "desde": "2009T2",
-                    "isin": "NL0000303600",
-                    "moneda": "EUR",
-                    "nombre": "AC.ING|ING||",
-                    "porcentaje": 1.1
-                },
-                {
-                    "cantidad": 94331.0,
-                    "desde": "2013T1",
-                    "isin": "ES00000123Q7",
-                    "moneda": "EUR",
-                    "nombre": "BN ESTADO 4,50% 20180131|DIRECCION GENERAL TESORO|",
-                    "porcentaje": 1.08
-                },
-                {
-                    "cantidad": 93645.0,
-                    "desde": "2009T2",
-                    "isin": "NL0000009355",
-                    "moneda": "EUR",
-                    "nombre": "AC.UNILEVER|UNILEVER||",
-                    "porcentaje": 1.08
-                },
-                {
-                    "cantidad": 92374.0,
-                    "desde": "2009T2",
-                    "isin": "IT0000072618",
-                    "moneda": "EUR",
-                    "nombre": "AC.INTESA SAN PAOLO IMI|BANCO SAN PAOLO IMI||",
-                    "porcentaje": 1.06
-                },
-                {
-                    "cantidad": 85621.0,
-                    "desde": "2015T4",
-                    "isin": "ES00000120N0",
-                    "moneda": "EUR",
-                    "nombre": "OB.ESTADO 4.90% 30072040|DIRECCION GENERAL TESORO|",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 85586.0,
-                    "desde": "2009T2",
-                    "isin": "DE0005557508",
-                    "moneda": "EUR",
-                    "nombre": "AC.DEUTSCHE TELEKOM|DEUTSCHE TELEKOM||",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 83762.0,
-                    "desde": "2013T1",
-                    "isin": "NL0000235190",
-                    "moneda": "EUR",
-                    "nombre": "AC.EADS|EADS (European Aeronautic Defence and Spac",
-                    "porcentaje": 0.96
-                },
-                {
-                    "cantidad": 81676.0,
-                    "desde": "2015T2",
-                    "isin": "ES00000127G9",
-                    "moneda": "EUR",
-                    "nombre": "BN. ESTADO 2.15% 31/10/2025|DIRECCION GENERAL TESO",
-                    "porcentaje": 0.94
-                },
-                {
-                    "cantidad": 80345.0,
-                    "desde": "2009T2",
-                    "isin": "ES0178430E18",
-                    "moneda": "EUR",
-                    "nombre": "AC.TELEFONICA|TELEFONICA DE ESPAï¿½A||",
-                    "porcentaje": 0.92
-                },
-                {
-                    "cantidad": 77672.0,
-                    "desde": "2014T3",
-                    "isin": "ES0148396007",
-                    "moneda": "EUR",
-                    "nombre": "AC.INDITEX|INDITEX||",
-                    "porcentaje": 0.89
-                },
-                {
-                    "cantidad": 74715.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113211835",
-                    "moneda": "EUR",
-                    "nombre": "AC.BANCO BIL.VIZC.ARGENT.|BANCO BILBAO VIZCAYA||",
-                    "porcentaje": 0.86
-                },
-                {
-                    "cantidad": 72860.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000125486",
-                    "moneda": "EUR",
-                    "nombre": "AC.VINCI|VINCI||",
-                    "porcentaje": 0.84
-                },
-                {
-                    "cantidad": 70546.0,
-                    "desde": "2009T2",
-                    "isin": "IT0003132476",
-                    "moneda": "EUR",
-                    "nombre": "AC.ENI|ENI||",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 69754.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120644",
-                    "moneda": "EUR",
-                    "nombre": "AC.DANONE|DANONE||",
-                    "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 65007.0,
-                    "desde": "2009T2",
-                    "isin": "DE0005140008",
-                    "moneda": "EUR",
-                    "nombre": "AC.DEUTSCHE BANK|DEUTSCHE BANK||",
-                    "porcentaje": 0.75
-                },
-                {
-                    "cantidad": 62397.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120073",
-                    "moneda": "EUR",
-                    "nombre": "AC.AIR LIQUIDE|AC.AIR LIQUIDE||",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 62431.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120321",
-                    "moneda": "EUR",
-                    "nombre": "AC.L.OREAL|LOREAL||",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 62887.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000121014",
-                    "moneda": "EUR",
-                    "nombre": "AC.LVMH MOET HENNESY|LOUIS VUITON||",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 60620.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000130809",
-                    "moneda": "EUR",
-                    "nombre": "AC.SOCIETE GENERALE|SOCIETE GENERALE PARIS||",
-                    "porcentaje": 0.7
-                },
-                {
-                    "cantidad": 59648.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000133308",
-                    "moneda": "EUR",
-                    "nombre": "AC.FRANCE TELECOM|FRANCE TELECOM||",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 58363.0,
-                    "desde": "2012T4",
-                    "isin": "NL0010273215",
-                    "moneda": "EUR",
-                    "nombre": "AC.ASML HOLDING NUEVAS|ASML HOLDING||",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 57895.0,
-                    "desde": "2010T3",
-                    "isin": "DE0005190003",
-                    "moneda": "EUR",
-                    "nombre": "AC.BMW|BMW||",
-                    "porcentaje": 0.66
-                },
-                {
-                    "cantidad": 55451.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000121972",
-                    "moneda": "EUR",
-                    "nombre": "AC.SCHNEIDER ELECTRIC SA|SCHNEIDER ELECTRIC||",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 55129.0,
-                    "desde": "2012T1",
-                    "isin": "IT0004781412",
-                    "moneda": "EUR",
-                    "nombre": "AC.UNICREDITO|UNICREDITO||",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 53500.0,
-                    "desde": "2009T2",
-                    "isin": "ES0144580Y14",
-                    "moneda": "EUR",
-                    "nombre": "AC.IBERDROLA|IBERDROLA, S.A.||",
-                    "porcentaje": 0.61
-                },
-                {
-                    "cantidad": 48356.0,
-                    "desde": "2015T3",
-                    "isin": "DE0005785604",
-                    "moneda": "EUR",
-                    "nombre": "AC.FRESENIUS|FRESENIUS||",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 48551.0,
-                    "desde": "2012T3",
-                    "isin": "FR0000121667",
-                    "moneda": "EUR",
-                    "nombre": "AC.ESSILOR INTERNAT|ESSILOR INTERNATIONAL||",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 47882.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000127771",
-                    "moneda": "EUR",
-                    "nombre": "AC.VIVENDI|VIVENDI||",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 47537.0,
-                    "desde": "2009T2",
-                    "isin": "IT0003128367",
-                    "moneda": "EUR",
-                    "nombre": "AC.ENEL|ENEL||",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 46044.0,
-                    "desde": "2013T3",
-                    "isin": "DE0005552004",
-                    "moneda": "EUR",
-                    "nombre": "AC.DEUTSCHE POST|DEUTSCHE POST||",
-                    "porcentaje": 0.53
-                },
-                {
-                    "cantidad": 45890.0,
-                    "desde": "2009T2",
-                    "isin": "FR0010208488",
-                    "moneda": "EUR",
-                    "nombre": "AC.GAZ DE FRANCE-SUEZ|GAZ DE FRANCE||",
-                    "porcentaje": 0.53
-                },
-                {
-                    "cantidad": 43736.0,
-                    "desde": "2011T3",
-                    "isin": "DE0007664039",
-                    "moneda": "EUR",
-                    "nombre": "AC.VOLKSWAGEN|VOLKSWAGEN||",
-                    "porcentaje": 0.5
-                },
-                {
-                    "cantidad": 43613.0,
-                    "desde": "2014T4",
-                    "isin": "FI0009000681",
-                    "moneda": "EUR",
-                    "nombre": "AC.NOKIA|NOKIA||",
-                    "porcentaje": 0.5
-                },
-                {
-                    "cantidad": 43892.0,
-                    "desde": "2009T2",
-                    "isin": "NL0000009538",
-                    "moneda": "EUR",
-                    "nombre": "AC.KONIN PHILIPS|KONIN PHILIPS||",
-                    "porcentaje": 0.5
-                },
-                {
-                    "cantidad": 39607.0,
-                    "desde": "2014T2",
-                    "isin": "ES00000123U9",
-                    "moneda": "EUR",
-                    "nombre": "OBL.ESTADO 5,40% 310123|DIRECCION GENERAL TESORO|5",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 39125.0,
-                    "desde": "2009T2",
-                    "isin": "DE0008430026",
-                    "moneda": "EUR",
-                    "nombre": "AC.MUENCHENER RUECKVER AG-REG|MUENCHENER RUECKVER",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 39289.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000073272",
-                    "moneda": "EUR",
-                    "nombre": "AC.SAFRAN|SAFRAN||",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 38676.0,
-                    "desde": "2013T1",
-                    "isin": "FR0000124711",
-                    "moneda": "EUR",
-                    "nombre": "AC.UNIBAIL RODAMCO ORD.|UNIBAIL RODAMCO||",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 34786.0,
-                    "desde": "2009T3",
-                    "isin": "DE000ENAG999",
-                    "moneda": "EUR",
-                    "nombre": "AC.E.ON AG NPV|E.ON AG NPV||",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 33873.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000125007",
-                    "moneda": "EUR",
-                    "nombre": "AC.SAINT GOBAIN STK|SAINT GOBAIN NEDER||",
-                    "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 33823.0,
-                    "desde": "2013T1",
-                    "isin": "IT0000062072",
-                    "moneda": "EUR",
-                    "nombre": "AC.GENERALI STK|GENERALI||",
-                    "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 18044.0,
-                    "desde": "2009T2",
-                    "isin": "ES0173516115",
-                    "moneda": "EUR",
-                    "nombre": "AC.REPSOL|REPSOL||",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 16630.0,
-                    "desde": "2009T2",
-                    "isin": "FR0000120172",
-                    "moneda": "EUR",
-                    "nombre": "AC.CARREFOUR|CARREFOUR||",
-                    "porcentaje": 0.19
-                }
-            ],
-            "rentabilidad": 3.46
-        },
-        {
             "gastos": 0.63,
             "indice_rotacion": 0.0,
+            "liquidez": 15.33,
             "participes": 879,
             "patrimonio": 8398196,
             "periodo": "2015T3",
@@ -12873,6 +12875,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 17.93,
             "participes": 874,
             "patrimonio": 8455998,
             "periodo": "2015T2",
@@ -13347,6 +13350,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 20.09,
             "participes": 841,
             "patrimonio": 8373197,
             "periodo": "2015T1",
@@ -13829,6 +13833,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 18.15,
             "participes": 1148,
             "patrimonio": 7440638,
             "periodo": "2014T4",
@@ -14311,6 +14316,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 17.97,
             "participes": 1188,
             "patrimonio": 7717567,
             "periodo": "2014T3",
@@ -14761,6 +14767,7 @@
         {
             "gastos": 0.96,
             "indice_rotacion": 0.0,
+            "liquidez": 16.21,
             "participes": 1213,
             "patrimonio": 7723014,
             "periodo": "2014T2",
@@ -15235,6 +15242,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 17.56,
             "participes": 822,
             "patrimonio": 5474267,
             "periodo": "2014T1",
@@ -15677,6 +15685,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.06,
+            "liquidez": 17.44,
             "participes": 811,
             "patrimonio": 5264250,
             "periodo": "2013T4",
@@ -16111,6 +16120,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.09,
+            "liquidez": 12.14,
             "participes": 814,
             "patrimonio": 5296730,
             "periodo": "2013T3",
@@ -16545,6 +16555,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.19,
+            "liquidez": 5.32,
             "participes": 833,
             "patrimonio": 5053217,
             "periodo": "2013T2",
@@ -16979,6 +16990,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.06,
+            "liquidez": 4.34,
             "participes": 865,
             "patrimonio": 5552011,
             "periodo": "2013T1",
@@ -17421,6 +17433,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 5.83,
             "participes": 895,
             "patrimonio": 5650960,
             "periodo": "2012T4",
@@ -17839,6 +17852,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
+            "liquidez": 11.59,
             "participes": 919,
             "patrimonio": 5746261,
             "periodo": "2012T3",
@@ -18249,6 +18263,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.13,
+            "liquidez": 17.39,
             "participes": 941,
             "patrimonio": 5618005,
             "periodo": "2012T2",
@@ -18675,6 +18690,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.18,
+            "liquidez": 15.02,
             "participes": 979,
             "patrimonio": 5560167,
             "periodo": "2012T1",
@@ -19085,6 +19101,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.08,
+            "liquidez": 10.66,
             "participes": 995,
             "patrimonio": 5468784,
             "periodo": "2011T4",
@@ -19487,6 +19504,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.05,
+            "liquidez": 12.99,
             "participes": 1031,
             "patrimonio": 5377694,
             "periodo": "2011T3",
@@ -19905,6 +19923,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.45,
+            "liquidez": 15.9,
             "participes": 1048,
             "patrimonio": 6570905,
             "periodo": "2011T2",
@@ -20323,6 +20342,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.44,
+            "liquidez": 17.47,
             "participes": 1075,
             "patrimonio": 6708965,
             "periodo": "2011T1",
@@ -20749,6 +20769,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.0,
+            "liquidez": 13.86,
             "participes": 1112,
             "patrimonio": 6771586,
             "periodo": "2010T4",
@@ -21159,6 +21180,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 18.46,
             "participes": 1162,
             "patrimonio": 7137924,
             "periodo": "2010T3",
@@ -21585,6 +21607,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 19.43,
             "participes": 1199,
             "patrimonio": 7031895,
             "periodo": "2010T2",
@@ -22011,6 +22034,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.0,
+            "liquidez": 19.44,
             "participes": 1218,
             "patrimonio": 7600366,
             "periodo": "2010T1",
@@ -22437,6 +22461,7 @@
         {
             "gastos": 0.68,
             "indice_rotacion": 0.0,
+            "liquidez": 16.69,
             "participes": 1242,
             "patrimonio": 7801441,
             "periodo": "2009T4",
@@ -22879,6 +22904,7 @@
         {
             "gastos": 0.66,
             "indice_rotacion": 0.0,
+            "liquidez": 15.93,
             "participes": 1258,
             "patrimonio": 7588670,
             "periodo": "2009T3",
@@ -23329,6 +23355,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.16,
+            "liquidez": 18.53,
             "participes": 1257,
             "patrimonio": 6743722,
             "periodo": "2009T2",

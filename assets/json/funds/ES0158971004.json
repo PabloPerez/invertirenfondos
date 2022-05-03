@@ -1,10 +1,78 @@
 {
     "auditora": "Deloitte, S.L.",
-    "fecha_registro": "20/06/1997",
+    "fecha_registro": "22/12/2017",
     "historico_periodos": [
+        {
+            "gastos": 0.35,
+            "indice_rotacion": 0.29,
+            "liquidez": 4.67,
+            "participes": 6,
+            "patrimonio": 258100,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 5462349.0,
+                    "desde": "2018T1",
+                    "isin": "LU1434524929",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CANDRIAM",
+                    "porcentaje": 16.13
+                },
+                {
+                    "cantidad": 5318070.0,
+                    "desde": "2021T4",
+                    "isin": "IE00B0M63177",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 15.7
+                },
+                {
+                    "cantidad": 5225740.0,
+                    "desde": "2021T4",
+                    "isin": "LU2299087408",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CAP INT FUN/LUX",
+                    "porcentaje": 15.43
+                },
+                {
+                    "cantidad": 4371778.0,
+                    "desde": "2022T1",
+                    "isin": "LU0232465897",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|AB FCP II/LUXEM",
+                    "porcentaje": 12.91
+                },
+                {
+                    "cantidad": 4204525.0,
+                    "desde": "2021T4",
+                    "isin": "LU1770939988",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPMORGAN SICAVL",
+                    "porcentaje": 12.42
+                },
+                {
+                    "cantidad": 4066190.0,
+                    "desde": "2021T4",
+                    "isin": "LU0742536872",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FIDELITY FUNDS",
+                    "porcentaje": 12.01
+                },
+                {
+                    "cantidad": 3555425.0,
+                    "desde": "2021T4",
+                    "isin": "LU1910290466",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SCHRODER INVEST",
+                    "porcentaje": 10.5
+                }
+            ],
+            "rentabilidad": -7.93
+        },
         {
             "gastos": 0.37,
             "indice_rotacion": 0.8,
+            "liquidez": 3.51,
             "participes": 4,
             "patrimonio": 239687,
             "periodo": "2021T4",
@@ -71,6 +139,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.0,
+            "liquidez": 5.29,
             "participes": 34,
             "patrimonio": 1185085,
             "periodo": "2021T3",
@@ -209,6 +278,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.15,
+            "liquidez": 6.66,
             "participes": 3329,
             "patrimonio": 48197312,
             "periodo": "2021T2",
@@ -363,6 +433,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.0,
+            "liquidez": 13.48,
             "participes": 3463,
             "patrimonio": 47899557,
             "periodo": "2021T1",
@@ -517,6 +588,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.0,
+            "liquidez": 8.48,
             "participes": 2953,
             "patrimonio": 39522910,
             "periodo": "2020T4",
@@ -671,6 +743,7 @@
         {
             "gastos": 0.66,
             "indice_rotacion": 0.03,
+            "liquidez": 5.26,
             "participes": 2851,
             "patrimonio": 32400683,
             "periodo": "2020T3",
@@ -825,6 +898,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 0.21,
+            "liquidez": 8.2,
             "participes": 2888,
             "patrimonio": 31249981,
             "periodo": "2020T2",
@@ -1003,6 +1077,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 0.02,
+            "liquidez": 7.48,
             "participes": 2891,
             "patrimonio": 26633611,
             "periodo": "2020T1",
@@ -1173,6 +1248,7 @@
         {
             "gastos": 0.67,
             "indice_rotacion": 0.19,
+            "liquidez": 4.25,
             "participes": 3065,
             "patrimonio": 35815556,
             "periodo": "2019T4",
@@ -1359,6 +1435,7 @@
         {
             "gastos": 0.67,
             "indice_rotacion": 0.14,
+            "liquidez": 3.08,
             "participes": 3226,
             "patrimonio": 34670215,
             "periodo": "2019T3",
@@ -1545,6 +1622,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 0.45,
+            "liquidez": 7.34,
             "participes": 3327,
             "patrimonio": 36005819,
             "periodo": "2019T2",
@@ -1771,6 +1849,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.15,
+            "liquidez": 8.46,
             "participes": 3400,
             "patrimonio": 37108470,
             "periodo": "2019T1",
@@ -1981,6 +2060,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.65,
+            "liquidez": 5.5,
             "participes": 3417,
             "patrimonio": 32881455,
             "periodo": "2018T4",
@@ -2231,6 +2311,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 0.44,
+            "liquidez": -1.01,
             "participes": 3620,
             "patrimonio": 37953559,
             "periodo": "2018T3",
@@ -2473,6 +2554,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.28,
+            "liquidez": 2.33,
             "participes": 3911,
             "patrimonio": 44248651,
             "periodo": "2018T2",
@@ -2747,6 +2829,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.09,
+            "liquidez": 10.34,
             "participes": 4263,
             "patrimonio": 49204904,
             "periodo": "2018T1",
@@ -3013,6 +3096,7 @@
         {
             "gastos": 0.66,
             "indice_rotacion": 0.69,
+            "liquidez": 13.01,
             "participes": 4109,
             "patrimonio": 52274679,
             "periodo": "2017T4",
@@ -3246,7 +3330,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 0.0
                 },
                 {
@@ -3303,6 +3387,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 0.14,
+            "liquidez": 8.72,
             "participes": 3331,
             "patrimonio": 40645188,
             "periodo": "2017T3",
@@ -3456,7 +3541,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 1.86
                 },
                 {
@@ -3577,6 +3662,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.0,
+            "liquidez": 7.36,
             "participes": 3141,
             "patrimonio": 36496701,
             "periodo": "2017T2",
@@ -3706,7 +3792,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 2.24
                 },
                 {
@@ -3851,6 +3937,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.07,
+            "liquidez": 12.19,
             "participes": 2854,
             "patrimonio": 32434414,
             "periodo": "2017T1",
@@ -3972,7 +4059,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 2.63
                 },
                 {
@@ -4101,6 +4188,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 0.38,
+            "liquidez": 12.54,
             "participes": 2432,
             "patrimonio": 24336416,
             "periodo": "2016T4",
@@ -4214,7 +4302,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 3.14
                 },
                 {
@@ -4327,6 +4415,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.15,
+            "liquidez": 11.82,
             "participes": 2282,
             "patrimonio": 23543154,
             "periodo": "2016T3",
@@ -4384,7 +4473,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 4.69
                 },
                 {
@@ -4529,6 +4618,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.35,
+            "liquidez": 2.4,
             "participes": 2018,
             "patrimonio": 18613230,
             "periodo": "2016T2",
@@ -4570,7 +4660,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 6.47
                 },
                 {
@@ -4739,6 +4829,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.27,
+            "liquidez": 12.54,
             "participes": 1996,
             "patrimonio": 17578923,
             "periodo": "2016T1",
@@ -4780,7 +4871,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 6.77
                 },
                 {
@@ -4941,6 +5032,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.49,
+            "liquidez": 6.09,
             "participes": 2069,
             "patrimonio": 18857077,
             "periodo": "2015T4",
@@ -5022,7 +5114,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 4.59
                 },
                 {
@@ -5167,6 +5259,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.36,
+            "liquidez": 3.84,
             "participes": 2171,
             "patrimonio": 19825540,
             "periodo": "2015T3",
@@ -5240,7 +5333,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 4.32
                 },
                 {
@@ -5385,6 +5478,7 @@
         {
             "gastos": 0.57,
             "indice_rotacion": 0.45,
+            "liquidez": 5.12,
             "participes": 2366,
             "patrimonio": 25864175,
             "periodo": "2015T2",
@@ -5434,7 +5528,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 5.33
                 },
                 {
@@ -5627,6 +5721,7 @@
         {
             "gastos": 0.58,
             "indice_rotacion": 0.13,
+            "liquidez": 8.47,
             "participes": 2423,
             "patrimonio": 27266212,
             "periodo": "2015T1",
@@ -5708,7 +5803,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 4.47
                 },
                 {
@@ -5845,6 +5940,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.99,
+            "liquidez": 3.67,
             "participes": 2433,
             "patrimonio": 24245119,
             "periodo": "2014T4",
@@ -5942,7 +6038,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 3.99
                 },
                 {
@@ -6111,6 +6207,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.5,
+            "liquidez": 3.88,
             "participes": 2547,
             "patrimonio": 25671212,
             "periodo": "2014T3",
@@ -6224,7 +6321,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 3.23
                 },
                 {
@@ -6369,6 +6466,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 1.63,
+            "liquidez": 5.71,
             "participes": 1601,
             "patrimonio": 14661198,
             "periodo": "2014T1",
@@ -6490,7 +6588,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 2.4
                 },
                 {
@@ -6619,6 +6717,7 @@
         {
             "gastos": 0.65,
             "indice_rotacion": 2.09,
+            "liquidez": 4.66,
             "participes": 1935,
             "patrimonio": 19446681,
             "periodo": "2013T4",
@@ -6644,7 +6743,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 8.06
                 },
                 {
@@ -6901,6 +7000,7 @@
         {
             "gastos": 0.98,
             "indice_rotacion": 1.43,
+            "liquidez": 0.14,
             "participes": 2146,
             "patrimonio": 22442258,
             "periodo": "2013T3",
@@ -6918,7 +7018,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 6.81
                 },
                 {
@@ -7183,6 +7283,7 @@
         {
             "gastos": 0.64,
             "indice_rotacion": 1.69,
+            "liquidez": 1.85,
             "participes": 2377,
             "patrimonio": 26658671,
             "periodo": "2013T2",
@@ -7400,7 +7501,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 0.0
                 },
                 {
@@ -7449,6 +7550,7 @@
         {
             "gastos": 0.62,
             "indice_rotacion": 0.96,
+            "liquidez": 5.94,
             "participes": 2556,
             "patrimonio": 32863299,
             "periodo": "2013T1",
@@ -7658,7 +7760,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 0.0
                 },
                 {
@@ -7691,6 +7793,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 1.04,
+            "liquidez": -5.95,
             "participes": 2718,
             "patrimonio": 33765450,
             "periodo": "2012T4",
@@ -7716,7 +7819,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 7.44
                 },
                 {
@@ -7933,6 +8036,7 @@
         {
             "gastos": 0.54,
             "indice_rotacion": 0.47,
+            "liquidez": 6.14,
             "participes": 2978,
             "patrimonio": 36813380,
             "periodo": "2012T3",
@@ -7958,7 +8062,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 6.82
                 },
                 {
@@ -8159,6 +8263,7 @@
         {
             "gastos": 0.74,
             "indice_rotacion": 0.47,
+            "liquidez": 4.67,
             "participes": 2180,
             "patrimonio": 31694757,
             "periodo": "2012T2",
@@ -8184,7 +8289,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 8.92
                 },
                 {
@@ -8377,6 +8482,7 @@
         {
             "gastos": 0.73,
             "indice_rotacion": 0.2,
+            "liquidez": 4.44,
             "participes": 2481,
             "patrimonio": 40057826,
             "periodo": "2012T1",
@@ -8410,7 +8516,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 7.42
                 },
                 {
@@ -8547,6 +8653,7 @@
         {
             "gastos": 0.73,
             "indice_rotacion": 2.09,
+            "liquidez": 3.59,
             "participes": 2497,
             "patrimonio": 38713807,
             "periodo": "2011T4",
@@ -8588,7 +8695,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 7.51
                 },
                 {
@@ -8757,6 +8864,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 1.34,
+            "liquidez": 15.53,
             "participes": 2599,
             "patrimonio": 38625674,
             "periodo": "2011T3",
@@ -8854,7 +8962,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 2.43
                 },
                 {
@@ -8975,6 +9083,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.8,
+            "liquidez": 4.73,
             "participes": 2857,
             "patrimonio": 50578593,
             "periodo": "2011T2",
@@ -8992,7 +9101,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 13.25
                 },
                 {
@@ -9185,6 +9294,7 @@
         {
             "gastos": 0.37,
             "indice_rotacion": 0.27,
+            "liquidez": 4.29,
             "participes": 3062,
             "patrimonio": 56825517,
             "periodo": "2011T1",
@@ -9202,7 +9312,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 14.23
                 },
                 {
@@ -9371,6 +9481,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.85,
+            "liquidez": 4.97,
             "participes": 3422,
             "patrimonio": 76213109,
             "periodo": "2010T4",
@@ -9468,7 +9579,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 2.98
                 },
                 {
@@ -9565,6 +9676,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.63,
+            "liquidez": 4.63,
             "participes": 2904,
             "patrimonio": 57011383,
             "periodo": "2010T3",
@@ -9654,7 +9766,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 3.66
                 },
                 {
@@ -9751,6 +9863,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 1.54,
+            "liquidez": 5.25,
             "participes": 2673,
             "patrimonio": 48003943,
             "periodo": "2010T2",
@@ -9808,7 +9921,7 @@
                     "desde": "2010T2",
                     "isin": "IE0003713199",
                     "moneda": "euro",
-                    "nombre": "PARTICIPACIONES|Invesco Korean ",
+                    "nombre": "PARTICIPACIONES|Invesco Korean",
                     "porcentaje": 4.01
                 },
                 {
@@ -9913,6 +10026,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 0.53,
+            "liquidez": 12.65,
             "participes": 2351,
             "patrimonio": 40958298,
             "periodo": "2010T1",
@@ -10059,6 +10173,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 2.18,
+            "liquidez": 6.11,
             "participes": 1923,
             "patrimonio": 30082231,
             "periodo": "2009T4",
@@ -10221,6 +10336,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.87,
+            "liquidez": 7.69,
             "participes": 1621,
             "patrimonio": 20870050,
             "periodo": "2009T3",
@@ -10367,6 +10483,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 3.24,
+            "liquidez": 5.09,
             "participes": 1477,
             "patrimonio": 15665038,
             "periodo": "2009T2",

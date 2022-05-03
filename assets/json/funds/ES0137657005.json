@@ -4,7 +4,163 @@
     "historico_periodos": [
         {
             "gastos": 0.09,
+            "indice_rotacion": 0.41,
+            "liquidez": 11.5,
+            "participes": 123088,
+            "patrimonio": 227688845,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 33391618.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B4L5YC18",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 14.67
+                },
+                {
+                    "cantidad": 23035100.0,
+                    "desde": "2021T1",
+                    "isin": "LU1437017350",
+                    "moneda": "EUR",
+                    "nombre": "ETF|AMUNDI ETFS",
+                    "porcentaje": 10.12
+                },
+                {
+                    "cantidad": 16742837.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B0M63177",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 7.35
+                },
+                {
+                    "cantidad": 15254031.0,
+                    "desde": "2018T1",
+                    "isin": "US46434G1031",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/US",
+                    "porcentaje": 6.7
+                },
+                {
+                    "cantidad": 13548531.0,
+                    "desde": "2022T1",
+                    "isin": "US912796Q441",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-06-02",
+                    "porcentaje": 5.95
+                },
+                {
+                    "cantidad": 12648893.0,
+                    "desde": "2022T1",
+                    "isin": "US912796P450",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-05-05",
+                    "porcentaje": 5.56
+                },
+                {
+                    "cantidad": 12648099.0,
+                    "desde": "2022T1",
+                    "isin": "US912796H440",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-05-19",
+                    "porcentaje": 5.55
+                },
+                {
+                    "cantidad": 11744123.0,
+                    "desde": "2022T1",
+                    "isin": "US912796Q284",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-05-12",
+                    "porcentaje": 5.16
+                },
+                {
+                    "cantidad": 11523349.0,
+                    "desde": "2022T1",
+                    "isin": "US912796P294",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-04-14",
+                    "porcentaje": 5.06
+                },
+                {
+                    "cantidad": 11296515.0,
+                    "desde": "2022T1",
+                    "isin": "US912796N471",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-04-07",
+                    "porcentaje": 4.96
+                },
+                {
+                    "cantidad": 11058761.0,
+                    "desde": "2022T1",
+                    "isin": "US912796R506",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-06-30",
+                    "porcentaje": 4.86
+                },
+                {
+                    "cantidad": 10835511.0,
+                    "desde": "2022T1",
+                    "isin": "US912796R431",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-06-23",
+                    "porcentaje": 4.76
+                },
+                {
+                    "cantidad": 5856305.0,
+                    "desde": "2018T1",
+                    "isin": "IE00BKM4GZ66",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 2.57
+                },
+                {
+                    "cantidad": 4515530.0,
+                    "desde": "2022T1",
+                    "isin": "US912796J420",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-06-16",
+                    "porcentaje": 1.98
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796F386",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-03-24",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796L988",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-03-03",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796M978",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-03-10",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796N398",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|US||2022-03-31",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -5.07
+        },
+        {
+            "gastos": 0.09,
             "indice_rotacion": 0.78,
+            "liquidez": 10.92,
             "participes": 119053,
             "patrimonio": 222551032,
             "periodo": "2021T4",
@@ -135,6 +291,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.37,
+            "liquidez": 7.13,
             "participes": 113779,
             "patrimonio": 198956284,
             "periodo": "2021T3",
@@ -281,6 +438,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.98,
+            "liquidez": 10.85,
             "participes": 110202,
             "patrimonio": 230800547,
             "periodo": "2021T2",
@@ -411,6 +569,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.63,
+            "liquidez": 8.33,
             "participes": 90677,
             "patrimonio": 177215376,
             "periodo": "2021T1",
@@ -565,6 +724,7 @@
         {
             "gastos": 0.1,
             "indice_rotacion": 1.52,
+            "liquidez": 10.5,
             "participes": 79703,
             "patrimonio": 151813245,
             "periodo": "2020T4",
@@ -679,6 +839,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.72,
+            "liquidez": 8.57,
             "participes": 72410,
             "patrimonio": 132516525,
             "periodo": "2020T3",
@@ -833,6 +994,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.79,
+            "liquidez": 5.53,
             "participes": 67528,
             "patrimonio": 120287810,
             "periodo": "2020T2",
@@ -971,6 +1133,7 @@
         {
             "gastos": 0.09,
             "indice_rotacion": 0.65,
+            "liquidez": 7.9,
             "participes": 46069,
             "patrimonio": 29846918,
             "periodo": "2020T1",
@@ -1117,6 +1280,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.54,
+            "liquidez": 7.24,
             "participes": 40230,
             "patrimonio": 32482292,
             "periodo": "2019T4",
@@ -1255,6 +1419,7 @@
         {
             "gastos": 0.1,
             "indice_rotacion": 0.16,
+            "liquidez": 16.92,
             "participes": 22705,
             "patrimonio": 15458166,
             "periodo": "2019T3",
@@ -1385,6 +1550,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 0.82,
+            "liquidez": 12.11,
             "participes": 11568,
             "patrimonio": 7554905,
             "periodo": "2019T2",
@@ -1499,6 +1665,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 0.55,
+            "liquidez": 8.64,
             "participes": 4255,
             "patrimonio": 4112726,
             "periodo": "2019T1",
@@ -1621,6 +1788,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 1.58,
+            "liquidez": 14.55,
             "participes": 3764,
             "patrimonio": 3624249,
             "periodo": "2018T4",
@@ -1703,6 +1871,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 1.18,
+            "liquidez": 9.62,
             "participes": 2864,
             "patrimonio": 3613904,
             "periodo": "2018T3",
@@ -1817,6 +1986,7 @@
         {
             "gastos": 0.54,
             "indice_rotacion": 3.64,
+            "liquidez": 15.02,
             "participes": 1185,
             "patrimonio": 975079,
             "periodo": "2018T2",
@@ -1915,6 +2085,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 2.8,
+            "liquidez": 10.58,
             "participes": 178,
             "patrimonio": 758146,
             "periodo": "2018T1",

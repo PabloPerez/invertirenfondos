@@ -1,10 +1,566 @@
 {
     "auditora": "DELOITTE, S.L.",
-    "fecha_registro": "12/08/2004",
+    "fecha_registro": "26/06/2015",
     "historico_periodos": [
         {
             "gastos": 0.2,
+            "indice_rotacion": 0.81,
+            "liquidez": 1.54,
+            "participes": 9306,
+            "patrimonio": 92804000,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 6822850.0,
+                    "desde": "2020T3",
+                    "isin": "NL0010273215",
+                    "moneda": "euro",
+                    "nombre": "AC.ASML HOLDING NV",
+                    "porcentaje": 4.51
+                },
+                {
+                    "cantidad": 6043316.0,
+                    "desde": "2021T1",
+                    "isin": "FR0000121014",
+                    "moneda": "euro",
+                    "nombre": "AC.LOUIS VUITON MOET HENNESSY (FP)",
+                    "porcentaje": 4.0
+                },
+                {
+                    "cantidad": 5335884.0,
+                    "desde": "2018T4",
+                    "isin": "FR0000120578",
+                    "moneda": "euro",
+                    "nombre": "AC.SANOFI (FP)",
+                    "porcentaje": 3.53
+                },
+                {
+                    "cantidad": 4421141.0,
+                    "desde": "2020T2",
+                    "isin": "FR0000120321",
+                    "moneda": "euro",
+                    "nombre": "AC.L'OREAL SA",
+                    "porcentaje": 2.93
+                },
+                {
+                    "cantidad": 3896339.0,
+                    "desde": "2020T2",
+                    "isin": "DE0007236101",
+                    "moneda": "euro",
+                    "nombre": "AC.SIEMENS",
+                    "porcentaje": 2.58
+                },
+                {
+                    "cantidad": 3863482.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000120271",
+                    "moneda": "euro",
+                    "nombre": "AC.TOTALENERGIES SE (FP)",
+                    "porcentaje": 2.56
+                },
+                {
+                    "cantidad": 3806524.0,
+                    "desde": "2022T1",
+                    "isin": "ES0113900J37",
+                    "moneda": "euro",
+                    "nombre": "AC.BANCO SANTANDER",
+                    "porcentaje": 2.52
+                },
+                {
+                    "cantidad": 3760068.0,
+                    "desde": "2020T4",
+                    "isin": "NL0000009082",
+                    "moneda": "euro",
+                    "nombre": "AC.KPN NV (NA)",
+                    "porcentaje": 2.49
+                },
+                {
+                    "cantidad": 3654578.0,
+                    "desde": "2021T3",
+                    "isin": "FR0000121972",
+                    "moneda": "euro",
+                    "nombre": "AC.SCHNEIDER ELECTRIC SA",
+                    "porcentaje": 2.42
+                },
+                {
+                    "cantidad": 3596531.0,
+                    "desde": "2019T3",
+                    "isin": "IE0004906560",
+                    "moneda": "euro",
+                    "nombre": "AC.KERRY GROUP PLC",
+                    "porcentaje": 2.38
+                },
+                {
+                    "cantidad": 3429750.0,
+                    "desde": "2020T4",
+                    "isin": "FR0000125486",
+                    "moneda": "euro",
+                    "nombre": "AC.VINCI SA",
+                    "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 3229133.0,
+                    "desde": "2020T4",
+                    "isin": "NL0000235190",
+                    "moneda": "euro",
+                    "nombre": "AC.AIRBUS GROUP SE (FP)",
+                    "porcentaje": 2.14
+                },
+                {
+                    "cantidad": 2832769.0,
+                    "desde": "2021T2",
+                    "isin": "ES0109067019",
+                    "moneda": "euro",
+                    "nombre": "AC.AMADEUS IT GROUP SA",
+                    "porcentaje": 1.87
+                },
+                {
+                    "cantidad": 2793606.0,
+                    "desde": "2020T4",
+                    "isin": "IE0001827041",
+                    "moneda": "euro",
+                    "nombre": "AC.CRH PLC",
+                    "porcentaje": 1.85
+                },
+                {
+                    "cantidad": 2787864.0,
+                    "desde": "2020T2",
+                    "isin": "DE0008404005",
+                    "moneda": "euro",
+                    "nombre": "AC.ALLIANZ SE",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 2667821.0,
+                    "desde": "2020T4",
+                    "isin": "DE0005810055",
+                    "moneda": "euro",
+                    "nombre": "AC.DEUTSCHE BOERSE AG",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 2581443.0,
+                    "desde": "2022T1",
+                    "isin": "NL0012969182",
+                    "moneda": "euro",
+                    "nombre": "AC.ADYEN NV",
+                    "porcentaje": 1.71
+                },
+                {
+                    "cantidad": 2556212.0,
+                    "desde": "2020T3",
+                    "isin": "DE0007164600",
+                    "moneda": "euro",
+                    "nombre": "AC.SAP SE",
+                    "porcentaje": 1.69
+                },
+                {
+                    "cantidad": 2428850.0,
+                    "desde": "2020T2",
+                    "isin": "IT0003128367",
+                    "moneda": "euro",
+                    "nombre": "AC.ENEL (IT)",
+                    "porcentaje": 1.61
+                },
+                {
+                    "cantidad": 2415445.0,
+                    "desde": "2022T1",
+                    "isin": "DE0007664039",
+                    "moneda": "euro",
+                    "nombre": "AC.VOLKSWAGEN AG PFD",
+                    "porcentaje": 1.6
+                },
+                {
+                    "cantidad": 2343116.0,
+                    "desde": "2021T1",
+                    "isin": "FR0000120073",
+                    "moneda": "euro",
+                    "nombre": "AC.AIR LIQUIDE",
+                    "porcentaje": 1.55
+                },
+                {
+                    "cantidad": 2315632.0,
+                    "desde": "2022T1",
+                    "isin": "DE0006231004",
+                    "moneda": "euro",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
+                    "porcentaje": 1.53
+                },
+                {
+                    "cantidad": 2223641.0,
+                    "desde": "2021T1",
+                    "isin": "DE0007037129",
+                    "moneda": "euro",
+                    "nombre": "AC.RWE AG",
+                    "porcentaje": 1.47
+                },
+                {
+                    "cantidad": 2193629.0,
+                    "desde": "2021T1",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "AC.IBERDROLA",
+                    "porcentaje": 1.45
+                },
+                {
+                    "cantidad": 2128077.0,
+                    "desde": "2021T2",
+                    "isin": "NL0011585146",
+                    "moneda": "euro",
+                    "nombre": "AC.FERRARI NV (IT)",
+                    "porcentaje": 1.41
+                },
+                {
+                    "cantidad": 2101950.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000125338",
+                    "moneda": "euro",
+                    "nombre": "AC.CAP GEMINI",
+                    "porcentaje": 1.39
+                },
+                {
+                    "cantidad": 2068947.0,
+                    "desde": "2021T1",
+                    "isin": "IT0003153415",
+                    "moneda": "euro",
+                    "nombre": "AC.SNAM SPA",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 1948632.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A1EWWW0",
+                    "moneda": "euro",
+                    "nombre": "AC.ADIDAS AG",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 1928642.0,
+                    "desde": "2020T4",
+                    "isin": "NL0010545661",
+                    "moneda": "euro",
+                    "nombre": "AC.CNH INDUSTRIAL NV",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 1889550.0,
+                    "desde": "2022T1",
+                    "isin": "BE0974293251",
+                    "moneda": "euro",
+                    "nombre": "AC.ANHEUSER-BUSCH INBEV SA/NV (BE)",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 1844587.0,
+                    "desde": "2020T4",
+                    "isin": "NL0013654783",
+                    "moneda": "euro",
+                    "nombre": "AC.PROSUS NV",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 1839420.0,
+                    "desde": "2021T2",
+                    "isin": "BE0003739530",
+                    "moneda": "euro",
+                    "nombre": "AC.UCB SA",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 1794585.0,
+                    "desde": "2021T1",
+                    "isin": "FI0009000681",
+                    "moneda": "euro",
+                    "nombre": "AC.NOKIA OYJ (FH)",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 1762236.0,
+                    "desde": "2020T4",
+                    "isin": "FR0000121329",
+                    "moneda": "euro",
+                    "nombre": "AC.THALES SA",
+                    "porcentaje": 1.17
+                },
+                {
+                    "cantidad": 1772323.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005239360",
+                    "moneda": "euro",
+                    "nombre": "AC.UNICREDIT SPA",
+                    "porcentaje": 1.17
+                },
+                {
+                    "cantidad": 1752169.0,
+                    "desde": "2021T1",
+                    "isin": "LU1598757687",
+                    "moneda": "euro",
+                    "nombre": "AC.ARCELORMITTAL (NA)",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 1694795.0,
+                    "desde": "2020T4",
+                    "isin": "GB00B10RZP78",
+                    "moneda": "euro",
+                    "nombre": "AC.UNILEVER PLC",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 1684157.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005090300",
+                    "moneda": "euro",
+                    "nombre": "AC.INRASTRUTTURE WIRELESS ITAL",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 1678062.0,
+                    "desde": "2021T1",
+                    "isin": "IT0004176001",
+                    "moneda": "euro",
+                    "nombre": "AC.PRYSMIAN SPA",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 1653139.0,
+                    "desde": "2018T4",
+                    "isin": "FR0000131104",
+                    "moneda": "euro",
+                    "nombre": "AC.BANQUE NATIONALE DE PARIS PARIBAS(FP)",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 1646669.0,
+                    "desde": "2021T2",
+                    "isin": "DE000DWS1007",
+                    "moneda": "euro",
+                    "nombre": "AC.DWS GROUP GMBH & CO KGAA",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 1628618.0,
+                    "desde": "2021T4",
+                    "isin": "FR0000121220",
+                    "moneda": "euro",
+                    "nombre": "AC.SODEXO",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 1621086.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000121147",
+                    "moneda": "euro",
+                    "nombre": "AC.FAURECIA (IT)",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 1574355.0,
+                    "desde": "2021T3",
+                    "isin": "DE0006969603",
+                    "moneda": "euro",
+                    "nombre": "AC.PUMA SE",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 1559133.0,
+                    "desde": "2020T4",
+                    "isin": "DE0005552004",
+                    "moneda": "euro",
+                    "nombre": "AC.DEUTSCHE POST AG",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 1510674.0,
+                    "desde": "2021T1",
+                    "isin": "NL0000009538",
+                    "moneda": "euro",
+                    "nombre": "AC.KONINKLIJKE PHILIPS NV (NA)",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 1466479.0,
+                    "desde": "2021T3",
+                    "isin": "DE0008402215",
+                    "moneda": "euro",
+                    "nombre": "AC.HANNOVER RUECK SE",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 1421403.0,
+                    "desde": "2020T3",
+                    "isin": "FR0000121485",
+                    "moneda": "euro",
+                    "nombre": "AC.KERING",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 1411662.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005366767",
+                    "moneda": "euro",
+                    "nombre": "AC.NEXI SPA",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 1359314.0,
+                    "desde": "2021T1",
+                    "isin": "DE000ENER6Y0",
+                    "moneda": "euro",
+                    "nombre": "AC.SIEMENS ENERGY AG",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 1338310.0,
+                    "desde": "2021T1",
+                    "isin": "NL0011872643",
+                    "moneda": "euro",
+                    "nombre": "AC.ASR NEDERLAND NV",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 1350854.0,
+                    "desde": "2020T4",
+                    "isin": "FR0000121667",
+                    "moneda": "euro",
+                    "nombre": "AC.ESSILORLUXOTTICA",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 1324769.0,
+                    "desde": "2020T2",
+                    "isin": "FR0000133308",
+                    "moneda": "euro",
+                    "nombre": "AC.ORANGE (FP)",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 1322906.0,
+                    "desde": "2021T2",
+                    "isin": "DE000A1ML7J1",
+                    "moneda": "euro",
+                    "nombre": "AC.VONOVIA SE",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 1319963.0,
+                    "desde": "2021T2",
+                    "isin": "FR0000120693",
+                    "moneda": "euro",
+                    "nombre": "AC.PERNOD-RICARD SA",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 1305179.0,
+                    "desde": "2020T4",
+                    "isin": "FR0007038138",
+                    "moneda": "euro",
+                    "nombre": "PART.AMUNDI EURO LIQ RA-I CAP",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 1288642.0,
+                    "desde": "2021T1",
+                    "isin": "FR0010220475",
+                    "moneda": "euro",
+                    "nombre": "AC.ALSTOM SA (FP)",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 1272036.0,
+                    "desde": "2021T1",
+                    "isin": "IT0003132476",
+                    "moneda": "euro",
+                    "nombre": "AC.ENI SPA (IT)",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 1265914.0,
+                    "desde": "2020T2",
+                    "isin": "NL0011821202",
+                    "moneda": "euro",
+                    "nombre": "AC.ING GROEP N.V.",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 1248370.0,
+                    "desde": "2020T2",
+                    "isin": "DE0005785604",
+                    "moneda": "euro",
+                    "nombre": "AC.FRESENIUS SE & CO KGAA",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 1186135.0,
+                    "desde": "2021T4",
+                    "isin": "AT0000BAWAG2",
+                    "moneda": "euro",
+                    "nombre": "AC.BAWAG GROUP AG",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 1130692.0,
+                    "desde": "2022T1",
+                    "isin": "PTGAL0AM0009",
+                    "moneda": "euro",
+                    "nombre": "AC.GALP ENERGIA SGPS SA",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 1094675.0,
+                    "desde": "2022T1",
+                    "isin": "DE0006599905",
+                    "moneda": "euro",
+                    "nombre": "AC.MERCK KGAA",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 1066251.0,
+                    "desde": "2021T1",
+                    "isin": "NL00150001Q9",
+                    "moneda": "euro",
+                    "nombre": "AC.STELLANTIS NV (IT)",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 932097.0,
+                    "desde": "2021T3",
+                    "isin": "FI0009013296",
+                    "moneda": "euro",
+                    "nombre": "AC.NESTE OYJ",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 829320.0,
+                    "desde": "2019T2",
+                    "isin": "IT0000072170",
+                    "moneda": "euro",
+                    "nombre": "AC.FINECOBANK SPA",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 751895.0,
+                    "desde": "2022T1",
+                    "isin": "IT0004056880",
+                    "moneda": "euro",
+                    "nombre": "AC.AMPLIFON SPA",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 159430.0,
+                    "desde": "2022T1",
+                    "isin": "NL0015000LU4",
+                    "moneda": "euro",
+                    "nombre": "AC.IVECO GROUP NV",
+                    "porcentaje": 0.11
+                }
+            ],
+            "rentabilidad": -7.75
+        },
+        {
+            "gastos": 0.2,
             "indice_rotacion": 0.6,
+            "liquidez": 1.5,
             "participes": 7152,
             "patrimonio": 76094000,
             "periodo": "2021T4",
@@ -14,7 +570,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 4.51
                 },
                 {
@@ -174,7 +730,7 @@
                     "desde": "2021T4",
                     "isin": "IT0005239360",
                     "moneda": "euro",
-                    "nombre": "AC.UNICREDIT SPA   ",
+                    "nombre": "AC.UNICREDIT SPA",
                     "porcentaje": 1.9
                 },
                 {
@@ -503,6 +1059,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.29,
+            "liquidez": 1.48,
             "participes": 7291,
             "patrimonio": 70612000,
             "periodo": "2021T3",
@@ -512,7 +1069,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 4.52
                 },
                 {
@@ -1017,6 +1574,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 1.36,
+            "liquidez": 1.51,
             "participes": 7463,
             "patrimonio": 69325000,
             "periodo": "2021T2",
@@ -1042,7 +1600,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 3.36
                 },
                 {
@@ -1523,6 +2081,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.9,
+            "liquidez": 1.51,
             "participes": 7733,
             "patrimonio": 68581000,
             "periodo": "2021T1",
@@ -1532,7 +2091,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 3.66
                 },
                 {
@@ -1828,7 +2387,7 @@
                     "desde": "2021T1",
                     "isin": "IT0005239360",
                     "moneda": "euro",
-                    "nombre": "AC.UNICREDIT SPA   ",
+                    "nombre": "AC.UNICREDIT SPA",
                     "porcentaje": 1.22
                 },
                 {
@@ -2037,6 +2596,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 1.46,
+            "liquidez": 1.5,
             "participes": 8124,
             "patrimonio": 64060000,
             "periodo": "2020T4",
@@ -2046,7 +2606,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 3.8
                 },
                 {
@@ -2238,7 +2798,7 @@
                     "desde": "2020T4",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 1.41
                 },
                 {
@@ -2294,7 +2854,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.25
                 },
                 {
@@ -2695,6 +3255,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.79,
+            "liquidez": 2.74,
             "participes": 8567,
             "patrimonio": 56230000,
             "periodo": "2020T3",
@@ -2736,7 +3297,7 @@
                     "desde": "2020T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 2.27
                 },
                 {
@@ -2776,7 +3337,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.89
                 },
                 {
@@ -2832,7 +3393,7 @@
                     "desde": "2020T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.57
                 },
                 {
@@ -2960,7 +3521,7 @@
                     "desde": "2020T2",
                     "isin": "DE000A2GS401",
                     "moneda": "euro",
-                    "nombre": "AC.SOFTWARE AG   ",
+                    "nombre": "AC.SOFTWARE AG",
                     "porcentaje": 1.24
                 },
                 {
@@ -3401,6 +3962,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 3.45,
+            "liquidez": 5.11,
             "participes": 8823,
             "patrimonio": 58820000,
             "periodo": "2020T2",
@@ -3514,7 +4076,7 @@
                     "desde": "2020T1",
                     "isin": "BE0974264930",
                     "moneda": "euro",
-                    "nombre": "AC.AGEAS   ",
+                    "nombre": "AC.AGEAS",
                     "porcentaje": 1.82
                 },
                 {
@@ -3562,7 +4124,7 @@
                     "desde": "2020T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.55
                 },
                 {
@@ -3714,7 +4276,7 @@
                     "desde": "2020T2",
                     "isin": "DE000A2GS401",
                     "moneda": "euro",
-                    "nombre": "AC.SOFTWARE AG   ",
+                    "nombre": "AC.SOFTWARE AG",
                     "porcentaje": 1.02
                 },
                 {
@@ -3954,7 +4516,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 0.6
                 },
                 {
@@ -4050,7 +4612,7 @@
                     "desde": "2019T4",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.32
                 },
                 {
@@ -4099,6 +4661,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 0.0,
+            "liquidez": 5.09,
             "participes": 8934,
             "patrimonio": 69379000,
             "periodo": "2020T1",
@@ -4220,7 +4783,7 @@
                     "desde": "2020T1",
                     "isin": "BE0974264930",
                     "moneda": "euro",
-                    "nombre": "AC.AGEAS   ",
+                    "nombre": "AC.AGEAS",
                     "porcentaje": 1.86
                 },
                 {
@@ -4404,7 +4967,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.09
                 },
                 {
@@ -4436,7 +4999,7 @@
                     "desde": "2020T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 0.97
                 },
                 {
@@ -4516,7 +5079,7 @@
                     "desde": "2019T4",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.67
                 },
                 {
@@ -4612,7 +5175,7 @@
                     "desde": "2020T1",
                     "isin": "IE00BYTBXV33",
                     "moneda": "euro",
-                    "nombre": "AC.RYANAIR HOLDINGS PLC (IE)     ",
+                    "nombre": "AC.RYANAIR HOLDINGS PLC (IE)",
                     "porcentaje": 0.35
                 },
                 {
@@ -4644,7 +5207,7 @@
                     "desde": "2020T1",
                     "isin": "FR0013269123",
                     "moneda": "euro",
-                    "nombre": "AC.RUBIS SCA ",
+                    "nombre": "AC.RUBIS SCA",
                     "porcentaje": 0.32
                 },
                 {
@@ -4685,6 +5248,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 3.22,
+            "liquidez": 1.83,
             "participes": 9617,
             "patrimonio": 95928000,
             "periodo": "2019T4",
@@ -4966,7 +5530,7 @@
                     "desde": "2019T4",
                     "isin": "DE000A2GS401",
                     "moneda": "euro",
-                    "nombre": "AC.SOFTWARE AG   ",
+                    "nombre": "AC.SOFTWARE AG",
                     "porcentaje": 1.2
                 },
                 {
@@ -5126,7 +5690,7 @@
                     "desde": "2019T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 0.68
                 },
                 {
@@ -5158,7 +5722,7 @@
                     "desde": "2019T4",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.62
                 },
                 {
@@ -5206,7 +5770,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 0.55
                 },
                 {
@@ -5374,7 +5938,7 @@
                     "desde": "2019T4",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 0.27
                 },
                 {
@@ -5455,6 +6019,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 1.66,
+            "liquidez": 1.2,
             "participes": 10345,
             "patrimonio": 97591000,
             "periodo": "2019T3",
@@ -5792,7 +6357,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 0.98
                 },
                 {
@@ -5824,7 +6389,7 @@
                     "desde": "2019T3",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 0.94
                 },
                 {
@@ -6169,6 +6734,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 1.53,
+            "liquidez": 3.26,
             "participes": 11078,
             "patrimonio": 118849000,
             "periodo": "2019T2",
@@ -6370,7 +6936,7 @@
                     "desde": "2019T2",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 1.28
                 },
                 {
@@ -6426,7 +6992,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.09
                 },
                 {
@@ -6586,7 +7152,7 @@
                     "desde": "2019T1",
                     "isin": "IT0005239360",
                     "moneda": "euro",
-                    "nombre": "AC.UNICREDIT SPA   ",
+                    "nombre": "AC.UNICREDIT SPA",
                     "porcentaje": 0.76
                 },
                 {
@@ -6778,7 +7344,7 @@
                     "desde": "2019T2",
                     "isin": "FR0013269123",
                     "moneda": "euro",
-                    "nombre": "AC.RUBIS SCA ",
+                    "nombre": "AC.RUBIS SCA",
                     "porcentaje": 0.55
                 },
                 {
@@ -7011,6 +7577,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.26,
+            "liquidez": 1.1,
             "participes": 11695,
             "patrimonio": 122014000,
             "periodo": "2019T1",
@@ -7492,7 +8059,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 0.64
                 },
                 {
@@ -7540,7 +8107,7 @@
                     "desde": "2019T1",
                     "isin": "IT0005239360",
                     "moneda": "euro",
-                    "nombre": "AC.UNICREDIT SPA   ",
+                    "nombre": "AC.UNICREDIT SPA",
                     "porcentaje": 0.5
                 },
                 {
@@ -7685,6 +8252,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 4.19,
+            "liquidez": 0.71,
             "participes": 12689,
             "patrimonio": 147346000,
             "periodo": "2018T4",
@@ -8214,7 +8782,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 0.58
                 },
                 {
@@ -8295,6 +8863,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.0,
+            "liquidez": 3.87,
             "participes": 13260,
             "patrimonio": 213949000,
             "periodo": "2018T3",
@@ -8312,7 +8881,7 @@
                     "desde": "2018T2",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 2.83
                 },
                 {
@@ -8616,7 +9185,7 @@
                     "desde": "2018T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.03
                 },
                 {
@@ -8624,7 +9193,7 @@
                     "desde": "2018T2",
                     "isin": "FR0000038259",
                     "moneda": "euro",
-                    "nombre": "AC.EUROFINS SCIENTIFIC ",
+                    "nombre": "AC.EUROFINS SCIENTIFIC",
                     "porcentaje": 1.0
                 },
                 {
@@ -8976,7 +9545,7 @@
                     "desde": "2018T2",
                     "isin": "ES0176252718",
                     "moneda": "euro",
-                    "nombre": "AC.MELIA HOTELS INTERNATIONAL ",
+                    "nombre": "AC.MELIA HOTELS INTERNATIONAL",
                     "porcentaje": 0.41
                 },
                 {
@@ -9057,6 +9626,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 1.78,
+            "liquidez": 1.94,
             "participes": 19379,
             "patrimonio": 271277000,
             "periodo": "2018T2",
@@ -9090,7 +9660,7 @@
                     "desde": "2018T2",
                     "isin": "NL0010273215",
                     "moneda": "euro",
-                    "nombre": "AC.ASML HOLDING NV ",
+                    "nombre": "AC.ASML HOLDING NV",
                     "porcentaje": 2.2
                 },
                 {
@@ -9250,7 +9820,7 @@
                     "desde": "2018T2",
                     "isin": "FR0000038259",
                     "moneda": "euro",
-                    "nombre": "AC.EUROFINS SCIENTIFIC ",
+                    "nombre": "AC.EUROFINS SCIENTIFIC",
                     "porcentaje": 1.43
                 },
                 {
@@ -9298,7 +9868,7 @@
                     "desde": "2018T1",
                     "isin": "BE0974264930",
                     "moneda": "euro",
-                    "nombre": "AC.AGEAS   ",
+                    "nombre": "AC.AGEAS",
                     "porcentaje": 1.34
                 },
                 {
@@ -9394,7 +9964,7 @@
                     "desde": "2018T2",
                     "isin": "FI4000062385",
                     "moneda": "euro",
-                    "nombre": "AC.DNA OYJ ",
+                    "nombre": "AC.DNA OYJ",
                     "porcentaje": 1.16
                 },
                 {
@@ -9530,7 +10100,7 @@
                     "desde": "2018T2",
                     "isin": "FR0013269123",
                     "moneda": "euro",
-                    "nombre": "AC.RUBIS SCA ",
+                    "nombre": "AC.RUBIS SCA",
                     "porcentaje": 0.78
                 },
                 {
@@ -9762,7 +10332,7 @@
                     "desde": "2018T2",
                     "isin": "ES0176252718",
                     "moneda": "euro",
-                    "nombre": "AC.MELIA HOTELS INTERNATIONAL ",
+                    "nombre": "AC.MELIA HOTELS INTERNATIONAL",
                     "porcentaje": 0.13
                 },
                 {
@@ -9779,6 +10349,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 1.88,
+            "liquidez": 2.32,
             "participes": 20469,
             "patrimonio": 331572000,
             "periodo": "2018T1",
@@ -9828,7 +10399,7 @@
                     "desde": "2018T1",
                     "isin": "IT0005239360",
                     "moneda": "euro",
-                    "nombre": "AC.UNICREDIT SPA   ",
+                    "nombre": "AC.UNICREDIT SPA",
                     "porcentaje": 1.97
                 },
                 {
@@ -9876,7 +10447,7 @@
                     "desde": "2018T1",
                     "isin": "BE0974264930",
                     "moneda": "euro",
-                    "nombre": "AC.AGEAS   ",
+                    "nombre": "AC.AGEAS",
                     "porcentaje": 1.77
                 },
                 {
@@ -10020,7 +10591,7 @@
                     "desde": "2018T1",
                     "isin": "DE000A2GS401",
                     "moneda": "euro",
-                    "nombre": "AC.SOFTWARE AG   ",
+                    "nombre": "AC.SOFTWARE AG",
                     "porcentaje": 1.33
                 },
                 {
@@ -10044,7 +10615,7 @@
                     "desde": "2017T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.28
                 },
                 {
@@ -10084,7 +10655,7 @@
                     "desde": "2017T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.19
                 },
                 {
@@ -10292,7 +10863,7 @@
                     "desde": "2017T4",
                     "isin": "PTSON0AM0001",
                     "moneda": "euro",
-                    "nombre": "AC.SONAE ",
+                    "nombre": "AC.SONAE",
                     "porcentaje": 0.67
                 },
                 {
@@ -10445,6 +11016,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 2.55,
+            "liquidez": 1.91,
             "participes": 20926,
             "patrimonio": 352623000,
             "periodo": "2017T4",
@@ -10590,7 +11162,7 @@
                     "desde": "2017T4",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 1.57
                 },
                 {
@@ -10830,7 +11402,7 @@
                     "desde": "2017T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.03
                 },
                 {
@@ -10838,7 +11410,7 @@
                     "desde": "2017T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.0
                 },
                 {
@@ -10910,7 +11482,7 @@
                     "desde": "2017T3",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.72
                 },
                 {
@@ -10990,7 +11562,7 @@
                     "desde": "2017T4",
                     "isin": "PTSON0AM0001",
                     "moneda": "euro",
-                    "nombre": "AC.SONAE ",
+                    "nombre": "AC.SONAE",
                     "porcentaje": 0.52
                 },
                 {
@@ -11103,6 +11675,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 2.29,
             "participes": 20944,
             "patrimonio": 127949000,
             "periodo": "2017T3",
@@ -11352,7 +11925,7 @@
                     "desde": "2017T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.15
                 },
                 {
@@ -11608,7 +12181,7 @@
                     "desde": "2017T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 0.7
                 },
                 {
@@ -11680,7 +12253,7 @@
                     "desde": "2017T3",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.5
                 },
                 {
@@ -11753,6 +12326,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 2.42,
             "participes": 20716,
             "patrimonio": 83495000,
             "periodo": "2017T2",
@@ -12106,7 +12680,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.91
                 },
                 {
@@ -12194,7 +12768,7 @@
                     "desde": "2017T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 0.78
                 },
                 {
@@ -12282,7 +12856,7 @@
                     "desde": "2017T1",
                     "isin": "BE0974258874",
                     "moneda": "euro",
-                    "nombre": "AC.BEKAERT NV   ",
+                    "nombre": "AC.BEKAERT NV",
                     "porcentaje": 0.6
                 },
                 {
@@ -12314,7 +12888,7 @@
                     "desde": "2017T2",
                     "isin": "IE00BYTBXV33",
                     "moneda": "euro",
-                    "nombre": "AC.RYANAIR HOLDINGS PLC (IE)     ",
+                    "nombre": "AC.RYANAIR HOLDINGS PLC (IE)",
                     "porcentaje": 0.55
                 },
                 {
@@ -12411,6 +12985,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 2.63,
             "participes": 20149,
             "patrimonio": 66836000,
             "periodo": "2017T1",
@@ -12660,7 +13235,7 @@
                     "desde": "2016T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.27
                 },
                 {
@@ -12828,7 +13403,7 @@
                     "desde": "2017T1",
                     "isin": "BE0974258874",
                     "moneda": "euro",
-                    "nombre": "AC.BEKAERT NV   ",
+                    "nombre": "AC.BEKAERT NV",
                     "porcentaje": 0.76
                 },
                 {
@@ -12836,7 +13411,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.76
                 },
                 {
@@ -12972,7 +13547,7 @@
                     "desde": "2017T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 0.51
                 },
                 {
@@ -12988,7 +13563,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.49
                 },
                 {
@@ -13069,6 +13644,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 1.75,
             "participes": 19221,
             "patrimonio": 92474000,
             "periodo": "2016T4",
@@ -13310,7 +13886,7 @@
                     "desde": "2016T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.29
                 },
                 {
@@ -13510,7 +14086,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.77
                 },
                 {
@@ -13534,7 +14110,7 @@
                     "desde": "2016T4",
                     "isin": "ES0116870314",
                     "moneda": "euro",
-                    "nombre": "AC.GAS NATURAL ",
+                    "nombre": "AC.GAS NATURAL",
                     "porcentaje": 0.74
                 },
                 {
@@ -13654,7 +14230,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.48
                 },
                 {
@@ -13727,6 +14303,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 1.18,
             "participes": 19091,
             "patrimonio": 76940000,
             "periodo": "2016T3",
@@ -13792,7 +14369,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 2.0
                 },
                 {
@@ -13968,7 +14545,7 @@
                     "desde": "2016T3",
                     "isin": "NL0011794037",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA) ",
+                    "nombre": "AC.KONINKLIJKE AHOLD DELHAIZE NV (NA)",
                     "porcentaje": 1.38
                 },
                 {
@@ -13992,7 +14569,7 @@
                     "desde": "2016T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.32
                 },
                 {
@@ -14176,7 +14753,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.82
                 },
                 {
@@ -14200,7 +14777,7 @@
                     "desde": "2016T3",
                     "isin": "BE0974258874",
                     "moneda": "euro",
-                    "nombre": "AC.BEKAERT NV   ",
+                    "nombre": "AC.BEKAERT NV",
                     "porcentaje": 0.78
                 },
                 {
@@ -14240,7 +14817,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.64
                 },
                 {
@@ -14353,6 +14930,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 1.32,
+            "liquidez": 5.26,
             "participes": 14527,
             "patrimonio": 74660000,
             "periodo": "2016T2",
@@ -14450,7 +15028,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 1.74
                 },
                 {
@@ -14610,7 +15188,7 @@
                     "desde": "2016T2",
                     "isin": "NL0010672325",
                     "moneda": "euro",
-                    "nombre": "AC.KONINKLIJKE AHOLD NV ",
+                    "nombre": "AC.KONINKLIJKE AHOLD NV",
                     "porcentaje": 1.22
                 },
                 {
@@ -14650,7 +15228,7 @@
                     "desde": "2016T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.05
                 },
                 {
@@ -14762,7 +15340,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.88
                 },
                 {
@@ -14898,7 +15476,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.57
                 },
                 {
@@ -15003,6 +15581,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 1.43,
+            "liquidez": 0.83,
             "participes": 19351,
             "patrimonio": 87260000,
             "periodo": "2016T1",
@@ -15068,7 +15647,7 @@
                     "desde": "2015T2",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 2.24
                 },
                 {
@@ -15108,7 +15687,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 1.85
                 },
                 {
@@ -15308,7 +15887,7 @@
                     "desde": "2016T1",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 1.18
                 },
                 {
@@ -15332,7 +15911,7 @@
                     "desde": "2016T1",
                     "isin": "FR0000130403",
                     "moneda": "euro",
-                    "nombre": "AC.CHRISTIAN DIOR ",
+                    "nombre": "AC.CHRISTIAN DIOR",
                     "porcentaje": 1.09
                 },
                 {
@@ -15340,7 +15919,7 @@
                     "desde": "2016T1",
                     "isin": "BE0003562700",
                     "moneda": "euro",
-                    "nombre": "AC.DELHAIZE GROUP ",
+                    "nombre": "AC.DELHAIZE GROUP",
                     "porcentaje": 1.08
                 },
                 {
@@ -15356,7 +15935,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 1.03
                 },
                 {
@@ -15564,7 +16143,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.58
                 },
                 {
@@ -15677,6 +16256,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 1.6,
+            "liquidez": 4.38,
             "participes": 20182,
             "patrimonio": 130416000,
             "periodo": "2015T4",
@@ -15726,7 +16306,7 @@
                     "desde": "2015T2",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 2.08
                 },
                 {
@@ -15990,7 +16570,7 @@
                     "desde": "2015T4",
                     "isin": "DE0008430026",
                     "moneda": "euro",
-                    "nombre": "AC.MUENCHEN. RUECK. ",
+                    "nombre": "AC.MUENCHEN. RUECK.",
                     "porcentaje": 1.13
                 },
                 {
@@ -16022,7 +16602,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.98
                 },
                 {
@@ -16070,7 +16650,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 0.95
                 },
                 {
@@ -16102,7 +16682,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.92
                 },
                 {
@@ -16335,6 +16915,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.52,
+            "liquidez": 4.38,
             "participes": 20184,
             "patrimonio": 89573000,
             "periodo": "2015T3",
@@ -16408,7 +16989,7 @@
                     "desde": "2015T2",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 1.94
                 },
                 {
@@ -16472,7 +17053,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 1.49
                 },
                 {
@@ -16560,7 +17141,7 @@
                     "desde": "2015T2",
                     "isin": "ES0116870314",
                     "moneda": "euro",
-                    "nombre": "AC.GAS NATURAL ",
+                    "nombre": "AC.GAS NATURAL",
                     "porcentaje": 1.27
                 },
                 {
@@ -16624,7 +17205,7 @@
                     "desde": "2015T3",
                     "isin": "ES0184262212",
                     "moneda": "euro",
-                    "nombre": "AC.VISCOFAN ",
+                    "nombre": "AC.VISCOFAN",
                     "porcentaje": 0.99
                 },
                 {
@@ -16720,7 +17301,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.91
                 },
                 {
@@ -16752,7 +17333,7 @@
                     "desde": "2015T2",
                     "isin": "BE0974258874",
                     "moneda": "euro",
-                    "nombre": "AC.BEKAERT NV   ",
+                    "nombre": "AC.BEKAERT NV",
                     "porcentaje": 0.88
                 },
                 {
@@ -16880,7 +17461,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.67
                 },
                 {
@@ -16904,7 +17485,7 @@
                     "desde": "2015T2",
                     "isin": "FR0000121881",
                     "moneda": "euro",
-                    "nombre": "AC.HAVAS SA ",
+                    "nombre": "AC.HAVAS SA",
                     "porcentaje": 0.65
                 },
                 {
@@ -16968,7 +17549,7 @@
                     "desde": "2015T3",
                     "isin": "BE0974264930",
                     "moneda": "euro",
-                    "nombre": "AC.AGEAS   ",
+                    "nombre": "AC.AGEAS",
                     "porcentaje": 0.49
                 },
                 {
@@ -17057,6 +17638,7 @@
         {
             "gastos": null,
             "indice_rotacion": 1.37,
+            "liquidez": 7.6,
             "participes": 20175,
             "patrimonio": 115270000,
             "periodo": "2015T2",
@@ -17226,7 +17808,7 @@
                     "desde": "2015T2",
                     "isin": "DE0005557508",
                     "moneda": "euro",
-                    "nombre": "AC.DEUTSCHE TELEKOM ",
+                    "nombre": "AC.DEUTSCHE TELEKOM",
                     "porcentaje": 1.59
                 },
                 {
@@ -17298,7 +17880,7 @@
                     "desde": "2015T2",
                     "isin": "DE0006231004",
                     "moneda": "euro",
-                    "nombre": "AC.INFINEON TECHNOLOGIES ",
+                    "nombre": "AC.INFINEON TECHNOLOGIES",
                     "porcentaje": 1.16
                 },
                 {
@@ -17458,7 +18040,7 @@
                     "desde": "2015T2",
                     "isin": "ES0116870314",
                     "moneda": "euro",
-                    "nombre": "AC.GAS NATURAL ",
+                    "nombre": "AC.GAS NATURAL",
                     "porcentaje": 0.89
                 },
                 {
@@ -17530,7 +18112,7 @@
                     "desde": "2015T2",
                     "isin": "BE0974258874",
                     "moneda": "euro",
-                    "nombre": "AC.BEKAERT NV   ",
+                    "nombre": "AC.BEKAERT NV",
                     "porcentaje": 0.78
                 },
                 {
@@ -17570,7 +18152,7 @@
                     "desde": "2015T2",
                     "isin": "LU0061462528",
                     "moneda": "euro",
-                    "nombre": "AC.RTL GROUP SA  ",
+                    "nombre": "AC.RTL GROUP SA",
                     "porcentaje": 0.66
                 },
                 {
@@ -17594,7 +18176,7 @@
                     "desde": "2015T2",
                     "isin": "FR0000121881",
                     "moneda": "euro",
-                    "nombre": "AC.HAVAS SA ",
+                    "nombre": "AC.HAVAS SA",
                     "porcentaje": 0.61
                 },
                 {
@@ -17610,7 +18192,7 @@
                     "desde": "2015T2",
                     "isin": "DE0007257503",
                     "moneda": "euro",
-                    "nombre": "AC.METRO AG ",
+                    "nombre": "AC.METRO AG",
                     "porcentaje": 0.59
                 },
                 {

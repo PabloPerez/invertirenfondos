@@ -1,10 +1,646 @@
 {
     "auditora": "Deloitte, S.L.",
-    "fecha_registro": "11/12/2015",
+    "fecha_registro": "10/09/2021",
     "historico_periodos": [
         {
             "gastos": 0.04,
+            "indice_rotacion": 0.27,
+            "liquidez": 3.32,
+            "participes": 307,
+            "patrimonio": 43488845,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 3982529.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005482309",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,11|2023-11-29",
+                    "porcentaje": 5.99
+                },
+                {
+                    "cantidad": 3730502.0,
+                    "desde": "2021T3",
+                    "isin": "IT0004848831",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|5,50|2022-11-01",
+                    "porcentaje": 5.61
+                },
+                {
+                    "cantidad": 2312482.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005422487",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|-0,33|2022-09-28",
+                    "porcentaje": 3.48
+                },
+                {
+                    "cantidad": 2299694.0,
+                    "desde": "2022T1",
+                    "isin": "ES05297431C5",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ELECNOR|0,04|2022-05-18",
+                    "porcentaje": 3.46
+                },
+                {
+                    "cantidad": 2199775.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505087595",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|FORTIA ENERGIA|0,02|2022-04-11",
+                    "porcentaje": 3.31
+                },
+                {
+                    "cantidad": 2171845.0,
+                    "desde": "2021T4",
+                    "isin": "ES0582870I06",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|SACYR SA|1,42|2022-09-22",
+                    "porcentaje": 3.27
+                },
+                {
+                    "cantidad": 2099603.0,
+                    "desde": "2021T3",
+                    "isin": "ES0555281775",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|INCAFI|0,03|2022-06-30",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 1999037.0,
+                    "desde": "2022T1",
+                    "isin": "XS2433710402",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|FINCANTIERI SPA|0,19|2022-04-13",
+                    "porcentaje": 3.01
+                },
+                {
+                    "cantidad": 1989142.0,
+                    "desde": "2021T3",
+                    "isin": "ES0536463443",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|AUDAX RENOVABLES SA|0,70|2022-07-04",
+                    "porcentaje": 2.99
+                },
+                {
+                    "cantidad": 1798732.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505530123",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|VIRTO|0,29|2022-04-13",
+                    "porcentaje": 2.71
+                },
+                {
+                    "cantidad": 1791841.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505395337",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|SORIGUÉ SAU|1,08|2022-07-25",
+                    "porcentaje": 2.7
+                },
+                {
+                    "cantidad": 1503212.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005199267",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICREDITO ITALIANO|0,13|2023-06-30",
+                    "porcentaje": 2.26
+                },
+                {
+                    "cantidad": 1298723.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505614026",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ZENER ENCITEL|0,40|2022-05-03",
+                    "porcentaje": 1.95
+                },
+                {
+                    "cantidad": 1288171.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505047573",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|BARCELO CORP.EMPRES.|1,20|2022-09-06",
+                    "porcentaje": 1.94
+                },
+                {
+                    "cantidad": 1200110.0,
+                    "desde": "2022T1",
+                    "isin": "XS2435785824",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ACS|-0,14|2023-01-18",
+                    "porcentaje": 1.81
+                },
+                {
+                    "cantidad": 1095899.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451387",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|PRYCONSA|0,79|2022-07-18",
+                    "porcentaje": 1.65
+                },
+                {
+                    "cantidad": 1088904.0,
+                    "desde": "2020T2",
+                    "isin": "XS1594368539",
+                    "moneda": "euro",
+                    "nombre": "BONO|BBVA|0,03|2022-04-12",
+                    "porcentaje": 1.64
+                },
+                {
+                    "cantidad": 1023796.0,
+                    "desde": "2021T3",
+                    "isin": "DE000A2E4QG3",
+                    "moneda": "euro",
+                    "nombre": "BONO|IKB DEUSTCHE INDUS|4,50|2022-07-23",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 1009077.0,
+                    "desde": "2021T3",
+                    "isin": "XS1791704189",
+                    "moneda": "euro",
+                    "nombre": "BONO|CNAC HK FINBRIDGE CO|1,75|2022-06-14",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 1004856.0,
+                    "desde": "2021T2",
+                    "isin": "XS2029574634",
+                    "moneda": "euro",
+                    "nombre": "BONO|ALD SA|0,38|2023-07-18",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 996112.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505255275",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|SUMMA|0,40|2023-02-10",
+                    "porcentaje": 1.5
+                },
+                {
+                    "cantidad": 993496.0,
+                    "desde": "2022T1",
+                    "isin": "ES0509260123",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|AMPER SA|1,31|2022-09-30",
+                    "porcentaje": 1.49
+                },
+                {
+                    "cantidad": 923160.0,
+                    "desde": "2021T2",
+                    "isin": "XS1935128956",
+                    "moneda": "euro",
+                    "nombre": "BONO|IMMOFINANZ|2,63|2023-01-27",
+                    "porcentaje": 1.39
+                },
+                {
+                    "cantidad": 904188.0,
+                    "desde": "2022T1",
+                    "isin": "XS2294181222",
+                    "moneda": "euro",
+                    "nombre": "BONO|ACCIONA ENERGIAS REN|1,08|2023-02-08",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 821542.0,
+                    "desde": "2021T1",
+                    "isin": "XS1853426549",
+                    "moneda": "euro",
+                    "nombre": "BONO|INFORMA PLC|1,50|2023-07-05",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 798322.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451395",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|PRYCONSA|0,67|2022-06-10",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 800005.0,
+                    "desde": "2022T1",
+                    "isin": "ES05051134U3",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|EL CORTE INGLES|-0,00|2022-05-17",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 800105.0,
+                    "desde": "2022T1",
+                    "isin": "ES0568561585",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|DS SMITH SPAIN|-0,05|2022-04-22",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 716980.0,
+                    "desde": "2021T3",
+                    "isin": "XS1551678409",
+                    "moneda": "euro",
+                    "nombre": "BONO|TELECOM ITALIA SPA|2,50|2023-07-19",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 699863.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505223158",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|GESTAMP|0,09|2022-06-30",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 696843.0,
+                    "desde": "2021T4",
+                    "isin": "ES05329452X9",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|0,89|2022-06-22",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 699540.0,
+                    "desde": "2022T1",
+                    "isin": "ES05329453E7",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|0,72|2022-04-25",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 693532.0,
+                    "desde": "2022T1",
+                    "isin": "ES05329453I8",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|1,49|2022-11-18",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 641996.0,
+                    "desde": "2021T2",
+                    "isin": "XS2154335363",
+                    "moneda": "euro",
+                    "nombre": "BONO|HARLEY DAVIDSON|3,88|2023-05-19",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 557311.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005239253",
+                    "moneda": "euro",
+                    "nombre": "BONO|MEDIOBANCA SPA|1,00|2023-01-12",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 520922.0,
+                    "desde": "2021T4",
+                    "isin": "FR0013298890",
+                    "moneda": "euro",
+                    "nombre": "BONO|TIKEHAU|3,00|2023-11-27",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 510359.0,
+                    "desde": "2022T1",
+                    "isin": "XS1897489578",
+                    "moneda": "euro",
+                    "nombre": "BONO|CAIXABANK|1,75|2023-10-24",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 513008.0,
+                    "desde": "2021T3",
+                    "isin": "XS2239813301",
+                    "moneda": "euro",
+                    "nombre": "BONO|EL CORTE INGLES|3,63|2024-03-15",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 506284.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005340374",
+                    "moneda": "euro",
+                    "nombre": "CEDULAS|BANCO BPM SPA|1,13|2023-09-25",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 503881.0,
+                    "desde": "2022T1",
+                    "isin": "XS1732400319",
+                    "moneda": "euro",
+                    "nombre": "BONO|FERROVIE DELLO STATO|0,88|2023-12-07",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 506458.0,
+                    "desde": "2021T3",
+                    "isin": "XS1811213781",
+                    "moneda": "euro",
+                    "nombre": "BONO|SOFTBANK GROUP CORP|4,00|2023-04-20",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 506591.0,
+                    "desde": "2022T1",
+                    "isin": "PTGGDAOE0001",
+                    "moneda": "euro",
+                    "nombre": "BONO|GALP GAS NATURAL DIS|1,38|2023-09-19",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 503506.0,
+                    "desde": "2022T1",
+                    "isin": "XS1759603761",
+                    "moneda": "euro",
+                    "nombre": "BONO|PROSEGUR|1,00|2023-02-08",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 505786.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005118838",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTESA SANPAOLO SPA|1,78|2022-06-30",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 499692.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438277",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|URBASER SA|0,27|2022-05-20",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 499550.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438277",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|URBASER SA|0,27|2022-05-20",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 498980.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505497158",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|GRUPO GRAN SOLAR|0,39|2022-06-10",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 499031.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505497117",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|GRUPO GRAN SOLAR|0,39|2022-04-08",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 495949.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013201597",
+                    "moneda": "euro",
+                    "nombre": "BONO|RCI BANQUE SA|0,50|2023-09-15",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 497446.0,
+                    "desde": "2022T1",
+                    "isin": "XS2282093769",
+                    "moneda": "euro",
+                    "nombre": "BONO|VOLKSWAGEN CAR LEASE|0,26|2023-07-12",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 500848.0,
+                    "desde": "2021T4",
+                    "isin": "XS1876097715",
+                    "moneda": "euro",
+                    "nombre": "BONO|MBANK SA|1,06|2022-09-05",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 495883.0,
+                    "desde": "2021T4",
+                    "isin": "PTME18JM0058",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|MOTA-ENGIL SGPS SA|1,67|2022-06-16",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 490266.0,
+                    "desde": "2021T4",
+                    "isin": "ES0313040075",
+                    "moneda": "euro",
+                    "nombre": "BONO|B. MARCH|0,10|2025-11-17",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 493919.0,
+                    "desde": "2021T3",
+                    "isin": "XS1211040917",
+                    "moneda": "euro",
+                    "nombre": "BONO|TEVA PHARMACEUTICAL|1,25|2023-03-31",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 399574.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505087728",
+                    "moneda": "euro",
+                    "nombre": "BONO|FORTIA ENERGIA|0,14|2023-02-10",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 400009.0,
+                    "desde": "2022T1",
+                    "isin": "ES0555281742",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|INCAFI|0,00|2022-04-29",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 398742.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505451379",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|PRYCONSA|0,72|2022-05-10",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 398720.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505521171",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ARTECHE LANTEGUI|0,64|2022-05-18",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 399704.0,
+                    "desde": "2022T1",
+                    "isin": "XS2451830975",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|EUSKALTEL SA|0,25|2022-06-28",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 308577.0,
+                    "desde": "2021T2",
+                    "isin": "XS2228676735",
+                    "moneda": "euro",
+                    "nombre": "BONO|NISSAN|1,94|2023-09-15",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 299601.0,
+                    "desde": "2022T1",
+                    "isin": "ES0578165302",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TECNICAS REUNIDAS SA|0,67|2022-05-30",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 299790.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505530131",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|VIRTO|0,29|2022-05-17",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 300029.0,
+                    "desde": "2021T3",
+                    "isin": "ES0555281775",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|INCAFI|-0,02|2022-06-30",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 299083.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505395329",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|SORIGUÉ SAU|0,97|2022-05-17",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 298613.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505047490",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|BARCELO CORP.EMPRES.|0,93|2022-05-30",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 298902.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505521163",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ARTECHE LANTEGUI|0,74|2022-04-19",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 300690.0,
+                    "desde": "2022T1",
+                    "isin": "PTME11JM0063",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|MOTA-ENGIL SGPS SA|5,55|2022-04-22",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 298630.0,
+                    "desde": "2021T4",
+                    "isin": "XS2424488984",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|MELIA HOTELS|0,92|2022-06-17",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 213989.0,
+                    "desde": "2022T1",
+                    "isin": "XS2051670136",
+                    "moneda": "euro",
+                    "nombre": "BONO|BLACKSTONE PP EUR|0,50|2023-09-12",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 199913.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505075012",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|EUSKALTEL SA|0,25|2022-05-20",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199875.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438269",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|URBASER SA|0,22|2022-06-22",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199678.0,
+                    "desde": "2022T1",
+                    "isin": "ES05329453G2",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|0,59|2022-05-10",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199897.0,
+                    "desde": "2022T1",
+                    "isin": "ES0555281767",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|INCAFI|0,01|2023-01-31",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199106.0,
+                    "desde": "2022T1",
+                    "isin": "ES05329453M0",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|0,95|2022-07-11",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199993.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505087595",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|FORTIA ENERGIA|0,01|2022-04-11",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 199388.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505521189",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ARTECHE LANTEGUI|0,60|2022-06-17",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 99953.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505286502",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ULMA INVERSIONES|0,20|2022-05-11",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 99910.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505286494",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ULMA INVERSIONES|0,27|2022-04-08",
+                    "porcentaje": 0.15
+                }
+            ],
+            "rentabilidad": -0.15
+        },
+        {
+            "gastos": 0.04,
             "indice_rotacion": 0.4,
+            "liquidez": 12.95,
             "participes": 311,
             "patrimonio": 39627381,
             "periodo": "2021T4",
@@ -431,6 +1067,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.21,
+            "liquidez": 15.02,
             "participes": 332,
             "patrimonio": 35786594,
             "periodo": "2021T3",
@@ -713,6 +1350,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.3,
+            "liquidez": 15.24,
             "participes": 372,
             "patrimonio": 46160148,
             "periodo": "2021T2",
@@ -835,6 +1473,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.25,
+            "liquidez": 15.43,
             "participes": 402,
             "patrimonio": 53905468,
             "periodo": "2021T1",
@@ -957,6 +1596,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 6.05,
             "participes": 430,
             "patrimonio": 59097229,
             "periodo": "2020T4",
@@ -1127,6 +1767,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 15.17,
             "participes": 438,
             "patrimonio": 60648909,
             "periodo": "2020T3",
@@ -1297,6 +1938,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 14.05,
             "participes": 424,
             "patrimonio": 59416413,
             "periodo": "2020T2",
@@ -1491,6 +2133,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 17.03,
             "participes": 432,
             "patrimonio": 62785319,
             "periodo": "2020T1",
@@ -1653,6 +2296,7 @@
         {
             "gastos": 0.01,
             "indice_rotacion": 0.0,
+            "liquidez": 15.21,
             "participes": 429,
             "patrimonio": 72777076,
             "periodo": "2019T4",
@@ -1823,6 +2467,7 @@
         {
             "gastos": 0.01,
             "indice_rotacion": 0.0,
+            "liquidez": 15.39,
             "participes": 465,
             "patrimonio": 85554117,
             "periodo": "2019T3",
@@ -1993,6 +2638,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 16.31,
             "participes": 453,
             "patrimonio": 84574962,
             "periodo": "2019T2",
@@ -2107,6 +2753,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 16.57,
             "participes": 419,
             "patrimonio": 88061689,
             "periodo": "2019T1",
@@ -2122,7 +2769,7 @@
                 {
                     "cantidad": 6300150.0,
                     "desde": "2018T2",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO DE SABADELL, S|-0,10|2019-05-24",
                     "porcentaje": 7.15
@@ -2237,6 +2884,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 2.41,
             "participes": 250,
             "patrimonio": 74147015,
             "periodo": "2018T4",
@@ -2252,7 +2900,7 @@
                 {
                     "cantidad": 6300357.0,
                     "desde": "2018T2",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BCO SABADELL INTL RF|-0,10|2019-05-24",
                     "porcentaje": 8.5
@@ -2343,6 +2991,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.53,
             "participes": 158,
             "patrimonio": 48121626,
             "periodo": "2018T3",
@@ -2358,7 +3007,7 @@
                 {
                     "cantidad": 6299514.0,
                     "desde": "2018T2",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BCO SABADELL INTL RF|-0,10|2019-05-24",
                     "porcentaje": 13.09
@@ -2366,7 +3015,7 @@
                 {
                     "cantidad": 3200071.0,
                     "desde": "2018T2",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|2018-12-28",
                     "porcentaje": 6.65
@@ -2513,6 +3162,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 2.37,
             "participes": 122,
             "patrimonio": 33850255,
             "periodo": "2018T2",
@@ -2520,7 +3170,7 @@
                 {
                     "cantidad": 6302673.0,
                     "desde": "2018T2",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BCO SABADELL INTL RF|-0,10|2019-05-24",
                     "porcentaje": 18.62
@@ -2699,6 +3349,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.22,
             "participes": 128,
             "patrimonio": 35943205,
             "periodo": "2018T1",
@@ -2829,6 +3480,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.2,
             "participes": 146,
             "patrimonio": 33779692,
             "periodo": "2017T4",
@@ -2991,6 +3643,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.89,
             "participes": 145,
             "patrimonio": 35645573,
             "periodo": "2017T3",
@@ -3014,7 +3667,7 @@
                 {
                     "cantidad": 1850072.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,01|2017-12-19",
                     "porcentaje": 5.19
@@ -3177,6 +3830,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.65,
             "participes": 144,
             "patrimonio": 35702387,
             "periodo": "2017T2",
@@ -3192,7 +3846,7 @@
                 {
                     "cantidad": 4700159.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,03|2017-09-22",
                     "porcentaje": 13.16
@@ -3208,7 +3862,7 @@
                 {
                     "cantidad": 1850140.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,01|2017-12-19",
                     "porcentaje": 5.18
@@ -3403,6 +4057,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.2,
             "participes": 141,
             "patrimonio": 37056929,
             "periodo": "2017T1",
@@ -3418,7 +4073,7 @@
                 {
                     "cantidad": 4699914.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,03|2017-09-22",
                     "porcentaje": 12.68
@@ -3434,7 +4089,7 @@
                 {
                     "cantidad": 1850057.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,01|2017-12-19",
                     "porcentaje": 4.99
@@ -3629,6 +4284,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.01,
             "participes": 124,
             "patrimonio": 37039491,
             "periodo": "2016T4",
@@ -3644,7 +4300,7 @@
                 {
                     "cantidad": 4700396.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,03|2017-09-22",
                     "porcentaje": 12.69
@@ -3652,7 +4308,7 @@
                 {
                     "cantidad": 2600626.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,01|2017-12-19",
                     "porcentaje": 7.02
@@ -3839,6 +4495,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 6.09,
             "participes": 108,
             "patrimonio": 32821029,
             "periodo": "2016T3",
@@ -3854,7 +4511,7 @@
                 {
                     "cantidad": 4699448.0,
                     "desde": "2016T3",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,03|2017-09-22",
                     "porcentaje": 14.32
@@ -4033,6 +4690,7 @@
         {
             "gastos": 0.03,
             "indice_rotacion": 0.0,
+            "liquidez": 20.35,
             "participes": 107,
             "patrimonio": 27273162,
             "periodo": "2016T2",
@@ -4219,6 +4877,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.24,
+            "liquidez": 2.15,
             "participes": 41,
             "patrimonio": 5577069,
             "periodo": "2016T1",
@@ -4234,7 +4893,7 @@
                 {
                     "cantidad": 500036.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|B. MARCH|0,10|2016-05-25",
                     "porcentaje": 8.97
@@ -4293,6 +4952,7 @@
         {
             "gastos": 1.08,
             "indice_rotacion": 0.0,
+            "liquidez": 0.3,
             "participes": 1,
             "patrimonio": 296758,
             "periodo": "2015T4",

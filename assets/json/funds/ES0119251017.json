@@ -3,8 +3,140 @@
     "fecha_registro": "19/06/2020",
     "historico_periodos": [
         {
+            "gastos": 0.38,
+            "indice_rotacion": 0.55,
+            "liquidez": 14.3,
+            "participes": 86,
+            "patrimonio": 4650317,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 1002366.0,
+                    "desde": "2022T1",
+                    "isin": "NL0015000OS2",
+                    "moneda": "euro",
+                    "nombre": "Letras|DUTCH TBILL|0,742|2022-05-30",
+                    "porcentaje": 12.44
+                },
+                {
+                    "cantidad": 1001681.0,
+                    "desde": "2022T1",
+                    "isin": "DE0001030377",
+                    "moneda": "euro",
+                    "nombre": "Letras|GERMAN TBILL|0,000|2022-05-18",
+                    "porcentaje": 12.43
+                },
+                {
+                    "cantidad": 1001337.0,
+                    "desde": "2022T1",
+                    "isin": "FR0127034629",
+                    "moneda": "euro",
+                    "nombre": "Letras|FRENCH DISCOUNT|0,692|2022-05-11",
+                    "porcentaje": 12.43
+                },
+                {
+                    "cantidad": 1001452.0,
+                    "desde": "2022T1",
+                    "isin": "FR0127034611",
+                    "moneda": "euro",
+                    "nombre": "Letras|FRENCH DISCOUNT|0,000|2022-04-27",
+                    "porcentaje": 12.43
+                },
+                {
+                    "cantidad": 948559.0,
+                    "desde": "2021T4",
+                    "isin": "",
+                    "moneda": "euro",
+                    "nombre": "Deposito|BANCO CAMINOS|0,000|2022 12 16",
+                    "porcentaje": 11.77
+                },
+                {
+                    "cantidad": 801105.0,
+                    "desde": "2022T1",
+                    "isin": "ES0L02204086",
+                    "moneda": "euro",
+                    "nombre": "Letras|REINO DE ESPA#A|0,641|2022-04-08",
+                    "porcentaje": 9.94
+                },
+                {
+                    "cantidad": 502703.0,
+                    "desde": "2021T4",
+                    "isin": "ES0L02210075",
+                    "moneda": "euro",
+                    "nombre": "Letras|REINO DE ESPA#A|0,000|2022-10-07",
+                    "porcentaje": 6.24
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012K46",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,630|2022-04-01",
+                    "porcentaje": 3.72
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0L02201140",
+                    "moneda": "euro",
+                    "nombre": "Letras|REINO DE ESPA#A|0,000|2022-01-14",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0000012I24",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,750|2022-01-03",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0000012I08",
+                    "moneda": "euro",
+                    "nombre": "REPO|UBS_EUROPE|0,750|2022-01-03",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "DE0001030344",
+                    "moneda": "euro",
+                    "nombre": "Letras|GERMAN TBILL|1,036|2022-02-23",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "FR0126893637",
+                    "moneda": "euro",
+                    "nombre": "Letras|FRENCH DISCOUNT|0,890|2022-03-02",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "NL0015000JL7",
+                    "moneda": "euro",
+                    "nombre": "Letras|DUTCH TBILL|0,000|2022-01-28",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "FR0126893546",
+                    "moneda": "euro",
+                    "nombre": "Letras|FRENCH DISCOUNT|0,812|2022-02-09",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -0.82
+        },
+        {
             "gastos": 0.39,
             "indice_rotacion": 0.87,
+            "liquidez": 8.01,
             "participes": 91,
             "patrimonio": 4949248,
             "periodo": "2021T4",
@@ -44,7 +176,7 @@
                 {
                     "cantidad": 950061.0,
                     "desde": "2021T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO CAMINOS|0,000|2022 12 16",
                     "porcentaje": 11.34
@@ -135,6 +267,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.5,
+            "liquidez": 20.26,
             "participes": 101,
             "patrimonio": 5913711,
             "periodo": "2021T3",
@@ -249,6 +382,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.38,
+            "liquidez": 25.12,
             "participes": 104,
             "patrimonio": 7515295,
             "periodo": "2021T2",
@@ -323,6 +457,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 26.28,
             "participes": 93,
             "patrimonio": 7258577,
             "periodo": "2021T1",
@@ -357,6 +492,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.0,
+            "liquidez": 22.68,
             "participes": 83,
             "patrimonio": 6587813,
             "periodo": "2020T4",
@@ -383,6 +519,7 @@
         {
             "gastos": 0.63,
             "indice_rotacion": 0.0,
+            "liquidez": 91.99,
             "participes": 46,
             "patrimonio": 3003685,
             "periodo": "2020T3",
@@ -392,6 +529,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 100.22,
             "participes": 0,
             "patrimonio": 0,
             "periodo": "2020T2",
@@ -400,11 +538,11 @@
         }
     ],
     "id_cnmv": 5461,
-    "id_cnmv_depositaria": 239,
+    "id_cnmv_depositaria": 211,
     "id_cnmv_gestora": 276,
     "isin": "ES0119251017",
     "nif": "V88644323",
     "nombre": "CODEX GLOBAL FUND, FI CLASE R",
-    "nombre_depositaria": "UBS EUROPE SE, SUCURSAL EN ESPAÑA",
+    "nombre_depositaria": "BANCO INVERSIS, S.A.",
     "nombre_gestora": "360 CORA SGIIC, S.A."
 }

@@ -3,8 +3,19 @@
     "fecha_registro": "12/02/2010",
     "historico_periodos": [
         {
+            "gastos": 0.24,
+            "indice_rotacion": 0.0,
+            "liquidez": 100.12,
+            "participes": 37,
+            "patrimonio": 312458,
+            "periodo": "2022T1",
+            "posiciones": [],
+            "rentabilidad": -0.36
+        },
+        {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 103.73,
             "participes": 54,
             "patrimonio": 584045,
             "periodo": "2021T4",
@@ -311,6 +322,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.27,
+            "liquidez": 22.46,
             "participes": 106,
             "patrimonio": 26248977,
             "periodo": "2021T3",
@@ -625,6 +637,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.46,
+            "liquidez": 17.32,
             "participes": 108,
             "patrimonio": 26202962,
             "periodo": "2021T2",
@@ -1027,6 +1040,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.41,
+            "liquidez": 13.41,
             "participes": 109,
             "patrimonio": 26531183,
             "periodo": "2021T1",
@@ -1429,6 +1443,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.1,
+            "liquidez": 15.28,
             "participes": 110,
             "patrimonio": 26371278,
             "periodo": "2020T4",
@@ -1855,6 +1870,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.01,
+            "liquidez": 10.43,
             "participes": 111,
             "patrimonio": 25617890,
             "periodo": "2020T3",
@@ -2273,6 +2289,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.13,
+            "liquidez": 8.12,
             "participes": 106,
             "patrimonio": 24979973,
             "periodo": "2020T2",
@@ -2715,6 +2732,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.06,
+            "liquidez": 2.99,
             "participes": 106,
             "patrimonio": 22688427,
             "periodo": "2020T1",
@@ -3149,6 +3167,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.2,
+            "liquidez": 3.01,
             "participes": 106,
             "patrimonio": 26198442,
             "periodo": "2019T4",
@@ -3607,6 +3626,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.08,
+            "liquidez": 5.21,
             "participes": 106,
             "patrimonio": 25637934,
             "periodo": "2019T3",
@@ -4025,6 +4045,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.24,
+            "liquidez": 7.25,
             "participes": 107,
             "patrimonio": 25768804,
             "periodo": "2019T2",
@@ -4451,6 +4472,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.13,
+            "liquidez": 2.66,
             "participes": 107,
             "patrimonio": 24827958,
             "periodo": "2019T1",
@@ -4869,6 +4891,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.11,
+            "liquidez": 3.26,
             "participes": 108,
             "patrimonio": 23653208,
             "periodo": "2018T4",
@@ -5279,6 +5302,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 3.14,
             "participes": 110,
             "patrimonio": 24566749,
             "periodo": "2018T3",
@@ -5673,6 +5697,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 2.22,
             "participes": 110,
             "patrimonio": 24130993,
             "periodo": "2018T2",
@@ -6067,6 +6092,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 1.55,
             "participes": 112,
             "patrimonio": 24895841,
             "periodo": "2018T1",
@@ -6453,6 +6479,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.51,
+            "liquidez": 3.81,
             "participes": 111,
             "patrimonio": 25474206,
             "periodo": "2017T4",
@@ -6847,6 +6874,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 0.42,
+            "liquidez": 19.15,
             "participes": 79,
             "patrimonio": 22433034,
             "periodo": "2017T3",
@@ -7177,6 +7205,7 @@
         {
             "gastos": 0.11,
             "indice_rotacion": 0.0,
+            "liquidez": 52.32,
             "participes": 71,
             "patrimonio": 21668957,
             "periodo": "2017T2",
@@ -7384,7 +7413,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA|0,280|2017 02 07",
                     "porcentaje": 0.0
@@ -7531,6 +7560,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.03,
+            "liquidez": 49.34,
             "participes": 125,
             "patrimonio": 72508939,
             "periodo": "2017T1",
@@ -7602,7 +7632,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA|0,280|2017 02 07",
                     "porcentaje": 0.0
@@ -7717,6 +7747,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 39.86,
             "participes": 162,
             "patrimonio": 128081371,
             "periodo": "2016T4",
@@ -7836,7 +7867,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA|0,280|2017 02 07",
                     "porcentaje": 1.56
@@ -7884,7 +7915,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,260|2016 11 04",
                     "porcentaje": 0.0
@@ -7892,7 +7923,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,110|2016 11 04",
                     "porcentaje": 0.0
@@ -7900,7 +7931,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,350|2016 11 04",
                     "porcentaje": 0.0
@@ -7908,7 +7939,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,120|2016 11 04",
                     "porcentaje": 0.0
@@ -7916,7 +7947,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKIA S.A.|0,180|2016 10 14",
                     "porcentaje": 0.0
@@ -7967,6 +7998,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
+            "liquidez": 10.03,
             "participes": 232,
             "patrimonio": 136305097,
             "periodo": "2016T3",
@@ -7982,7 +8014,7 @@
                 {
                     "cantidad": 10000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKIA S.A.|0,180|2016 10 14",
                     "porcentaje": 7.34
@@ -8062,7 +8094,7 @@
                 {
                     "cantidad": 4500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,260|2016 11 04",
                     "porcentaje": 3.3
@@ -8086,7 +8118,7 @@
                 {
                     "cantidad": 4000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,120|2016 11 04",
                     "porcentaje": 2.93
@@ -8134,7 +8166,7 @@
                 {
                     "cantidad": 2500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,110|2016 11 04",
                     "porcentaje": 1.83
@@ -8142,7 +8174,7 @@
                 {
                     "cantidad": 2500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,350|2016 11 04",
                     "porcentaje": 1.83
@@ -8158,7 +8190,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA|0,280|2017 02 07",
                     "porcentaje": 1.47
@@ -8209,6 +8241,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.07,
+            "liquidez": 9.15,
             "participes": 236,
             "patrimonio": 134814466,
             "periodo": "2016T2",
@@ -8224,7 +8257,7 @@
                 {
                     "cantidad": 10000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKIA S.A.|0,180|2016 10 14",
                     "porcentaje": 7.42
@@ -8304,7 +8337,7 @@
                 {
                     "cantidad": 4500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,260|2016 11 04",
                     "porcentaje": 3.34
@@ -8328,7 +8361,7 @@
                 {
                     "cantidad": 4000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,120|2016 11 04",
                     "porcentaje": 2.97
@@ -8376,7 +8409,7 @@
                 {
                     "cantidad": 2500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,110|2016 11 04",
                     "porcentaje": 1.85
@@ -8384,7 +8417,7 @@
                 {
                     "cantidad": 2500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑO|0,350|2016 11 04",
                     "porcentaje": 1.85
@@ -8400,7 +8433,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA|0,280|2017 02 07",
                     "porcentaje": 1.48
@@ -8531,6 +8564,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.04,
+            "liquidez": 5.21,
             "participes": 238,
             "patrimonio": 134445917,
             "periodo": "2016T1",
@@ -8618,7 +8652,7 @@
                 {
                     "cantidad": 4500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|UNICAJA BANCO S.A.|0,260|2016 11 04",
                     "porcentaje": 3.35
@@ -8722,7 +8756,7 @@
                 {
                     "cantidad": 2500000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO POPULAR ESPAÑOL, S.A.|0,350|2016",
                     "porcentaje": 1.86
@@ -8738,7 +8772,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2016T1",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO BILBAO VIZCAYA ARGENTARI|0,280|2",
                     "porcentaje": 1.49
@@ -8821,6 +8855,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.12,
+            "liquidez": 5.47,
             "participes": 242,
             "patrimonio": 135229902,
             "periodo": "2015T4",
@@ -9119,6 +9154,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.12,
+            "liquidez": 4.47,
             "participes": 244,
             "patrimonio": 133774256,
             "periodo": "2015T3",
@@ -9417,6 +9453,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.18,
+            "liquidez": 3.2,
             "participes": 247,
             "patrimonio": 133736045,
             "periodo": "2015T2",
@@ -9755,6 +9792,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.07,
+            "liquidez": -0.22,
             "participes": 250,
             "patrimonio": 134980996,
             "periodo": "2015T1",
@@ -10053,6 +10091,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.36,
+            "liquidez": 0.21,
             "participes": 250,
             "patrimonio": 132914518,
             "periodo": "2014T4",
@@ -10407,6 +10446,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.04,
+            "liquidez": 1.78,
             "participes": 251,
             "patrimonio": 131454114,
             "periodo": "2014T3",
@@ -10753,6 +10793,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.21,
+            "liquidez": 0.66,
             "participes": 252,
             "patrimonio": 131297538,
             "periodo": "2014T2",
@@ -11096,7 +11137,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER S.A.|3,500|2014 01 10",
                     "porcentaje": 0.0
@@ -11104,7 +11145,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXABANK S.A.|3,250|2014 01 24",
                     "porcentaje": 0.0
@@ -11163,6 +11204,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.18,
+            "liquidez": 0.43,
             "participes": 252,
             "patrimonio": 128133009,
             "periodo": "2014T1",
@@ -11506,7 +11548,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER S.A.|3,500|2014 01 10",
                     "porcentaje": 0.0
@@ -11514,7 +11556,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXABANK S.A.|3,250|2014 01 24",
                     "porcentaje": 0.0
@@ -11565,6 +11607,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.1,
+            "liquidez": 0.53,
             "participes": 252,
             "patrimonio": 124521675,
             "periodo": "2013T4",
@@ -11828,7 +11871,7 @@
                 {
                     "cantidad": 1500000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER S.A.|3,500|2014 01 10",
                     "porcentaje": 1.2
@@ -11916,7 +11959,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXABANK S.A.|3,250|2014 01 24",
                     "porcentaje": 0.56
@@ -11988,7 +12031,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,600|2",
                     "porcentaje": 0.0
@@ -11996,7 +12039,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKINTER|3,750|2013 07 10",
                     "porcentaje": 0.0
@@ -12004,7 +12047,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCA MARCH|3,750|2013 07 09",
                     "porcentaje": 0.0
@@ -12036,7 +12079,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CITIBANK ESPAÑA|2,750|2013 08 14",
                     "porcentaje": 0.0
@@ -12047,6 +12090,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
+            "liquidez": 4.48,
             "participes": 157,
             "patrimonio": 89952093,
             "periodo": "2013T3",
@@ -12190,7 +12234,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,600|2",
                     "porcentaje": 2.22
@@ -12238,7 +12282,7 @@
                 {
                     "cantidad": 1499175.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,500|2",
                     "porcentaje": 1.67
@@ -12374,7 +12418,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|LA CAIXA|3,250|2014 01 24",
                     "porcentaje": 0.78
@@ -12454,7 +12498,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKINTER|3,750|2013 07 10",
                     "porcentaje": 0.0
@@ -12462,7 +12506,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCA MARCH|3,750|2013 07 09",
                     "porcentaje": 0.0
@@ -12478,7 +12522,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CITIBANK ESPAÑA|2,750|2013 08 14",
                     "porcentaje": 0.0
@@ -12489,6 +12533,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.02,
+            "liquidez": 0.55,
             "participes": 135,
             "patrimonio": 51148564,
             "periodo": "2013T2",
@@ -12560,7 +12605,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,600|2",
                     "porcentaje": 3.91
@@ -12624,7 +12669,7 @@
                 {
                     "cantidad": 1498555.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,500|2",
                     "porcentaje": 2.93
@@ -12632,7 +12677,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKINTER|3,750|2013 07 10",
                     "porcentaje": 2.54
@@ -12640,7 +12685,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCA MARCH|3,750|2013 07 09",
                     "porcentaje": 2.54
@@ -12720,7 +12765,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|LA CAIXA|3,250|2014 01 24",
                     "porcentaje": 1.37
@@ -12728,7 +12773,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CITIBANK ESPAÑA|2,750|2013 08 14",
                     "porcentaje": 1.37
@@ -12827,6 +12872,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
+            "liquidez": 0.46,
             "participes": 135,
             "patrimonio": 50172434,
             "periodo": "2013T1",
@@ -12890,7 +12936,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,600|2",
                     "porcentaje": 3.99
@@ -12946,7 +12992,7 @@
                 {
                     "cantidad": 1498978.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,500|2",
                     "porcentaje": 2.99
@@ -12970,7 +13016,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKINTER|3,750|2013 07 10",
                     "porcentaje": 2.59
@@ -12978,7 +13024,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCA MARCH|3,750|2013 07 09",
                     "porcentaje": 2.59
@@ -13066,7 +13112,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|LA CAIXA|3,250|2014 01 24",
                     "porcentaje": 1.4
@@ -13074,7 +13120,7 @@
                 {
                     "cantidad": 700000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CITIBANK ESPAÑA|2,750|2013 08 14",
                     "porcentaje": 1.4
@@ -13165,6 +13211,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.12,
+            "liquidez": 0.46,
             "participes": 135,
             "patrimonio": 49423295,
             "periodo": "2012T4",
@@ -13228,7 +13275,7 @@
                 {
                     "cantidad": 2000000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCO SANTANDER CENTRAL HISPAN|3,600|2",
                     "porcentaje": 4.05
@@ -13308,7 +13355,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANKINTER|3,750|2013 07 10",
                     "porcentaje": 2.63
@@ -13316,7 +13363,7 @@
                 {
                     "cantidad": 1300000.0,
                     "desde": "2012T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|BANCA MARCH|3,750|2013 07 09",
                     "porcentaje": 2.63
@@ -13535,6 +13582,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.03,
+            "liquidez": 0.72,
             "participes": 136,
             "patrimonio": 45960030,
             "periodo": "2012T3",
@@ -13873,6 +13921,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.2,
+            "liquidez": 0.68,
             "participes": 135,
             "patrimonio": 41932570,
             "periodo": "2012T2",
@@ -14259,6 +14308,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.09,
+            "liquidez": 0.64,
             "participes": 136,
             "patrimonio": 44225861,
             "periodo": "2012T1",
@@ -14621,6 +14671,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.19,
+            "liquidez": 0.59,
             "participes": 136,
             "patrimonio": 38883572,
             "periodo": "2011T4",
@@ -14983,6 +15034,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.05,
+            "liquidez": 0.4,
             "participes": 137,
             "patrimonio": 37577480,
             "periodo": "2011T3",
@@ -15305,6 +15357,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.09,
+            "liquidez": 0.89,
             "participes": 137,
             "patrimonio": 45203641,
             "periodo": "2011T2",
@@ -15627,6 +15680,7 @@
         {
             "gastos": 0.16,
             "indice_rotacion": 0.02,
+            "liquidez": 0.57,
             "participes": 137,
             "patrimonio": 45164208,
             "periodo": "2011T1",
@@ -15949,6 +16003,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.07,
+            "liquidez": 0.45,
             "participes": 138,
             "patrimonio": 42878529,
             "periodo": "2010T4",
@@ -16271,6 +16326,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.05,
+            "liquidez": 1.19,
             "participes": 139,
             "patrimonio": 44313431,
             "periodo": "2010T3",
@@ -16585,6 +16641,7 @@
         {
             "gastos": 0.17,
             "indice_rotacion": 0.0,
+            "liquidez": 1.87,
             "participes": 139,
             "patrimonio": 39468134,
             "periodo": "2010T2",
@@ -16883,6 +16940,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 3.36,
             "participes": 139,
             "patrimonio": 43013706,
             "periodo": "2010T1",

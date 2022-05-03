@@ -1,10 +1,806 @@
 {
     "auditora": "KPMG",
-    "fecha_registro": "21/07/2006",
+    "fecha_registro": "08/02/2019",
     "historico_periodos": [
         {
             "gastos": 0.04,
+            "indice_rotacion": 0.38,
+            "liquidez": 1.18,
+            "participes": 132,
+            "patrimonio": 701577,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 2105424.0,
+                    "desde": "2021T2",
+                    "isin": "PTOTVLOE0001",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 051222",
+                    "porcentaje": 5.46
+                },
+                {
+                    "cantidad": 1997849.0,
+                    "desde": "2021T1",
+                    "isin": "ES0001352568",
+                    "moneda": "euro",
+                    "nombre": "Xunta de Galicia 0,00% 121222",
+                    "porcentaje": 5.18
+                },
+                {
+                    "cantidad": 1774316.0,
+                    "desde": "2019T2",
+                    "isin": "ES0201001163",
+                    "moneda": "euro",
+                    "nombre": "Ayuntamiento de Madrid Float 101022",
+                    "porcentaje": 4.6
+                },
+                {
+                    "cantidad": 1497881.0,
+                    "desde": "2021T3",
+                    "isin": "ES0001351594",
+                    "moneda": "euro",
+                    "nombre": "Junta de Castilla y León 0% 311023",
+                    "porcentaje": 3.88
+                },
+                {
+                    "cantidad": 1441469.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000106544",
+                    "moneda": "euro",
+                    "nombre": "Basque Government 1,25% 130423",
+                    "porcentaje": 3.74
+                },
+                {
+                    "cantidad": 1377347.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000101644",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 2,875% 170723",
+                    "porcentaje": 3.57
+                },
+                {
+                    "cantidad": 1219186.0,
+                    "desde": "2019T1",
+                    "isin": "FI4000233242",
+                    "moneda": "euro",
+                    "nombre": "Evli Short Corporate Bond IB Eur",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 1205354.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005440679",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali del Tes 0% 291122",
+                    "porcentaje": 3.12
+                },
+                {
+                    "cantidad": 1073139.0,
+                    "desde": "2021T3",
+                    "isin": "IT0004356843",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 4,75% 010823",
+                    "porcentaje": 2.78
+                },
+                {
+                    "cantidad": 1046570.0,
+                    "desde": "2021T3",
+                    "isin": "ES0000099178",
+                    "moneda": "euro",
+                    "nombre": "Junta Extremadura 3,875% 140324",
+                    "porcentaje": 2.71
+                },
+                {
+                    "cantidad": 1014758.0,
+                    "desde": "2021T2",
+                    "isin": "ES0378641320",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,85% 171223",
+                    "porcentaje": 2.63
+                },
+                {
+                    "cantidad": 1012010.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005172322",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,95% 150323",
+                    "porcentaje": 2.62
+                },
+                {
+                    "cantidad": 1004252.0,
+                    "desde": "2021T3",
+                    "isin": "ES0001351560",
+                    "moneda": "euro",
+                    "nombre": "Junta Castilla y Leon 0,0% 311022",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1003661.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909W6",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 240223",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1002952.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909T2",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 251122",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1004458.0,
+                    "desde": "2021T2",
+                    "isin": "ES05000909N5",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 270522",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1003769.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909R6",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 300922",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1004255.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909U0",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 301222",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 926844.0,
+                    "desde": "2021T2",
+                    "isin": "ES0000101636",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 3,875% 010922",
+                    "porcentaje": 2.4
+                },
+                {
+                    "cantidad": 903387.0,
+                    "desde": "2021T2",
+                    "isin": "XS2073787470",
+                    "moneda": "euro",
+                    "nombre": "Instituto Credito Oficial 0,0% 311022",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 839269.0,
+                    "desde": "2019T2",
+                    "isin": "LU0658025209",
+                    "moneda": "euro",
+                    "nombre": "Axa Im FIIS Eur Sh Duration HY A EUR",
+                    "porcentaje": 2.18
+                },
+                {
+                    "cantidad": 604187.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641312",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170323",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 604122.0,
+                    "desde": "2021T2",
+                    "isin": "PTOTVKOE0002",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 020822",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 528788.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000123U9",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado 5,40% 310123",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 510684.0,
+                    "desde": "2021T3",
+                    "isin": "ES0000101768",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 0,997% 300924",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 502228.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012F84",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado Cupon Cero  300423",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 501510.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909U0",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 301222",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 501596.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909X4",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 310323",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 440329.0,
+                    "desde": "2019T3",
+                    "isin": "LU0907330798",
+                    "moneda": "euro",
+                    "nombre": "Amundi Euro High Yield Short Term Bondie",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 420143.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005344335",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 2,45% 011023",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 418631.0,
+                    "desde": "2021T1",
+                    "isin": "IE0033758917",
+                    "moneda": "euro",
+                    "nombre": "Muzinich Enhancedyield ST A EUR Hedge",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 401109.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909V8",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 270123",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 301776.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005413684",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,3% 150823",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 299846.0,
+                    "desde": "2022T1",
+                    "isin": "XS1979491559",
+                    "moneda": "euro",
+                    "nombre": "Instituto Credito Oficial 0,2% 310124",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 301676.0,
+                    "desde": "2021T1",
+                    "isin": "XS1730873731",
+                    "moneda": "euro",
+                    "nombre": "ArcelorMittal 0,95% 170123",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 291700.0,
+                    "desde": "2020T3",
+                    "isin": "ES0001380148",
+                    "moneda": "euro",
+                    "nombre": "Principado de Asturias 0,037% 150422",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 206956.0,
+                    "desde": "2021T4",
+                    "isin": "ES0001353384",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Foral Navarra 2,033% 281123",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 207664.0,
+                    "desde": "2021T4",
+                    "isin": "PTOTVMOE0000",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 230725",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 206547.0,
+                    "desde": "2022T1",
+                    "isin": "XS2177552390",
+                    "moneda": "euro",
+                    "nombre": "Amadeus It Group SA 2,5% 200524",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 202738.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013399060",
+                    "moneda": "euro",
+                    "nombre": "Auchan SA 2,625% 300124",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 199989.0,
+                    "desde": "2022T1",
+                    "isin": "ES0521975153",
+                    "moneda": "euro",
+                    "nombre": "Pagare CAF 100622",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199964.0,
+                    "desde": "2022T1",
+                    "isin": "ES05297430Y1",
+                    "moneda": "euro",
+                    "nombre": "Pagare Elecnor 190422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199954.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505223158",
+                    "moneda": "euro",
+                    "nombre": "Pagare Gestamp 300622",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199771.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505079048",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grenergy Renovables 270422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199694.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505293003",
+                    "moneda": "euro",
+                    "nombre": "Pagare Greenalia 290422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199631.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505497117",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grupo Gran Solar 080422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199925.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505324279",
+                    "moneda": "euro",
+                    "nombre": "Pagare Jorge Pork Meat 250422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199971.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505122129",
+                    "moneda": "euro",
+                    "nombre": "Pagare Metrovacesa 130422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199230.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451403",
+                    "moneda": "euro",
+                    "nombre": "Pagare Pryconsa 160922",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199974.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438251",
+                    "moneda": "euro",
+                    "nombre": "Pagare Urbaser 220422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 202397.0,
+                    "desde": "2021T2",
+                    "isin": "XS1409362784",
+                    "moneda": "euro",
+                    "nombre": "Fce Bank Plc 1,615% 110523",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199940.0,
+                    "desde": "2022T1",
+                    "isin": "XS2443478198",
+                    "moneda": "euro",
+                    "nombre": "Pagare CIE Automotive 080922",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199940.0,
+                    "desde": "2022T1",
+                    "isin": "XS2458529836",
+                    "moneda": "euro",
+                    "nombre": "Pagare Melia 120422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 196149.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505112252",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aldesa 200722",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 196050.0,
+                    "desde": "2021T4",
+                    "isin": "XS2288097483",
+                    "moneda": "euro",
+                    "nombre": "Wizz Air Finance Company 1,35% 190124",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 194736.0,
+                    "desde": "2022T1",
+                    "isin": "XS2343821794",
+                    "moneda": "euro",
+                    "nombre": "Volkswagen Leas Gmbh 0% 190724",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 194371.0,
+                    "desde": "2021T2",
+                    "isin": "XS1322536506",
+                    "moneda": "euro",
+                    "nombre": "Intl Consolidated Airlin 0,625% 171122",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 101369.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641338",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170623",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 98662.0,
+                    "desde": "2021T1",
+                    "isin": "ES05051134I8",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 300323",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99521.0,
+                    "desde": "2022T1",
+                    "isin": "ES0582870I63",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sacyr 190722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99991.0,
+                    "desde": "2022T1",
+                    "isin": "ES05051134U3",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 170522",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99789.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505390197",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grupo Cobra 140722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99987.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505130312",
+                    "moneda": "euro",
+                    "nombre": "Pagare Dominion 270522",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 98980.0,
+                    "desde": "2021T3",
+                    "isin": "ES0554653263",
+                    "moneda": "euro",
+                    "nombre": "Pagare Inmobiliaria del Sur 270422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99887.0,
+                    "desde": "2022T1",
+                    "isin": "ES0584696464",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 150722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99971.0,
+                    "desde": "2022T1",
+                    "isin": "ES0584696407",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 290422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99840.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505531055",
+                    "moneda": "euro",
+                    "nombre": "Pagare Premier España 290422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99940.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505461261",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sidenor 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99932.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505401390",
+                    "moneda": "euro",
+                    "nombre": "Pagare Tradebe 060422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99983.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505514150",
+                    "moneda": "euro",
+                    "nombre": "Pagare Via Celere 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99992.0,
+                    "desde": "2022T1",
+                    "isin": "ES0514820515",
+                    "moneda": "euro",
+                    "nombre": "Pagare Vocento 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 100310.0,
+                    "desde": "2019T4",
+                    "isin": "XS2081491727",
+                    "moneda": "euro",
+                    "nombre": "Servicios medio ambiente 0,815% 041223",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99317.0,
+                    "desde": "2019T4",
+                    "isin": "PTVAAAOM0001",
+                    "moneda": "euro",
+                    "nombre": "VAA Vista Alegre ATL 4,5% 211024",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99238.0,
+                    "desde": "2022T1",
+                    "isin": "XS2407913586",
+                    "moneda": "euro",
+                    "nombre": "Thermo Fisher SC Fnce I 0% 181123",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99687.0,
+                    "desde": "2022T1",
+                    "isin": "XS1266662763",
+                    "moneda": "euro",
+                    "nombre": "Softbank Group Corp 4% 300722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99569.0,
+                    "desde": "2021T4",
+                    "isin": "XS2423353098",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sacyr 170622",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 93228.0,
+                    "desde": "2020T3",
+                    "isin": "ES0505287310",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aedas Homes 160922",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "ES05000909K1",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0200002022",
+                    "moneda": "euro",
+                    "nombre": "Adif Alta Velocidad 0,8% 050723",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641312",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "ES0378641270",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,75% 170324",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES05051134I8",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 300323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0224261042",
+                    "moneda": "euro",
+                    "nombre": "Cores 1,5% 271122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505287351",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aedas Homes 280122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505521130",
+                    "moneda": "euro",
+                    "nombre": "Pagare Arteche 190122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505130288",
+                    "moneda": "euro",
+                    "nombre": "Pagare Dominion 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0541571024",
+                    "moneda": "euro",
+                    "nombre": "Pagare Gam 030222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0584696456",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 140122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0584696415",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 170322",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "ES0505401309",
+                    "moneda": "euro",
+                    "nombre": "Pagare Tradebe 140122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505438244",
+                    "moneda": "euro",
+                    "nombre": "Pagare Urbaser 220222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005172322",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,95% 150323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "XS1730873731",
+                    "moneda": "euro",
+                    "nombre": "ArcelorMittal 0,95% 170123",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "XS1209185161",
+                    "moneda": "euro",
+                    "nombre": "Telecom Italia  Spa 1,125% 260322",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "XS2299094016",
+                    "moneda": "euro",
+                    "nombre": "Pagare CIE Automotive 080222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "PTG1VJJM0105",
+                    "moneda": "euro",
+                    "nombre": "Pagare Visabeira 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "LU0891843558",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro High Yield V",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T1",
+                    "isin": "IE00B96G6Y08",
+                    "moneda": "euro",
+                    "nombre": "Muzinich Europeyield Hed Eur Ah",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -0.62
+        },
+        {
+            "gastos": 0.04,
             "indice_rotacion": 0.43,
+            "liquidez": 3.19,
             "participes": 121,
             "patrimonio": 672295,
             "periodo": "2021T4",
@@ -903,6 +1699,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.41,
+            "liquidez": 2.12,
             "participes": 111,
             "patrimonio": 1331545,
             "periodo": "2021T3",
@@ -1721,6 +2518,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.54,
+            "liquidez": 3.42,
             "participes": 95,
             "patrimonio": 1079052,
             "periodo": "2021T2",
@@ -2643,6 +3441,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.31,
+            "liquidez": 2.19,
             "participes": 56,
             "patrimonio": 1081419,
             "periodo": "2021T1",
@@ -3437,6 +4236,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.16,
+            "liquidez": 1.75,
             "participes": 8,
             "patrimonio": 1696211,
             "periodo": "2020T4",
@@ -4295,6 +5095,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.04,
+            "liquidez": 2.0,
             "participes": 7,
             "patrimonio": 2261041,
             "periodo": "2020T3",
@@ -5025,6 +5826,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.36,
+            "liquidez": 2.0,
             "participes": 7,
             "patrimonio": 2507184,
             "periodo": "2020T2",
@@ -6019,6 +6821,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.05,
+            "liquidez": 4.09,
             "participes": 8,
             "patrimonio": 2960532,
             "periodo": "2020T1",
@@ -7045,6 +7848,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.37,
+            "liquidez": 2.18,
             "participes": 7,
             "patrimonio": 2336411,
             "periodo": "2019T4",
@@ -7999,6 +8803,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.14,
+            "liquidez": 3.43,
             "participes": 6,
             "patrimonio": 2122602,
             "periodo": "2019T3",
@@ -8817,6 +9622,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.44,
+            "liquidez": 2.36,
             "participes": 6,
             "patrimonio": 1828411,
             "periodo": "2019T2",
@@ -9683,6 +10489,7 @@
         {
             "gastos": 0.01,
             "indice_rotacion": 0.12,
+            "liquidez": 5.85,
             "participes": 1,
             "patrimonio": 238508,
             "periodo": "2019T1",

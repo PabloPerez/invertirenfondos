@@ -1,10 +1,86 @@
 {
     "auditora": "Deloitte",
-    "fecha_registro": "12/04/2000",
+    "fecha_registro": "21/06/2011",
     "historico_periodos": [
+        {
+            "gastos": 0.7,
+            "indice_rotacion": 0.24,
+            "liquidez": 4.48,
+            "participes": 2580,
+            "patrimonio": 21863834,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 5327914.0,
+                    "desde": "2021T4",
+                    "isin": "IE00B0M63177",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES ETFS/IR",
+                    "porcentaje": 16.14
+                },
+                {
+                    "cantidad": 5289812.0,
+                    "desde": "2018T3",
+                    "isin": "LU1434524929",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CANDRIAM",
+                    "porcentaje": 16.02
+                },
+                {
+                    "cantidad": 5185401.0,
+                    "desde": "2021T4",
+                    "isin": "LU2299087408",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CAP INT FUN/LUX",
+                    "porcentaje": 15.7
+                },
+                {
+                    "cantidad": 4229173.0,
+                    "desde": "2022T1",
+                    "isin": "LU0232465897",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|AB FCP II/LUXEM",
+                    "porcentaje": 12.81
+                },
+                {
+                    "cantidad": 4205279.0,
+                    "desde": "2018T2",
+                    "isin": "LU1770939988",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPMORGAN SICAVL",
+                    "porcentaje": 12.74
+                },
+                {
+                    "cantidad": 3874663.0,
+                    "desde": "2017T2",
+                    "isin": "LU0742536872",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FIDELITY FUNDS",
+                    "porcentaje": 11.74
+                },
+                {
+                    "cantidad": 3366580.0,
+                    "desde": "2021T4",
+                    "isin": "LU1910290466",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SCHRODER INVEST",
+                    "porcentaje": 10.2
+                },
+                {
+                    "cantidad": 4.0,
+                    "desde": "2009T3",
+                    "isin": "ARP125991090",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BBVA BANCO FRAN",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -8.29
+        },
         {
             "gastos": 0.75,
             "indice_rotacion": 0.89,
+            "liquidez": 3.07,
             "participes": 2746,
             "patrimonio": 25334431,
             "periodo": "2021T4",
@@ -95,6 +171,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.08,
+            "liquidez": 5.38,
             "participes": 2949,
             "patrimonio": 27689775,
             "periodo": "2021T3",
@@ -169,6 +246,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.04,
+            "liquidez": 5.14,
             "participes": 3118,
             "patrimonio": 31217481,
             "periodo": "2021T2",
@@ -243,6 +321,7 @@
         {
             "gastos": 0.76,
             "indice_rotacion": 0.03,
+            "liquidez": 3.24,
             "participes": 3242,
             "patrimonio": 31724868,
             "periodo": "2021T1",
@@ -325,6 +404,7 @@
         {
             "gastos": 0.78,
             "indice_rotacion": 0.02,
+            "liquidez": 4.03,
             "participes": 2867,
             "patrimonio": 28269059,
             "periodo": "2020T4",
@@ -407,6 +487,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.07,
+            "liquidez": 2.99,
             "participes": 2812,
             "patrimonio": 24393019,
             "periodo": "2020T3",
@@ -489,6 +570,7 @@
         {
             "gastos": 1.54,
             "indice_rotacion": 0.12,
+            "liquidez": 2.97,
             "participes": 2928,
             "patrimonio": 23797497,
             "periodo": "2020T2",
@@ -571,6 +653,7 @@
         {
             "gastos": 0.78,
             "indice_rotacion": 0.05,
+            "liquidez": 8.09,
             "participes": 3036,
             "patrimonio": 20886308,
             "periodo": "2020T1",
@@ -653,6 +736,7 @@
         {
             "gastos": 0.79,
             "indice_rotacion": 0.0,
+            "liquidez": 3.43,
             "participes": 3248,
             "patrimonio": 29939240,
             "periodo": "2019T4",
@@ -735,6 +819,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.0,
+            "liquidez": 3.96,
             "participes": 3341,
             "patrimonio": 28710244,
             "periodo": "2019T3",
@@ -841,6 +926,7 @@
         {
             "gastos": 0.76,
             "indice_rotacion": 0.13,
+            "liquidez": 3.35,
             "participes": 3476,
             "patrimonio": 30010664,
             "periodo": "2019T2",
@@ -947,6 +1033,7 @@
         {
             "gastos": 0.76,
             "indice_rotacion": 0.11,
+            "liquidez": 3.58,
             "participes": 3560,
             "patrimonio": 30627296,
             "periodo": "2019T1",
@@ -1053,6 +1140,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.42,
+            "liquidez": 2.36,
             "participes": 3543,
             "patrimonio": 26946895,
             "periodo": "2018T4",
@@ -1151,6 +1239,7 @@
         {
             "gastos": 0.78,
             "indice_rotacion": 0.35,
+            "liquidez": 9.87,
             "participes": 3793,
             "patrimonio": 31982406,
             "periodo": "2018T3",
@@ -1233,6 +1322,7 @@
         {
             "gastos": 1.57,
             "indice_rotacion": 0.25,
+            "liquidez": 4.99,
             "participes": 4334,
             "patrimonio": 38404481,
             "periodo": "2018T2",
@@ -1323,6 +1413,7 @@
         {
             "gastos": 0.79,
             "indice_rotacion": 0.01,
+            "liquidez": 5.21,
             "participes": 4654,
             "patrimonio": 43541689,
             "periodo": "2018T1",
@@ -1413,6 +1504,7 @@
         {
             "gastos": 0.81,
             "indice_rotacion": 1.12,
+            "liquidez": 5.13,
             "participes": 4263,
             "patrimonio": 43029745,
             "periodo": "2017T4",
@@ -1511,6 +1603,7 @@
         {
             "gastos": 0.85,
             "indice_rotacion": 0.13,
+            "liquidez": 4.72,
             "participes": 4122,
             "patrimonio": 39835723,
             "periodo": "2017T3",
@@ -1601,6 +1694,7 @@
         {
             "gastos": 0.79,
             "indice_rotacion": 0.6,
+            "liquidez": 5.59,
             "participes": 4148,
             "patrimonio": 37392296,
             "periodo": "2017T2",
@@ -1691,6 +1785,7 @@
         {
             "gastos": 0.84,
             "indice_rotacion": 0.26,
+            "liquidez": 7.89,
             "participes": 4097,
             "patrimonio": 39044972,
             "periodo": "2017T1",
@@ -1773,6 +1868,7 @@
         {
             "gastos": 0.82,
             "indice_rotacion": 0.04,
+            "liquidez": 7.46,
             "participes": 3280,
             "patrimonio": 28821935,
             "periodo": "2016T4",
@@ -1863,6 +1959,7 @@
         {
             "gastos": 0.82,
             "indice_rotacion": 0.0,
+            "liquidez": 6.86,
             "participes": 3119,
             "patrimonio": 27547842,
             "periodo": "2016T3",
@@ -1945,6 +2042,7 @@
         {
             "gastos": 0.82,
             "indice_rotacion": 0.31,
+            "liquidez": 5.37,
             "participes": 2777,
             "patrimonio": 22606717,
             "periodo": "2016T2",
@@ -2027,6 +2125,7 @@
         {
             "gastos": 0.85,
             "indice_rotacion": 0.01,
+            "liquidez": 7.45,
             "participes": 2542,
             "patrimonio": 19218196,
             "periodo": "2016T1",
@@ -2109,6 +2208,7 @@
         {
             "gastos": 0.79,
             "indice_rotacion": 0.21,
+            "liquidez": 4.5,
             "participes": 2398,
             "patrimonio": 18187930,
             "periodo": "2015T4",
@@ -2191,6 +2291,7 @@
         {
             "gastos": 0.81,
             "indice_rotacion": 0.0,
+            "liquidez": 4.14,
             "participes": 2524,
             "patrimonio": 19226414,
             "periodo": "2015T3",
@@ -2265,6 +2366,7 @@
         {
             "gastos": 0.83,
             "indice_rotacion": 0.0,
+            "liquidez": 4.74,
             "participes": 2713,
             "patrimonio": 24675927,
             "periodo": "2015T2",
@@ -2339,6 +2441,7 @@
         {
             "gastos": 0.85,
             "indice_rotacion": 0.0,
+            "liquidez": 4.85,
             "participes": 2779,
             "patrimonio": 26746099,
             "periodo": "2015T1",
@@ -2413,6 +2516,7 @@
         {
             "gastos": 0.78,
             "indice_rotacion": 0.21,
+            "liquidez": 4.49,
             "participes": 2946,
             "patrimonio": 25084660,
             "periodo": "2014T4",
@@ -2487,6 +2591,7 @@
         {
             "gastos": 0.82,
             "indice_rotacion": 0.05,
+            "liquidez": 4.51,
             "participes": 3173,
             "patrimonio": 27746668,
             "periodo": "2014T3",
@@ -2561,6 +2666,7 @@
         {
             "gastos": 0.82,
             "indice_rotacion": 1.12,
+            "liquidez": 4.87,
             "participes": 3036,
             "patrimonio": 25037071,
             "periodo": "2014T2",
@@ -2635,6 +2741,7 @@
         {
             "gastos": 0.85,
             "indice_rotacion": 0.39,
+            "liquidez": 4.48,
             "participes": 3108,
             "patrimonio": 23593205,
             "periodo": "2014T1",
@@ -2781,6 +2888,7 @@
         {
             "gastos": 0.67,
             "indice_rotacion": 0.95,
+            "liquidez": 4.67,
             "participes": 3867,
             "patrimonio": 32708952,
             "periodo": "2013T4",
@@ -2943,6 +3051,7 @@
         {
             "gastos": 0.72,
             "indice_rotacion": 0.76,
+            "liquidez": 19.77,
             "participes": 4489,
             "patrimonio": 39805905,
             "periodo": "2013T3",
@@ -3081,6 +3190,7 @@
         {
             "gastos": 0.8,
             "indice_rotacion": 0.26,
+            "liquidez": 6.6,
             "participes": 5105,
             "patrimonio": 53047186,
             "periodo": "2013T2",
@@ -3219,6 +3329,7 @@
         {
             "gastos": 0.86,
             "indice_rotacion": 0.05,
+            "liquidez": 6.92,
             "participes": 5577,
             "patrimonio": 70872802,
             "periodo": "2013T1",
@@ -3349,6 +3460,7 @@
         {
             "gastos": 0.7,
             "indice_rotacion": 0.51,
+            "liquidez": 7.47,
             "participes": 5712,
             "patrimonio": 72497111,
             "periodo": "2012T4",
@@ -3471,6 +3583,7 @@
         {
             "gastos": 0.77,
             "indice_rotacion": 0.19,
+            "liquidez": 7.45,
             "participes": 5990,
             "patrimonio": 73109537,
             "periodo": "2012T3",
@@ -3585,6 +3698,7 @@
         {
             "gastos": 0.81,
             "indice_rotacion": 0.59,
+            "liquidez": 7.91,
             "participes": 6257,
             "patrimonio": 74482336,
             "periodo": "2012T2",
@@ -3691,6 +3805,7 @@
         {
             "gastos": 0.83,
             "indice_rotacion": 0.49,
+            "liquidez": 7.03,
             "participes": 6540,
             "patrimonio": 82231034,
             "periodo": "2012T1",
@@ -3797,6 +3912,7 @@
         {
             "gastos": 0.67,
             "indice_rotacion": 0.14,
+            "liquidez": 5.27,
             "participes": 6592,
             "patrimonio": 78687442,
             "periodo": "2011T4",
@@ -3903,6 +4019,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.08,
+            "liquidez": 5.22,
             "participes": 6981,
             "patrimonio": 79494357,
             "periodo": "2011T3",
@@ -4017,6 +4134,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.59,
+            "liquidez": 7.14,
             "participes": 7520,
             "patrimonio": 110852559,
             "periodo": "2011T2",
@@ -4131,6 +4249,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.42,
+            "liquidez": 8.57,
             "participes": 7831,
             "patrimonio": 128429812,
             "periodo": "2011T1",
@@ -4261,6 +4380,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.0,
+            "liquidez": 11.07,
             "participes": 8320,
             "patrimonio": 153259329,
             "periodo": "2010T4",
@@ -4383,6 +4503,7 @@
         {
             "gastos": 0.61,
             "indice_rotacion": 0.02,
+            "liquidez": 9.66,
             "participes": 6895,
             "patrimonio": 99846623,
             "periodo": "2010T3",
@@ -4513,6 +4634,7 @@
         {
             "gastos": 0.6,
             "indice_rotacion": 0.01,
+            "liquidez": 10.35,
             "participes": 6252,
             "patrimonio": 77221084,
             "periodo": "2010T2",
@@ -4651,6 +4773,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.04,
+            "liquidez": 10.36,
             "participes": 5755,
             "patrimonio": 65603885,
             "periodo": "2010T1",
@@ -4757,6 +4880,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 10.81,
             "participes": 4985,
             "patrimonio": 49225153,
             "periodo": "2009T4",
@@ -4855,6 +4979,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 11.7,
             "participes": 4432,
             "patrimonio": 36775728,
             "periodo": "2009T3",
@@ -5001,6 +5126,7 @@
         {
             "gastos": 0.38,
             "indice_rotacion": 1.3,
+            "liquidez": 6.85,
             "participes": 2676,
             "patrimonio": 17714240,
             "periodo": "2009T2",

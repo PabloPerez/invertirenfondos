@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FRANKLIN LIBERTYSHAR
+isin: IE00BHZRR253
+---

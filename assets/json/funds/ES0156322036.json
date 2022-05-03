@@ -3,8 +3,396 @@
     "fecha_registro": "16/05/1986",
     "historico_periodos": [
         {
+            "gastos": 0.29,
+            "indice_rotacion": 0.08,
+            "liquidez": 17.97,
+            "participes": 170,
+            "patrimonio": 7049747,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 800000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0L02210075",
+                    "moneda": "euro",
+                    "nombre": "REPO|CACEIS|-0,60|2022-04-01",
+                    "porcentaje": 11.35
+                },
+                {
+                    "cantidad": 407822.0,
+                    "desde": "2019T4",
+                    "isin": "XS1584041252",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BNP PARIBAS SA|0,36|2022-09-22",
+                    "porcentaje": 5.78
+                },
+                {
+                    "cantidad": 311988.0,
+                    "desde": "2020T2",
+                    "isin": "XS0826531120",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|NESTLE FINANCE INTL|1,75|2022-09-12",
+                    "porcentaje": 4.43
+                },
+                {
+                    "cantidad": 310688.0,
+                    "desde": "2020T2",
+                    "isin": "XS1314318301",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|PROCTER & GAMBLE CO|1,13|2023-11-02",
+                    "porcentaje": 4.41
+                },
+                {
+                    "cantidad": 304753.0,
+                    "desde": "2021T4",
+                    "isin": "XS1196373507",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|AT&T INC|1,30|2023-09-05",
+                    "porcentaje": 4.32
+                },
+                {
+                    "cantidad": 302564.0,
+                    "desde": "2019T4",
+                    "isin": "XS1564443759",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|IBERDROLA FINANZAS|0,14|2024-02-20",
+                    "porcentaje": 4.29
+                },
+                {
+                    "cantidad": 300010.0,
+                    "desde": "2021T4",
+                    "isin": "XS2399204622",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|ACCIONA|-0,04|2022-05-16",
+                    "porcentaje": 4.26
+                },
+                {
+                    "cantidad": 247415.0,
+                    "desde": "2019T4",
+                    "isin": "ES0116829039",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|EURO EQUITIES",
+                    "porcentaje": 3.51
+                },
+                {
+                    "cantidad": 246569.0,
+                    "desde": "2020T2",
+                    "isin": "XS1135334800",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|APPLE INC|1,00|2022-11-10",
+                    "porcentaje": 3.5
+                },
+                {
+                    "cantidad": 200891.0,
+                    "desde": "2019T4",
+                    "isin": "XS1840614736",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BAYER CAPITAL CORPOR|-0,11|2022-06-26",
+                    "porcentaje": 2.85
+                },
+                {
+                    "cantidad": 199957.0,
+                    "desde": "2022T1",
+                    "isin": "XS2432576895",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|CIE AUTOMOTIVE SA|-0,02|2022-07-11",
+                    "porcentaje": 2.84
+                },
+                {
+                    "cantidad": 199339.0,
+                    "desde": "2019T4",
+                    "isin": "DE000A2GSCY9",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|DAIMLER AG|0,00|2024-07-03",
+                    "porcentaje": 2.83
+                },
+                {
+                    "cantidad": 199157.0,
+                    "desde": "2019T4",
+                    "isin": "XS1767930826",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|FORD MOTOR CREDIT CO|0,00|2022-12-07",
+                    "porcentaje": 2.83
+                },
+                {
+                    "cantidad": 150305.0,
+                    "desde": "2020T3",
+                    "isin": "XS2020670696",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|MEDTRONIC GBLHOLDING|-0,07|2022-12-02",
+                    "porcentaje": 2.13
+                },
+                {
+                    "cantidad": 115988.0,
+                    "desde": "2019T4",
+                    "isin": "ES0115527030",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|CAT PATRIMONIS",
+                    "porcentaje": 1.65
+                },
+                {
+                    "cantidad": 99982.0,
+                    "desde": "2021T4",
+                    "isin": "ES0517360048",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|CEMENTOS MOLINS|0,02|2022-06-22",
+                    "porcentaje": 1.42
+                },
+                {
+                    "cantidad": 99462.0,
+                    "desde": "2020T4",
+                    "isin": "XS1598757760",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|GRIFOLS|3,20|2025-05-01",
+                    "porcentaje": 1.41
+                },
+                {
+                    "cantidad": 83078.0,
+                    "desde": "2021T1",
+                    "isin": "GB00B24CGK77",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|RECKITT BENCKISER",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 79360.0,
+                    "desde": "2021T1",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|IBERDROLA SA",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 77895.0,
+                    "desde": "2021T3",
+                    "isin": "FR0000131104",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BNP PARIBAS SA",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 71766.0,
+                    "desde": "2020T4",
+                    "isin": "CH0012032048",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ROCHE HOLDING AG",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 70000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0117360117",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CEMENTOS MOLINS",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 61418.0,
+                    "desde": "2021T4",
+                    "isin": "GB00B10RZP78",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|UNILEVER",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 58251.0,
+                    "desde": "2019T4",
+                    "isin": "ES0162864005",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|I2 DESARROLLO",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 57066.0,
+                    "desde": "2021T3",
+                    "isin": "NL0011821202",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ING GROEP NV",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 53222.0,
+                    "desde": "2020T4",
+                    "isin": "LU1378878604",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MORGAN STANLEY ASIA",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 52489.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005557508",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE TELEKOM AG",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 50030.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000120644",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DANONE SA",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 47100.0,
+                    "desde": "2021T1",
+                    "isin": "DE0007664039",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VOLKSWAGEN",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 43310.0,
+                    "desde": "2019T4",
+                    "isin": "DE0008404005",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALLIANZ SE",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 41670.0,
+                    "desde": "2022T1",
+                    "isin": "IT0000072618",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|INTESA SANPAOLO SPA",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 40576.0,
+                    "desde": "2019T4",
+                    "isin": "FR0010208488",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|GDF SUEZ",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 37698.0,
+                    "desde": "2022T1",
+                    "isin": "US02079K3059",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALPHABET INC",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 37698.0,
+                    "desde": "2019T4",
+                    "isin": "DE0007236101",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SIEMENS AG",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 33370.0,
+                    "desde": "2020T4",
+                    "isin": "LU1997245250",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ALLIANZ CHINA A-SHAR",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 32676.0,
+                    "desde": "2022T1",
+                    "isin": "ES0127797019",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|EDP RENOVAVEIS SA",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 32547.0,
+                    "desde": "2020T2",
+                    "isin": "FR0000125486",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VINCI SA",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 32600.0,
+                    "desde": "2021T2",
+                    "isin": "DE0005810055",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE BOERSE AG",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 27130.0,
+                    "desde": "2019T4",
+                    "isin": "BE0974293251",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ANHEUSER BUSCH IN WO",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 25480.0,
+                    "desde": "2021T4",
+                    "isin": "ES0183746314",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VIDRALA SA",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 24880.0,
+                    "desde": "2022T1",
+                    "isin": "FR0004125920",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AMUNDI SA",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 23788.0,
+                    "desde": "2021T4",
+                    "isin": "ES0164180012",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MIQUEL Y COSTAS",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 20480.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A161408",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|HELLOFRESH SE",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 16704.0,
+                    "desde": "2022T1",
+                    "isin": "GB00BNTJ3546",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALLFUNDS GROUP PLC",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 14938.0,
+                    "desde": "2021T4",
+                    "isin": "SE0000108656",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ERICSSON",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 14312.0,
+                    "desde": "2021T2",
+                    "isin": "ES0105561007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PARLEM TELECOM CO DE",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 9908.0,
+                    "desde": "2021T2",
+                    "isin": "FR0000051732",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ATOS",
+                    "porcentaje": 0.14
+                }
+            ],
+            "rentabilidad": -1.77
+        },
+        {
             "gastos": 0.3,
             "indice_rotacion": 0.09,
+            "liquidez": 12.54,
             "participes": 172,
             "patrimonio": 6972388,
             "periodo": "2021T4",
@@ -19,7 +407,7 @@
                 },
                 {
                     "cantidad": 408280.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "XS1584041252",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|BNP PARIBAS SA|0,26|2022-09-22",
@@ -27,7 +415,7 @@
                 },
                 {
                     "cantidad": 312436.0,
-                    "desde": "2021T4",
+                    "desde": "2020T2",
                     "isin": "XS1314318301",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|PROCTER & GAMBLE CO|1,13|2023-11-02",
@@ -35,7 +423,7 @@
                 },
                 {
                     "cantidad": 312378.0,
-                    "desde": "2021T4",
+                    "desde": "2020T2",
                     "isin": "XS0826531120",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|NESTLE FINANCE INTL|1,75|2022-09-12",
@@ -51,7 +439,7 @@
                 },
                 {
                     "cantidad": 304169.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "XS1564443759",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|IBERDROLA FINANZAS|0,11|2024-02-20",
@@ -67,7 +455,7 @@
                 },
                 {
                     "cantidad": 264910.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "ES0116829039",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|EURO EQUITIES",
@@ -75,7 +463,7 @@
                 },
                 {
                     "cantidad": 246937.0,
-                    "desde": "2021T4",
+                    "desde": "2020T2",
                     "isin": "XS1135334800",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|APPLE INC|1,00|2022-11-10",
@@ -83,7 +471,7 @@
                 },
                 {
                     "cantidad": 200699.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "DE000A2GSCY9",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|DAIMLER AG|0,00|2024-07-03",
@@ -91,7 +479,7 @@
                 },
                 {
                     "cantidad": 201106.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "XS1840614736",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|BAYER CAPITAL CORPOR|-0,11|2022-06-26",
@@ -99,7 +487,7 @@
                 },
                 {
                     "cantidad": 199122.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "XS1767930826",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|FORD MOTOR CREDIT CO|0,00|2022-12-07",
@@ -107,7 +495,7 @@
                 },
                 {
                     "cantidad": 150506.0,
-                    "desde": "2021T4",
+                    "desde": "2020T3",
                     "isin": "XS2020670696",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|MEDTRONIC GBLHOLDING|-0,07|2022-12-02",
@@ -115,7 +503,7 @@
                 },
                 {
                     "cantidad": 124920.0,
-                    "desde": "2021T4",
+                    "desde": "2021T1",
                     "isin": "ES0144580Y14",
                     "moneda": "euro",
                     "nombre": "ACCIONES|IBERDROLA SA",
@@ -123,7 +511,7 @@
                 },
                 {
                     "cantidad": 116536.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "ES0115527030",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|CAT PATRIMONIS",
@@ -131,7 +519,7 @@
                 },
                 {
                     "cantidad": 100055.0,
-                    "desde": "2021T4",
+                    "desde": "2020T2",
                     "isin": "FR0013409836",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|SANOFI|0,01|2022-03-21",
@@ -139,7 +527,7 @@
                 },
                 {
                     "cantidad": 100120.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "FR0013260486",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|RCI BANQUE SA|0,13|2022-03-14",
@@ -155,7 +543,7 @@
                 },
                 {
                     "cantidad": 99885.0,
-                    "desde": "2021T4",
+                    "desde": "2020T4",
                     "isin": "XS1598757760",
                     "moneda": "euro",
                     "nombre": "RENTA FIJA|GRIFOLS|3,20|2025-05-01",
@@ -163,7 +551,7 @@
                 },
                 {
                     "cantidad": 90457.0,
-                    "desde": "2021T4",
+                    "desde": "2021T1",
                     "isin": "GB00B24CGK77",
                     "moneda": "euro",
                     "nombre": "ACCIONES|RECKITT BENCKISER",
@@ -171,7 +559,7 @@
                 },
                 {
                     "cantidad": 73200.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "ES0117360117",
                     "moneda": "euro",
                     "nombre": "ACCIONES|CEMENTOS MOLINS",
@@ -179,7 +567,7 @@
                 },
                 {
                     "cantidad": 73078.0,
-                    "desde": "2021T4",
+                    "desde": "2020T4",
                     "isin": "CH0012032048",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ROCHE HOLDING AG",
@@ -195,7 +583,7 @@
                 },
                 {
                     "cantidad": 64701.0,
-                    "desde": "2021T4",
+                    "desde": "2021T2",
                     "isin": "ES0184933812",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ZARDOYA OTIS",
@@ -203,7 +591,7 @@
                 },
                 {
                     "cantidad": 63288.0,
-                    "desde": "2021T4",
+                    "desde": "2020T4",
                     "isin": "LU1378878604",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|MORGAN STANLEY ASIA",
@@ -211,7 +599,7 @@
                 },
                 {
                     "cantidad": 57828.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "ES0162864005",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|I2 DESARROLLO",
@@ -219,7 +607,7 @@
                 },
                 {
                     "cantidad": 54590.0,
-                    "desde": "2021T4",
+                    "desde": "2020T1",
                     "isin": "FR0000120644",
                     "moneda": "euro",
                     "nombre": "ACCIONES|DANONE SA",
@@ -227,7 +615,7 @@
                 },
                 {
                     "cantidad": 54693.0,
-                    "desde": "2021T4",
+                    "desde": "2021T3",
                     "isin": "FR0000131104",
                     "moneda": "euro",
                     "nombre": "ACCIONES|BNP PARIBAS SA",
@@ -235,7 +623,7 @@
                 },
                 {
                     "cantidad": 53865.0,
-                    "desde": "2021T4",
+                    "desde": "2021T3",
                     "isin": "NL0011821202",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ING GROEP NV",
@@ -243,7 +631,7 @@
                 },
                 {
                     "cantidad": 53244.0,
-                    "desde": "2021T4",
+                    "desde": "2021T1",
                     "isin": "DE0007664039",
                     "moneda": "euro",
                     "nombre": "ACCIONES|VOLKSWAGEN",
@@ -251,7 +639,7 @@
                 },
                 {
                     "cantidad": 50530.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "DE0005557508",
                     "moneda": "euro",
                     "nombre": "ACCIONES|DEUTSCHE TELEKOM AG",
@@ -259,7 +647,7 @@
                 },
                 {
                     "cantidad": 45804.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "DE0007236101",
                     "moneda": "euro",
                     "nombre": "ACCIONES|SIEMENS AG",
@@ -267,7 +655,7 @@
                 },
                 {
                     "cantidad": 44248.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "FR0010208488",
                     "moneda": "euro",
                     "nombre": "ACCIONES|GDF SUEZ",
@@ -275,7 +663,7 @@
                 },
                 {
                     "cantidad": 41530.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "DE0008404005",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ALLIANZ SE",
@@ -283,7 +671,7 @@
                 },
                 {
                     "cantidad": 39770.0,
-                    "desde": "2021T4",
+                    "desde": "2020T4",
                     "isin": "LU1997245250",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|ALLIANZ CHINA A-SHAR",
@@ -291,7 +679,7 @@
                 },
                 {
                     "cantidad": 39458.0,
-                    "desde": "2021T4",
+                    "desde": "2020T4",
                     "isin": "LU1732777682",
                     "moneda": "euro",
                     "nombre": "PARTICIPACIONES|ABERDEEN GBL-CHINA A",
@@ -299,7 +687,7 @@
                 },
                 {
                     "cantidad": 37470.0,
-                    "desde": "2021T4",
+                    "desde": "2020T1",
                     "isin": "DE0007164600",
                     "moneda": "euro",
                     "nombre": "ACCIONES|SAP AG",
@@ -323,7 +711,7 @@
                 },
                 {
                     "cantidad": 32519.0,
-                    "desde": "2021T4",
+                    "desde": "2020T2",
                     "isin": "FR0000125486",
                     "moneda": "euro",
                     "nombre": "ACCIONES|VINCI SA",
@@ -331,7 +719,7 @@
                 },
                 {
                     "cantidad": 29420.0,
-                    "desde": "2021T4",
+                    "desde": "2021T2",
                     "isin": "DE0005810055",
                     "moneda": "euro",
                     "nombre": "ACCIONES|DEUTSCHE BOERSE AG",
@@ -339,7 +727,7 @@
                 },
                 {
                     "cantidad": 26585.0,
-                    "desde": "2021T4",
+                    "desde": "2019T4",
                     "isin": "BE0974293251",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ANHEUSER BUSCH IN WO",
@@ -355,7 +743,7 @@
                 },
                 {
                     "cantidad": 16181.0,
-                    "desde": "2021T4",
+                    "desde": "2021T2",
                     "isin": "ES0105561007",
                     "moneda": "euro",
                     "nombre": "ACCIONES|PARLEM TELECOM CO DE",
@@ -363,7 +751,7 @@
                 },
                 {
                     "cantidad": 14956.0,
-                    "desde": "2021T4",
+                    "desde": "2021T2",
                     "isin": "FR0000051732",
                     "moneda": "euro",
                     "nombre": "ACCIONES|ATOS",
@@ -373,290 +761,372 @@
             "rentabilidad": 0.75
         },
         {
-            "gastos": 0.41,
-            "indice_rotacion": 0.65,
-            "participes": 4284,
-            "patrimonio": 41720822,
+            "gastos": 0.3,
+            "indice_rotacion": 0.0,
+            "liquidez": 16.75,
+            "participes": 173,
+            "patrimonio": 6655478,
             "periodo": "2021T3",
             "posiciones": [
                 {
-                    "cantidad": 3059820.0,
+                    "cantidad": 600000.0,
                     "desde": "2021T3",
-                    "isin": "CA1125851040",
+                    "isin": "ES0000012F92",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|BAM/A CN Brookfield Asset Management In",
-                    "porcentaje": 7.33
+                    "nombre": "REPO|CACEIS|-0,57|2021-10-01",
+                    "porcentaje": 9.02
                 },
                 {
-                    "cantidad": 2579576.0,
-                    "desde": "2021T3",
-                    "isin": "US88160R1014",
+                    "cantidad": 408810.0,
+                    "desde": "2019T4",
+                    "isin": "XS1584041252",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|TSLA US TESLA INC",
-                    "porcentaje": 6.18
+                    "nombre": "RENTA FIJA|BNP PARIBAS SA|0,31|2022-09-22",
+                    "porcentaje": 6.14
                 },
                 {
-                    "cantidad": 2364886.0,
-                    "desde": "2021T3",
-                    "isin": "US30303M1027",
+                    "cantidad": 313541.0,
+                    "desde": "2020T2",
+                    "isin": "XS1314318301",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|FB US Facebook Inc",
-                    "porcentaje": 5.67
+                    "nombre": "RENTA FIJA|PROCTER & GAMBLE CO|1,13|2023-11-02",
+                    "porcentaje": 4.71
                 },
                 {
-                    "cantidad": 2047876.0,
-                    "desde": "2021T3",
-                    "isin": "US5949724083",
+                    "cantidad": 312957.0,
+                    "desde": "2020T2",
+                    "isin": "XS0826531120",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|MSTR US MicroStrategy Inc",
-                    "porcentaje": 4.91
+                    "nombre": "RENTA FIJA|NESTLE FINANCE INTL|1,75|2022-09-12",
+                    "porcentaje": 4.7
                 },
                 {
-                    "cantidad": 2012806.0,
-                    "desde": "2021T3",
-                    "isin": "US0231351067",
+                    "cantidad": 304170.0,
+                    "desde": "2019T4",
+                    "isin": "XS1564443759",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|AMZN US AMAZON.COM INC",
-                    "porcentaje": 4.82
+                    "nombre": "RENTA FIJA|IBERDROLA FINANZAS|0,12|2024-02-20",
+                    "porcentaje": 4.57
                 },
                 {
-                    "cantidad": 1929924.0,
-                    "desde": "2021T3",
-                    "isin": "US44267D1072",
+                    "cantidad": 299999.0,
+                    "desde": "2021T2",
+                    "isin": "XS2329615541",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|HHC US Howard Hughes Corp/The",
-                    "porcentaje": 4.63
+                    "nombre": "PAGARE|ACCIONA|0,05|2021-10-07",
+                    "porcentaje": 4.51
                 },
                 {
-                    "cantidad": 1745987.0,
-                    "desde": "2021T3",
-                    "isin": "US47215P1066",
+                    "cantidad": 257105.0,
+                    "desde": "2019T4",
+                    "isin": "XS1369278251",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|JD US JD.com Inc",
-                    "porcentaje": 4.18
+                    "nombre": "RENTA FIJA|AMGEN INC|1,25|2022-02-25",
+                    "porcentaje": 3.86
                 },
                 {
-                    "cantidad": 1694477.0,
-                    "desde": "2021T3",
-                    "isin": "JP3436100006",
+                    "cantidad": 253043.0,
+                    "desde": "2019T4",
+                    "isin": "ES0116829039",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|9984 JP SOFTBANK GROUP CORP",
-                    "porcentaje": 4.06
+                    "nombre": "PARTICIPACIONES|EURO EQUITIES",
+                    "porcentaje": 3.8
                 },
                 {
-                    "cantidad": 1636853.0,
-                    "desde": "2021T3",
-                    "isin": "US5705351048",
+                    "cantidad": 247211.0,
+                    "desde": "2020T2",
+                    "isin": "XS1135334800",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|MKL US Markel Corp",
-                    "porcentaje": 3.92
+                    "nombre": "RENTA FIJA|APPLE INC|1,00|2022-11-10",
+                    "porcentaje": 3.71
                 },
                 {
-                    "cantidad": 1530677.0,
-                    "desde": "2021T3",
-                    "isin": "LU1778762911",
+                    "cantidad": 201208.0,
+                    "desde": "2019T4",
+                    "isin": "XS1840614736",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|SPOT US Spotify Technology SA",
-                    "porcentaje": 3.67
+                    "nombre": "RENTA FIJA|BAYER CAPITAL CORPOR|0,01|2022-06-26",
+                    "porcentaje": 3.02
                 },
                 {
-                    "cantidad": 1351350.0,
-                    "desde": "2021T3",
-                    "isin": "FR0000039299",
+                    "cantidad": 200561.0,
+                    "desde": "2019T4",
+                    "isin": "DE000A2GSCY9",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|BOL FP BOLLORE SA",
-                    "porcentaje": 3.24
+                    "nombre": "RENTA FIJA|DAIMLER AG|0,00|2024-07-03",
+                    "porcentaje": 3.01
                 },
                 {
-                    "cantidad": 1264725.0,
-                    "desde": "2021T3",
-                    "isin": "NL0013654783",
+                    "cantidad": 199053.0,
+                    "desde": "2019T4",
+                    "isin": "XS1767930826",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|PRX NA PROSUS NV",
-                    "porcentaje": 3.03
+                    "nombre": "RENTA FIJA|FORD MOTOR CREDIT CO|0,00|2022-12-07",
+                    "porcentaje": 2.99
                 },
                 {
-                    "cantidad": 1084818.0,
-                    "desde": "2021T3",
-                    "isin": "CA26153M5072",
+                    "cantidad": 150710.0,
+                    "desde": "2020T3",
+                    "isin": "XS2020670696",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|DRM CN DREAM Unlimited Corp",
-                    "porcentaje": 2.6
+                    "nombre": "RENTA FIJA|MEDTRONIC GBLHOLDING|-0,07|2022-12-02",
+                    "porcentaje": 2.26
                 },
                 {
-                    "cantidad": 1050117.0,
-                    "desde": "2021T3",
-                    "isin": "US78409V1044",
+                    "cantidad": 126000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0117360117",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|SPGI US S&P Global Inc",
-                    "porcentaje": 2.52
-                },
-                {
-                    "cantidad": 987720.0,
-                    "desde": "2021T3",
-                    "isin": "US29786A1060",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|ETSY US Etsy Inc",
-                    "porcentaje": 2.37
-                },
-                {
-                    "cantidad": 954948.0,
-                    "desde": "2021T3",
-                    "isin": "US0171751003",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|Y US Alleghany Corp",
-                    "porcentaje": 2.29
-                },
-                {
-                    "cantidad": 853282.0,
-                    "desde": "2021T3",
-                    "isin": "US09225M1018",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|BSM US Black Stone Minerals LP",
-                    "porcentaje": 2.05
-                },
-                {
-                    "cantidad": 843808.0,
-                    "desde": "2021T3",
-                    "isin": "US46590V1008",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|JBGS US JBG SMITH Properties",
-                    "porcentaje": 2.02
-                },
-                {
-                    "cantidad": 830774.0,
-                    "desde": "2021T3",
-                    "isin": "US14161W1053",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|CDLX US Cardlytics Inc",
-                    "porcentaje": 1.99
-                },
-                {
-                    "cantidad": 809794.0,
-                    "desde": "2021T3",
-                    "isin": "US50187T1060",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|LGIH US LGI Homes Inc",
-                    "porcentaje": 1.94
-                },
-                {
-                    "cantidad": 795966.0,
-                    "desde": "2021T3",
-                    "isin": "JP3756600007",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|7974 JP Nintendo Co Ltd",
-                    "porcentaje": 1.91
-                },
-                {
-                    "cantidad": 791295.0,
-                    "desde": "2021T3",
-                    "isin": "BMG0450A1053",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|ACGL US Arch Capital Group Ltd",
-                    "porcentaje": 1.9
-                },
-                {
-                    "cantidad": 790091.0,
-                    "desde": "2021T3",
-                    "isin": "US1152361010",
-                    "moneda": "euro",
-                    "nombre": "ACCIONES|BRO US Brown & Brown Inc",
+                    "nombre": "ACCIONES|CEMENTOS MOLINS",
                     "porcentaje": 1.89
                 },
                 {
-                    "cantidad": 725579.0,
-                    "desde": "2021T3",
-                    "isin": "NZRYME0001S4",
+                    "cantidad": 115510.0,
+                    "desde": "2019T4",
+                    "isin": "ES0115527030",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|RYM NZ Ryman Healthcare Ltd",
+                    "nombre": "PARTICIPACIONES|CAT PATRIMONIS",
                     "porcentaje": 1.74
                 },
                 {
-                    "cantidad": 675078.0,
-                    "desde": "2021T3",
-                    "isin": "US44891N2080",
+                    "cantidad": 100309.0,
+                    "desde": "2020T4",
+                    "isin": "XS1598757760",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|IAC US IAC/InterActiveCorp",
-                    "porcentaje": 1.62
+                    "nombre": "RENTA FIJA|GRIFOLS|3,20|2025-05-01",
+                    "porcentaje": 1.51
                 },
                 {
-                    "cantidad": 645881.0,
-                    "desde": "2021T3",
-                    "isin": "US30292L1070",
+                    "cantidad": 100231.0,
+                    "desde": "2019T4",
+                    "isin": "FR0013260486",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|FRPH US FRP Holdings Inc",
-                    "porcentaje": 1.55
+                    "nombre": "RENTA FIJA|RCI BANQUE SA|0,13|2022-03-14",
+                    "porcentaje": 1.51
                 },
                 {
-                    "cantidad": 566943.0,
-                    "desde": "2021T3",
-                    "isin": "US4370761029",
+                    "cantidad": 99970.0,
+                    "desde": "2021T2",
+                    "isin": "ES0517360022",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|HD US HOME DEPOT INC",
-                    "porcentaje": 1.36
+                    "nombre": "PAGARE|CEMENTOS MOLINS|0,05|2021-11-22",
+                    "porcentaje": 1.5
                 },
                 {
-                    "cantidad": 543275.0,
-                    "desde": "2021T3",
-                    "isin": "CA68272K1030",
+                    "cantidad": 100152.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013409836",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|ONEX CN Onex Corp",
-                    "porcentaje": 1.3
+                    "nombre": "RENTA FIJA|SANOFI|0,01|2022-03-21",
+                    "porcentaje": 1.5
                 },
                 {
-                    "cantidad": 518549.0,
-                    "desde": "2021T3",
-                    "isin": "US1255231003",
+                    "cantidad": 81416.0,
+                    "desde": "2021T1",
+                    "isin": "GB00B24CGK77",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|CI US CIGNA CORP",
-                    "porcentaje": 1.24
+                    "nombre": "ACCIONES|RECKITT BENCKISER",
+                    "porcentaje": 1.22
                 },
                 {
-                    "cantidad": 512508.0,
-                    "desde": "2021T3",
-                    "isin": "US7901481009",
+                    "cantidad": 79626.0,
+                    "desde": "2021T1",
+                    "isin": "ES0173093024",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|JOE US St Joe Co/The",
-                    "porcentaje": 1.23
+                    "nombre": "ACCIONES|REDESA",
+                    "porcentaje": 1.2
                 },
                 {
-                    "cantidad": 457029.0,
-                    "desde": "2021T3",
-                    "isin": "US9426222009",
+                    "cantidad": 68052.0,
+                    "desde": "2019T4",
+                    "isin": "FR0010208488",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|WSO US Watsco Inc",
-                    "porcentaje": 1.1
+                    "nombre": "ACCIONES|GDF SUEZ",
+                    "porcentaje": 1.02
                 },
                 {
-                    "cantidad": 447021.0,
-                    "desde": "2021T3",
-                    "isin": "US5398301094",
+                    "cantidad": 64822.0,
+                    "desde": "2020T4",
+                    "isin": "LU1378878604",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|LMT US Lockheed Martin Corp",
-                    "porcentaje": 1.07
+                    "nombre": "PARTICIPACIONES|MORGAN STANLEY ASIA",
+                    "porcentaje": 0.97
                 },
                 {
-                    "cantidad": 350979.0,
-                    "desde": "2021T3",
-                    "isin": "US7462283034",
+                    "cantidad": 63882.0,
+                    "desde": "2021T2",
+                    "isin": "ES0184933812",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|PCYO US Pure Cycle Corp",
-                    "porcentaje": 0.84
+                    "nombre": "ACCIONES|ZARDOYA OTIS",
+                    "porcentaje": 0.96
                 },
                 {
-                    "cantidad": 103774.0,
-                    "desde": "2021T3",
-                    "isin": "US71531R1095",
+                    "cantidad": 63408.0,
+                    "desde": "2020T4",
+                    "isin": "CH0012032048",
                     "moneda": "euro",
-                    "nombre": "ACCIONES|PSTH US Pershing Square Tontine Holdin",
-                    "porcentaje": 0.25
+                    "nombre": "ACCIONES|ROCHE HOLDING AG",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 59050.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000120644",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DANONE SA",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 58794.0,
+                    "desde": "2019T4",
+                    "isin": "ES0162864005",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|I2 DESARROLLO",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 56446.0,
+                    "desde": "2021T1",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|IBERDROLA SA",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 55299.0,
+                    "desde": "2021T3",
+                    "isin": "NL0011821202",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ING GROEP NV",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 53928.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005557508",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE TELEKOM AG",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 49896.0,
+                    "desde": "2021T3",
+                    "isin": "FR0000131104",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BNP PARIBAS SA",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 46752.0,
+                    "desde": "2020T1",
+                    "isin": "DE0007164600",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SAP AG",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 42576.0,
+                    "desde": "2019T4",
+                    "isin": "DE0007236101",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SIEMENS AG",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 38968.0,
+                    "desde": "2019T4",
+                    "isin": "DE0008404005",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALLIANZ SE",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 38556.0,
+                    "desde": "2021T1",
+                    "isin": "ES0127797019",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|EDP RENOVAVEIS SA",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 37788.0,
+                    "desde": "2020T4",
+                    "isin": "LU1997245250",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ALLIANZ CHINA A-SHAR",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 37864.0,
+                    "desde": "2020T4",
+                    "isin": "LU1732777682",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ABERDEEN GBL-CHINA A",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 31553.0,
+                    "desde": "2020T2",
+                    "isin": "FR0000125486",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VINCI SA",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 28100.0,
+                    "desde": "2021T2",
+                    "isin": "DE0005810055",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE BOERSE AG",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 24573.0,
+                    "desde": "2019T4",
+                    "isin": "BE0974293251",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ANHEUSER BUSCH IN WO",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 19364.0,
+                    "desde": "2021T1",
+                    "isin": "DE0007664039",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VOLKSWAGEN",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 18460.0,
+                    "desde": "2021T2",
+                    "isin": "FR0000051732",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ATOS",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 17802.0,
+                    "desde": "2021T1",
+                    "isin": "DE0006062144",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|COVESTRO AG",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 10848.0,
+                    "desde": "2021T2",
+                    "isin": "ES0105561007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PARLEM TELECOM CO DE",
+                    "porcentaje": 0.16
                 }
             ],
-            "rentabilidad": -3.05
+            "rentabilidad": -0.21
         },
         {
             "gastos": 0.3,
             "indice_rotacion": 0.11,
+            "liquidez": 14.2,
             "participes": 183,
             "patrimonio": 6231036,
             "periodo": "2021T2",
@@ -1035,6 +1505,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.08,
+            "liquidez": 7.67,
             "participes": 186,
             "patrimonio": 6155804,
             "periodo": "2021T1",
@@ -1397,6 +1868,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.14,
+            "liquidez": 18.74,
             "participes": 195,
             "patrimonio": 6950559,
             "periodo": "2020T4",
@@ -1743,6 +2215,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 8.3,
             "participes": 200,
             "patrimonio": 6912904,
             "periodo": "2020T3",
@@ -2081,6 +2554,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.58,
+            "liquidez": 10.65,
             "participes": 202,
             "patrimonio": 7415453,
             "periodo": "2020T2",
@@ -2435,6 +2909,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.27,
+            "liquidez": 14.72,
             "participes": 208,
             "patrimonio": 8062842,
             "periodo": "2020T1",
@@ -2765,6 +3240,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.4,
+            "liquidez": 16.8,
             "participes": 214,
             "patrimonio": 9440274,
             "periodo": "2019T4",
@@ -3119,6 +3595,7 @@
         {
             "gastos": 0.48,
             "indice_rotacion": 0.38,
+            "liquidez": 9.64,
             "participes": 547,
             "patrimonio": 4023710,
             "periodo": "2019T3",
@@ -3449,6 +3926,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.15,
+            "liquidez": 26.03,
             "participes": 219,
             "patrimonio": 10910166,
             "periodo": "2019T2",
@@ -3779,6 +4257,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.01,
+            "liquidez": 25.93,
             "participes": 271,
             "patrimonio": 11260644,
             "periodo": "2019T1",
@@ -4069,6 +4548,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 27.2,
             "participes": 269,
             "patrimonio": 9714163,
             "periodo": "2018T4",
@@ -4084,7 +4564,7 @@
                 {
                     "cantidad": 800000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO DE SABADELL SA|0,05|2019-03-22",
                     "porcentaje": 8.24
@@ -4335,6 +4815,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 18.48,
             "participes": 270,
             "patrimonio": 9406825,
             "periodo": "2018T3",
@@ -4342,7 +4823,7 @@
                 {
                     "cantidad": 850000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CAJA DE INGENIEROS|0,05|2018-12-21",
                     "porcentaje": 9.04
@@ -4350,7 +4831,7 @@
                 {
                     "cantidad": 800000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO DE SABADELL SA|0,05|2019-03-22",
                     "porcentaje": 8.5
@@ -4649,6 +5130,7 @@
         {
             "gastos": 0.29,
             "indice_rotacion": 0.0,
+            "liquidez": 17.81,
             "participes": 215,
             "patrimonio": 7983707,
             "periodo": "2018T2",
@@ -4656,7 +5138,7 @@
                 {
                     "cantidad": 850000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CAJA DE INGENIEROS|0,05|2018-12-21",
                     "porcentaje": 10.65
@@ -4664,7 +5146,7 @@
                 {
                     "cantidad": 800000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO DE SABADELL SA|0,05|2019-03-22",
                     "porcentaje": 10.02
@@ -4955,6 +5437,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 17.48,
             "participes": 215,
             "patrimonio": 8001783,
             "periodo": "2018T1",
@@ -4962,7 +5445,7 @@
                 {
                     "cantidad": 850000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CAJA DE INGENIEROS|0,05|2018-12-21",
                     "porcentaje": 10.62
@@ -4970,7 +5453,7 @@
                 {
                     "cantidad": 800000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO DE SABADELL SA|0,05|2019-03-22",
                     "porcentaje": 10.0
@@ -5285,6 +5768,7 @@
         {
             "gastos": 0.27,
             "indice_rotacion": 0.0,
+            "liquidez": 27.36,
             "participes": 216,
             "patrimonio": 7311999,
             "periodo": "2017T4",
@@ -5292,7 +5776,7 @@
                 {
                     "cantidad": 850000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CAJA DE INGENIEROS|0,05|2018-12-21",
                     "porcentaje": 11.62
@@ -5567,6 +6051,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.22,
+            "liquidez": 17.62,
             "participes": 107,
             "patrimonio": 5451850,
             "periodo": "2017T3",
@@ -5686,7 +6171,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.29
@@ -5694,7 +6179,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.29
@@ -5702,7 +6187,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.29
@@ -5825,6 +6310,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 7.13,
             "participes": 103,
             "patrimonio": 4250317,
             "periodo": "2017T2",
@@ -5872,7 +6358,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 4.71
@@ -5880,7 +6366,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 4.71
@@ -5912,7 +6398,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.94
@@ -5920,7 +6406,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.94
@@ -5928,7 +6414,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 2.94
@@ -6067,6 +6553,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.02,
+            "liquidez": 6.36,
             "participes": 102,
             "patrimonio": 3856323,
             "periodo": "2017T1",
@@ -6090,7 +6577,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.19
@@ -6098,7 +6585,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.19
@@ -6106,7 +6593,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.89
@@ -6114,7 +6601,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.89
@@ -6122,7 +6609,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.24
@@ -6130,7 +6617,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.24
@@ -6138,7 +6625,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.24
@@ -6146,7 +6633,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-06-06",
                     "porcentaje": 3.24
@@ -6154,7 +6641,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-04-14",
                     "porcentaje": 3.24
@@ -6210,7 +6697,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-05-13",
                     "porcentaje": 2.59
@@ -6285,6 +6772,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.1,
+            "liquidez": 10.82,
             "participes": 106,
             "patrimonio": 3904958,
             "periodo": "2016T4",
@@ -6308,7 +6796,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.12
@@ -6316,7 +6804,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.12
@@ -6324,7 +6812,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.84
@@ -6332,7 +6820,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.84
@@ -6340,7 +6828,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.2
@@ -6348,7 +6836,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.2
@@ -6356,7 +6844,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,12|2017-11-23",
                     "porcentaje": 3.2
@@ -6364,7 +6852,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-06-06",
                     "porcentaje": 3.2
@@ -6372,7 +6860,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-04-14",
                     "porcentaje": 3.2
@@ -6436,7 +6924,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-05-13",
                     "porcentaje": 2.56
@@ -6519,6 +7007,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.05,
+            "liquidez": 8.2,
             "participes": 105,
             "patrimonio": 3846601,
             "periodo": "2016T3",
@@ -6534,7 +7023,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.2
@@ -6542,7 +7031,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.2
@@ -6558,7 +7047,7 @@
                 {
                     "cantidad": 180000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-11-03",
                     "porcentaje": 4.68
@@ -6566,7 +7055,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.9
@@ -6574,7 +7063,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 3.9
@@ -6582,7 +7071,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-12-22",
                     "porcentaje": 3.9
@@ -6590,7 +7079,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-06-06",
                     "porcentaje": 3.25
@@ -6598,7 +7087,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-04-14",
                     "porcentaje": 3.25
@@ -6622,7 +7111,7 @@
                 {
                     "cantidad": 110000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,20|2016-12-22",
                     "porcentaje": 2.86
@@ -6670,7 +7159,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-05-13",
                     "porcentaje": 2.6
@@ -6745,6 +7234,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.09,
+            "liquidez": 6.02,
             "participes": 106,
             "patrimonio": 3673946,
             "periodo": "2016T2",
@@ -6760,7 +7250,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.44
@@ -6768,7 +7258,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.44
@@ -6776,7 +7266,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,50|2016-07-06",
                     "porcentaje": 5.44
@@ -6792,7 +7282,7 @@
                 {
                     "cantidad": 180000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-11-03",
                     "porcentaje": 4.9
@@ -6800,7 +7290,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 4.08
@@ -6808,7 +7298,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-04-13",
                     "porcentaje": 4.08
@@ -6816,7 +7306,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-12-22",
                     "porcentaje": 4.08
@@ -6824,7 +7314,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,05|2017-06-06",
                     "porcentaje": 3.4
@@ -6832,7 +7322,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-04-14",
                     "porcentaje": 3.4
@@ -6864,7 +7354,7 @@
                 {
                     "cantidad": 110000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,20|2016-12-22",
                     "porcentaje": 2.99
@@ -6912,7 +7402,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,10|2017-05-13",
                     "porcentaje": 2.72
@@ -6963,6 +7453,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.13,
+            "liquidez": 13.72,
             "participes": 104,
             "patrimonio": 3676683,
             "periodo": "2016T1",
@@ -6970,7 +7461,7 @@
                 {
                     "cantidad": 325000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,15|2016-06-13",
                     "porcentaje": 8.84
@@ -6978,7 +7469,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,37|2016-04-08",
                     "porcentaje": 8.16
@@ -6986,7 +7477,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.44
@@ -6994,7 +7485,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.44
@@ -7002,7 +7493,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,50|2016-07-06",
                     "porcentaje": 5.44
@@ -7018,7 +7509,7 @@
                 {
                     "cantidad": 180000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-11-03",
                     "porcentaje": 4.9
@@ -7026,7 +7517,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-12-22",
                     "porcentaje": 4.08
@@ -7034,7 +7525,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,33|2016-06-02",
                     "porcentaje": 3.4
@@ -7042,7 +7533,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-04-11",
                     "porcentaje": 3.4
@@ -7058,7 +7549,7 @@
                 {
                     "cantidad": 110000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,20|2016-12-22",
                     "porcentaje": 2.99
@@ -7106,7 +7597,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-05-09",
                     "porcentaje": 2.72
@@ -7122,7 +7613,7 @@
                 {
                     "cantidad": 76737.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.09
@@ -7165,6 +7656,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 2.24,
             "participes": 105,
             "patrimonio": 3415583,
             "periodo": "2015T4",
@@ -7172,7 +7664,7 @@
                 {
                     "cantidad": 325000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,15|2016-06-13",
                     "porcentaje": 9.52
@@ -7180,7 +7672,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,37|2016-04-08",
                     "porcentaje": 8.78
@@ -7196,7 +7688,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.86
@@ -7204,7 +7696,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.86
@@ -7212,7 +7704,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,50|2016-07-06",
                     "porcentaje": 5.86
@@ -7220,7 +7712,7 @@
                 {
                     "cantidad": 180000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-11-03",
                     "porcentaje": 5.27
@@ -7228,7 +7720,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,20|2016-12-22",
                     "porcentaje": 4.39
@@ -7236,7 +7728,7 @@
                 {
                     "cantidad": 130000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2016-01-15",
                     "porcentaje": 3.81
@@ -7244,7 +7736,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,33|2016-06-02",
                     "porcentaje": 3.66
@@ -7252,7 +7744,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-04-11",
                     "porcentaje": 3.66
@@ -7268,7 +7760,7 @@
                 {
                     "cantidad": 110000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,20|2016-12-22",
                     "porcentaje": 3.22
@@ -7316,7 +7808,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-05-09",
                     "porcentaje": 2.93
@@ -7332,7 +7824,7 @@
                 {
                     "cantidad": 77082.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.26
@@ -7375,6 +7867,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 14.95,
             "participes": 107,
             "patrimonio": 3609040,
             "periodo": "2015T3",
@@ -7382,7 +7875,7 @@
                 {
                     "cantidad": 325000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|0,15|2016-06-13",
                     "porcentaje": 9.01
@@ -7390,7 +7883,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,37|2016-04-08",
                     "porcentaje": 8.31
@@ -7398,7 +7891,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.54
@@ -7406,7 +7899,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,35|2017-09-04",
                     "porcentaje": 5.54
@@ -7414,7 +7907,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|0,50|2016-07-06",
                     "porcentaje": 5.54
@@ -7430,7 +7923,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,75|2015-10-31",
                     "porcentaje": 4.85
@@ -7438,7 +7931,7 @@
                 {
                     "cantidad": 130000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2016-01-15",
                     "porcentaje": 3.6
@@ -7446,7 +7939,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,33|2016-06-02",
                     "porcentaje": 3.46
@@ -7454,7 +7947,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-04-11",
                     "porcentaje": 3.46
@@ -7510,7 +8003,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-05-09",
                     "porcentaje": 2.77
@@ -7526,7 +8019,7 @@
                 {
                     "cantidad": 77386.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.14
@@ -7561,6 +8054,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.0,
+            "liquidez": 17.15,
             "participes": 104,
             "patrimonio": 3462619,
             "periodo": "2015T2",
@@ -7568,7 +8062,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,37|2016-04-08",
                     "porcentaje": 8.66
@@ -7584,7 +8078,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|1,65|2015-07-06",
                     "porcentaje": 5.78
@@ -7592,7 +8086,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,75|2015-10-31",
                     "porcentaje": 5.05
@@ -7600,7 +8094,7 @@
                 {
                     "cantidad": 130000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2016-01-15",
                     "porcentaje": 3.75
@@ -7608,7 +8102,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,33|2016-06-02",
                     "porcentaje": 3.61
@@ -7616,7 +8110,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-04-11",
                     "porcentaje": 3.61
@@ -7624,7 +8118,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.61
@@ -7688,7 +8182,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,25|2016-05-09",
                     "porcentaje": 2.89
@@ -7696,7 +8190,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 2.89
@@ -7704,7 +8198,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 2.89
@@ -7720,7 +8214,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.31
@@ -7728,7 +8222,7 @@
                 {
                     "cantidad": 77719.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.24
@@ -7763,6 +8257,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 6.98,
             "participes": 104,
             "patrimonio": 3412820,
             "periodo": "2015T1",
@@ -7778,7 +8273,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-04-08",
                     "porcentaje": 8.79
@@ -7794,7 +8289,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|1,65|2015-07-06",
                     "porcentaje": 5.86
@@ -7802,7 +8297,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,75|2015-10-31",
                     "porcentaje": 5.13
@@ -7810,7 +8305,7 @@
                 {
                     "cantidad": 130000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|0,50|2016-01-15",
                     "porcentaje": 3.81
@@ -7818,7 +8313,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.66
@@ -7826,7 +8321,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,10|2015-06-02",
                     "porcentaje": 3.66
@@ -7834,7 +8329,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,45|2015-04-11",
                     "porcentaje": 3.66
@@ -7898,7 +8393,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 2.93
@@ -7906,7 +8401,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 2.93
@@ -7914,7 +8409,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,35|2015-05-09",
                     "porcentaje": 2.93
@@ -7922,7 +8417,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.34
@@ -7930,7 +8425,7 @@
                 {
                     "cantidad": 77744.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.28
@@ -7965,6 +8460,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.02,
+            "liquidez": 5.2,
             "participes": 104,
             "patrimonio": 3220081,
             "periodo": "2014T4",
@@ -7972,7 +8468,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-04-08",
                     "porcentaje": 9.32
@@ -7980,7 +8476,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|1,65|2015-07-06",
                     "porcentaje": 6.21
@@ -7996,7 +8492,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,55|2016-05-28",
                     "porcentaje": 5.43
@@ -8004,7 +8500,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|0,75|2015-10-31",
                     "porcentaje": 5.43
@@ -8012,7 +8508,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-01-14",
                     "porcentaje": 4.75
@@ -8020,7 +8516,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.88
@@ -8028,7 +8524,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,10|2015-06-02",
                     "porcentaje": 3.88
@@ -8036,7 +8532,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,45|2015-04-11",
                     "porcentaje": 3.88
@@ -8100,7 +8596,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.11
@@ -8108,7 +8604,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.11
@@ -8116,7 +8612,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,35|2015-05-09",
                     "porcentaje": 3.11
@@ -8132,7 +8628,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.48
@@ -8140,7 +8636,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.48
@@ -8148,7 +8644,7 @@
                 {
                     "cantidad": 77848.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.42
@@ -8175,6 +8671,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 4.34,
             "participes": 101,
             "patrimonio": 3314437,
             "periodo": "2014T3",
@@ -8182,7 +8679,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-04-08",
                     "porcentaje": 9.05
@@ -8190,7 +8687,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|1,65|2015-07-06",
                     "porcentaje": 6.03
@@ -8206,7 +8703,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,54|2014-10-30",
                     "porcentaje": 5.28
@@ -8214,7 +8711,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|1,50|2014-11-18",
                     "porcentaje": 5.28
@@ -8222,7 +8719,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-01-14",
                     "porcentaje": 4.61
@@ -8230,7 +8727,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.77
@@ -8238,7 +8735,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,10|2015-06-02",
                     "porcentaje": 3.77
@@ -8246,7 +8743,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,45|2015-04-11",
                     "porcentaje": 3.77
@@ -8318,7 +8815,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.02
@@ -8326,7 +8823,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,00|2015-09-12",
                     "porcentaje": 3.02
@@ -8334,7 +8831,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,35|2015-05-09",
                     "porcentaje": 3.02
@@ -8350,7 +8847,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.41
@@ -8358,7 +8855,7 @@
                 {
                     "cantidad": 80000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|0,60|2015-08-12",
                     "porcentaje": 2.41
@@ -8366,7 +8863,7 @@
                 {
                     "cantidad": 77140.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.33
@@ -8393,6 +8890,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 2.87,
             "participes": 101,
             "patrimonio": 3315149,
             "periodo": "2014T2",
@@ -8408,7 +8906,7 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-04-08",
                     "porcentaje": 9.05
@@ -8416,7 +8914,7 @@
                 {
                     "cantidad": 200000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANKIA SA|1,65|2015-07-06",
                     "porcentaje": 6.03
@@ -8432,7 +8930,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,54|2014-10-30",
                     "porcentaje": 5.28
@@ -8440,7 +8938,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|1,50|2014-11-18",
                     "porcentaje": 5.28
@@ -8448,7 +8946,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-01-14",
                     "porcentaje": 4.61
@@ -8456,7 +8954,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,10|2015-06-02",
                     "porcentaje": 3.77
@@ -8464,7 +8962,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,45|2015-04-11",
                     "porcentaje": 3.77
@@ -8544,7 +9042,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,35|2015-05-09",
                     "porcentaje": 3.02
@@ -8560,7 +9058,7 @@
                 {
                     "cantidad": 76870.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.32
@@ -8587,6 +9085,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.17,
+            "liquidez": 2.29,
             "participes": 99,
             "patrimonio": 2622318,
             "periodo": "2014T1",
@@ -8594,7 +9093,7 @@
                 {
                     "cantidad": 280000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,75|2014-05-29",
                     "porcentaje": 10.68
@@ -8610,7 +9109,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,54|2014-10-30",
                     "porcentaje": 6.67
@@ -8618,7 +9117,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|1,50|2014-11-18",
                     "porcentaje": 6.67
@@ -8626,7 +9125,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,40|2015-01-14",
                     "porcentaje": 5.83
@@ -8650,7 +9149,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,45|2015-04-11",
                     "porcentaje": 4.77
@@ -8722,7 +9221,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO POPULAR|2,41|2014-05-29",
                     "porcentaje": 3.81
@@ -8738,7 +9237,7 @@
                 {
                     "cantidad": 76196.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.91
@@ -8765,6 +9264,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 4.45,
             "participes": 102,
             "patrimonio": 2624692,
             "periodo": "2013T4",
@@ -8772,7 +9272,7 @@
                 {
                     "cantidad": 280000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,75|2014-05-29",
                     "porcentaje": 10.67
@@ -8788,7 +9288,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|LA CAIXA|1,54|2014-10-30",
                     "porcentaje": 6.67
@@ -8796,7 +9296,7 @@
                 {
                     "cantidad": 175000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|1,50|2014-11-18",
                     "porcentaje": 6.67
@@ -8812,7 +9312,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,70|2014-01-14",
                     "porcentaje": 5.83
@@ -8836,7 +9336,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER SA|2,13|2014-02-28",
                     "porcentaje": 4.76
@@ -8892,7 +9392,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO POPULAR|2,41|2014-05-29",
                     "porcentaje": 3.81
@@ -8908,7 +9408,7 @@
                 {
                     "cantidad": 75639.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.88
@@ -8935,6 +9435,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.01,
+            "liquidez": 3.56,
             "participes": 113,
             "patrimonio": 2815811,
             "periodo": "2013T3",
@@ -8950,7 +9451,7 @@
                 {
                     "cantidad": 280000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,75|2014-05-29",
                     "porcentaje": 9.94
@@ -8990,7 +9491,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,70|2014-01-14",
                     "porcentaje": 5.43
@@ -9014,7 +9515,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER|2,13|2014-02-28",
                     "porcentaje": 4.44
@@ -9054,7 +9555,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO POPULAR|2,41|2014-05-29",
                     "porcentaje": 3.55
@@ -9078,7 +9579,7 @@
                 {
                     "cantidad": 76600.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|CATALUNYA BANC|2,00|2016-05-04",
                     "porcentaje": 2.72
@@ -9105,6 +9606,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.18,
+            "liquidez": 2.03,
             "participes": 119,
             "patrimonio": 2811142,
             "periodo": "2013T2",
@@ -9112,7 +9614,7 @@
                 {
                     "cantidad": 280000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|1,75|2014-05-29",
                     "porcentaje": 9.96
@@ -9152,7 +9654,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,70|2014-01-14",
                     "porcentaje": 5.44
@@ -9184,7 +9686,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER|2,13|2014-02-28",
                     "porcentaje": 4.45
@@ -9224,7 +9726,7 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO POPULAR|2,41|2014-05-29",
                     "porcentaje": 3.56
@@ -9283,6 +9785,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.0,
+            "liquidez": 7.45,
             "participes": 131,
             "patrimonio": 3043154,
             "periodo": "2013T1",
@@ -9330,7 +9833,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|1,70|2014-01-14",
                     "porcentaje": 5.03
@@ -9370,7 +9873,7 @@
                 {
                     "cantidad": 125000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCO SANTANDER|2,13|2014-02-28",
                     "porcentaje": 4.11
@@ -9421,6 +9924,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.45,
+            "liquidez": 2.94,
             "participes": 139,
             "patrimonio": 3101451,
             "periodo": "2012T4",
@@ -9484,7 +9988,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|2,80|2013-01-14",
                     "porcentaje": 4.93
@@ -9599,6 +10103,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.15,
+            "liquidez": 11.56,
             "participes": 142,
             "patrimonio": 3272311,
             "periodo": "2012T3",
@@ -9654,7 +10159,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|2,80|2013-01-14",
                     "porcentaje": 4.67
@@ -9801,6 +10306,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.88,
+            "liquidez": 1.89,
             "participes": 151,
             "patrimonio": 3304252,
             "periodo": "2012T2",
@@ -9856,7 +10362,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|2,80|2013-01-14",
                     "porcentaje": 4.63
@@ -10083,6 +10589,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.12,
+            "liquidez": 5.38,
             "participes": 155,
             "patrimonio": 3286812,
             "periodo": "2012T1",
@@ -10114,7 +10621,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|2,80|2013-01-14",
                     "porcentaje": 4.65
@@ -10122,7 +10629,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2,90|2012-07-20",
                     "porcentaje": 4.56
@@ -10269,6 +10776,7 @@
         {
             "gastos": 0.3,
             "indice_rotacion": 0.87,
+            "liquidez": 5.52,
             "participes": 156,
             "patrimonio": 3364717,
             "periodo": "2011T4",
@@ -10324,7 +10832,7 @@
                 {
                     "cantidad": 152950.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BANCA MARCH|2,75|2012-01-14",
                     "porcentaje": 4.55
@@ -10332,7 +10840,7 @@
                 {
                     "cantidad": 150000.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "DEPOSITOS|BBVA|2,90|2012-07-20",
                     "porcentaje": 4.46
@@ -10495,6 +11003,7 @@
         {
             "gastos": 0.31,
             "indice_rotacion": 0.36,
+            "liquidez": 1.91,
             "participes": 160,
             "patrimonio": 3300887,
             "periodo": "2011T3",
@@ -10697,6 +11206,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.63,
+            "liquidez": 3.49,
             "participes": 164,
             "patrimonio": 3476120,
             "periodo": "2011T2",
@@ -10883,6 +11393,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.21,
+            "liquidez": 1.41,
             "participes": 170,
             "patrimonio": 3482323,
             "periodo": "2011T1",
@@ -11045,6 +11556,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.1,
+            "liquidez": 7.09,
             "participes": 174,
             "patrimonio": 3469962,
             "periodo": "2010T4",
@@ -11215,6 +11727,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.0,
+            "liquidez": 2.08,
             "participes": 186,
             "patrimonio": 3744417,
             "periodo": "2010T3",
@@ -11401,6 +11914,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.41,
+            "liquidez": 2.12,
             "participes": 191,
             "patrimonio": 3723740,
             "periodo": "2010T2",
@@ -11579,6 +12093,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.11,
+            "liquidez": 4.22,
             "participes": 193,
             "patrimonio": 3923131,
             "periodo": "2010T1",
@@ -11749,6 +12264,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.19,
+            "liquidez": 4.84,
             "participes": 194,
             "patrimonio": 3894354,
             "periodo": "2009T4",
@@ -11911,6 +12427,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.1,
+            "liquidez": 2.76,
             "participes": 198,
             "patrimonio": 4038087,
             "periodo": "2009T3",
@@ -12089,6 +12606,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.03,
+            "liquidez": 2.88,
             "participes": 208,
             "patrimonio": 4149908,
             "periodo": "2009T2",

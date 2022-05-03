@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FIERA CAPITAL IOM LTD
+isin: IE00B3QPMN62
+---

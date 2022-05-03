@@ -3,8 +3,996 @@
     "fecha_registro": "30/04/1992",
     "historico_periodos": [
         {
+            "gastos": 0.05,
+            "indice_rotacion": 0.2,
+            "liquidez": 9.1,
+            "participes": 856,
+            "patrimonio": 31214113,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 653490.0,
+                    "desde": "2021T2",
+                    "isin": "DK0009525917",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|NYKREDIT REALKRE|0.25|2023-01-20",
+                    "porcentaje": 2.09
+                },
+                {
+                    "cantidad": 555154.0,
+                    "desde": "2020T4",
+                    "isin": "XS1843444081",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|ALTRIA GROUP INC|1.00|2023-02-15",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 556642.0,
+                    "desde": "2021T1",
+                    "isin": "XS2193968992",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UPJOHN FINANCE B|0.82|2022-06-23",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 539133.0,
+                    "desde": "2021T1",
+                    "isin": "XS1291448824",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DS SMITH PLC|2.25|2022-09-16",
+                    "porcentaje": 1.73
+                },
+                {
+                    "cantidad": 517264.0,
+                    "desde": "2021T1",
+                    "isin": "XS1374865555",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNICREDIT SPA|2.00|2023-03-04",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 512141.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013213832",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CNP ASSURANCES|1.88|2022-10-20",
+                    "porcentaje": 1.64
+                },
+                {
+                    "cantidad": 510144.0,
+                    "desde": "2021T3",
+                    "isin": "ES0205045018",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CRITERIA CAIXAHO|1.50|2023-05-10",
+                    "porcentaje": 1.63
+                },
+                {
+                    "cantidad": 505686.0,
+                    "desde": "2020T4",
+                    "isin": "XS1324928750",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BAT INTERNATIONA|1.00|2022-05-23",
+                    "porcentaje": 1.62
+                },
+                {
+                    "cantidad": 502381.0,
+                    "desde": "2021T4",
+                    "isin": "XS1851268463",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BLACKSTONE PROPE|1.40|2022-07-06",
+                    "porcentaje": 1.61
+                },
+                {
+                    "cantidad": 487392.0,
+                    "desde": "2021T3",
+                    "isin": "FR0013412699",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|RCI BANQUE SA|0.75|2023-04-10",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 426586.0,
+                    "desde": "2021T1",
+                    "isin": "XS1088515207",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FIAT FINANCE  AN|4.75|2022-07-15",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 415144.0,
+                    "desde": "2021T1",
+                    "isin": "XS1691349523",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|0.14|2023-09-26",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 405323.0,
+                    "desde": "2020T4",
+                    "isin": "XS1809240515",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|NIBC BANK NV|1.12|2023-04-19",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 404279.0,
+                    "desde": "2021T2",
+                    "isin": "XS2001270995",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.62|2022-11-24",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 406401.0,
+                    "desde": "2021T1",
+                    "isin": "FR0012759744",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|RCI BANQUE SA|1.25|2022-06-08",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 406539.0,
+                    "desde": "2021T1",
+                    "isin": "XS1954697923",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|1.25|2022-06-21",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 404925.0,
+                    "desde": "2020T4",
+                    "isin": "XS1689739347",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|MEDIOBANCA SPA|0.62|2022-09-27",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 406211.0,
+                    "desde": "2022T1",
+                    "isin": "XS1799975765",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AIB GROUP PLC|1.50|2023-03-29",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 402129.0,
+                    "desde": "2021T1",
+                    "isin": "XS2109806369",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.25|2023-02-28",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 402642.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A2LQNQ6",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DEUTSCHE PFANDBR|0.75|2023-02-07",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 403726.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013283371",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|RCI BANQUE SA|0.75|2022-09-26",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 402400.0,
+                    "desde": "2021T1",
+                    "isin": "XS2023306140",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN BANK |0.38|2022-07-05",
+                    "porcentaje": 1.29
+                },
+                {
+                    "cantidad": 401033.0,
+                    "desde": "2021T3",
+                    "isin": "DE000CZ40LR5",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|COMMERZBANK AG|0.50|2023-09-13",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 400265.0,
+                    "desde": "2017T4",
+                    "isin": "XS1615501837",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|MEDIOBANCA SPA|0.28|2022-05-18",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 340075.0,
+                    "desde": "2020T1",
+                    "isin": "XS2107332483",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|0.00|2023-04-21",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 309582.0,
+                    "desde": "2021T2",
+                    "isin": "XS1115208107",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|MORGAN STANLEY|1.88|2023-03-30",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 308775.0,
+                    "desde": "2021T3",
+                    "isin": "XS0856014583",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BRITISH AMERICAN|2.38|2023-01-19",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 306226.0,
+                    "desde": "2020T3",
+                    "isin": "XS1679158094",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CAIXABANK SA|1.12|2023-01-12",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 303401.0,
+                    "desde": "2021T3",
+                    "isin": "XS1731105612",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BANCO DE SABADEL|0.88|2023-03-05",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 301654.0,
+                    "desde": "2020T1",
+                    "isin": "XS1689234570",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BANCO SANTANDER |0.27|2023-03-28",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 301412.0,
+                    "desde": "2020T4",
+                    "isin": "XS1823532996",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BNP PARIBAS SA|0.09|2023-05-22",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 303953.0,
+                    "desde": "2021T1",
+                    "isin": "XS1718306050",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SOCIETE GENERALE|0.50|2023-01-13",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 303990.0,
+                    "desde": "2021T3",
+                    "isin": "XS1754213947",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNICREDIT SPA|1.00|2023-01-18",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 303310.0,
+                    "desde": "2021T3",
+                    "isin": "XS1781346801",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER CONSUM|0.75|2023-03-01",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 301290.0,
+                    "desde": "2021T4",
+                    "isin": "XS1788515788",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|METRO WHOLESALE |1.12|2023-03-06",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 301117.0,
+                    "desde": "2021T2",
+                    "isin": "XS1944384350",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN BANK |0.92|2022-08-01",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 301177.0,
+                    "desde": "2021T2",
+                    "isin": "XS2085547433",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FIDELITY NATIONA|0.12|2022-12-03",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 301178.0,
+                    "desde": "2018T1",
+                    "isin": "XS1787278008",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CREDIT AGRICOLE |0.07|2023-03-06",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 295284.0,
+                    "desde": "2022T1",
+                    "isin": "XS2438632874",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SBB TREASURY OYJ|0.00|2024-02-08",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 257603.0,
+                    "desde": "2022T1",
+                    "isin": "XS2430702873",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|HEIMSTADEN BOSTA|0.00|2024-01-19",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 256359.0,
+                    "desde": "2021T3",
+                    "isin": "XS1807182495",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|INTESA SANPAOLO |1.75|2023-04-12",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 251860.0,
+                    "desde": "2021T3",
+                    "isin": "DE000CZ40M21",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|COMMERZBANK AG|0.50|2023-08-28",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 250111.0,
+                    "desde": "2018T1",
+                    "isin": "XS1602557495",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BANK OF AMERICA |0.23|2023-05-04",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 228947.0,
+                    "desde": "2021T1",
+                    "isin": "XS1627337881",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCC AQUALIA SA|1.41|2022-06-08",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 207630.0,
+                    "desde": "2021T3",
+                    "isin": "XS1873219304",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|INTESA SANPAOLO |2.12|2023-08-30",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 206533.0,
+                    "desde": "2021T4",
+                    "isin": "XS2152058868",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN FIN.S|2.50|2023-04-06",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 205685.0,
+                    "desde": "2022T1",
+                    "isin": "XS0925599556",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|WELLS FARGO  AND|2.25|2023-05-02",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 206369.0,
+                    "desde": "2022T1",
+                    "isin": "XS0882849507",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|3.25|2023-02-01",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 202561.0,
+                    "desde": "2022T1",
+                    "isin": "XS1888206627",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER CONSUM|1.12|2023-10-09",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 204260.0,
+                    "desde": "2021T1",
+                    "isin": "ES0205045000",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CRITERIA CAIXAHO|1.62|2022-04-21",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 201787.0,
+                    "desde": "2022T1",
+                    "isin": "BE0002266352",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|KBC GROEP NV|0.75|2023-10-18",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 201492.0,
+                    "desde": "2021T3",
+                    "isin": "XS1907118464",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AT AND T INC|0.32|2023-09-05",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 202769.0,
+                    "desde": "2021T4",
+                    "isin": "DE000CZ40NG4",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|COMMERZBANK AG|1.25|2023-10-23",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 203940.0,
+                    "desde": "2021T3",
+                    "isin": "XS1822506272",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BECTON DICKINSON|1.40|2023-05-24",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 201787.0,
+                    "desde": "2022T1",
+                    "isin": "XS2149270477",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UBS AG/LONDON|0.75|2023-04-21",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 202242.0,
+                    "desde": "2021T3",
+                    "isin": "XS1951313680",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|IMPERIAL TOBACCO|1.12|2023-08-14",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 201343.0,
+                    "desde": "2022T1",
+                    "isin": "XS1883911924",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DNB BANK ASA|0.60|2023-09-25",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 203492.0,
+                    "desde": "2021T3",
+                    "isin": "XS1487315860",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER UK GRO|1.12|2023-09-08",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 201773.0,
+                    "desde": "2022T1",
+                    "isin": "XS2194282948",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|INFINEON TECHNOL|0.75|2023-06-24",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 203544.0,
+                    "desde": "2021T4",
+                    "isin": "XS2084131122",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CREDITO VALTELLI|2.00|2022-11-27",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 202808.0,
+                    "desde": "2020T4",
+                    "isin": "XS1699951767",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|INTESA SANPAOLO |0.75|2022-10-17",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 200139.0,
+                    "desde": "2022T1",
+                    "isin": "XS2437559722",
+                    "moneda": "EUR",
+                    "nombre": "PAGARE|ACCIONA FINANCI|0.00|2022-04-25",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200221.0,
+                    "desde": "2021T2",
+                    "isin": "BE0002805860",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|KBC GROEP NV|0.16|2024-06-23",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200880.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013204476",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BPCE SA|0.38|2023-10-05",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200809.0,
+                    "desde": "2021T3",
+                    "isin": "FR0013446580",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CARREFOUR BANQUE|0.15|2023-09-12",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200949.0,
+                    "desde": "2022T1",
+                    "isin": "XS1734548487",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN BANK |0.75|2023-06-15",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200879.0,
+                    "desde": "2021T3",
+                    "isin": "XS2338355360",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|0.45|2024-04-30",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200108.0,
+                    "desde": "2021T2",
+                    "isin": "XS2342244253",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AKELIUS RESIDENT|0.02|2023-05-12",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200715.0,
+                    "desde": "2021T2",
+                    "isin": "XS2352609213",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.25|2023-06-10",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 198811.0,
+                    "desde": "2021T3",
+                    "isin": "XS2258558464",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.12|2023-11-16",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200496.0,
+                    "desde": "2018T1",
+                    "isin": "FR0013309317",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BPCE SA|0.00|2023-01-11",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200575.0,
+                    "desde": "2019T3",
+                    "isin": "FR0013444502",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DASSAULT SYSTEME|0.00|2022-09-16",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200173.0,
+                    "desde": "2021T4",
+                    "isin": "XS1441161947",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FERROVIE DELLO S|0.17|2022-07-18",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 200467.0,
+                    "desde": "2021T1",
+                    "isin": "XS2049548444",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GENERAL MOTORS F|0.20|2022-09-02",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 199896.0,
+                    "desde": "2021T2",
+                    "isin": "XS2293123670",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.00|2023-01-27",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 194045.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005199267",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNICREDIT SPA|0.23|2023-06-30",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 189778.0,
+                    "desde": "2022T1",
+                    "isin": "XS2117485248",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SCANIA CV AB|0.12|2023-02-13",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 191673.0,
+                    "desde": "2021T2",
+                    "isin": "XS1144086110",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AT AND T INC|1.45|2022-06-01",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 184447.0,
+                    "desde": "2019T1",
+                    "isin": "XS1173867323",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|0.46|2022-07-26",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 160130.0,
+                    "desde": "2020T3",
+                    "isin": "XS2232115001",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DIGITAL DUTCH FI|0.00|2022-09-23",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 155316.0,
+                    "desde": "2021T1",
+                    "isin": "DE000A289XH6",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|MERCEDES BENZ GR|1.62|2023-08-22",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 151699.0,
+                    "desde": "2022T1",
+                    "isin": "XS1371969483",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DNB BANK ASA|1.12|2023-03-01",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 149309.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005482309",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|ITALY BUONI ORDI|0.00|2023-11-29",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 150107.0,
+                    "desde": "2022T1",
+                    "isin": "XS1615065320",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER UK GRO|0.26|2023-05-18",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 124947.0,
+                    "desde": "2022T1",
+                    "isin": "XS1865186321",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN LEASI|1.00|2023-02-16",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 103168.0,
+                    "desde": "2021T4",
+                    "isin": "FR0012821940",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CAPGEMINI SA|2.50|2023-07-01",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 102344.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013153707",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|PEUGEOT SA|2.38|2023-04-14",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 102745.0,
+                    "desde": "2022T1",
+                    "isin": "XS1265805090",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GOLDMAN SACHS GR|2.00|2023-07-27",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 103358.0,
+                    "desde": "2022T1",
+                    "isin": "XS1374344668",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AT AND T INC|2.75|2023-05-19",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 103420.0,
+                    "desde": "2022T1",
+                    "isin": "XS2178832379",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FIAT CHRYSLER AU|3.38|2023-07-07",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 102024.0,
+                    "desde": "2021T3",
+                    "isin": "XS1196373507",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AT AND T INC|1.30|2023-09-05",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 102050.0,
+                    "desde": "2022T1",
+                    "isin": "XS0903433513",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AT AND T INC|2.50|2023-03-15",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 101703.0,
+                    "desde": "2020T4",
+                    "isin": "XS1692396069",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER CONSUM|0.75|2022-10-17",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 100832.0,
+                    "desde": "2022T1",
+                    "isin": "XS1824235219",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SANTANDER CONSUM|0.88|2023-05-30",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100162.0,
+                    "desde": "2022T1",
+                    "isin": "XS2432941008",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|AMADEUS IT GROUP|0.05|2024-01-25",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100269.0,
+                    "desde": "2020T4",
+                    "isin": "ES0315306011",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CAJA RURAL DE NA|0.16|2022-06-21",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100358.0,
+                    "desde": "2020T4",
+                    "isin": "XS1788584321",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BANCO BILBAO VIZ|0.10|2023-03-09",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100887.0,
+                    "desde": "2021T3",
+                    "isin": "XS2002532567",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BECTON DICKINSON|0.63|2023-06-04",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100110.0,
+                    "desde": "2022T1",
+                    "isin": "XS2004795725",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|NATIONALE NEDERL|0.38|2023-05-31",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 101063.0,
+                    "desde": "2022T1",
+                    "isin": "XS1405783983",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|EASTMAN CHEMICAL|1.50|2023-05-26",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 99347.0,
+                    "desde": "2021T4",
+                    "isin": "XS2407913586",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|THERMO FISHER SC|0.00|2023-11-18",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100829.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A169NB4",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|MERCEDES BENZ GR|0.75|2023-05-11",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100058.0,
+                    "desde": "2020T3",
+                    "isin": "XS2231792586",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|FCA BANK SPA/IRE|0.50|2023-09-18",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 101189.0,
+                    "desde": "2022T1",
+                    "isin": "XS1837997979",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|NATWEST GROUP PL|1.12|2023-06-14",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 101124.0,
+                    "desde": "2022T1",
+                    "isin": "XS1842961440",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|NORDEA BANK ABP|0.88|2023-06-26",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100009.0,
+                    "desde": "2021T2",
+                    "isin": "XS2353018141",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BALDER FINLAND O|0.10|2023-06-14",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100728.0,
+                    "desde": "2022T1",
+                    "isin": "XS1457608013",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CITIGROUP INC|0.75|2023-10-26",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100204.0,
+                    "desde": "2022T1",
+                    "isin": "XS1664644710",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BAT CAPITAL CORP|1.12|2023-11-16",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100851.0,
+                    "desde": "2021T3",
+                    "isin": "XS2381633150",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|CREDIT SUISSE AG|0.47|2023-09-01",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 99499.0,
+                    "desde": "2022T1",
+                    "isin": "XS2282093769",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN LEASI|0.00|2023-07-12",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 101413.0,
+                    "desde": "2022T1",
+                    "isin": "XS1882544627",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|ING GROEP NV|1.00|2023-09-20",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100608.0,
+                    "desde": "2022T1",
+                    "isin": "XS1485748393",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|GENERAL MOTORS F|0.96|2023-09-07",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100282.0,
+                    "desde": "2022T1",
+                    "isin": "XS1899009705",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SUMITOMO MITSUI |0.55|2023-11-06",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 99885.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013448669",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|RCI BANQUE SA|0.25|2023-03-08",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100806.0,
+                    "desde": "2021T2",
+                    "isin": "XS2014292937",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|VOLKSWAGEN LEASI|0.50|2022-06-20",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100316.0,
+                    "desde": "2020T4",
+                    "isin": "XS2242176258",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DE VOLKSBANK NV|0.17|2022-10-07",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100712.0,
+                    "desde": "2022T1",
+                    "isin": "XS1757843146",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|PIRELLI  AND  C.|1.38|2023-01-25",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100731.0,
+                    "desde": "2020T4",
+                    "isin": "XS1863994981",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|HEIDELBERGCEMENT|0.50|2022-08-09",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100119.0,
+                    "desde": "2018T1",
+                    "isin": "XS1767087940",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|ACEA SPA|0.00|2023-02-08",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100098.0,
+                    "desde": "2021T1",
+                    "isin": "XS2271346152",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|DE VOLKSBANK NV|0.30|2022-06-10",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 98186.0,
+                    "desde": "2021T2",
+                    "isin": "CH1120418079",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|BANK JULIUS BAER|0.00|2024-06-25",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 1328.0,
+                    "desde": "2009T2",
+                    "isin": "ES0347861009",
+                    "moneda": "EUR",
+                    "nombre": "TITULIZACION|IM PASTOR|0.00|2041-09-22",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -0.34
+        },
+        {
             "gastos": 0.06,
             "indice_rotacion": 0.26,
+            "liquidez": 15.49,
             "participes": 832,
             "patrimonio": 31538234,
             "periodo": "2021T4",
@@ -911,6 +1899,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.19,
+            "liquidez": 19.15,
             "participes": 856,
             "patrimonio": 34532114,
             "periodo": "2021T3",
@@ -1849,6 +2838,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.75,
+            "liquidez": 21.94,
             "participes": 861,
             "patrimonio": 33861576,
             "periodo": "2021T2",
@@ -2731,6 +3721,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.38,
+            "liquidez": 16.87,
             "participes": 884,
             "patrimonio": 34867961,
             "periodo": "2021T1",
@@ -3709,6 +4700,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.35,
+            "liquidez": 15.1,
             "participes": 877,
             "patrimonio": 33889536,
             "periodo": "2020T4",
@@ -4687,6 +5679,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.11,
+            "liquidez": 10.68,
             "participes": 890,
             "patrimonio": 35234438,
             "periodo": "2020T3",
@@ -5641,6 +6634,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.22,
+            "liquidez": 6.16,
             "participes": 912,
             "patrimonio": 36035684,
             "periodo": "2020T2",
@@ -6635,6 +7629,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.09,
+            "liquidez": 4.21,
             "participes": 931,
             "patrimonio": 37125953,
             "periodo": "2020T1",
@@ -7653,6 +8648,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.46,
+            "liquidez": 5.04,
             "participes": 970,
             "patrimonio": 43429848,
             "periodo": "2019T4",
@@ -8703,6 +9699,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.21,
+            "liquidez": 1.88,
             "participes": 1006,
             "patrimonio": 45991553,
             "periodo": "2019T3",
@@ -9825,6 +10822,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.62,
+            "liquidez": 5.11,
             "participes": 1011,
             "patrimonio": 46877359,
             "periodo": "2019T2",
@@ -10771,6 +11769,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.33,
+            "liquidez": 4.49,
             "participes": 1017,
             "patrimonio": 47111777,
             "periodo": "2019T1",
@@ -11709,6 +12708,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.4,
+            "liquidez": 3.44,
             "participes": 1024,
             "patrimonio": 47372548,
             "periodo": "2018T4",
@@ -12591,6 +13591,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.08,
+            "liquidez": 5.43,
             "participes": 1114,
             "patrimonio": 49501787,
             "periodo": "2018T3",
@@ -13465,6 +14466,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.78,
+            "liquidez": 2.5,
             "participes": 1150,
             "patrimonio": 52084125,
             "periodo": "2018T2",
@@ -14355,6 +15357,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.4,
+            "liquidez": 5.0,
             "participes": 1196,
             "patrimonio": 58014747,
             "periodo": "2018T1",
@@ -15269,6 +16272,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.2,
+            "liquidez": 10.63,
             "participes": 1240,
             "patrimonio": 60361939,
             "periodo": "2017T4",
@@ -16087,6 +17091,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.1,
+            "liquidez": 7.97,
             "participes": 1278,
             "patrimonio": 59088507,
             "periodo": "2017T3",
@@ -16897,6 +17902,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.91,
+            "liquidez": 7.99,
             "participes": 1291,
             "patrimonio": 54106814,
             "periodo": "2017T2",
@@ -17659,6 +18665,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.53,
+            "liquidez": 5.73,
             "participes": 1350,
             "patrimonio": 55297260,
             "periodo": "2017T1",
@@ -18461,6 +19468,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.83,
+            "liquidez": 3.84,
             "participes": 1406,
             "patrimonio": 58362376,
             "periodo": "2016T4",
@@ -19287,6 +20295,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.45,
+            "liquidez": 4.64,
             "participes": 1448,
             "patrimonio": 60081576,
             "periodo": "2016T3",
@@ -20177,6 +21186,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 1.17,
+            "liquidez": 6.29,
             "participes": 1480,
             "patrimonio": 60724264,
             "periodo": "2016T2",
@@ -21147,6 +22157,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.46,
+            "liquidez": 5.71,
             "participes": 1516,
             "patrimonio": 62751773,
             "periodo": "2016T1",
@@ -22085,6 +23096,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.57,
+            "liquidez": 5.07,
             "participes": 1511,
             "patrimonio": 61855613,
             "periodo": "2015T4",
@@ -22983,6 +23995,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.08,
+            "liquidez": 5.11,
             "participes": 1552,
             "patrimonio": 57632469,
             "periodo": "2015T3",
@@ -23849,6 +24862,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.44,
+            "liquidez": 5.02,
             "participes": 1593,
             "patrimonio": 57197787,
             "periodo": "2015T2",
@@ -24635,6 +25649,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.32,
+            "liquidez": 1.36,
             "participes": 1638,
             "patrimonio": 57784431,
             "periodo": "2015T1",
@@ -25357,6 +26372,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.58,
+            "liquidez": 1.0,
             "participes": 1720,
             "patrimonio": 59020938,
             "periodo": "2014T4",
@@ -26015,6 +27031,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.31,
+            "liquidez": 1.03,
             "participes": 1771,
             "patrimonio": 60349986,
             "periodo": "2014T3",
@@ -26705,6 +27722,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.88,
+            "liquidez": 1.14,
             "participes": 1746,
             "patrimonio": 59576218,
             "periodo": "2014T2",
@@ -27395,6 +28413,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.6,
+            "liquidez": 0.95,
             "participes": 1769,
             "patrimonio": 59670675,
             "periodo": "2014T1",
@@ -28117,6 +29136,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.87,
+            "liquidez": 1.03,
             "participes": 1832,
             "patrimonio": 61689785,
             "periodo": "2013T4",
@@ -28783,6 +29803,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.55,
+            "liquidez": 1.36,
             "participes": 1821,
             "patrimonio": 63206049,
             "periodo": "2013T3",
@@ -29393,6 +30414,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.88,
+            "liquidez": 1.16,
             "participes": 1764,
             "patrimonio": 60690384,
             "periodo": "2013T2",
@@ -29987,6 +31009,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.49,
+            "liquidez": 1.0,
             "participes": 1696,
             "patrimonio": 60873499,
             "periodo": "2013T1",
@@ -30541,6 +31564,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 1.05,
+            "liquidez": 1.06,
             "participes": 1597,
             "patrimonio": 58718792,
             "periodo": "2012T4",
@@ -30983,6 +32007,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.49,
+            "liquidez": 1.02,
             "participes": 1600,
             "patrimonio": 58166445,
             "periodo": "2012T3",
@@ -31441,6 +32466,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 1.09,
+            "liquidez": 1.1,
             "participes": 1603,
             "patrimonio": 56658431,
             "periodo": "2012T2",
@@ -31931,6 +32957,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.71,
+            "liquidez": 1.02,
             "participes": 1619,
             "patrimonio": 59600853,
             "periodo": "2012T1",
@@ -32509,6 +33536,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.41,
+            "liquidez": 1.0,
             "participes": 1546,
             "patrimonio": 58105407,
             "periodo": "2011T4",
@@ -33111,6 +34139,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.22,
+            "liquidez": 0.63,
             "participes": 1595,
             "patrimonio": 59131169,
             "periodo": "2011T3",
@@ -33785,6 +34814,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.72,
+            "liquidez": 1.01,
             "participes": 1586,
             "patrimonio": 57250935,
             "periodo": "2011T2",
@@ -34483,6 +35513,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.17,
+            "liquidez": 0.76,
             "participes": 1601,
             "patrimonio": 58683385,
             "periodo": "2011T1",
@@ -35093,6 +36124,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.77,
+            "liquidez": 0.98,
             "participes": 1556,
             "patrimonio": 57668879,
             "periodo": "2010T4",
@@ -35655,6 +36687,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.63,
+            "liquidez": 0.87,
             "participes": 1681,
             "patrimonio": 62954352,
             "periodo": "2010T3",
@@ -36297,6 +37330,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.4,
+            "liquidez": 0.8,
             "participes": 1776,
             "patrimonio": 67474165,
             "periodo": "2010T2",
@@ -36963,6 +37997,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.26,
+            "liquidez": 1.0,
             "participes": 1998,
             "patrimonio": 76837303,
             "periodo": "2010T1",
@@ -37749,6 +38784,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 1.17,
+            "liquidez": 0.95,
             "participes": 2119,
             "patrimonio": 82399165,
             "periodo": "2009T4",
@@ -38471,6 +39507,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 0.51,
+            "liquidez": 0.99,
             "participes": 2296,
             "patrimonio": 91065000,
             "periodo": "2009T3",
@@ -39233,6 +40270,7 @@
         {
             "gastos": 0.06,
             "indice_rotacion": 1.69,
+            "liquidez": 2.7,
             "participes": 2438,
             "patrimonio": 99202000,
             "periodo": "2009T2",

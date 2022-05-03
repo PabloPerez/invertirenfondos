@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LINK FUND MANAGER SOLUTIONS
+isin: IE00BGHQF631
+---

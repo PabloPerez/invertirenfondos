@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAVEKAL CHINA ONSHOR
+isin: IE00BHR0MP02
+---

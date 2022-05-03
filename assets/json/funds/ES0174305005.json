@@ -1,10 +1,806 @@
 {
     "auditora": "KPMG",
-    "fecha_registro": "21/07/2006",
+    "fecha_registro": "08/02/2019",
     "historico_periodos": [
         {
             "gastos": 0.14,
+            "indice_rotacion": 0.38,
+            "liquidez": 1.18,
+            "participes": 321,
+            "patrimonio": 37875788,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 2105424.0,
+                    "desde": "2021T2",
+                    "isin": "PTOTVLOE0001",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 051222",
+                    "porcentaje": 5.46
+                },
+                {
+                    "cantidad": 1997849.0,
+                    "desde": "2021T1",
+                    "isin": "ES0001352568",
+                    "moneda": "euro",
+                    "nombre": "Xunta de Galicia 0,00% 121222",
+                    "porcentaje": 5.18
+                },
+                {
+                    "cantidad": 1774316.0,
+                    "desde": "2019T2",
+                    "isin": "ES0201001163",
+                    "moneda": "euro",
+                    "nombre": "Ayuntamiento de Madrid Float 101022",
+                    "porcentaje": 4.6
+                },
+                {
+                    "cantidad": 1497881.0,
+                    "desde": "2021T3",
+                    "isin": "ES0001351594",
+                    "moneda": "euro",
+                    "nombre": "Junta de Castilla y León 0% 311023",
+                    "porcentaje": 3.88
+                },
+                {
+                    "cantidad": 1441469.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000106544",
+                    "moneda": "euro",
+                    "nombre": "Basque Government 1,25% 130423",
+                    "porcentaje": 3.74
+                },
+                {
+                    "cantidad": 1377347.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000101644",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 2,875% 170723",
+                    "porcentaje": 3.57
+                },
+                {
+                    "cantidad": 1219186.0,
+                    "desde": "2018T3",
+                    "isin": "FI4000233242",
+                    "moneda": "euro",
+                    "nombre": "Evli Short Corporate Bond IB Eur",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 1205354.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005440679",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali del Tes 0% 291122",
+                    "porcentaje": 3.12
+                },
+                {
+                    "cantidad": 1073139.0,
+                    "desde": "2021T3",
+                    "isin": "IT0004356843",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 4,75% 010823",
+                    "porcentaje": 2.78
+                },
+                {
+                    "cantidad": 1046570.0,
+                    "desde": "2021T3",
+                    "isin": "ES0000099178",
+                    "moneda": "euro",
+                    "nombre": "Junta Extremadura 3,875% 140324",
+                    "porcentaje": 2.71
+                },
+                {
+                    "cantidad": 1014758.0,
+                    "desde": "2021T2",
+                    "isin": "ES0378641320",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,85% 171223",
+                    "porcentaje": 2.63
+                },
+                {
+                    "cantidad": 1012010.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005172322",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,95% 150323",
+                    "porcentaje": 2.62
+                },
+                {
+                    "cantidad": 1004252.0,
+                    "desde": "2021T3",
+                    "isin": "ES0001351560",
+                    "moneda": "euro",
+                    "nombre": "Junta Castilla y Leon 0,0% 311022",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1003661.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909W6",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 240223",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1002952.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909T2",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 251122",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1004458.0,
+                    "desde": "2021T2",
+                    "isin": "ES05000909N5",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 270522",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1003769.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909R6",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 300922",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 1004255.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909U0",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 301222",
+                    "porcentaje": 2.6
+                },
+                {
+                    "cantidad": 926844.0,
+                    "desde": "2021T2",
+                    "isin": "ES0000101636",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 3,875% 010922",
+                    "porcentaje": 2.4
+                },
+                {
+                    "cantidad": 903387.0,
+                    "desde": "2021T2",
+                    "isin": "XS2073787470",
+                    "moneda": "euro",
+                    "nombre": "Instituto Credito Oficial 0,0% 311022",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 839269.0,
+                    "desde": "2019T2",
+                    "isin": "LU0658025209",
+                    "moneda": "euro",
+                    "nombre": "Axa Im FIIS Eur Sh Duration HY A EUR",
+                    "porcentaje": 2.18
+                },
+                {
+                    "cantidad": 604187.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641312",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170323",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 604122.0,
+                    "desde": "2021T2",
+                    "isin": "PTOTVKOE0002",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 020822",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 528788.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000123U9",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado 5,40% 310123",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 510684.0,
+                    "desde": "2021T3",
+                    "isin": "ES0000101768",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Madrid 0,997% 300924",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 502228.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012F84",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado Cupon Cero  300423",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 501510.0,
+                    "desde": "2021T4",
+                    "isin": "ES05000909U0",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 301222",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 501596.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909X4",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 310323",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 440329.0,
+                    "desde": "2019T3",
+                    "isin": "LU0907330798",
+                    "moneda": "euro",
+                    "nombre": "Amundi Euro High Yield Short Term Bondie",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 420143.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005344335",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 2,45% 011023",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 418631.0,
+                    "desde": "2021T1",
+                    "isin": "IE0033758917",
+                    "moneda": "euro",
+                    "nombre": "Muzinich Enhancedyield ST A EUR Hedge",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 401109.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909V8",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 270123",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 301776.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005413684",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,3% 150823",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 299846.0,
+                    "desde": "2022T1",
+                    "isin": "XS1979491559",
+                    "moneda": "euro",
+                    "nombre": "Instituto Credito Oficial 0,2% 310124",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 301676.0,
+                    "desde": "2021T1",
+                    "isin": "XS1730873731",
+                    "moneda": "euro",
+                    "nombre": "ArcelorMittal 0,95% 170123",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 291700.0,
+                    "desde": "2020T3",
+                    "isin": "ES0001380148",
+                    "moneda": "euro",
+                    "nombre": "Principado de Asturias 0,037% 150422",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 206956.0,
+                    "desde": "2021T4",
+                    "isin": "ES0001353384",
+                    "moneda": "euro",
+                    "nombre": "Comunidad Foral Navarra 2,033% 281123",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 207664.0,
+                    "desde": "2021T4",
+                    "isin": "PTOTVMOE0000",
+                    "moneda": "euro",
+                    "nombre": "Obrigacoes Do Tesouro Float 230725",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 206547.0,
+                    "desde": "2022T1",
+                    "isin": "XS2177552390",
+                    "moneda": "euro",
+                    "nombre": "Amadeus It Group SA 2,5% 200524",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 202738.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013399060",
+                    "moneda": "euro",
+                    "nombre": "Auchan SA 2,625% 300124",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 199989.0,
+                    "desde": "2022T1",
+                    "isin": "ES0521975153",
+                    "moneda": "euro",
+                    "nombre": "Pagare CAF 100622",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199964.0,
+                    "desde": "2022T1",
+                    "isin": "ES05297430Y1",
+                    "moneda": "euro",
+                    "nombre": "Pagare Elecnor 190422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199954.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505223158",
+                    "moneda": "euro",
+                    "nombre": "Pagare Gestamp 300622",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199771.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505079048",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grenergy Renovables 270422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199694.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505293003",
+                    "moneda": "euro",
+                    "nombre": "Pagare Greenalia 290422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199631.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505497117",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grupo Gran Solar 080422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199925.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505324279",
+                    "moneda": "euro",
+                    "nombre": "Pagare Jorge Pork Meat 250422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199971.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505122129",
+                    "moneda": "euro",
+                    "nombre": "Pagare Metrovacesa 130422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199230.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451403",
+                    "moneda": "euro",
+                    "nombre": "Pagare Pryconsa 160922",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199974.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438251",
+                    "moneda": "euro",
+                    "nombre": "Pagare Urbaser 220422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 202397.0,
+                    "desde": "2021T2",
+                    "isin": "XS1409362784",
+                    "moneda": "euro",
+                    "nombre": "Fce Bank Plc 1,615% 110523",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199940.0,
+                    "desde": "2022T1",
+                    "isin": "XS2443478198",
+                    "moneda": "euro",
+                    "nombre": "Pagare CIE Automotive 080922",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 199940.0,
+                    "desde": "2022T1",
+                    "isin": "XS2458529836",
+                    "moneda": "euro",
+                    "nombre": "Pagare Melia 120422",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 196149.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505112252",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aldesa 200722",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 196050.0,
+                    "desde": "2021T4",
+                    "isin": "XS2288097483",
+                    "moneda": "euro",
+                    "nombre": "Wizz Air Finance Company 1,35% 190124",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 194736.0,
+                    "desde": "2022T1",
+                    "isin": "XS2343821794",
+                    "moneda": "euro",
+                    "nombre": "Volkswagen Leas Gmbh 0% 190724",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 194371.0,
+                    "desde": "2021T2",
+                    "isin": "XS1322536506",
+                    "moneda": "euro",
+                    "nombre": "Intl Consolidated Airlin 0,625% 171122",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 101369.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641338",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170623",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 98662.0,
+                    "desde": "2021T1",
+                    "isin": "ES05051134I8",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 300323",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99521.0,
+                    "desde": "2022T1",
+                    "isin": "ES0582870I63",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sacyr 190722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99991.0,
+                    "desde": "2022T1",
+                    "isin": "ES05051134U3",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 170522",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99789.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505390197",
+                    "moneda": "euro",
+                    "nombre": "Pagare Grupo Cobra 140722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99987.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505130312",
+                    "moneda": "euro",
+                    "nombre": "Pagare Dominion 270522",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 98980.0,
+                    "desde": "2021T3",
+                    "isin": "ES0554653263",
+                    "moneda": "euro",
+                    "nombre": "Pagare Inmobiliaria del Sur 270422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99887.0,
+                    "desde": "2022T1",
+                    "isin": "ES0584696464",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 150722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99971.0,
+                    "desde": "2022T1",
+                    "isin": "ES0584696407",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 290422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99840.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505531055",
+                    "moneda": "euro",
+                    "nombre": "Pagare Premier España 290422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99940.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505461261",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sidenor 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99932.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505401390",
+                    "moneda": "euro",
+                    "nombre": "Pagare Tradebe 060422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99983.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505514150",
+                    "moneda": "euro",
+                    "nombre": "Pagare Via Celere 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99992.0,
+                    "desde": "2022T1",
+                    "isin": "ES0514820515",
+                    "moneda": "euro",
+                    "nombre": "Pagare Vocento 080422",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 100310.0,
+                    "desde": "2019T4",
+                    "isin": "XS2081491727",
+                    "moneda": "euro",
+                    "nombre": "Servicios medio ambiente 0,815% 041223",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99317.0,
+                    "desde": "2019T4",
+                    "isin": "PTVAAAOM0001",
+                    "moneda": "euro",
+                    "nombre": "VAA Vista Alegre ATL 4,5% 211024",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99238.0,
+                    "desde": "2022T1",
+                    "isin": "XS2407913586",
+                    "moneda": "euro",
+                    "nombre": "Thermo Fisher SC Fnce I 0% 181123",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99687.0,
+                    "desde": "2022T1",
+                    "isin": "XS1266662763",
+                    "moneda": "euro",
+                    "nombre": "Softbank Group Corp 4% 300722",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 99569.0,
+                    "desde": "2021T4",
+                    "isin": "XS2423353098",
+                    "moneda": "euro",
+                    "nombre": "Pagare Sacyr 170622",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 93228.0,
+                    "desde": "2020T3",
+                    "isin": "ES0505287310",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aedas Homes 160922",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "ES05000909K1",
+                    "moneda": "euro",
+                    "nombre": "Pagare Junta Andalucia 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0200002022",
+                    "moneda": "euro",
+                    "nombre": "Adif Alta Velocidad 0,8% 050723",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0378641312",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,5% 170323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "ES0378641270",
+                    "moneda": "euro",
+                    "nombre": "Fade 0,75% 170324",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES05051134I8",
+                    "moneda": "euro",
+                    "nombre": "Pagare El Corte Ingles 300323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0224261042",
+                    "moneda": "euro",
+                    "nombre": "Cores 1,5% 271122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505287351",
+                    "moneda": "euro",
+                    "nombre": "Pagare Aedas Homes 280122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505521130",
+                    "moneda": "euro",
+                    "nombre": "Pagare Arteche 190122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505130288",
+                    "moneda": "euro",
+                    "nombre": "Pagare Dominion 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0541571024",
+                    "moneda": "euro",
+                    "nombre": "Pagare Gam 030222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0584696456",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 140122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0584696415",
+                    "moneda": "euro",
+                    "nombre": "Pagare Masmovil 170322",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "ES0505401309",
+                    "moneda": "euro",
+                    "nombre": "Pagare Tradebe 140122",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505438244",
+                    "moneda": "euro",
+                    "nombre": "Pagare Urbaser 220222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005172322",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Del Tes 0,95% 150323",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "XS1730873731",
+                    "moneda": "euro",
+                    "nombre": "ArcelorMittal 0,95% 170123",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T2",
+                    "isin": "XS1209185161",
+                    "moneda": "euro",
+                    "nombre": "Telecom Italia  Spa 1,125% 260322",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "XS2299094016",
+                    "moneda": "euro",
+                    "nombre": "Pagare CIE Automotive 080222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T3",
+                    "isin": "PTG1VJJM0105",
+                    "moneda": "euro",
+                    "nombre": "Pagare Visabeira 250222",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "LU0891843558",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro High Yield V",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2018T1",
+                    "isin": "IE00B96G6Y08",
+                    "moneda": "euro",
+                    "nombre": "Muzinich Europeyield Hed Eur Ah",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -0.72
+        },
+        {
+            "gastos": 0.14,
             "indice_rotacion": 0.43,
+            "liquidez": 3.19,
             "participes": 332,
             "patrimonio": 37870010,
             "periodo": "2021T4",
@@ -903,6 +1699,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.41,
+            "liquidez": 2.12,
             "participes": 354,
             "patrimonio": 41985794,
             "periodo": "2021T3",
@@ -1721,6 +2518,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.54,
+            "liquidez": 3.42,
             "participes": 382,
             "patrimonio": 45486772,
             "periodo": "2021T2",
@@ -2643,6 +3441,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.31,
+            "liquidez": 2.19,
             "participes": 409,
             "patrimonio": 49176107,
             "periodo": "2021T1",
@@ -3437,6 +4236,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.16,
+            "liquidez": 1.75,
             "participes": 437,
             "patrimonio": 50764517,
             "periodo": "2020T4",
@@ -4295,6 +5095,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.04,
+            "liquidez": 2.0,
             "participes": 464,
             "patrimonio": 53935588,
             "periodo": "2020T3",
@@ -5025,6 +5826,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.36,
+            "liquidez": 2.0,
             "participes": 485,
             "patrimonio": 58053617,
             "periodo": "2020T2",
@@ -6019,6 +6821,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.05,
+            "liquidez": 4.09,
             "participes": 507,
             "patrimonio": 62759320,
             "periodo": "2020T1",
@@ -7045,6 +7848,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.37,
+            "liquidez": 2.18,
             "participes": 533,
             "patrimonio": 67773563,
             "periodo": "2019T4",
@@ -7999,6 +8803,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.14,
+            "liquidez": 3.43,
             "participes": 539,
             "patrimonio": 64524926,
             "periodo": "2019T3",
@@ -8817,6 +9622,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.44,
+            "liquidez": 2.36,
             "participes": 535,
             "patrimonio": 66690478,
             "periodo": "2019T2",
@@ -9683,6 +10489,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.12,
+            "liquidez": 5.85,
             "participes": 541,
             "patrimonio": 68306241,
             "periodo": "2019T1",
@@ -10493,6 +11300,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.52,
+            "liquidez": 4.69,
             "participes": 573,
             "patrimonio": 67066093,
             "periodo": "2018T4",
@@ -11583,6 +12391,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.31,
+            "liquidez": 0.99,
             "participes": 603,
             "patrimonio": 71557426,
             "periodo": "2018T3",
@@ -12657,6 +13466,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.42,
+            "liquidez": 6.45,
             "participes": 632,
             "patrimonio": 74156435,
             "periodo": "2018T2",
@@ -13811,6 +14621,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.25,
+            "liquidez": 5.09,
             "participes": 650,
             "patrimonio": 78605224,
             "periodo": "2018T1",
@@ -14717,6 +15528,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.14,
+            "liquidez": 3.16,
             "participes": 629,
             "patrimonio": 79054736,
             "periodo": "2017T4",
@@ -15519,6 +16331,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 9.59,
             "participes": 605,
             "patrimonio": 75790484,
             "periodo": "2017T3",
@@ -16201,6 +17014,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 1.04,
+            "liquidez": 9.42,
             "participes": 580,
             "patrimonio": 67371300,
             "periodo": "2017T2",
@@ -17155,6 +17969,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.88,
+            "liquidez": 8.99,
             "participes": 569,
             "patrimonio": 61542252,
             "periodo": "2017T1",
@@ -18021,6 +18836,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.15,
+            "liquidez": 4.76,
             "participes": 601,
             "patrimonio": 65787370,
             "periodo": "2016T4",
@@ -18903,6 +19719,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 19.15,
             "participes": 562,
             "patrimonio": 66460872,
             "periodo": "2016T3",
@@ -19625,6 +20442,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.42,
+            "liquidez": 16.56,
             "participes": 524,
             "patrimonio": 66622938,
             "periodo": "2016T2",
@@ -20643,6 +21461,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.26,
+            "liquidez": 5.31,
             "participes": 499,
             "patrimonio": 63157149,
             "periodo": "2016T1",
@@ -21573,6 +22392,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 2.46,
             "participes": 514,
             "patrimonio": 64172549,
             "periodo": "2015T4",
@@ -22639,6 +23459,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 5.35,
             "participes": 547,
             "patrimonio": 69788442,
             "periodo": "2015T3",
@@ -23553,6 +24374,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 5.93,
             "participes": 553,
             "patrimonio": 70129544,
             "periodo": "2015T2",
@@ -24531,6 +25353,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 3.42,
             "participes": 462,
             "patrimonio": 56865877,
             "periodo": "2015T1",
@@ -25229,6 +26052,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 7.71,
             "participes": 345,
             "patrimonio": 43492684,
             "periodo": "2014T4",
@@ -25807,6 +26631,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 2.28,
             "participes": 291,
             "patrimonio": 35801974,
             "periodo": "2014T3",
@@ -26241,6 +27066,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.38,
+            "liquidez": 3.49,
             "participes": 254,
             "patrimonio": 26879756,
             "periodo": "2014T2",
@@ -26552,7 +27378,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26560,7 +27386,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26568,7 +27394,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26576,7 +27402,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.0
@@ -26584,7 +27410,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26592,7 +27418,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26600,7 +27426,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26608,7 +27434,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26616,7 +27442,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 0.0
@@ -26624,7 +27450,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26632,7 +27458,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26640,7 +27466,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26648,7 +27474,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26656,7 +27482,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26664,7 +27490,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26672,7 +27498,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 0.0
@@ -26680,7 +27506,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 0.0
@@ -26688,7 +27514,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ARAGON|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26707,6 +27533,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.4,
+            "liquidez": 5.23,
             "participes": 232,
             "patrimonio": 23846650,
             "periodo": "2014T1",
@@ -26930,7 +27757,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26938,7 +27765,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26946,7 +27773,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26954,7 +27781,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.0
@@ -26962,7 +27789,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26970,7 +27797,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26978,7 +27805,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26986,7 +27813,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -26994,7 +27821,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 0.0
@@ -27002,7 +27829,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27010,7 +27837,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27018,7 +27845,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27026,7 +27853,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27034,7 +27861,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27042,7 +27869,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27050,7 +27877,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 0.0
@@ -27058,7 +27885,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 0.0
@@ -27066,7 +27893,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ARAGON|1,410|2014 03 20",
                     "porcentaje": 0.0
@@ -27085,6 +27912,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 3.83,
             "participes": 220,
             "patrimonio": 20899211,
             "periodo": "2013T4",
@@ -27100,7 +27928,7 @@
                 {
                     "cantidad": 2978788.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 14.25
@@ -27132,7 +27960,7 @@
                 {
                     "cantidad": 957150.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 4.58
@@ -27140,7 +27968,7 @@
                 {
                     "cantidad": 856207.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 4.1
@@ -27156,7 +27984,7 @@
                 {
                     "cantidad": 625460.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ARAGON|1,410|2014 03 20",
                     "porcentaje": 2.99
@@ -27164,7 +27992,7 @@
                 {
                     "cantidad": 619601.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 2.96
@@ -27172,7 +28000,7 @@
                 {
                     "cantidad": 613043.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 2.93
@@ -27180,7 +28008,7 @@
                 {
                     "cantidad": 530120.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 2.54
@@ -27220,7 +28048,7 @@
                 {
                     "cantidad": 371951.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 1.78
@@ -27228,7 +28056,7 @@
                 {
                     "cantidad": 359138.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 1.72
@@ -27236,7 +28064,7 @@
                 {
                     "cantidad": 269211.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 1.29
@@ -27244,7 +28072,7 @@
                 {
                     "cantidad": 251790.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 1.2
@@ -27260,7 +28088,7 @@
                 {
                     "cantidad": 169770.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 0.81
@@ -27268,7 +28096,7 @@
                 {
                     "cantidad": 169225.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 0.81
@@ -27276,7 +28104,7 @@
                 {
                     "cantidad": 111575.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.53
@@ -27292,7 +28120,7 @@
                 {
                     "cantidad": 42324.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.2
@@ -27300,7 +28128,7 @@
                 {
                     "cantidad": 40115.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.19
@@ -27308,7 +28136,7 @@
                 {
                     "cantidad": 5779.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.03
@@ -27316,7 +28144,7 @@
                 {
                     "cantidad": 2554.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.01
@@ -27367,6 +28195,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 8.17,
             "participes": 184,
             "patrimonio": 16729720,
             "periodo": "2013T3",
@@ -27374,7 +28203,7 @@
                 {
                     "cantidad": 2979202.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 17.81
@@ -27398,7 +28227,7 @@
                 {
                     "cantidad": 957282.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 5.72
@@ -27406,7 +28235,7 @@
                 {
                     "cantidad": 856326.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 5.12
@@ -27422,7 +28251,7 @@
                 {
                     "cantidad": 625547.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,410|2014 03",
                     "porcentaje": 3.74
@@ -27430,7 +28259,7 @@
                 {
                     "cantidad": 619687.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 3.7
@@ -27438,7 +28267,7 @@
                 {
                     "cantidad": 613128.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 3.66
@@ -27446,7 +28275,7 @@
                 {
                     "cantidad": 530194.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 3.17
@@ -27486,7 +28315,7 @@
                 {
                     "cantidad": 372003.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 2.22
@@ -27494,7 +28323,7 @@
                 {
                     "cantidad": 359188.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 2.15
@@ -27502,7 +28331,7 @@
                 {
                     "cantidad": 269248.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 1.61
@@ -27510,7 +28339,7 @@
                 {
                     "cantidad": 251825.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 1.51
@@ -27526,7 +28355,7 @@
                 {
                     "cantidad": 169794.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 1.01
@@ -27534,7 +28363,7 @@
                 {
                     "cantidad": 169250.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 1.01
@@ -27542,7 +28371,7 @@
                 {
                     "cantidad": 111590.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.67
@@ -27558,7 +28387,7 @@
                 {
                     "cantidad": 42330.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.25
@@ -27566,7 +28395,7 @@
                 {
                     "cantidad": 40121.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.24
@@ -27574,7 +28403,7 @@
                 {
                     "cantidad": 5780.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.03
@@ -27582,7 +28411,7 @@
                 {
                     "cantidad": 2554.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.02
@@ -27609,6 +28438,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.03,
+            "liquidez": 3.2,
             "participes": 179,
             "patrimonio": 15669381,
             "periodo": "2013T2",
@@ -27616,7 +28446,7 @@
                 {
                     "cantidad": 2977857.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 19.0
@@ -27640,7 +28470,7 @@
                 {
                     "cantidad": 956850.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 6.11
@@ -27648,7 +28478,7 @@
                 {
                     "cantidad": 855940.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 5.46
@@ -27664,7 +28494,7 @@
                 {
                     "cantidad": 625265.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,410|2014 03",
                     "porcentaje": 3.99
@@ -27672,7 +28502,7 @@
                 {
                     "cantidad": 619408.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 3.95
@@ -27680,7 +28510,7 @@
                 {
                     "cantidad": 612852.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 3.91
@@ -27688,7 +28518,7 @@
                 {
                     "cantidad": 529955.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 3.38
@@ -27728,7 +28558,7 @@
                 {
                     "cantidad": 371835.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 2.37
@@ -27736,7 +28566,7 @@
                 {
                     "cantidad": 359026.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 2.29
@@ -27744,7 +28574,7 @@
                 {
                     "cantidad": 269127.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 1.72
@@ -27752,7 +28582,7 @@
                 {
                     "cantidad": 251711.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 1.61
@@ -27760,7 +28590,7 @@
                 {
                     "cantidad": 169717.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 1.08
@@ -27768,7 +28598,7 @@
                 {
                     "cantidad": 169172.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 1.08
@@ -27776,7 +28606,7 @@
                 {
                     "cantidad": 111540.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.71
@@ -27792,7 +28622,7 @@
                 {
                     "cantidad": 42311.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.27
@@ -27800,7 +28630,7 @@
                 {
                     "cantidad": 40103.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.26
@@ -27808,7 +28638,7 @@
                 {
                     "cantidad": 5777.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.04
@@ -27816,7 +28646,7 @@
                 {
                     "cantidad": 2553.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.02
@@ -27848,7 +28678,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27856,7 +28686,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|1,604|2013",
                     "porcentaje": 0.0
@@ -27864,7 +28694,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27872,7 +28702,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27880,7 +28710,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,604|2013 03 2",
                     "porcentaje": 0.0
@@ -27888,7 +28718,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27896,7 +28726,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27904,7 +28734,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27912,7 +28742,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27920,7 +28750,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,604|2013 0",
                     "porcentaje": 0.0
@@ -27928,7 +28758,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27936,7 +28766,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27944,7 +28774,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|1,604|20",
                     "porcentaje": 0.0
@@ -27952,7 +28782,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27960,7 +28790,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27968,7 +28798,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27976,7 +28806,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27984,7 +28814,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -27992,7 +28822,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|1,604|2013",
                     "porcentaje": 0.0
@@ -28000,7 +28830,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,604|2",
                     "porcentaje": 0.0
@@ -28008,7 +28838,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,604|2013 03",
                     "porcentaje": 0.0
@@ -28035,6 +28865,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 7.11,
             "participes": 184,
             "patrimonio": 17037839,
             "periodo": "2013T1",
@@ -28042,7 +28873,7 @@
                 {
                     "cantidad": 2974712.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,410|2014 03 20",
                     "porcentaje": 17.46
@@ -28066,7 +28897,7 @@
                 {
                     "cantidad": 955840.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,410|2",
                     "porcentaje": 5.61
@@ -28074,7 +28905,7 @@
                 {
                     "cantidad": 855036.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|1,410|2014 03 20",
                     "porcentaje": 5.02
@@ -28090,7 +28921,7 @@
                 {
                     "cantidad": 624604.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,410|2014 03",
                     "porcentaje": 3.67
@@ -28098,7 +28929,7 @@
                 {
                     "cantidad": 618753.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,410|2014 03 20",
                     "porcentaje": 3.63
@@ -28106,7 +28937,7 @@
                 {
                     "cantidad": 612204.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,410|2014 0",
                     "porcentaje": 3.59
@@ -28114,7 +28945,7 @@
                 {
                     "cantidad": 529395.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,410|2014 03 20",
                     "porcentaje": 3.11
@@ -28154,7 +28985,7 @@
                 {
                     "cantidad": 371442.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,410|2014 03 20",
                     "porcentaje": 2.18
@@ -28162,7 +28993,7 @@
                 {
                     "cantidad": 358647.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,410|2014 03 20",
                     "porcentaje": 2.11
@@ -28178,7 +29009,7 @@
                 {
                     "cantidad": 268843.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,410|2014 03 20",
                     "porcentaje": 1.58
@@ -28186,7 +29017,7 @@
                 {
                     "cantidad": 251445.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,410|2014 03 20",
                     "porcentaje": 1.48
@@ -28194,7 +29025,7 @@
                 {
                     "cantidad": 169538.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,410|2014 03 20",
                     "porcentaje": 1.0
@@ -28202,7 +29033,7 @@
                 {
                     "cantidad": 168991.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,429|2014 03 20",
                     "porcentaje": 0.99
@@ -28210,7 +29041,7 @@
                 {
                     "cantidad": 111422.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,410|2014 03 20",
                     "porcentaje": 0.65
@@ -28218,7 +29049,7 @@
                 {
                     "cantidad": 42266.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,410|2014 03 20",
                     "porcentaje": 0.25
@@ -28226,7 +29057,7 @@
                 {
                     "cantidad": 40060.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,429|2014 03 2",
                     "porcentaje": 0.24
@@ -28234,7 +29065,7 @@
                 {
                     "cantidad": 5771.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,410|2014 03 20",
                     "porcentaje": 0.03
@@ -28242,7 +29073,7 @@
                 {
                     "cantidad": 2550.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,410|2014 03 20",
                     "porcentaje": 0.01
@@ -28274,7 +29105,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28282,7 +29113,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|1,604|2013",
                     "porcentaje": 0.0
@@ -28290,7 +29121,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28298,7 +29129,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28306,7 +29137,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,604|2013 03 2",
                     "porcentaje": 0.0
@@ -28314,7 +29145,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28322,7 +29153,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28330,7 +29161,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28338,7 +29169,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28346,7 +29177,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,604|2013 0",
                     "porcentaje": 0.0
@@ -28354,7 +29185,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28362,7 +29193,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28370,7 +29201,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|1,604|20",
                     "porcentaje": 0.0
@@ -28378,7 +29209,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28386,7 +29217,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28394,7 +29225,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28402,7 +29233,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28410,7 +29241,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,604|2013 03 21",
                     "porcentaje": 0.0
@@ -28418,7 +29249,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|1,604|2013",
                     "porcentaje": 0.0
@@ -28426,7 +29257,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,604|2",
                     "porcentaje": 0.0
@@ -28434,7 +29265,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,604|2013 03",
                     "porcentaje": 0.0
@@ -28453,6 +29284,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.48,
+            "liquidez": 5.74,
             "participes": 194,
             "patrimonio": 16790565,
             "periodo": "2012T4",
@@ -28460,7 +29292,7 @@
                 {
                     "cantidad": 3531792.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,604|2013 03 21",
                     "porcentaje": 21.03
@@ -28476,7 +29308,7 @@
                 {
                     "cantidad": 935579.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,604|2013 03",
                     "porcentaje": 5.57
@@ -28484,7 +29316,7 @@
                 {
                     "cantidad": 912274.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,604|2",
                     "porcentaje": 5.43
@@ -28492,7 +29324,7 @@
                 {
                     "cantidad": 761910.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,604|2013 03 21",
                     "porcentaje": 4.54
@@ -28508,7 +29340,7 @@
                 {
                     "cantidad": 623401.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,604|2013 03 21",
                     "porcentaje": 3.71
@@ -28524,7 +29356,7 @@
                 {
                     "cantidad": 587768.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,604|2013 0",
                     "porcentaje": 3.5
@@ -28548,7 +29380,7 @@
                 {
                     "cantidad": 416664.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,604|2013 03 21",
                     "porcentaje": 2.48
@@ -28556,7 +29388,7 @@
                 {
                     "cantidad": 389684.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,604|2013 03 21",
                     "porcentaje": 2.32
@@ -28564,7 +29396,7 @@
                 {
                     "cantidad": 363702.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|1,604|2013",
                     "porcentaje": 2.17
@@ -28572,7 +29404,7 @@
                 {
                     "cantidad": 339270.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,604|2013 03 21",
                     "porcentaje": 2.02
@@ -28580,7 +29412,7 @@
                 {
                     "cantidad": 327675.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,604|2013 03 21",
                     "porcentaje": 1.95
@@ -28588,7 +29420,7 @@
                 {
                     "cantidad": 320499.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,604|2013 03 21",
                     "porcentaje": 1.91
@@ -28596,7 +29428,7 @@
                 {
                     "cantidad": 318225.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,604|2013 03 21",
                     "porcentaje": 1.9
@@ -28604,7 +29436,7 @@
                 {
                     "cantidad": 301522.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|1,604|2013 03 21",
                     "porcentaje": 1.8
@@ -28628,7 +29460,7 @@
                 {
                     "cantidad": 126723.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|1,604|2013",
                     "porcentaje": 0.75
@@ -28636,7 +29468,7 @@
                 {
                     "cantidad": 124583.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,604|2013 03 21",
                     "porcentaje": 0.74
@@ -28644,7 +29476,7 @@
                 {
                     "cantidad": 66898.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,604|2013 03 21",
                     "porcentaje": 0.4
@@ -28652,7 +29484,7 @@
                 {
                     "cantidad": 58939.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,604|2013 03 2",
                     "porcentaje": 0.35
@@ -28660,7 +29492,7 @@
                 {
                     "cantidad": 57256.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|1,604|20",
                     "porcentaje": 0.34
@@ -28668,7 +29500,7 @@
                 {
                     "cantidad": 8102.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,604|2013 03 21",
                     "porcentaje": 0.05
@@ -28676,7 +29508,7 @@
                 {
                     "cantidad": 3696.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,604|2013 03 21",
                     "porcentaje": 0.02
@@ -28783,6 +29615,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.04,
+            "liquidez": 9.89,
             "participes": 196,
             "patrimonio": 21856153,
             "periodo": "2012T3",
@@ -28790,7 +29623,7 @@
                 {
                     "cantidad": 3540573.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,604|2013 03 21",
                     "porcentaje": 16.2
@@ -28814,7 +29647,7 @@
                 {
                     "cantidad": 937906.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,604|2013 03",
                     "porcentaje": 4.29
@@ -28822,7 +29655,7 @@
                 {
                     "cantidad": 914542.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,604|2",
                     "porcentaje": 4.18
@@ -28830,7 +29663,7 @@
                 {
                     "cantidad": 763805.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,604|2013 03 21",
                     "porcentaje": 3.49
@@ -28846,7 +29679,7 @@
                 {
                     "cantidad": 624951.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,604|2013 03 21",
                     "porcentaje": 2.86
@@ -28862,7 +29695,7 @@
                 {
                     "cantidad": 589229.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR BURG,FUEN,SEGO,CASTELL|1,604|2013 0",
                     "porcentaje": 2.7
@@ -28926,7 +29759,7 @@
                 {
                     "cantidad": 417700.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,604|2013 03 21",
                     "porcentaje": 1.91
@@ -28934,7 +29767,7 @@
                 {
                     "cantidad": 390653.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,604|2013 03 21",
                     "porcentaje": 1.79
@@ -28942,7 +29775,7 @@
                 {
                     "cantidad": 364606.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|1,604|2013",
                     "porcentaje": 1.67
@@ -28950,7 +29783,7 @@
                 {
                     "cantidad": 340114.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,604|2013 03 21",
                     "porcentaje": 1.56
@@ -28958,7 +29791,7 @@
                 {
                     "cantidad": 328490.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,604|2013 03 21",
                     "porcentaje": 1.5
@@ -28966,7 +29799,7 @@
                 {
                     "cantidad": 321295.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,604|2013 03 21",
                     "porcentaje": 1.47
@@ -28974,7 +29807,7 @@
                 {
                     "cantidad": 319017.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,604|2013 03 21",
                     "porcentaje": 1.46
@@ -28982,7 +29815,7 @@
                 {
                     "cantidad": 302272.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|1,604|2013 03 21",
                     "porcentaje": 1.38
@@ -29006,7 +29839,7 @@
                 {
                     "cantidad": 127038.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|1,604|2013",
                     "porcentaje": 0.58
@@ -29014,7 +29847,7 @@
                 {
                     "cantidad": 124892.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR|1,604|2013 03 21",
                     "porcentaje": 0.57
@@ -29022,7 +29855,7 @@
                 {
                     "cantidad": 67065.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,604|2013 03 21",
                     "porcentaje": 0.31
@@ -29030,7 +29863,7 @@
                 {
                     "cantidad": 59086.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,604|2013 03 2",
                     "porcentaje": 0.27
@@ -29038,7 +29871,7 @@
                 {
                     "cantidad": 57398.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|1,604|20",
                     "porcentaje": 0.26
@@ -29054,7 +29887,7 @@
                 {
                     "cantidad": 8122.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL|1,604|2013 03 21",
                     "porcentaje": 0.04
@@ -29062,7 +29895,7 @@
                 {
                     "cantidad": 3705.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,604|2013 03 21",
                     "porcentaje": 0.02
@@ -29113,6 +29946,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.31,
+            "liquidez": 3.5,
             "participes": 197,
             "patrimonio": 20457134,
             "periodo": "2012T2",
@@ -29120,7 +29954,7 @@
                 {
                     "cantidad": 3534773.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|1,604|2013 03 21",
                     "porcentaje": 17.28
@@ -29152,7 +29986,7 @@
                 {
                     "cantidad": 936369.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|NUEVA CAJA RURAL ARAGON|1,604|2013 03",
                     "porcentaje": 4.58
@@ -29160,7 +29994,7 @@
                 {
                     "cantidad": 913043.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|1,604|2",
                     "porcentaje": 4.46
@@ -29168,7 +30002,7 @@
                 {
                     "cantidad": 762553.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|1,604|2013 03 21",
                     "porcentaje": 3.73
@@ -29184,7 +30018,7 @@
                 {
                     "cantidad": 623927.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|1,604|2013 03 21",
                     "porcentaje": 3.05
@@ -29192,7 +30026,7 @@
                 {
                     "cantidad": 588264.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE BURGOS|1,604|2013 03 21",
                     "porcentaje": 2.88
@@ -29248,7 +30082,7 @@
                 {
                     "cantidad": 417016.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|1,604|2013 03 21",
                     "porcentaje": 2.04
@@ -29256,7 +30090,7 @@
                 {
                     "cantidad": 390013.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|1,604|2013 03 21",
                     "porcentaje": 1.91
@@ -29264,7 +30098,7 @@
                 {
                     "cantidad": 364009.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|1,604|2013",
                     "porcentaje": 1.78
@@ -29272,7 +30106,7 @@
                 {
                     "cantidad": 339557.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|1,604|2013 03 21",
                     "porcentaje": 1.66
@@ -29280,7 +30114,7 @@
                 {
                     "cantidad": 327951.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|1,604|2013 03 21",
                     "porcentaje": 1.6
@@ -29288,7 +30122,7 @@
                 {
                     "cantidad": 320769.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|1,604|2013 03 21",
                     "porcentaje": 1.57
@@ -29296,7 +30130,7 @@
                 {
                     "cantidad": 318494.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|1,604|2013 03 21",
                     "porcentaje": 1.56
@@ -29304,7 +30138,7 @@
                 {
                     "cantidad": 301777.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|1,604|2013 03 21",
                     "porcentaje": 1.48
@@ -29328,7 +30162,7 @@
                 {
                     "cantidad": 126830.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|1,604|2013",
                     "porcentaje": 0.62
@@ -29336,7 +30170,7 @@
                 {
                     "cantidad": 124688.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR DE CDTO.|1,604|2013 03 2",
                     "porcentaje": 0.61
@@ -29352,7 +30186,7 @@
                 {
                     "cantidad": 66955.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|1,604|2013 03 21",
                     "porcentaje": 0.33
@@ -29360,7 +30194,7 @@
                 {
                     "cantidad": 58989.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|1,604|2013 03 2",
                     "porcentaje": 0.29
@@ -29368,7 +30202,7 @@
                 {
                     "cantidad": 57304.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|1,604|20",
                     "porcentaje": 0.28
@@ -29384,7 +30218,7 @@
                 {
                     "cantidad": 8109.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBAL COOP.CDTO.|1,604|2013",
                     "porcentaje": 0.04
@@ -29392,7 +30226,7 @@
                 {
                     "cantidad": 3699.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|1,604|2013 03 21",
                     "porcentaje": 0.02
@@ -29480,7 +30314,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29488,7 +30322,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|3,015|2012",
                     "porcentaje": 0.0
@@ -29496,7 +30330,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29504,7 +30338,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29512,7 +30346,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29520,7 +30354,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29528,7 +30362,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29536,7 +30370,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29544,7 +30378,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29552,7 +30386,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|3,015|20",
                     "porcentaje": 0.0
@@ -29560,7 +30394,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29568,7 +30402,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR DE CDTO.|3,015|2012 04 0",
                     "porcentaje": 0.0
@@ -29576,7 +30410,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|3,015|2012 04 02",
                     "porcentaje": 0.0
@@ -29584,7 +30418,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|3,015|2012",
                     "porcentaje": 0.0
@@ -29592,7 +30426,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|MULTICAJA (ARAGONESA Y D PIRI)|3,015|2",
                     "porcentaje": 0.0
@@ -29600,7 +30434,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|3,015|2",
                     "porcentaje": 0.0
@@ -29619,6 +30453,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.21,
+            "liquidez": 3.27,
             "participes": 211,
             "patrimonio": 21415948,
             "periodo": "2012T1",
@@ -29626,7 +30461,7 @@
                 {
                     "cantidad": 4509884.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|3,015|2012 04 02",
                     "porcentaje": 21.06
@@ -29658,7 +30493,7 @@
                 {
                     "cantidad": 933190.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|3,015|2012 04 02",
                     "porcentaje": 4.36
@@ -29666,7 +30501,7 @@
                 {
                     "cantidad": 808514.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|MULTICAJA (ARAGONESA Y D PIRI)|3,015|2",
                     "porcentaje": 3.78
@@ -29690,7 +30525,7 @@
                 {
                     "cantidad": 760940.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|3,015|2",
                     "porcentaje": 3.55
@@ -29746,7 +30581,7 @@
                 {
                     "cantidad": 497279.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|3,015|2012",
                     "porcentaje": 2.32
@@ -29754,7 +30589,7 @@
                 {
                     "cantidad": 494490.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|3,015|2012 04 02",
                     "porcentaje": 2.31
@@ -29762,7 +30597,7 @@
                 {
                     "cantidad": 437160.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|3,015|2012 04 02",
                     "porcentaje": 2.04
@@ -29770,7 +30605,7 @@
                 {
                     "cantidad": 402835.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|3,015|2012 04 02",
                     "porcentaje": 1.88
@@ -29786,7 +30621,7 @@
                 {
                     "cantidad": 378311.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|3,015|2012 04 02",
                     "porcentaje": 1.77
@@ -29794,7 +30629,7 @@
                 {
                     "cantidad": 355594.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|3,015|2012 04 02",
                     "porcentaje": 1.66
@@ -29802,7 +30637,7 @@
                 {
                     "cantidad": 338991.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|3,015|2012 04 02",
                     "porcentaje": 1.58
@@ -29826,7 +30661,7 @@
                 {
                     "cantidad": 172915.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|3,015|2012",
                     "porcentaje": 0.81
@@ -29834,7 +30669,7 @@
                 {
                     "cantidad": 142924.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR DE CDTO.|3,015|2012 04 0",
                     "porcentaje": 0.67
@@ -29850,7 +30685,7 @@
                 {
                     "cantidad": 91974.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|3,015|2012 04 02",
                     "porcentaje": 0.43
@@ -29858,7 +30693,7 @@
                 {
                     "cantidad": 62425.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|3,015|20",
                     "porcentaje": 0.29
@@ -29874,7 +30709,7 @@
                 {
                     "cantidad": 4126.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|3,015|2012 04 02",
                     "porcentaje": 0.02
@@ -29933,6 +30768,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.13,
+            "liquidez": 9.22,
             "participes": 217,
             "patrimonio": 22743682,
             "periodo": "2011T4",
@@ -29940,7 +30776,7 @@
                 {
                     "cantidad": 4517658.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|3,015|2012 04 02",
                     "porcentaje": 19.86
@@ -29980,7 +30816,7 @@
                 {
                     "cantidad": 934798.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|3,015|2012 04 02",
                     "porcentaje": 4.11
@@ -29988,7 +30824,7 @@
                 {
                     "cantidad": 809907.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|MULTICAJA (ARAGONESA Y D PIRI)|3,015|2",
                     "porcentaje": 3.56
@@ -30012,7 +30848,7 @@
                 {
                     "cantidad": 762252.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CR ALBACETE CIUDAD REAL CUENCA|3,015|2",
                     "porcentaje": 3.35
@@ -30036,7 +30872,7 @@
                 {
                     "cantidad": 498137.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|3,015|2012",
                     "porcentaje": 2.19
@@ -30052,7 +30888,7 @@
                 {
                     "cantidad": 495343.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|3,015|2012 04 02",
                     "porcentaje": 2.18
@@ -30060,7 +30896,7 @@
                 {
                     "cantidad": 437914.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|3,015|2012 04 02",
                     "porcentaje": 1.93
@@ -30068,7 +30904,7 @@
                 {
                     "cantidad": 403529.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|3,015|2012 04 02",
                     "porcentaje": 1.77
@@ -30084,7 +30920,7 @@
                 {
                     "cantidad": 378963.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|3,015|2012 04 02",
                     "porcentaje": 1.67
@@ -30092,7 +30928,7 @@
                 {
                     "cantidad": 356207.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|3,015|2012 04 02",
                     "porcentaje": 1.57
@@ -30100,7 +30936,7 @@
                 {
                     "cantidad": 339575.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|3,015|2012 04 02",
                     "porcentaje": 1.49
@@ -30108,7 +30944,7 @@
                 {
                     "cantidad": 173214.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|3,015|2012",
                     "porcentaje": 0.76
@@ -30124,7 +30960,7 @@
                 {
                     "cantidad": 143170.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR DE CDTO.|3,015|2012 04 0",
                     "porcentaje": 0.63
@@ -30140,7 +30976,7 @@
                 {
                     "cantidad": 92132.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|3,015|2012 04 02",
                     "porcentaje": 0.41
@@ -30148,7 +30984,7 @@
                 {
                     "cantidad": 62533.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|3,015|20",
                     "porcentaje": 0.27
@@ -30156,7 +30992,7 @@
                 {
                     "cantidad": 4133.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|3,015|2012 04 02",
                     "porcentaje": 0.02
@@ -30196,7 +31032,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE NAVARRA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30204,7 +31040,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CENTRAL|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30212,7 +31048,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL EXTREMADURA|2,532|2011 12 0",
                     "porcentaje": 0.0
@@ -30220,7 +31056,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL SALAMANCA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30228,7 +31064,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GIJON|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30236,7 +31072,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE SORIA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30244,7 +31080,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ALBACETE|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30252,7 +31088,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE BURGOS|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30260,7 +31096,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ARAGON|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30268,7 +31104,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL ASTURIAS|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30276,7 +31112,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CIUDAD REAL|2,532|2011 12 0",
                     "porcentaje": 0.0
@@ -30284,7 +31120,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL GRANADA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30292,7 +31128,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE ZAMORA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30300,7 +31136,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CANARIAS|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30308,7 +31144,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL S.ISIDRO CASTELLON|2,532|20",
                     "porcentaje": 0.0
@@ -30316,7 +31152,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|2,532|2011",
                     "porcentaje": 0.0
@@ -30324,7 +31160,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DE TERUEL|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30332,7 +31168,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL BETXI|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30340,7 +31176,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA POPULAR DE CDTO.|2,532|2011 12 0",
                     "porcentaje": 0.0
@@ -30348,7 +31184,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAIXA RURAL GALEGA|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30356,7 +31192,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL SUR|2,532|2011 12 01",
                     "porcentaje": 0.0
@@ -30364,7 +31200,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|MULTICAJA (ARAGONESA Y D PIRI)|2,532|2",
                     "porcentaje": 0.0
@@ -30372,7 +31208,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL CREDIT VALENCIA|2,532|2011",
                     "porcentaje": 0.0
@@ -30380,7 +31216,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "euro",
                     "nombre": "Deposito|CAJA RURAL DEL MEDITERRANEO|2,549|2011",
                     "porcentaje": 0.0
@@ -30391,6 +31227,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.18,
+            "liquidez": 3.49,
             "participes": 230,
             "patrimonio": 27850412,
             "periodo": "2011T3",
@@ -30721,6 +31558,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.13,
+            "liquidez": 2.14,
             "participes": 235,
             "patrimonio": 28304362,
             "periodo": "2011T2",
@@ -31059,6 +31897,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.11,
+            "liquidez": 2.08,
             "participes": 243,
             "patrimonio": 28837596,
             "periodo": "2011T1",
@@ -31373,6 +32212,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 2.43,
             "participes": 262,
             "patrimonio": 29454024,
             "periodo": "2010T4",
@@ -31927,6 +32767,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.0,
+            "liquidez": 0.89,
             "participes": 280,
             "patrimonio": 30903260,
             "periodo": "2010T3",
@@ -32281,6 +33122,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.27,
+            "liquidez": 1.74,
             "participes": 303,
             "patrimonio": 34573025,
             "periodo": "2010T2",
@@ -32715,6 +33557,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.13,
+            "liquidez": 6.04,
             "participes": 327,
             "patrimonio": 37844307,
             "periodo": "2010T1",
@@ -33109,6 +33952,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.15,
+            "liquidez": 7.96,
             "participes": 334,
             "patrimonio": 38383828,
             "periodo": "2009T4",
@@ -33703,6 +34547,7 @@
         {
             "gastos": 0.15,
             "indice_rotacion": 0.09,
+            "liquidez": 5.29,
             "participes": 346,
             "patrimonio": 38815081,
             "periodo": "2009T3",
@@ -34065,6 +34910,7 @@
         {
             "gastos": 0.14,
             "indice_rotacion": 0.57,
+            "liquidez": 5.44,
             "participes": 359,
             "patrimonio": 41298463,
             "periodo": "2009T2",

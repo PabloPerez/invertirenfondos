@@ -4,7 +4,539 @@
     "historico_periodos": [
         {
             "gastos": 0.43,
+            "indice_rotacion": 0.32,
+            "liquidez": 12.03,
+            "participes": 14374,
+            "patrimonio": 517205000,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 19982000.0,
+                    "desde": "2019T1",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 3.86
+                },
+                {
+                    "cantidad": 15159000.0,
+                    "desde": "2018T4",
+                    "isin": "DE0008404005",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALLIANZ SE",
+                    "porcentaje": 2.93
+                },
+                {
+                    "cantidad": 14190000.0,
+                    "desde": "2021T1",
+                    "isin": "GB0002875804",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BRITISH AMERICAN TOB",
+                    "porcentaje": 2.74
+                },
+                {
+                    "cantidad": 13190000.0,
+                    "desde": "2021T1",
+                    "isin": "GB0009252882",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GLAXOSMITHKLINE PLC",
+                    "porcentaje": 2.55
+                },
+                {
+                    "cantidad": 12717000.0,
+                    "desde": "2021T4",
+                    "isin": "CH0012005267",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVARTIS AG",
+                    "porcentaje": 2.46
+                },
+                {
+                    "cantidad": 12101000.0,
+                    "desde": "2018T2",
+                    "isin": "GB0007188757",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RIO TINTO PLC",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 11999000.0,
+                    "desde": "2020T4",
+                    "isin": "GB00B1XZS820",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ANGLO AMERICAN PLC",
+                    "porcentaje": 2.32
+                },
+                {
+                    "cantidad": 11689000.0,
+                    "desde": "2014T3",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA SA",
+                    "porcentaje": 2.26
+                },
+                {
+                    "cantidad": 11526000.0,
+                    "desde": "2021T1",
+                    "isin": "DE0007030009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RHEINMETALL AG",
+                    "porcentaje": 2.23
+                },
+                {
+                    "cantidad": 10633000.0,
+                    "desde": "2021T3",
+                    "isin": "CH0012214059",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HOLCIM LTD",
+                    "porcentaje": 2.06
+                },
+                {
+                    "cantidad": 10498000.0,
+                    "desde": "2021T2",
+                    "isin": "NL0000009082",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE KPN NV",
+                    "porcentaje": 2.03
+                },
+                {
+                    "cantidad": 10073000.0,
+                    "desde": "2021T1",
+                    "isin": "GB0004544929",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|IMPERIAL BRANDS PLC",
+                    "porcentaje": 1.95
+                },
+                {
+                    "cantidad": 10019000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0001030385",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FEDERAL REPUBLIC OF|-0,772|2022-06-22",
+                    "porcentaje": 1.94
+                },
+                {
+                    "cantidad": 9831000.0,
+                    "desde": "2020T1",
+                    "isin": "CH0011075394",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ZURICH INSURANCE GRO",
+                    "porcentaje": 1.9
+                },
+                {
+                    "cantidad": 9626000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0000120172",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARREFOUR SA",
+                    "porcentaje": 1.86
+                },
+                {
+                    "cantidad": 8891000.0,
+                    "desde": "2021T3",
+                    "isin": "FR0010208488",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENGIE SA",
+                    "porcentaje": 1.72
+                },
+                {
+                    "cantidad": 8698000.0,
+                    "desde": "2021T2",
+                    "isin": "FR0000120503",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOUYGUES SA",
+                    "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 8588000.0,
+                    "desde": "2021T4",
+                    "isin": "JE00B4T3BW64",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GLENCORE PLC",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 8516000.0,
+                    "desde": "2021T2",
+                    "isin": "FR0000120271",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TOTALENERGIES SE",
+                    "porcentaje": 1.65
+                },
+                {
+                    "cantidad": 7776000.0,
+                    "desde": "2021T4",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHENER RUECKVERS",
+                    "porcentaje": 1.5
+                },
+                {
+                    "cantidad": 7539000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0144580Y14",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|IBERDROLA SA",
+                    "porcentaje": 1.46
+                },
+                {
+                    "cantidad": 7411000.0,
+                    "desde": "2021T4",
+                    "isin": "FR0012757854",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SPIE SA",
+                    "porcentaje": 1.43
+                },
+                {
+                    "cantidad": 7039000.0,
+                    "desde": "2021T4",
+                    "isin": "DE000BASF111",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BASF SE",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 6603000.0,
+                    "desde": "2021T4",
+                    "isin": "DE0005557508",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE TELEKOM AG",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 6646000.0,
+                    "desde": "2021T4",
+                    "isin": "IT0000062072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASSICURAZIONI GENERA",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 6639000.0,
+                    "desde": "2021T4",
+                    "isin": "NO0005052605",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NORSK HYDRO ASA",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 6506000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0125220311",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ACCIONA SA",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 6497000.0,
+                    "desde": "2021T3",
+                    "isin": "GB0000811801",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BARRATT DEVELOPMENTS",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 6444000.0,
+                    "desde": "2019T3",
+                    "isin": "GB0005603997",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LEGAL & GENERAL GROU",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 6480000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0010411983",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCOR SE",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 6164000.0,
+                    "desde": "2021T4",
+                    "isin": "CH0012138605",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ADECCO GROUP AG",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 6169000.0,
+                    "desde": "2020T1",
+                    "isin": "FI0009005987",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UPM-KYMMENE OYJ",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 5959000.0,
+                    "desde": "2021T4",
+                    "isin": "DE000A1PHFF7",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HUGO BOSS AG",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 5906000.0,
+                    "desde": "2020T2",
+                    "isin": "DE0007236101",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SIEMENS AG",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 5731000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0432492467",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALCON INC",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 5565000.0,
+                    "desde": "2021T4",
+                    "isin": "FR0000127771",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VIVENDI SE",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 5457000.0,
+                    "desde": "2021T4",
+                    "isin": "BE0003470755",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SOLVAY SA",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 5490000.0,
+                    "desde": "2021T3",
+                    "isin": "NL0011872643",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASR NEDERLAND NV",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 5420000.0,
+                    "desde": "2021T3",
+                    "isin": "GB00B0LCW083",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HIKMA PHARMACEUTICAL",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 5320000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0001250932",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HERA SPA",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 5309000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0002374006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DIAGEO PLC",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 5322000.0,
+                    "desde": "2021T3",
+                    "isin": "FR0000121667",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ESSILORLUXOTTICA SA",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 5300000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000125486",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VINCI SA",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 5218000.0,
+                    "desde": "2021T4",
+                    "isin": "IT0003128367",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENEL SPA",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 5112000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0418792922",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SIKA AG",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 5130000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000120321",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|L'OREAL SA",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 5078000.0,
+                    "desde": "2021T4",
+                    "isin": "CH0024608827",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PARTNERS GROUP HOLDI",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 5002000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0113211835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BANCO BILBAO VIZCAYA",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 4979000.0,
+                    "desde": "2021T4",
+                    "isin": "GB0005405286",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HSBC HOLDINGS PLC",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 4836000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00B24CGK77",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RECKITT BENCKISER GR",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 4859000.0,
+                    "desde": "2021T1",
+                    "isin": "GB00B7T77214",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NATWEST GROUP PLC",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 4836000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0007099541",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PRUDENTIAL PLC",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 4887000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000124141",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VEOLIA ENVIRONNEMENT",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 4784000.0,
+                    "desde": "2021T4",
+                    "isin": "DE000EVNK013",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EVONIK INDUSTRIES AG",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 4638000.0,
+                    "desde": "2021T3",
+                    "isin": "DE000ENAG999",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|E.ON SE",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 4561000.0,
+                    "desde": "2021T4",
+                    "isin": "IT0003796171",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|POSTE ITALIANE SPA",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 4458000.0,
+                    "desde": "2021T4",
+                    "isin": "AT0000BAWAG2",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BAWAG GROUP AG",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 4182000.0,
+                    "desde": "2021T4",
+                    "isin": "LU0569974404",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|APERAM SA",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 3637000.0,
+                    "desde": "2022T1",
+                    "isin": "FI0009007132",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FORTUM OYJ",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 3449000.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005239360",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UNICREDIT SPA",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 2728000.0,
+                    "desde": "2021T4",
+                    "isin": "NL0000852523",
+                    "moneda": "EUR",
+                    "nombre": "OTROS|TKH GROUP NV",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 2316000.0,
+                    "desde": "2021T4",
+                    "isin": "GB0007669376",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ST JAMES'S PLACE PLC",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 2221000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00BDVZYZ77",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROYAL MAIL PLC",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 2180000.0,
+                    "desde": "2021T4",
+                    "isin": "FR0000120222",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CNP ASSURANCES",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 1994000.0,
+                    "desde": "2022T1",
+                    "isin": "IT0003132476",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENI SPA",
+                    "porcentaje": 0.39
+                }
+            ],
+            "rentabilidad": -2.18
+        },
+        {
+            "gastos": 0.43,
             "indice_rotacion": 0.85,
+            "liquidez": 7.17,
             "participes": 14502,
             "patrimonio": 532210000,
             "periodo": "2021T4",
@@ -535,6 +1067,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.26,
+            "liquidez": 6.41,
             "participes": 14617,
             "patrimonio": 497838000,
             "periodo": "2021T3",
@@ -945,6 +1478,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.86,
+            "liquidez": 4.15,
             "participes": 14699,
             "patrimonio": 503538000,
             "periodo": "2021T2",
@@ -1355,6 +1889,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.51,
+            "liquidez": 14.88,
             "participes": 14714,
             "patrimonio": 490243000,
             "periodo": "2021T1",
@@ -1725,6 +2260,7 @@
         {
             "gastos": 0.48,
             "indice_rotacion": 0.56,
+            "liquidez": 7.73,
             "participes": 15035,
             "patrimonio": 476800000,
             "periodo": "2020T4",
@@ -2087,6 +2623,7 @@
         {
             "gastos": 0.48,
             "indice_rotacion": 0.2,
+            "liquidez": 5.72,
             "participes": 15544,
             "patrimonio": 455309000,
             "periodo": "2020T3",
@@ -2473,6 +3010,7 @@
         {
             "gastos": 0.47,
             "indice_rotacion": 1.7,
+            "liquidez": 3.68,
             "participes": 15837,
             "patrimonio": 471297000,
             "periodo": "2020T2",
@@ -2907,6 +3445,7 @@
         {
             "gastos": 0.47,
             "indice_rotacion": 0.71,
+            "liquidez": 2.49,
             "participes": 15922,
             "patrimonio": 427055000,
             "periodo": "2020T1",
@@ -3309,6 +3848,7 @@
         {
             "gastos": 0.48,
             "indice_rotacion": 1.32,
+            "liquidez": 15.09,
             "participes": 16416,
             "patrimonio": 586810000,
             "periodo": "2019T4",
@@ -3679,6 +4219,7 @@
         {
             "gastos": 0.52,
             "indice_rotacion": 0.8,
+            "liquidez": 11.68,
             "participes": 16015,
             "patrimonio": 542384000,
             "periodo": "2019T3",
@@ -4049,6 +4590,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.9,
+            "liquidez": 7.77,
             "participes": 16043,
             "patrimonio": 528508000,
             "periodo": "2019T2",
@@ -4451,6 +4993,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.46,
+            "liquidez": 13.24,
             "participes": 15854,
             "patrimonio": 517023000,
             "periodo": "2019T1",
@@ -4813,6 +5356,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.35,
+            "liquidez": 2.37,
             "participes": 15746,
             "patrimonio": 460197000,
             "periodo": "2018T4",
@@ -5239,6 +5783,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.22,
+            "liquidez": 8.26,
             "participes": 15536,
             "patrimonio": 518625000,
             "periodo": "2018T3",
@@ -5649,6 +6194,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.35,
+            "liquidez": 8.01,
             "participes": 15059,
             "patrimonio": 486685000,
             "periodo": "2018T2",
@@ -6067,6 +6613,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.2,
+            "liquidez": 7.95,
             "participes": 13576,
             "patrimonio": 427955000,
             "periodo": "2018T1",
@@ -6501,6 +7048,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.16,
+            "liquidez": 10.03,
             "participes": 12706,
             "patrimonio": 399759000,
             "periodo": "2017T4",
@@ -6999,6 +7547,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.18,
+            "liquidez": 8.23,
             "participes": 11568,
             "patrimonio": 365977000,
             "periodo": "2017T3",
@@ -7473,6 +8022,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.37,
+            "liquidez": 3.51,
             "participes": 10714,
             "patrimonio": 320708000,
             "periodo": "2017T2",
@@ -7971,6 +8521,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.12,
+            "liquidez": 3.27,
             "participes": 8700,
             "patrimonio": 266190000,
             "periodo": "2017T1",
@@ -8429,6 +8980,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.05,
+            "liquidez": 10.63,
             "participes": 7226,
             "patrimonio": 218992000,
             "periodo": "2016T4",
@@ -8855,6 +9407,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.05,
+            "liquidez": 18.98,
             "participes": 6864,
             "patrimonio": 206411000,
             "periodo": "2016T3",
@@ -9297,6 +9850,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.68,
+            "liquidez": 12.44,
             "participes": 6570,
             "patrimonio": 196386000,
             "periodo": "2016T2",
@@ -9747,6 +10301,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.46,
+            "liquidez": 3.16,
             "participes": 5642,
             "patrimonio": 187517000,
             "periodo": "2016T1",
@@ -10237,6 +10792,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.85,
+            "liquidez": 2.41,
             "participes": 5012,
             "patrimonio": 181276000,
             "periodo": "2015T4",
@@ -10743,6 +11299,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.43,
+            "liquidez": 5.34,
             "participes": 3996,
             "patrimonio": 138399000,
             "periodo": "2015T3",
@@ -11241,6 +11798,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.26,
+            "liquidez": 6.33,
             "participes": 3087,
             "patrimonio": 117558000,
             "periodo": "2015T2",
@@ -11739,6 +12297,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.77,
+            "liquidez": 5.77,
             "participes": 1775,
             "patrimonio": 80204000,
             "periodo": "2015T1",
@@ -12245,6 +12804,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.72,
+            "liquidez": 1.91,
             "participes": 817,
             "patrimonio": 41628000,
             "periodo": "2014T4",
@@ -12759,6 +13319,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.38,
+            "liquidez": 2.29,
             "participes": 535,
             "patrimonio": 31069000,
             "periodo": "2014T3",
@@ -13273,6 +13834,7 @@
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,
+            "liquidez": 1.92,
             "participes": 29,
             "patrimonio": 10832000,
             "periodo": "2014T2",

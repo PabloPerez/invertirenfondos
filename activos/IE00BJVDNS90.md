@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|LEGG MASON FUND
+isin: IE00BJVDNS90
+---

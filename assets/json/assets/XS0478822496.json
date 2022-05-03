@@ -78,6 +78,13 @@
                     "isin": "ES0171629035",
                     "nombre": "PROFIT CORTO PLAZO, FI",
                     "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.0
                 }
             ],
             "periodo": "2013T2"
@@ -160,6 +167,13 @@
                     "isin": "ES0171629035",
                     "nombre": "PROFIT CORTO PLAZO, FI",
                     "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.0
                 }
             ],
             "periodo": "2013T1"
@@ -200,20 +214,6 @@
                     "isin": "ES0171629035",
                     "nombre": "PROFIT CORTO PLAZO, FI",
                     "porcentaje": 3.22
-                },
-                {
-                    "cantidad": 3297003.0,
-                    "desde": "2010T4",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 3.12
-                },
-                {
-                    "cantidad": 3297003.0,
-                    "desde": "2010T2",
-                    "isin": "ES0146843034",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
-                    "porcentaje": 3.12
                 },
                 {
                     "cantidad": 494063.0,
@@ -262,13 +262,6 @@
                     "desde": "2010T1",
                     "isin": "ES0138534005",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 1.31
-                },
-                {
-                    "cantidad": 17951932.0,
-                    "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
                     "porcentaje": 1.31
                 },
                 {
@@ -339,6 +332,13 @@
                     "desde": "2012T3",
                     "isin": "ES0138929031",
                     "nombre": "FONPROFIT, FI",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 299728.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
                     "porcentaje": 1.04
                 },
                 {
@@ -447,13 +447,6 @@
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
-                    "porcentaje": 0.03
-                },
-                {
                     "cantidad": 0.0,
                     "desde": "2011T3",
                     "isin": "ES0150037036",
@@ -532,7 +525,7 @@
                     "cantidad": 759956.0,
                     "desde": "2011T3",
                     "isin": "ES0150036038",
-                    "nombre": "TREA NB GLOBAL FLEXIBLE 0-100, FI",
+                    "nombre": "TREA GLOBAL FLEXIBLE 0-100, FI",
                     "porcentaje": 2.94
                 },
                 {
@@ -643,13 +636,6 @@
                 {
                     "cantidad": 17866398.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 1.23
-                },
-                {
-                    "cantidad": 17866398.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 1.23
@@ -679,7 +665,7 @@
                     "cantidad": 1978296.0,
                     "desde": "2011T4",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 1.13
                 },
                 {
@@ -695,6 +681,13 @@
                     "isin": "ES0138929031",
                     "nombre": "FONPROFIT, FI",
                     "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 297090.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 1.04
                 },
                 {
                     "cantidad": 595839.0,
@@ -842,13 +835,6 @@
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
-                    "porcentaje": 0.03
                 }
             ],
             "periodo": "2012T3"
@@ -908,7 +894,7 @@
                     "cantidad": 752407.0,
                     "desde": "2011T3",
                     "isin": "ES0150036038",
-                    "nombre": "TREA NB GLOBAL FLEXIBLE 0-100, FI",
+                    "nombre": "TREA GLOBAL FLEXIBLE 0-100, FI",
                     "porcentaje": 2.76
                 },
                 {
@@ -1055,8 +1041,15 @@
                     "cantidad": 1942534.0,
                     "desde": "2011T4",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 292683.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 1.04
                 },
                 {
                     "cantidad": 583128.0,
@@ -1131,13 +1124,6 @@
                 {
                     "cantidad": 9720729.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 9720729.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.6
@@ -1168,13 +1154,6 @@
                     "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.03
                 },
                 {
@@ -1221,6 +1200,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2011T2",
                     "isin": "ES0180942007",
                     "nombre": "UBS VALOR,FI CLASE Q",
@@ -1263,7 +1249,7 @@
                     "cantidad": 773579.0,
                     "desde": "2011T3",
                     "isin": "ES0150036038",
-                    "nombre": "TREA NB GLOBAL FLEXIBLE 0-100, FI",
+                    "nombre": "TREA GLOBAL FLEXIBLE 0-100, FI",
                     "porcentaje": 2.6
                 },
                 {
@@ -1326,8 +1312,15 @@
                     "cantidad": 1979037.0,
                     "desde": "2011T4",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 297525.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 1.02
                 },
                 {
                     "cantidad": 486000.0,
@@ -1437,22 +1430,8 @@
                 {
                     "cantidad": 9882810.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.58
-                },
-                {
-                    "cantidad": 9882810.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
-                    "porcentaje": 0.58
-                },
-                {
-                    "cantidad": 9882810.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.58
                 },
                 {
@@ -1484,13 +1463,6 @@
                     "porcentaje": 0.07
                 },
                 {
-                    "cantidad": 49000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.07
-                },
-                {
                     "cantidad": 49953.0,
                     "desde": "2011T3",
                     "isin": "ES0150037036",
@@ -1502,13 +1474,6 @@
                     "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 49000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.03
                 },
                 {
@@ -1555,6 +1520,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2011T2",
                     "isin": "ES0180942007",
                     "nombre": "UBS VALOR,FI CLASE Q",
@@ -1597,7 +1569,7 @@
                     "cantidad": 763870.0,
                     "desde": "2011T3",
                     "isin": "ES0150036038",
-                    "nombre": "TREA NB GLOBAL FLEXIBLE 0-100, FI",
+                    "nombre": "TREA GLOBAL FLEXIBLE 0-100, FI",
                     "porcentaje": 2.62
                 },
                 {
@@ -1688,7 +1660,14 @@
                     "cantidad": 1938589.0,
                     "desde": "2011T4",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 291065.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
                     "porcentaje": 1.01
                 },
                 {
@@ -1750,22 +1729,8 @@
                 {
                     "cantidad": 9670771.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 9670771.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 9670771.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.56
                 },
                 {
@@ -1818,13 +1783,6 @@
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.06
-                },
-                {
                     "cantidad": 48532.0,
                     "desde": "2011T3",
                     "isin": "ES0150037036",
@@ -1836,13 +1794,6 @@
                     "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.03
                 }
             ],
@@ -1861,7 +1812,7 @@
                     "cantidad": 763892.0,
                     "desde": "2011T3",
                     "isin": "ES0150036038",
-                    "nombre": "TREA NB GLOBAL FLEXIBLE 0-100, FI",
+                    "nombre": "TREA GLOBAL FLEXIBLE 0-100, FI",
                     "porcentaje": 2.44
                 },
                 {
@@ -1970,6 +1921,13 @@
                     "porcentaje": 1.09
                 },
                 {
+                    "cantidad": 286720.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.99
+                },
+                {
                     "cantidad": 4844540.0,
                     "desde": "2010T2",
                     "isin": "ES0165237001",
@@ -2028,22 +1986,8 @@
                 {
                     "cantidad": 9580277.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 9580277.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 9580277.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.56
                 },
                 {
@@ -2089,13 +2033,6 @@
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 47000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.06
-                },
-                {
                     "cantidad": 47639.0,
                     "desde": "2011T3",
                     "isin": "ES0150037036",
@@ -2107,13 +2044,6 @@
                     "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 47000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.03
                 }
             ],
@@ -2227,6 +2157,13 @@
                     "porcentaje": 1.13
                 },
                 {
+                    "cantidad": 292715.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.96
+                },
+                {
                     "cantidad": 15146400.0,
                     "desde": "2010T1",
                     "isin": "ES0138534005",
@@ -2236,22 +2173,8 @@
                 {
                     "cantidad": 15146400.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 15146400.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
-                    "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 15146400.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.93
                 },
                 {
@@ -2355,22 +2278,8 @@
                 {
                     "cantidad": 48000.0,
                     "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.02
                 },
                 {
@@ -2491,6 +2400,13 @@
                     "porcentaje": 1.09
                 },
                 {
+                    "cantidad": 291112.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.93
+                },
+                {
                     "cantidad": 15095696.0,
                     "desde": "2010T1",
                     "isin": "ES0138534005",
@@ -2500,22 +2416,8 @@
                 {
                     "cantidad": 15095696.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 15095696.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 15095696.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.9
                 },
                 {
@@ -2592,7 +2494,7 @@
                     "cantidad": 486940.0,
                     "desde": "2010T1",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 0.42
                 },
                 {
@@ -2619,22 +2521,8 @@
                 {
                     "cantidad": 48000.0,
                     "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 48000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.02
                 },
                 {
@@ -2785,23 +2673,16 @@
                 {
                     "cantidad": 14623751.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.86
-                },
-                {
-                    "cantidad": 14623751.0,
-                    "desde": "2010T1",
                     "isin": "ES0138534039",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.86
                 },
                 {
-                    "cantidad": 14623751.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
-                    "porcentaje": 0.86
+                    "cantidad": 282160.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.8
                 },
                 {
                     "cantidad": 471000.0,
@@ -2856,7 +2737,7 @@
                     "cantidad": 471710.0,
                     "desde": "2010T1",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 0.35
                 },
                 {
@@ -2876,22 +2757,8 @@
                 {
                     "cantidad": 47000.0,
                     "desde": "2010T4",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 47000.0,
-                    "desde": "2010T4",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 47000.0,
-                    "desde": "2010T4",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.02
                 },
                 {
@@ -3015,7 +2882,7 @@
                     "cantidad": 1451900.0,
                     "desde": "2010T1",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 0.86
                 },
                 {
@@ -3033,17 +2900,17 @@
                     "porcentaje": 0.86
                 },
                 {
-                    "cantidad": 15003943.0,
+                    "cantidad": 289847.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.78
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.79
                 },
                 {
                     "cantidad": 15003943.0,
                     "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
                     "porcentaje": 0.78
                 },
                 {
@@ -3174,7 +3041,7 @@
                     "cantidad": 3098413.0,
                     "desde": "2010T1",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 1.6
                 },
                 {
@@ -3248,6 +3115,13 @@
                     "porcentaje": 0.82
                 },
                 {
+                    "cantidad": 281452.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.77
+                },
+                {
                     "cantidad": 375462.0,
                     "desde": "2010T1",
                     "isin": "ES0114837000",
@@ -3259,13 +3133,6 @@
                     "desde": "2010T1",
                     "isin": "ES0138534005",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 14554367.0,
-                    "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
                     "porcentaje": 0.67
                 },
                 {
@@ -3389,7 +3256,7 @@
                     "cantidad": 3257678.0,
                     "desde": "2010T1",
                     "isin": "ES0125240004",
-                    "nombre": "TREA NB CAPITAL PLUS, FI CLASE C",
+                    "nombre": "TREA CAPITAL PLUS, FI CLASE C",
                     "porcentaje": 1.11
                 },
                 {
@@ -3421,6 +3288,13 @@
                     "porcentaje": 0.86
                 },
                 {
+                    "cantidad": 296135.0,
+                    "desde": "2010T1",
+                    "isin": "ES0175426008",
+                    "nombre": "BNP PARIBAS FLEXIBLE MAX 30, FI CLASE A",
+                    "porcentaje": 0.73
+                },
+                {
                     "cantidad": 10448529.0,
                     "desde": "2010T1",
                     "isin": "ES0138045002",
@@ -3446,13 +3320,6 @@
                     "desde": "2010T1",
                     "isin": "ES0138534005",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 9380943.0,
-                    "desde": "2010T1",
-                    "isin": "ES0138534021",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
                     "porcentaje": 0.37
                 },
                 {

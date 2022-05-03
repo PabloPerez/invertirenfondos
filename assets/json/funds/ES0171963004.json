@@ -3,8 +3,428 @@
     "fecha_registro": "07/06/2019",
     "historico_periodos": [
         {
+            "gastos": 0.13,
+            "indice_rotacion": 0.09,
+            "liquidez": 13.58,
+            "participes": 403254,
+            "patrimonio": 5747797653,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 426553002.0,
+                    "desde": "2019T3",
+                    "isin": "US5949181045",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MICROSOFT",
+                    "porcentaje": 7.42
+                },
+                {
+                    "cantidad": 311280908.0,
+                    "desde": "2019T3",
+                    "isin": "US02079K3059",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALPHABET",
+                    "porcentaje": 5.42
+                },
+                {
+                    "cantidad": 280003564.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|-.675|2022-04-01",
+                    "porcentaje": 4.87
+                },
+                {
+                    "cantidad": 270145924.0,
+                    "desde": "2019T3",
+                    "isin": "US0231351067",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AMAZON",
+                    "porcentaje": 4.7
+                },
+                {
+                    "cantidad": 257456866.0,
+                    "desde": "2019T3",
+                    "isin": "US0378331005",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|APPLE",
+                    "porcentaje": 4.48
+                },
+                {
+                    "cantidad": 159299439.0,
+                    "desde": "2019T3",
+                    "isin": "IE00B8KQN827",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EATON CORP PLC",
+                    "porcentaje": 2.77
+                },
+                {
+                    "cantidad": 158413839.0,
+                    "desde": "2019T4",
+                    "isin": "US00287Y1091",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ABBVIE INC",
+                    "porcentaje": 2.76
+                },
+                {
+                    "cantidad": 157653786.0,
+                    "desde": "2019T3",
+                    "isin": "US65339F1012",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NEXTERA ENERGY",
+                    "porcentaje": 2.74
+                },
+                {
+                    "cantidad": 153045031.0,
+                    "desde": "2019T3",
+                    "isin": "US74340W1036",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROLOGIS INC",
+                    "porcentaje": 2.66
+                },
+                {
+                    "cantidad": 149836162.0,
+                    "desde": "2019T3",
+                    "isin": "US0326541051",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ANALOGDEVICES",
+                    "porcentaje": 2.61
+                },
+                {
+                    "cantidad": 139638248.0,
+                    "desde": "2019T3",
+                    "isin": "US57636Q1040",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MASTERCARD INC",
+                    "porcentaje": 2.43
+                },
+                {
+                    "cantidad": 135194777.0,
+                    "desde": "2019T4",
+                    "isin": "US89832Q1094",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TRUIST FINANCIA",
+                    "porcentaje": 2.35
+                },
+                {
+                    "cantidad": 126409047.0,
+                    "desde": "2021T3",
+                    "isin": "US2441991054",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEERE",
+                    "porcentaje": 2.2
+                },
+                {
+                    "cantidad": 110735674.0,
+                    "desde": "2019T3",
+                    "isin": "US1101221083",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BRISTOL-MYERS",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 105713933.0,
+                    "desde": "2019T3",
+                    "isin": "US6558441084",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NORFOLK SOUTH",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 95584773.0,
+                    "desde": "2019T3",
+                    "isin": "US6174464486",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MORGAN STANLEY",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 94485554.0,
+                    "desde": "2019T3",
+                    "isin": "US98389B1008",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|XCEL ENERGY",
+                    "porcentaje": 1.64
+                },
+                {
+                    "cantidad": 92902431.0,
+                    "desde": "2019T3",
+                    "isin": "US0079031078",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ADV.MICRO DEV.",
+                    "porcentaje": 1.62
+                },
+                {
+                    "cantidad": 91023314.0,
+                    "desde": "2019T4",
+                    "isin": "US5801351017",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MCDONALDS",
+                    "porcentaje": 1.58
+                },
+                {
+                    "cantidad": 89861454.0,
+                    "desde": "2021T1",
+                    "isin": "US9029733048",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|US BANCORP",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 87317336.0,
+                    "desde": "2021T2",
+                    "isin": "US75886F1075",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|REGENERON",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 85135092.0,
+                    "desde": "2021T3",
+                    "isin": "US15135B1017",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CENTENE CORP",
+                    "porcentaje": 1.48
+                },
+                {
+                    "cantidad": 82160052.0,
+                    "desde": "2019T3",
+                    "isin": "US1011371077",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOSTON SCIENTIF",
+                    "porcentaje": 1.43
+                },
+                {
+                    "cantidad": 80036822.0,
+                    "desde": "2021T2",
+                    "isin": "US78409V1044",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|S&amp;P GLOBAL INC",
+                    "porcentaje": 1.39
+                },
+                {
+                    "cantidad": 77908055.0,
+                    "desde": "2020T3",
+                    "isin": "US88160R1014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TESLA",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 76373169.0,
+                    "desde": "2021T1",
+                    "isin": "US5719032022",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MARRIOTT INTERN",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 68456722.0,
+                    "desde": "2019T3",
+                    "isin": "US03076C1062",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AMERIPRISE FINA",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 61762530.0,
+                    "desde": "2021T1",
+                    "isin": "US5486611073",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LOWE´S",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 58393882.0,
+                    "desde": "2019T3",
+                    "isin": "US46120E6023",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INTUITIVE SURGI",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 58214157.0,
+                    "desde": "2019T4",
+                    "isin": "US5324571083",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LILLY",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 56616374.0,
+                    "desde": "2019T3",
+                    "isin": "US1912161007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|COCACOLA",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 55923345.0,
+                    "desde": "2021T4",
+                    "isin": "US6541061031",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NIKE",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 54455379.0,
+                    "desde": "2022T1",
+                    "isin": "US05722G1004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BAKER HUGHES A",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 53856347.0,
+                    "desde": "2019T4",
+                    "isin": "US8825081040",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TEX INSTRUMENTS",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 51282245.0,
+                    "desde": "2021T4",
+                    "isin": "IE00BK9ZQ967",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TRANE TECH",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 48930213.0,
+                    "desde": "2019T3",
+                    "isin": "US7237871071",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PIONEER NRC",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 47849021.0,
+                    "desde": "2021T1",
+                    "isin": "US6935061076",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PPG INDUSTRIES",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 42915409.0,
+                    "desde": "2019T3",
+                    "isin": "US67103H1077",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|O´REILLY AUTOMO",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 41763443.0,
+                    "desde": "2019T3",
+                    "isin": "US7782961038",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROSS SYSTEMS",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 40075223.0,
+                    "desde": "2020T1",
+                    "isin": "US0995021062",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOOZ ALLEN HAMI",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 35619542.0,
+                    "desde": "2019T3",
+                    "isin": "US2774321002",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EASTMAN CHEMICA",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 32905738.0,
+                    "desde": "2019T4",
+                    "isin": "US7433151039",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROGRESSIVE COR",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 31749569.0,
+                    "desde": "2021T4",
+                    "isin": "US83304A1060",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SNAP INC - A",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 31448584.0,
+                    "desde": "2022T1",
+                    "isin": "US90353T1007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UBER TECHNOLOGI",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 27065986.0,
+                    "desde": "2021T4",
+                    "isin": "US9291601097",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VULCAN MATERIAL",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 26390844.0,
+                    "desde": "2020T2",
+                    "isin": "US9884981013",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|YUM BRANDS",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 25515624.0,
+                    "desde": "2020T2",
+                    "isin": "US8545021011",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|STANLEY BLACK &amp;",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 23340665.0,
+                    "desde": "2019T3",
+                    "isin": "US30303M1027",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FACEBOOK",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 21726056.0,
+                    "desde": "2020T1",
+                    "isin": "US3390411052",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FLEETCOR TECHNO",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 13433485.0,
+                    "desde": "2020T4",
+                    "isin": "US15677J1088",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CERIDIAN HCM HO",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US76954A1034",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RIVIAN",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -1.81
+        },
+        {
             "gastos": 0.14,
             "indice_rotacion": 0.27,
+            "liquidez": 11.33,
             "participes": 283743,
             "patrimonio": 4894795852,
             "periodo": "2021T4",
@@ -431,6 +851,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.12,
+            "liquidez": 12.85,
             "participes": 271618,
             "patrimonio": 4089310376,
             "periodo": "2021T3",
@@ -825,6 +1246,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.0,
+            "liquidez": 10.37,
             "participes": 267108,
             "patrimonio": 3884827841,
             "periodo": "2021T2",
@@ -1243,6 +1665,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.18,
+            "liquidez": 16.07,
             "participes": 258513,
             "patrimonio": 3941474925,
             "periodo": "2021T1",
@@ -1693,6 +2116,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.5,
+            "liquidez": 15.53,
             "participes": 252760,
             "patrimonio": 3586272888,
             "periodo": "2020T4",
@@ -2143,6 +2567,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.33,
+            "liquidez": 15.12,
             "participes": 250820,
             "patrimonio": 3258332583,
             "periodo": "2020T3",
@@ -2577,6 +3002,7 @@
         {
             "gastos": 0.27,
             "indice_rotacion": 0.31,
+            "liquidez": 17.31,
             "participes": 250423,
             "patrimonio": 3067940504,
             "periodo": "2020T2",
@@ -3019,6 +3445,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 0.0,
+            "liquidez": 19.5,
             "participes": 249993,
             "patrimonio": 2543015934,
             "periodo": "2020T1",
@@ -3485,6 +3912,7 @@
         {
             "gastos": 0.13,
             "indice_rotacion": 3.41,
+            "liquidez": 16.63,
             "participes": 248961,
             "patrimonio": 2444287197,
             "periodo": "2019T4",
@@ -3951,6 +4379,7 @@
         {
             "gastos": 0.18,
             "indice_rotacion": 3.36,
+            "liquidez": 19.37,
             "participes": 238803,
             "patrimonio": 2060505862,
             "periodo": "2019T3",
@@ -4449,6 +4878,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.0,
+            "liquidez": 100.38,
             "participes": 1,
             "patrimonio": 296140,
             "periodo": "2019T2",

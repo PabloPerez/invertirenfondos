@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SPDR WORLD TECHNOLOGY (W
+isin: IE00BYTRRD19
+---

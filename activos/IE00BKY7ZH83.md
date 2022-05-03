@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PIMCO-ASIA STR B-INSTH (
+isin: IE00BKY7ZH83
+---

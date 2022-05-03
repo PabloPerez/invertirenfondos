@@ -4,7 +4,123 @@
     "historico_periodos": [
         {
             "gastos": 0.03,
+            "indice_rotacion": 0.01,
+            "liquidez": 6.57,
+            "participes": 100,
+            "patrimonio": 5431579,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 1703524.0,
+                    "desde": "2019T3",
+                    "isin": "IT0004898034",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|4,50|2023-05-01",
+                    "porcentaje": 31.36
+                },
+                {
+                    "cantidad": 1475943.0,
+                    "desde": "2019T3",
+                    "isin": "IT0005172322",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,95|2023-03-15",
+                    "porcentaje": 27.17
+                },
+                {
+                    "cantidad": 508614.0,
+                    "desde": "2019T3",
+                    "isin": "IT0005325946",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|0,95|2023-03-01",
+                    "porcentaje": 9.36
+                },
+                {
+                    "cantidad": 214154.0,
+                    "desde": "2019T3",
+                    "isin": "FR0011791391",
+                    "moneda": "euro",
+                    "nombre": "BONO|ORANO SA|3,13|2023-03-20",
+                    "porcentaje": 3.94
+                },
+                {
+                    "cantidad": 212373.0,
+                    "desde": "2019T3",
+                    "isin": "XS1379158048",
+                    "moneda": "euro",
+                    "nombre": "BONO|PETROLEOS MEXICANOS|5,13|2023-03-15",
+                    "porcentaje": 3.91
+                },
+                {
+                    "cantidad": 204219.0,
+                    "desde": "2019T3",
+                    "isin": "XS1409362784",
+                    "moneda": "euro",
+                    "nombre": "BONO|FCE BANK PLC|1,62|2023-05-11",
+                    "porcentaje": 3.76
+                },
+                {
+                    "cantidad": 202349.0,
+                    "desde": "2019T3",
+                    "isin": "XS1577427872",
+                    "moneda": "euro",
+                    "nombre": "BONO|INTESA SANPAOLO SPA|0,87|2023-03-15",
+                    "porcentaje": 3.73
+                },
+                {
+                    "cantidad": 202178.0,
+                    "desde": "2019T3",
+                    "isin": "XS1757843146",
+                    "moneda": "euro",
+                    "nombre": "BONO|PIRELLI INTERNATIONA|1,38|2023-01-25",
+                    "porcentaje": 3.72
+                },
+                {
+                    "cantidad": 200698.0,
+                    "desde": "2021T3",
+                    "isin": "XS1172947902",
+                    "moneda": "euro",
+                    "nombre": "BONO|PETROLEOS MEXICANOS|1,88|2022-04-21",
+                    "porcentaje": 3.7
+                },
+                {
+                    "cantidad": 197013.0,
+                    "desde": "2021T3",
+                    "isin": "XS1211040917",
+                    "moneda": "euro",
+                    "nombre": "BONO|TEVA PHARMACEUTICAL|1,25|2023-03-31",
+                    "porcentaje": 3.63
+                },
+                {
+                    "cantidad": 92844.0,
+                    "desde": "2019T3",
+                    "isin": "IT0005135840",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|1,45|2022-09-15",
+                    "porcentaje": 1.71
+                },
+                {
+                    "cantidad": 11628.0,
+                    "desde": "2019T3",
+                    "isin": "IT0004848831",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|5,50|2022-11-01",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1149.0,
+                    "desde": "2019T4",
+                    "isin": "IT0004801541",
+                    "moneda": "euro",
+                    "nombre": "BONO|ESTADO ITALIANO|5,50|2022-09-01",
+                    "porcentaje": 0.02
+                }
+            ],
+            "rentabilidad": -0.31
+        },
+        {
+            "gastos": 0.03,
             "indice_rotacion": 0.18,
+            "liquidez": 5.25,
             "participes": 101,
             "patrimonio": 5531834,
             "periodo": "2021T4",
@@ -119,6 +235,7 @@
         {
             "gastos": 0.03,
             "indice_rotacion": 0.19,
+            "liquidez": 2.49,
             "participes": 103,
             "patrimonio": 5613150,
             "periodo": "2021T3",
@@ -241,6 +358,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 3.73,
             "participes": 113,
             "patrimonio": 6452057,
             "periodo": "2021T2",
@@ -347,6 +465,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 5.31,
             "participes": 115,
             "patrimonio": 6605535,
             "periodo": "2021T1",
@@ -453,6 +572,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 2.52,
             "participes": 121,
             "patrimonio": 6956094,
             "periodo": "2020T4",
@@ -567,6 +687,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 2.27,
             "participes": 123,
             "patrimonio": 6917422,
             "periodo": "2020T3",
@@ -681,6 +802,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 2.92,
             "participes": 125,
             "patrimonio": 6896972,
             "periodo": "2020T2",
@@ -795,6 +917,7 @@
         {
             "gastos": 0.02,
             "indice_rotacion": 0.0,
+            "liquidez": 0.92,
             "participes": 122,
             "patrimonio": 6755761,
             "periodo": "2020T1",
@@ -909,6 +1032,7 @@
         {
             "gastos": 0.04,
             "indice_rotacion": 0.32,
+            "liquidez": 3.31,
             "participes": 132,
             "patrimonio": 8150967,
             "periodo": "2019T4",
@@ -1023,6 +1147,7 @@
         {
             "gastos": 0.05,
             "indice_rotacion": 0.33,
+            "liquidez": 2.64,
             "participes": 132,
             "patrimonio": 8190323,
             "periodo": "2019T3",
@@ -1129,6 +1254,7 @@
         {
             "gastos": 0.0,
             "indice_rotacion": 0.0,
+            "liquidez": 100.0,
             "participes": 1,
             "patrimonio": 300000,
             "periodo": "2019T2",

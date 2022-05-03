@@ -4,7 +4,123 @@
     "historico_periodos": [
         {
             "gastos": 0.18,
+            "indice_rotacion": 0.26,
+            "liquidez": 22.28,
+            "participes": 140,
+            "patrimonio": 7269805,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 1668704.0,
+                    "desde": "2022T1",
+                    "isin": "US912796G459",
+                    "moneda": "euro",
+                    "nombre": "Letras|US TREASURY|0,131|2022-04-21",
+                    "porcentaje": 22.95
+                },
+                {
+                    "cantidad": 1049580.0,
+                    "desde": "2019T4",
+                    "isin": "FR0010251744",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|LYXOR INTL ASSET MANAGEMENT",
+                    "porcentaje": 14.44
+                },
+                {
+                    "cantidad": 787440.0,
+                    "desde": "2019T4",
+                    "isin": "FR0007052782",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|LYXOR INTL ASSET MANAGEMENT",
+                    "porcentaje": 10.83
+                },
+                {
+                    "cantidad": 418000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0124244E34",
+                    "moneda": "euro",
+                    "nombre": "Acciones|MAFRE",
+                    "porcentaje": 5.75
+                },
+                {
+                    "cantidad": 390848.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005933931",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|INDEXCHANGE INVESTMENT AG",
+                    "porcentaje": 5.38
+                },
+                {
+                    "cantidad": 252450.0,
+                    "desde": "2022T1",
+                    "isin": "US912796R357",
+                    "moneda": "euro",
+                    "nombre": "Letras|US TREASURY|0,305|2022-06-09",
+                    "porcentaje": 3.47
+                },
+                {
+                    "cantidad": 247513.0,
+                    "desde": "2021T1",
+                    "isin": "ES0173093024",
+                    "moneda": "euro",
+                    "nombre": "Acciones|RED ELECTRICA DE ESPAÑA",
+                    "porcentaje": 3.4
+                },
+                {
+                    "cantidad": 235094.0,
+                    "desde": "2019T4",
+                    "isin": "ES0173516115",
+                    "moneda": "euro",
+                    "nombre": "Acciones|REPSOL",
+                    "porcentaje": 3.23
+                },
+                {
+                    "cantidad": 226688.0,
+                    "desde": "2021T1",
+                    "isin": "ES0130960018",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ENAGAS",
+                    "porcentaje": 3.12
+                },
+                {
+                    "cantidad": 151261.0,
+                    "desde": "2019T4",
+                    "isin": "ES0113900J37",
+                    "moneda": "euro",
+                    "nombre": "Acciones|SANTANDER",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 140309.0,
+                    "desde": "2019T4",
+                    "isin": "IE0005042456",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|ISHARES CORE FTSE 100 UCITS",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796K816",
+                    "moneda": "euro",
+                    "nombre": "Letras|US TREASURY|0,000|2022-01-20",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "US912796L988",
+                    "moneda": "euro",
+                    "nombre": "Letras|US TREASURY|0,019|2022-03-03",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": -1.64
+        },
+        {
+            "gastos": 0.18,
             "indice_rotacion": 0.93,
+            "liquidez": 22.92,
             "participes": 143,
             "patrimonio": 7383253,
             "periodo": "2021T4",
@@ -111,6 +227,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.69,
+            "liquidez": 21.45,
             "participes": 143,
             "patrimonio": 7129787,
             "periodo": "2021T3",
@@ -217,6 +334,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.38,
+            "liquidez": 43.19,
             "participes": 143,
             "patrimonio": 7032213,
             "periodo": "2021T2",
@@ -331,6 +449,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.36,
+            "liquidez": 22.92,
             "participes": 143,
             "patrimonio": 6748996,
             "periodo": "2021T1",
@@ -445,6 +564,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.26,
+            "liquidez": 30.61,
             "participes": 143,
             "patrimonio": 6343430,
             "periodo": "2020T4",
@@ -551,6 +671,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.25,
+            "liquidez": 32.87,
             "participes": 141,
             "patrimonio": 5816801,
             "periodo": "2020T3",
@@ -641,6 +762,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.32,
+            "liquidez": 27.7,
             "participes": 142,
             "patrimonio": 5916094,
             "periodo": "2020T2",
@@ -755,6 +877,7 @@
         {
             "gastos": 0.19,
             "indice_rotacion": 0.26,
+            "liquidez": 19.96,
             "participes": 142,
             "patrimonio": 5503919,
             "periodo": "2020T1",
@@ -861,6 +984,7 @@
         {
             "gastos": 0.2,
             "indice_rotacion": 2.31,
+            "liquidez": 20.89,
             "participes": 132,
             "patrimonio": 6652077,
             "periodo": "2019T4",
@@ -959,6 +1083,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 33.27,
+            "liquidez": 102.48,
             "participes": 1,
             "patrimonio": 57934,
             "periodo": "2019T3",
@@ -968,6 +1093,7 @@
         {
             "gastos": 3.08,
             "indice_rotacion": 0.0,
+            "liquidez": 102.93,
             "participes": 1,
             "patrimonio": 58192,
             "periodo": "2019T2",

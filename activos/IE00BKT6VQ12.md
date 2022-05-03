@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES CHINA CNY
+isin: IE00BKT6VQ12
+---

@@ -3,8 +3,540 @@
     "fecha_registro": "11/10/2019",
     "historico_periodos": [
         {
+            "gastos": 0.34,
+            "indice_rotacion": 0.0,
+            "liquidez": 2.79,
+            "participes": 2447,
+            "patrimonio": 49113885,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 3656071.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BJ38QD84",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SPDR RUSSELL 2000 US S/C",
+                    "porcentaje": 7.44
+                },
+                {
+                    "cantidad": 3588146.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B5BMR087",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES S&P 500 UCITS ET",
+                    "porcentaje": 7.31
+                },
+                {
+                    "cantidad": 3175662.0,
+                    "desde": "2019T4",
+                    "isin": "LU0292109856",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS FTSE/XINHU",
+                    "porcentaje": 6.47
+                },
+                {
+                    "cantidad": 3055366.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BQT3WG13",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI CHINA A",
+                    "porcentaje": 6.22
+                },
+                {
+                    "cantidad": 1999340.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B4L5YX21",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES CORE MSCI JAPAN",
+                    "porcentaje": 4.07
+                },
+                {
+                    "cantidad": 1539900.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B3XXRP09",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD S&P 500 UCITS E",
+                    "porcentaje": 3.14
+                },
+                {
+                    "cantidad": 1535178.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005933931",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES CORE DAX UCITS E",
+                    "porcentaje": 3.13
+                },
+                {
+                    "cantidad": 1292842.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B53HP851",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES PLC FTSE 100",
+                    "porcentaje": 2.63
+                },
+                {
+                    "cantidad": 1255690.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BZCQB185",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI INDIA UCITS",
+                    "porcentaje": 2.56
+                },
+                {
+                    "cantidad": 1163474.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BP3QZJ36",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI FRANCE (IS3",
+                    "porcentaje": 2.37
+                },
+                {
+                    "cantidad": 1042756.0,
+                    "desde": "2019T4",
+                    "isin": "DK0060534915",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVO NORDISK A/S",
+                    "porcentaje": 2.12
+                },
+                {
+                    "cantidad": 1002375.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BJZ2DD79",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|X RUSSELL 2000",
+                    "porcentaje": 2.04
+                },
+                {
+                    "cantidad": 875538.0,
+                    "desde": "2019T4",
+                    "isin": "FR0010208488",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENGIE SA",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 844797.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B52SF786",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI CANADA ACC",
+                    "porcentaje": 1.72
+                },
+                {
+                    "cantidad": 826062.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B53L4X51",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES FTSE MTB ACC",
+                    "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 822546.0,
+                    "desde": "2019T4",
+                    "isin": "DE000A0Q4R85",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI BRAZIL UCIT",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 811207.0,
+                    "desde": "2019T4",
+                    "isin": "CH0244767585",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UBS AG",
+                    "porcentaje": 1.65
+                },
+                {
+                    "cantidad": 754991.0,
+                    "desde": "2019T4",
+                    "isin": "ES0144580Y14",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|IBERDROLA",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 689739.0,
+                    "desde": "2019T4",
+                    "isin": "US4581401001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INTEL CORP",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 677676.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B5W4TY14",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI KOREA USD A",
+                    "porcentaje": 1.38
+                },
+                {
+                    "cantidad": 673774.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B5377D42",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI AUSTRALIA",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 656014.0,
+                    "desde": "2021T2",
+                    "isin": "IE00BGV5VR99",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|XTRACKERS FUTURE MOBILIT",
+                    "porcentaje": 1.34
+                },
+                {
+                    "cantidad": 649328.0,
+                    "desde": "2019T4",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI SA",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 649303.0,
+                    "desde": "2021T2",
+                    "isin": "IE00B6R52143",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES AGRIBUSINESS (IS",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 623817.0,
+                    "desde": "2020T2",
+                    "isin": "US0382221051",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|APPLIED MATERIALS",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 621014.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B5WHFQ43",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI MEX CAPPED",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 592378.0,
+                    "desde": "2020T2",
+                    "isin": "IE00B4BNMY34",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ACCENTURE PLC",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 582031.0,
+                    "desde": "2021T2",
+                    "isin": "IE00B1XNHC34",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES GLOBAL CLEAN ENE",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 566950.0,
+                    "desde": "2019T4",
+                    "isin": "US8068821060",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCHNITZER STEEL",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 565012.0,
+                    "desde": "2021T2",
+                    "isin": "IE00BYZK4552",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES AUTOMATION-ROBOT",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 564559.0,
+                    "desde": "2019T4",
+                    "isin": "US46429B3096",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI INDONESIA E",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 561785.0,
+                    "desde": "2020T1",
+                    "isin": "GB00BDR05C01",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NATIONAL GRID PLC",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 556601.0,
+                    "desde": "2020T4",
+                    "isin": "FR0000121972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCHNEIDER ELECTRIC SA",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 534766.0,
+                    "desde": "2021T1",
+                    "isin": "FR0000120073",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AIR LIQUIDE",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 532679.0,
+                    "desde": "2019T4",
+                    "isin": "CH0038863350",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NESTLE, S.A.",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 518626.0,
+                    "desde": "2019T4",
+                    "isin": "FR0010251744",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LYXOR ETF IBEX 35 (EUR)",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 510242.0,
+                    "desde": "2019T4",
+                    "isin": "US4592001014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|IBM INTL FINANCE NV",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 482591.0,
+                    "desde": "2019T4",
+                    "isin": "GB00BH4HKS39",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VODAFONE GROUP",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 470679.0,
+                    "desde": "2019T4",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 415097.0,
+                    "desde": "2020T2",
+                    "isin": "US2193501051",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORNING INC",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 393514.0,
+                    "desde": "2019T4",
+                    "isin": "US5007541064",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KRAFT FOODS INC",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 391509.0,
+                    "desde": "2019T4",
+                    "isin": "CH0012005267",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVARTIS",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 387637.0,
+                    "desde": "2020T2",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE AHOLD NV",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 381761.0,
+                    "desde": "2019T4",
+                    "isin": "US46434V4234",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI SAUDI ARABI",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 349378.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B0M62Y33",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES AEX UCITS ETF",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 307117.0,
+                    "desde": "2019T4",
+                    "isin": "NL0000303709",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AEGON",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 300237.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005933964",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES SLI UCITS ETF DE",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 298161.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B1FZS574",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI TURKEY ETF",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 290609.0,
+                    "desde": "2021T3",
+                    "isin": "NL0009739416",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|POSTNL",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 282491.0,
+                    "desde": "2021T4",
+                    "isin": "IE000CFH1JX2",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES GLOBAL WATER USD",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 262059.0,
+                    "desde": "2019T4",
+                    "isin": "DE0005190003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BMW",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 249914.0,
+                    "desde": "2019T4",
+                    "isin": "LU0514694701",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|X MSCI THAILAND 1C",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 252097.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B4M7GH52",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI POLAND (IBC",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 240284.0,
+                    "desde": "2020T2",
+                    "isin": "US1912161007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|COCA COLA CO/THE",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 238397.0,
+                    "desde": "2020T3",
+                    "isin": "US46434V7617",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI UAE ETF",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 207710.0,
+                    "desde": "2019T4",
+                    "isin": "FR0000021842",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LYXOR BEL 20 TR DE UCITS",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 192394.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BD3RYZ16",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES OMX STOCKHOLM CA",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 191840.0,
+                    "desde": "2019T4",
+                    "isin": "US37950E2596",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GLOBAL X MSCI ARGENTINA",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 181912.0,
+                    "desde": "2020T2",
+                    "isin": "CH0012032048",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROCHE HOLDING",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 163885.0,
+                    "desde": "2021T3",
+                    "isin": "US4642866325",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI ISRAEL ETF",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 163264.0,
+                    "desde": "2019T4",
+                    "isin": "DE000A0D8Q23",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES ATX UCITS ETF DE",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 137125.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B5V87390",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI RUSSIA ADR/",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 131985.0,
+                    "desde": "2021T4",
+                    "isin": "US37950E1010",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GLOBAL X MSCI NORWAY ETF",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 124004.0,
+                    "desde": "2021T3",
+                    "isin": "US46429B5075",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI IRELAND ETF",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 27993.0,
+                    "desde": "2020T3",
+                    "isin": "US37954Y6656",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GLOBAL X MSCI NIGERIA ET",
+                    "porcentaje": 0.06
+                }
+            ],
+            "rentabilidad": -3.34
+        },
+        {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 1.88,
             "participes": 2364,
             "patrimonio": 48503126,
             "periodo": "2021T4",
@@ -535,6 +1067,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 2.06,
             "participes": 2270,
             "patrimonio": 43084441,
             "periodo": "2021T3",
@@ -1057,6 +1590,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 2.28,
             "participes": 2165,
             "patrimonio": 41466908,
             "periodo": "2021T2",
@@ -1555,6 +2089,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 3.08,
             "participes": 1984,
             "patrimonio": 36351490,
             "periodo": "2021T1",
@@ -2061,6 +2596,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 2.74,
             "participes": 1717,
             "patrimonio": 28208490,
             "periodo": "2020T4",
@@ -2527,6 +3063,7 @@
         {
             "gastos": 0.35,
             "indice_rotacion": 0.0,
+            "liquidez": 1.43,
             "participes": 1694,
             "patrimonio": 25219966,
             "periodo": "2020T3",
@@ -2993,6 +3530,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 2.2,
             "participes": 1725,
             "patrimonio": 24428583,
             "periodo": "2020T2",
@@ -3443,6 +3981,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 0.0,
+            "liquidez": 3.8,
             "participes": 1647,
             "patrimonio": 19412829,
             "periodo": "2020T1",
@@ -3877,6 +4416,7 @@
         {
             "gastos": null,
             "indice_rotacion": 0.0,
+            "liquidez": 2.74,
             "participes": 878,
             "patrimonio": 13239138,
             "periodo": "2019T4",

@@ -1,10 +1,414 @@
 {
     "auditora": "ERNST & YOUNG, S.L.",
-    "fecha_registro": "31/07/2014",
+    "fecha_registro": "16/07/2021",
     "historico_periodos": [
         {
             "gastos": 0.23,
+            "indice_rotacion": 0.09,
+            "liquidez": 4.46,
+            "participes": 548,
+            "patrimonio": 22704178,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 1977287.0,
+                    "desde": "2014T4",
+                    "isin": "ES0173358039",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|RENTA 4 BANCO, S.A.",
+                    "porcentaje": 7.84
+                },
+                {
+                    "cantidad": 1314503.0,
+                    "desde": "2018T3",
+                    "isin": "US88160R1014",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TSLA US TESLA INC",
+                    "porcentaje": 5.21
+                },
+                {
+                    "cantidad": 1038050.0,
+                    "desde": "2016T3",
+                    "isin": "ES0130625512",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ENC SM ENCE ENERGIA Y CELULOSA",
+                    "porcentaje": 4.12
+                },
+                {
+                    "cantidad": 805740.0,
+                    "desde": "2015T1",
+                    "isin": "ES0105630315",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CIE SM CIE Automotive SA",
+                    "porcentaje": 3.2
+                },
+                {
+                    "cantidad": 771400.0,
+                    "desde": "2017T4",
+                    "isin": "IT0003173629",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Banca Sistema SpA",
+                    "porcentaje": 3.06
+                },
+                {
+                    "cantidad": 739200.0,
+                    "desde": "2015T3",
+                    "isin": "ES0157261019",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ROVI SM Laboratorios Farmaceuticos Rov",
+                    "porcentaje": 2.93
+                },
+                {
+                    "cantidad": 717300.0,
+                    "desde": "2014T3",
+                    "isin": "ES0112501012",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|EBRO SM Ebro Foods SA",
+                    "porcentaje": 2.85
+                },
+                {
+                    "cantidad": 706956.0,
+                    "desde": "2020T4",
+                    "isin": "US0231351067",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AMZN US AMAZON.COM INC",
+                    "porcentaje": 2.8
+                },
+                {
+                    "cantidad": 625300.0,
+                    "desde": "2017T1",
+                    "isin": "ES0126501131",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALNT SM Alantra Partners SA",
+                    "porcentaje": 2.48
+                },
+                {
+                    "cantidad": 590729.0,
+                    "desde": "2017T3",
+                    "isin": "CA55378N1078",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MTY CN MTY Food Group Inc",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 581250.0,
+                    "desde": "2015T4",
+                    "isin": "IE00BLP58571",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|IR5B ID Irish Continental Group PLC",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 580500.0,
+                    "desde": "2022T1",
+                    "isin": "ES0178165017",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TRE SM TECNICAS REUNIDAS SA",
+                    "porcentaje": 2.3
+                },
+                {
+                    "cantidad": 564900.0,
+                    "desde": "2021T2",
+                    "isin": "ES0184262212",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VIS SM Viscofan SA",
+                    "porcentaje": 2.24
+                },
+                {
+                    "cantidad": 558281.0,
+                    "desde": "2021T1",
+                    "isin": "US69608A1088",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PLTR US Palantir Technologies Inc",
+                    "porcentaje": 2.21
+                },
+                {
+                    "cantidad": 551369.0,
+                    "desde": "2021T4",
+                    "isin": "US8522341036",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SQ US Square Inc",
+                    "porcentaje": 2.19
+                },
+                {
+                    "cantidad": 546323.0,
+                    "desde": "2014T4",
+                    "isin": "ES0164180012",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MCM SM Miquel y Costas & Miquel SA",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 539093.0,
+                    "desde": "2015T1",
+                    "isin": "ES0183746314",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VID SM Vidrala SA",
+                    "porcentaje": 2.14
+                },
+                {
+                    "cantidad": 523200.0,
+                    "desde": "2017T3",
+                    "isin": "ES0129743318",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ENO SM Elecnor SA",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 514800.0,
+                    "desde": "2016T4",
+                    "isin": "ES0105065009",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TLGO SM Talgo SA",
+                    "porcentaje": 2.04
+                },
+                {
+                    "cantidad": 509440.0,
+                    "desde": "2018T2",
+                    "isin": "LU1618151879",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TGHN GR Logwin AG",
+                    "porcentaje": 2.02
+                },
+                {
+                    "cantidad": 507114.0,
+                    "desde": "2021T1",
+                    "isin": "FR0000038242",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|QUA FP Quantel",
+                    "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 504855.0,
+                    "desde": "2021T3",
+                    "isin": "GB00B2425G68",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CRW LN Craneware PLC",
+                    "porcentaje": 2.0
+                },
+                {
+                    "cantidad": 503985.0,
+                    "desde": "2021T1",
+                    "isin": "US86959K1051",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SUZB3 BZ Suzano SA",
+                    "porcentaje": 2.0
+                },
+                {
+                    "cantidad": 502200.0,
+                    "desde": "2021T2",
+                    "isin": "ES0105546008",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|LDA SM Linea Directa Aseguradora SA C",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 476091.0,
+                    "desde": "2021T4",
+                    "isin": "US7707001027",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|HOOD US Robinhood Markets Inc",
+                    "porcentaje": 1.89
+                },
+                {
+                    "cantidad": 424117.0,
+                    "desde": "2015T1",
+                    "isin": "US1280302027",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CALM US Cal-Maine Foods Inc",
+                    "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 411926.0,
+                    "desde": "2018T2",
+                    "isin": "ES0154653911",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ISUR SM Inmobiliaria del Sur SA",
+                    "porcentaje": 1.63
+                },
+                {
+                    "cantidad": 394500.0,
+                    "desde": "2015T1",
+                    "isin": "ES0137650018",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|FDR SM Fluidra SA",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 361162.0,
+                    "desde": "2022T1",
+                    "isin": "IT0004931058",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MT IM Maire Tecnimont SpA",
+                    "porcentaje": 1.43
+                },
+                {
+                    "cantidad": 336300.0,
+                    "desde": "2014T3",
+                    "isin": "IE0004927939",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KSP ID Kingspan Group PLC",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 314850.0,
+                    "desde": "2018T1",
+                    "isin": "AT0000730007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ANDR AV ANDRITZ AG",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 311501.0,
+                    "desde": "2021T2",
+                    "isin": "ES0105148003",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ATRY SM ATRYS HEALTH SA",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 292507.0,
+                    "desde": "2021T2",
+                    "isin": "ES0173365018",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|REN SM RENTA CORP REAL ESTATE S",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 291742.0,
+                    "desde": "2014T3",
+                    "isin": "ES0170884417",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PRM SM Prim SA",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 270584.0,
+                    "desde": "2016T2",
+                    "isin": "GB00B1QH8P22",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SPD LN Sports Direct International PL",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 260500.0,
+                    "desde": "2014T3",
+                    "isin": "PTSON0AM0001",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SON PL Sonae SGPS SA",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 256303.0,
+                    "desde": "2020T2",
+                    "isin": "US49456B1017",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KMI US KINDER MORGAN INC",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 242556.0,
+                    "desde": "2014T3",
+                    "isin": "ES0175438003",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PSG SM PROSEGUR CIA DE SEGURIDA",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 235484.0,
+                    "desde": "2020T2",
+                    "isin": "US9311421039",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|WMT US WALMART INC",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 235294.0,
+                    "desde": "2020T1",
+                    "isin": "US1912161007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KO US COCA-COLA CO/THE",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 228840.0,
+                    "desde": "2018T2",
+                    "isin": "PTZON0AM0006",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|NOS PL NOS SGPS",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 224818.0,
+                    "desde": "2019T4",
+                    "isin": "ES0112458312",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AZK SM Azkoyen SA",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 222400.0,
+                    "desde": "2014T3",
+                    "isin": "ES0116920333",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|GCO SM Grupo Catalana Occidente SA",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 193117.0,
+                    "desde": "2022T1",
+                    "isin": "US4435731009",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|HUBS US HubSpot Inc",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 159720.0,
+                    "desde": "2014T3",
+                    "isin": "ES0113679I37",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BKT SM BANKINTER SA",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 142369.0,
+                    "desde": "2020T3",
+                    "isin": "US5007541064",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|KHC US Kraft Heinz Co/The",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 123338.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013263878",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ALUMS FP Umanis SA",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 96954.0,
+                    "desde": "2019T3",
+                    "isin": "BE0003807246",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PIC BB Picanol",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 83160.0,
+                    "desde": "2017T1",
+                    "isin": "IT0004171440",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ZV IM Zignago Vetro SpA",
+                    "porcentaje": 0.33
+                }
+            ],
+            "rentabilidad": 2.37
+        },
+        {
+            "gastos": 0.23,
             "indice_rotacion": 0.23,
+            "liquidez": 4.12,
             "participes": 577,
             "patrimonio": 23565091,
             "periodo": "2021T4",
@@ -383,6 +787,7 @@
         {
             "gastos": 0.59,
             "indice_rotacion": 0.01,
+            "liquidez": 3.65,
             "participes": 607,
             "patrimonio": 22976302,
             "periodo": "2021T3",
@@ -777,6 +1182,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 3.67,
             "participes": 609,
             "patrimonio": 21546567,
             "periodo": "2021T2",
@@ -1195,6 +1601,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 5.34,
             "participes": 504,
             "patrimonio": 18134716,
             "periodo": "2021T1",
@@ -1573,6 +1980,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.07,
+            "liquidez": 3.46,
             "participes": 440,
             "patrimonio": 15230626,
             "periodo": "2020T4",
@@ -1927,6 +2335,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.07,
+            "liquidez": 5.76,
             "participes": 464,
             "patrimonio": 13790975,
             "periodo": "2020T3",
@@ -2289,6 +2698,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.2,
+            "liquidez": 8.5,
             "participes": 483,
             "patrimonio": 13380548,
             "periodo": "2020T2",
@@ -2635,6 +3045,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.07,
+            "liquidez": 4.79,
             "participes": 506,
             "patrimonio": 12098837,
             "periodo": "2020T1",
@@ -2981,6 +3392,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.12,
+            "liquidez": 3.05,
             "participes": 596,
             "patrimonio": 16352997,
             "periodo": "2019T4",
@@ -3319,6 +3731,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.07,
+            "liquidez": 3.52,
             "participes": 674,
             "patrimonio": 15157559,
             "periodo": "2019T3",
@@ -3665,6 +4078,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 2.04,
             "participes": 799,
             "patrimonio": 17130961,
             "periodo": "2019T2",
@@ -4011,6 +4425,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 2.66,
             "participes": 1210,
             "patrimonio": 25967461,
             "periodo": "2019T1",
@@ -4389,6 +4804,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 2.33,
             "participes": 1574,
             "patrimonio": 34492671,
             "periodo": "2018T4",
@@ -4799,6 +5215,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 3.82,
             "participes": 1542,
             "patrimonio": 35551385,
             "periodo": "2018T3",
@@ -5209,6 +5626,7 @@
         {
             "gastos": 0.22,
             "indice_rotacion": 0.0,
+            "liquidez": 4.89,
             "participes": 1450,
             "patrimonio": 31718938,
             "periodo": "2018T2",
@@ -5627,6 +6045,7 @@
         {
             "gastos": 0.23,
             "indice_rotacion": 0.0,
+            "liquidez": 6.46,
             "participes": 751,
             "patrimonio": 15281011,
             "periodo": "2018T1",
@@ -6029,6 +6448,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.0,
+            "liquidez": 6.43,
             "participes": 352,
             "patrimonio": 8280696,
             "periodo": "2017T4",
@@ -6423,6 +6843,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.05,
+            "liquidez": 2.17,
             "participes": 257,
             "patrimonio": 6621879,
             "periodo": "2017T3",
@@ -6817,6 +7238,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 0.0,
+            "liquidez": 4.64,
             "participes": 196,
             "patrimonio": 5966764,
             "periodo": "2017T2",
@@ -7203,6 +7625,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.0,
+            "liquidez": 2.44,
             "participes": 202,
             "patrimonio": 5548470,
             "periodo": "2017T1",
@@ -7573,6 +7996,7 @@
         {
             "gastos": 0.28,
             "indice_rotacion": 0.0,
+            "liquidez": 1.9,
             "participes": 201,
             "patrimonio": 5909735,
             "periodo": "2016T4",
@@ -7959,6 +8383,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 0.0,
+            "liquidez": 2.66,
             "participes": 227,
             "patrimonio": 5609944,
             "periodo": "2016T3",
@@ -8337,6 +8762,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 0.1,
+            "liquidez": 2.87,
             "participes": 251,
             "patrimonio": 5403406,
             "periodo": "2016T2",
@@ -8522,7 +8948,7 @@
                     "desde": "2015T2",
                     "isin": "ES0147561015",
                     "moneda": "euro",
-                    "nombre": "IBERPAPEL GESTION ",
+                    "nombre": "IBERPAPEL GESTION",
                     "porcentaje": 2.11
                 },
                 {
@@ -8723,6 +9149,7 @@
         {
             "gastos": 0.25,
             "indice_rotacion": 0.0,
+            "liquidez": 0.13,
             "participes": 254,
             "patrimonio": 5221600,
             "periodo": "2016T1",
@@ -8908,7 +9335,7 @@
                     "desde": "2015T2",
                     "isin": "ES0147561015",
                     "moneda": "euro",
-                    "nombre": "IBERPAPEL GESTION ",
+                    "nombre": "IBERPAPEL GESTION",
                     "porcentaje": 2.03
                 },
                 {
@@ -9076,7 +9503,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 0.72
                 },
                 {
@@ -9101,6 +9528,7 @@
         {
             "gastos": 0.27,
             "indice_rotacion": 0.11,
+            "liquidez": 0.12,
             "participes": 246,
             "patrimonio": 5548920,
             "periodo": "2015T4",
@@ -9278,7 +9706,7 @@
                     "desde": "2015T2",
                     "isin": "ES0147561015",
                     "moneda": "euro",
-                    "nombre": "IBERPAPEL GESTION ",
+                    "nombre": "IBERPAPEL GESTION",
                     "porcentaje": 1.87
                 },
                 {
@@ -9454,7 +9882,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 0.87
                 },
                 {
@@ -9503,6 +9931,7 @@
         {
             "gastos": 0.26,
             "indice_rotacion": 0.08,
+            "liquidez": 0.16,
             "participes": 194,
             "patrimonio": 4287897,
             "periodo": "2015T3",
@@ -9840,7 +10269,7 @@
                     "desde": "2015T2",
                     "isin": "ES0147561015",
                     "moneda": "euro",
-                    "nombre": "IBERPAPEL GESTION ",
+                    "nombre": "IBERPAPEL GESTION",
                     "porcentaje": 0.94
                 },
                 {
@@ -9848,7 +10277,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 0.91
                 },
                 {
@@ -9913,6 +10342,7 @@
         {
             "gastos": 0.26,
             "indice_rotacion": 0.0,
+            "liquidez": 0.2,
             "participes": 162,
             "patrimonio": 3467753,
             "periodo": "2015T2",
@@ -10186,7 +10616,7 @@
                     "desde": "2014T3",
                     "isin": "ES0144580Y14",
                     "moneda": "euro",
-                    "nombre": "IBERDROLA ",
+                    "nombre": "IBERDROLA",
                     "porcentaje": 1.22
                 },
                 {
@@ -10194,7 +10624,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 1.21
                 },
                 {
@@ -10218,7 +10648,7 @@
                     "desde": "2014T4",
                     "isin": "ES0132105018",
                     "moneda": "euro",
-                    "nombre": "ACERINOX ",
+                    "nombre": "ACERINOX",
                     "porcentaje": 1.18
                 },
                 {
@@ -10266,7 +10696,7 @@
                     "desde": "2015T2",
                     "isin": "ES0147561015",
                     "moneda": "euro",
-                    "nombre": "IBERPAPEL GESTION ",
+                    "nombre": "IBERPAPEL GESTION",
                     "porcentaje": 1.01
                 },
                 {
@@ -10339,6 +10769,7 @@
         {
             "gastos": 0.26,
             "indice_rotacion": 0.0,
+            "liquidez": 0.26,
             "participes": 147,
             "patrimonio": 3194090,
             "periodo": "2015T1",
@@ -10572,7 +11003,7 @@
                     "desde": "2014T4",
                     "isin": "ES0132105018",
                     "moneda": "euro",
-                    "nombre": "ACERINOX ",
+                    "nombre": "ACERINOX",
                     "porcentaje": 1.61
                 },
                 {
@@ -10620,7 +11051,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 1.32
                 },
                 {
@@ -10628,7 +11059,7 @@
                     "desde": "2014T3",
                     "isin": "ES0144580Y14",
                     "moneda": "euro",
-                    "nombre": "IBERDROLA ",
+                    "nombre": "IBERDROLA",
                     "porcentaje": 1.32
                 },
                 {
@@ -10741,6 +11172,7 @@
         {
             "gastos": 0.24,
             "indice_rotacion": 0.0,
+            "liquidez": 0.35,
             "participes": 109,
             "patrimonio": 1495852,
             "periodo": "2014T4",
@@ -10854,7 +11286,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 2.75
                 },
                 {
@@ -10958,7 +11390,7 @@
                     "desde": "2014T3",
                     "isin": "ES0144580Y14",
                     "moneda": "euro",
-                    "nombre": "IBERDROLA ",
+                    "nombre": "IBERDROLA",
                     "porcentaje": 2.25
                 },
                 {
@@ -10982,7 +11414,7 @@
                     "desde": "2014T4",
                     "isin": "ES0132105018",
                     "moneda": "euro",
-                    "nombre": "ACERINOX ",
+                    "nombre": "ACERINOX",
                     "porcentaje": 2.09
                 },
                 {
@@ -11055,6 +11487,7 @@
         {
             "gastos": 0.21,
             "indice_rotacion": 0.0,
+            "liquidez": 0.41,
             "participes": 112,
             "patrimonio": 1671364,
             "periodo": "2014T3",
@@ -11176,7 +11609,7 @@
                     "desde": "2014T3",
                     "isin": "ES0144580Y14",
                     "moneda": "euro",
-                    "nombre": "IBERDROLA ",
+                    "nombre": "IBERDROLA",
                     "porcentaje": 3.12
                 },
                 {
@@ -11184,7 +11617,7 @@
                     "desde": "2014T3",
                     "isin": "ES0116920333",
                     "moneda": "euro",
-                    "nombre": "CATALANA OCCIDENTE ",
+                    "nombre": "CATALANA OCCIDENTE",
                     "porcentaje": 3.07
                 },
                 {

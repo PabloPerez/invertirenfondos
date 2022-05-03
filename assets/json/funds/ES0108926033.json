@@ -3,8 +3,540 @@
     "fecha_registro": "28/10/2002",
     "historico_periodos": [
         {
+            "gastos": 0.4,
+            "indice_rotacion": 0.93,
+            "liquidez": 4.68,
+            "participes": 2995,
+            "patrimonio": 70764000,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 14108000.0,
+                    "desde": "2022T1",
+                    "isin": "US91282CEC10",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|UNITED STATES OF AME|1,875|2027-02-28",
+                    "porcentaje": 19.94
+                },
+                {
+                    "cantidad": 9182000.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005327306",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF ITALY|1,450|2025-05-15",
+                    "porcentaje": 12.98
+                },
+                {
+                    "cantidad": 7694000.0,
+                    "desde": "2022T1",
+                    "isin": "EU000A3KTGV8",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|EUROPEAN UNION|0,184|2026-07-06",
+                    "porcentaje": 10.87
+                },
+                {
+                    "cantidad": 6161000.0,
+                    "desde": "2022T1",
+                    "isin": "NZGOVDT427C1",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|HER MAJESTY THE QUEE|4,500|2027-04-15",
+                    "porcentaje": 8.71
+                },
+                {
+                    "cantidad": 4362000.0,
+                    "desde": "2021T4",
+                    "isin": "EU000A3KSXE1",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|EUROPEAN UNION|0,033|2031-07-04",
+                    "porcentaje": 6.16
+                },
+                {
+                    "cantidad": 3607000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0L02206107",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,491|2022-06-10",
+                    "porcentaje": 5.1
+                },
+                {
+                    "cantidad": 3329000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2369244087",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|REPUBLIC OF CHILE|0,100|2027-01-26",
+                    "porcentaje": 4.7
+                },
+                {
+                    "cantidad": 3034000.0,
+                    "desde": "2021T1",
+                    "isin": "US22411WAQ96",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|CPPIB CAPITAL INC|1,250|2031-01-28",
+                    "porcentaje": 4.29
+                },
+                {
+                    "cantidad": 2200000.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000129G5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|KINGDOM OF SPAIN|-0,85|2022-04-01",
+                    "porcentaje": 3.11
+                },
+                {
+                    "cantidad": 2006000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0L02208129",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|KINGDOM OF SPAIN|-0,430|2022-08-12",
+                    "porcentaje": 2.83
+                },
+                {
+                    "cantidad": 1792000.0,
+                    "desde": "2021T3",
+                    "isin": "US22411WAT36",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|CPPIB CAPITAL INC|0,875|2026-09-09",
+                    "porcentaje": 2.53
+                },
+                {
+                    "cantidad": 1419000.0,
+                    "desde": "2022T1",
+                    "isin": "USC69798AM55",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|ONTARIO TEACHERS' FI|0,875|2026-09-21",
+                    "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 1185000.0,
+                    "desde": "2021T4",
+                    "isin": "US69376Q2B87",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|PSP CAPITAL INC|1,625|2028-10-26",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 1042000.0,
+                    "desde": "2021T2",
+                    "isin": "US69375W2A88",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|PSP CAPITAL INC|1,000|2026-06-29",
+                    "porcentaje": 1.47
+                },
+                {
+                    "cantidad": 201000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0001030419",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FEDERAL REPUBLIC OF|-0,678|2022-09-21",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 190000.0,
+                    "desde": "2019T1",
+                    "isin": "XS1691349952",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|NORTEGAS ENERGIA DIS|2,065|2027-09-28",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 158000.0,
+                    "desde": "2019T1",
+                    "isin": "XS1398336351",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MERLIN PROPERTIES SO|2,225|2023-04-25",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 149000.0,
+                    "desde": "2020T2",
+                    "isin": "CH0517825276",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT SUISSE GROUP|0,650|2028-01-14",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 141000.0,
+                    "desde": "2020T4",
+                    "isin": "XS2243299463",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|H LUNDBECK A/S|0,875|2027-10-14",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 135000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1893621026",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|EDP FINANCE BV|1,875|2025-10-13",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 130000.0,
+                    "desde": "2021T1",
+                    "isin": "XS2306601746",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|EASYJET FINCO BV|1,875|2028-03-03",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 125000.0,
+                    "desde": "2020T1",
+                    "isin": "XS2022425297",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|INTESA SANPAOLO SPA|1,000|2024-07-04",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 124000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2346207892",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AMERICAN TOWER CORP|0,875|2029-05-21",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 118000.0,
+                    "desde": "2019T1",
+                    "isin": "XS0903433513",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AT&T INC|2,500|2023-03-15",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 111000.0,
+                    "desde": "2021T4",
+                    "isin": "XS2412044641",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|RWE AG|1,000|2033-11-26",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 104000.0,
+                    "desde": "2020T2",
+                    "isin": "CH0537261858",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT SUISSE GROUP|3,250|2026-04-02",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 106000.0,
+                    "desde": "2019T2",
+                    "isin": "XS1054522922",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|NN GROUP NV|4,625|2044-04-08",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 104000.0,
+                    "desde": "2021T2",
+                    "isin": "XS1326311070",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|IE2 HOLDCO SAU|2,375|2023-11-27",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 105000.0,
+                    "desde": "2019T1",
+                    "isin": "XS1967635977",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ABERTIS INFRAESTRUCT|2,375|2027-09-27",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 105000.0,
+                    "desde": "2020T2",
+                    "isin": "XS2150054026",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BARCLAYS PLC|3,375|2025-04-02",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 108000.0,
+                    "desde": "2020T2",
+                    "isin": "XS2151069775",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|LLOYDS BANK CORPORAT|2,375|2026-04-09",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 109000.0,
+                    "desde": "2021T1",
+                    "isin": "XS2242931603",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENI SPA|3,375|2049-10-13",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 104000.0,
+                    "desde": "2020T1",
+                    "isin": "XS2050448336",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|FASTIGHETS AB BALDER|1,125|2027-01-29",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 104000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2338643740",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|MORGAN STANLEY|0,406|2027-10-29",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 106000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2384269366",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HEIMSTADEN BOSTAD TR|0,750|2029-09-06",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 99000.0,
+                    "desde": "2022T1",
+                    "isin": "CH1174335732",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CREDIT SUISSE GROUP|2,125|2026-10-13",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 99000.0,
+                    "desde": "2020T2",
+                    "isin": "XS1617859464",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SWEDBANK AB|1,000|2027-11-22",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 99000.0,
+                    "desde": "2021T4",
+                    "isin": "XS1750986744",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENEL FINANCE INTERNA|1,125|2026-09-16",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 98000.0,
+                    "desde": "2019T4",
+                    "isin": "XS2081018629",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|INTESA SANPAOLO SPA|1,000|2026-11-19",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 99000.0,
+                    "desde": "2020T1",
+                    "isin": "XS2081500907",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|FCC SERVICIOS MEDIO|1,661|2026-12-04",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2020T2",
+                    "isin": "XS2176621170",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ING GROEP NV|2,125|2031-05-26",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 101000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2180007549",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AT&T INC|1,600|2028-05-19",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 98000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2076079594",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BANCO DE SABADELL SA|0,625|2025-11-07",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 96000.0,
+                    "desde": "2021T2",
+                    "isin": "XS2353182020",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ENEL FINANCE INTERNA|0,183|2027-06-17",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2360310044",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICREDIT SPA|0,800|2029-07-05",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 96000.0,
+                    "desde": "2022T1",
+                    "isin": "XS2411311579",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|NTT FINANCE CORP|0,082|2025-12-13",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2019T1",
+                    "isin": "XS1627337881",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|FCC AQUALIA SA|1,413|2022-06-08",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 95000.0,
+                    "desde": "2021T4",
+                    "isin": "ES0380907040",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNICAJA BANCO SA|1,000|2026-12-01",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 92000.0,
+                    "desde": "2021T1",
+                    "isin": "BE6326784566",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BELFIUS BANK SA|0,125|2028-02-08",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 95000.0,
+                    "desde": "2021T2",
+                    "isin": "DK0030485271",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|EURONEXT NV|0,125|2026-05-17",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2020T1",
+                    "isin": "FR0013484458",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BNP PARIBAS SA|0,500|2028-02-19",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 95000.0,
+                    "desde": "2020T4",
+                    "isin": "FR0013535150",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ICADE SANTE SACA|1,375|2030-09-17",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0014001G29",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BPCE SA|0,010|2027-01-14",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2021T2",
+                    "isin": "FR0014002QE8",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SOCIETE GENERALE SA|1,125|2031-06-30",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 89000.0,
+                    "desde": "2020T1",
+                    "isin": "XS2117485677",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CEPSA FINANCE SA|0,750|2028-02-12",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 91000.0,
+                    "desde": "2021T1",
+                    "isin": "XS2297549391",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAIXABANK SA|0,500|2029-02-09",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2019T3",
+                    "isin": "XS2028816028",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|BANCO DE SABADELL SA|0,875|2025-07-22",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 95000.0,
+                    "desde": "2021T3",
+                    "isin": "XS2058556536",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|THERMO FISHER SCIENT|0,500|2028-03-01",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 93000.0,
+                    "desde": "2021T1",
+                    "isin": "XS2317069685",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|INTESA SANPAOLO SPA|0,750|2028-03-16",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 91000.0,
+                    "desde": "2021T4",
+                    "isin": "XS2385390724",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|HOLDING D'INFRASTRUC|0,625|2028-09-16",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 82000.0,
+                    "desde": "2021T4",
+                    "isin": "FR0014006G24",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ATOS SE|1,000|2029-11-12",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 58000.0,
+                    "desde": "2019T1",
+                    "isin": "XS1806457211",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|VOLKSWAGEN FINANCIAL|0,875|2023-04-12",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 47000.0,
+                    "desde": "2019T2",
+                    "isin": "XS1972548231",
+                    "moneda": "EUR",
+                    "nombre": "RENTA|VOLKSWAGEN FINANCIAL|1,500|2024-10-01",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 46000.0,
+                    "desde": "2022T1",
+                    "isin": "XS2069380991",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|E.ON SE|0,250|2026-10-24",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 29000.0,
+                    "desde": "2020T2",
+                    "isin": "DE000DL19VD6",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|DEUTSCHE BANK AG|1,375|2026-06-10",
+                    "porcentaje": 0.04
+                }
+            ],
+            "rentabilidad": -1.22
+        },
+        {
             "gastos": 0.42,
             "indice_rotacion": 1.78,
+            "liquidez": 9.44,
             "participes": 3070,
             "patrimonio": 72241000,
             "periodo": "2021T4",
@@ -535,6 +1067,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 1.14,
+            "liquidez": 15.54,
             "participes": 3227,
             "patrimonio": 77587000,
             "periodo": "2021T3",
@@ -1041,6 +1574,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 1.85,
+            "liquidez": 13.9,
             "participes": 3404,
             "patrimonio": 81015000,
             "periodo": "2021T2",
@@ -1763,6 +2297,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.94,
+            "liquidez": 5.53,
             "participes": 3662,
             "patrimonio": 89408000,
             "periodo": "2021T1",
@@ -2589,6 +3124,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.17,
+            "liquidez": 9.03,
             "participes": 3602,
             "patrimonio": 89625000,
             "periodo": "2020T4",
@@ -3375,6 +3911,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.79,
+            "liquidez": 7.21,
             "participes": 3063,
             "patrimonio": 73437000,
             "periodo": "2020T3",
@@ -4153,6 +4690,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 1.8,
+            "liquidez": 7.11,
             "participes": 2870,
             "patrimonio": 66562000,
             "periodo": "2020T2",
@@ -4955,6 +5493,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.71,
+            "liquidez": 6.07,
             "participes": 2804,
             "patrimonio": 63595000,
             "periodo": "2020T1",
@@ -5573,6 +6112,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.81,
+            "liquidez": 5.39,
             "participes": 2868,
             "patrimonio": 63585000,
             "periodo": "2019T4",
@@ -6183,6 +6723,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.67,
+            "liquidez": 1.89,
             "participes": 2937,
             "patrimonio": 64513000,
             "periodo": "2019T3",
@@ -6793,6 +7334,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.48,
+            "liquidez": 3.08,
             "participes": 2954,
             "patrimonio": 65653000,
             "periodo": "2019T2",
@@ -7467,6 +8009,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.54,
+            "liquidez": 8.09,
             "participes": 3029,
             "patrimonio": 67767000,
             "periodo": "2019T1",
@@ -8101,6 +8644,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.35,
+            "liquidez": 5.03,
             "participes": 3119,
             "patrimonio": 69795000,
             "periodo": "2018T4",
@@ -8263,6 +8807,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.11,
+            "liquidez": 14.02,
             "participes": 3089,
             "patrimonio": 74733000,
             "periodo": "2018T3",
@@ -8425,6 +8970,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.43,
+            "liquidez": 7.65,
             "participes": 3253,
             "patrimonio": 79594000,
             "periodo": "2018T2",
@@ -8611,6 +9157,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 1.18,
+            "liquidez": 16.86,
             "participes": 3440,
             "patrimonio": 86334000,
             "periodo": "2018T1",
@@ -8797,6 +9344,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 1.33,
+            "liquidez": 11.72,
             "participes": 3759,
             "patrimonio": 98358000,
             "periodo": "2017T4",
@@ -8983,6 +9531,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.78,
+            "liquidez": 8.77,
             "participes": 4060,
             "patrimonio": 109519000,
             "periodo": "2017T3",
@@ -9721,6 +10270,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.35,
+            "liquidez": 13.74,
             "participes": 4238,
             "patrimonio": 113034000,
             "periodo": "2017T2",
@@ -10451,6 +11001,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.6,
+            "liquidez": 3.94,
             "participes": 4465,
             "patrimonio": 122830000,
             "periodo": "2017T1",
@@ -11237,6 +11788,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.14,
+            "liquidez": 11.33,
             "participes": 4467,
             "patrimonio": 126189000,
             "periodo": "2016T4",
@@ -11999,6 +12551,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.5,
+            "liquidez": 11.79,
             "participes": 4304,
             "patrimonio": 117732000,
             "periodo": "2016T3",
@@ -12729,6 +13282,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 2.64,
+            "liquidez": 11.94,
             "participes": 4105,
             "patrimonio": 109045000,
             "periodo": "2016T2",
@@ -13419,6 +13973,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 1.14,
+            "liquidez": 4.51,
             "participes": 4007,
             "patrimonio": 103162000,
             "periodo": "2016T1",
@@ -13973,6 +14528,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.53,
+            "liquidez": 2.92,
             "participes": 4001,
             "patrimonio": 101829000,
             "periodo": "2015T4",
@@ -14359,6 +14915,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.54,
+            "liquidez": 7.77,
             "participes": 3822,
             "patrimonio": 100515000,
             "periodo": "2015T3",
@@ -14665,6 +15222,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 1.9,
+            "liquidez": 6.84,
             "participes": 3992,
             "patrimonio": 105746000,
             "periodo": "2015T2",
@@ -14987,6 +15545,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.97,
+            "liquidez": 7.71,
             "participes": 4121,
             "patrimonio": 117585000,
             "periodo": "2015T1",
@@ -15333,6 +15892,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 1.72,
+            "liquidez": 2.93,
             "participes": 3947,
             "patrimonio": 111705000,
             "periodo": "2014T4",
@@ -15631,6 +16191,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.91,
+            "liquidez": 11.36,
             "participes": 3952,
             "patrimonio": 109537000,
             "periodo": "2014T3",
@@ -15929,6 +16490,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 1.31,
+            "liquidez": 1.66,
             "participes": 3932,
             "patrimonio": 108456000,
             "periodo": "2014T2",
@@ -16243,6 +16805,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.59,
+            "liquidez": 3.03,
             "participes": 3968,
             "patrimonio": 108918000,
             "periodo": "2014T1",
@@ -16557,6 +17120,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.28,
+            "liquidez": 3.03,
             "participes": 4000,
             "patrimonio": 109919000,
             "periodo": "2013T4",
@@ -16839,6 +17403,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.37,
+            "liquidez": 3.84,
             "participes": 4058,
             "patrimonio": 110924000,
             "periodo": "2013T3",
@@ -17113,6 +17678,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.16,
+            "liquidez": 2.99,
             "participes": 4094,
             "patrimonio": 111175000,
             "periodo": "2013T2",
@@ -17371,6 +17937,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.9,
+            "liquidez": 8.36,
             "participes": 4155,
             "patrimonio": 111743000,
             "periodo": "2013T1",
@@ -17613,6 +18180,7 @@
         {
             "gastos": 0.46,
             "indice_rotacion": 0.99,
+            "liquidez": 3.06,
             "participes": 4206,
             "patrimonio": 112572000,
             "periodo": "2012T4",
@@ -17895,6 +18463,7 @@
         {
             "gastos": 0.46,
             "indice_rotacion": 0.73,
+            "liquidez": 2.59,
             "participes": 4280,
             "patrimonio": 131399000,
             "periodo": "2012T3",
@@ -18161,6 +18730,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.67,
+            "liquidez": 4.94,
             "participes": 4364,
             "patrimonio": 130671000,
             "periodo": "2012T2",
@@ -18427,6 +18997,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.44,
+            "liquidez": 2.95,
             "participes": 4470,
             "patrimonio": 144009000,
             "periodo": "2012T1",
@@ -18717,6 +19288,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 1.03,
+            "liquidez": 5.64,
             "participes": 4598,
             "patrimonio": 148373000,
             "periodo": "2011T4",
@@ -19007,6 +19579,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.25,
+            "liquidez": 2.77,
             "participes": 4771,
             "patrimonio": 148948000,
             "periodo": "2011T3",
@@ -19281,6 +19854,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 1.0,
+            "liquidez": 1.67,
             "participes": 4897,
             "patrimonio": 146545000,
             "periodo": "2011T2",
@@ -19563,6 +20137,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 0.51,
+            "liquidez": 1.7,
             "participes": 5147,
             "patrimonio": 153429000,
             "periodo": "2011T1",
@@ -19845,6 +20420,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 1.84,
+            "liquidez": 2.65,
             "participes": 5332,
             "patrimonio": 161281000,
             "periodo": "2010T4",
@@ -20119,6 +20695,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.82,
+            "liquidez": 8.07,
             "participes": 5598,
             "patrimonio": 216268000,
             "periodo": "2010T3",
@@ -20425,6 +21002,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 1.0,
+            "liquidez": 2.07,
             "participes": 5876,
             "patrimonio": 225376000,
             "periodo": "2010T2",
@@ -20747,6 +21325,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 0.59,
+            "liquidez": 0.92,
             "participes": 6142,
             "patrimonio": 245230000,
             "periodo": "2010T1",
@@ -21085,6 +21664,7 @@
         {
             "gastos": 0.37,
             "indice_rotacion": 1.1,
+            "liquidez": 1.03,
             "participes": 6384,
             "patrimonio": 238452000,
             "periodo": "2009T4",
@@ -21423,6 +22003,7 @@
         {
             "gastos": 0.33,
             "indice_rotacion": 0.56,
+            "liquidez": -0.06,
             "participes": 6519,
             "patrimonio": 244908000,
             "periodo": "2009T3",
@@ -21713,6 +22294,7 @@
         {
             "gastos": 0.34,
             "indice_rotacion": 1.95,
+            "liquidez": 1.05,
             "participes": 6446,
             "patrimonio": 166658000,
             "periodo": "2009T2",

@@ -4,7 +4,403 @@
     "historico_periodos": [
         {
             "gastos": 0.4,
+            "indice_rotacion": 0.08,
+            "liquidez": 5.78,
+            "participes": 1531,
+            "patrimonio": 40960538,
+            "periodo": "2022T1",
+            "posiciones": [
+                {
+                    "cantidad": 2630688.0,
+                    "desde": "2020T4",
+                    "isin": "ES0236463008",
+                    "moneda": "EUR",
+                    "nombre": "R.|AUDAX RENOV|4,200|2027-12-18",
+                    "porcentaje": 6.42
+                },
+                {
+                    "cantidad": 2069932.0,
+                    "desde": "2020T1",
+                    "isin": "ES0183746314",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VIDRALA",
+                    "porcentaje": 5.05
+                },
+                {
+                    "cantidad": 2054370.0,
+                    "desde": "2016T1",
+                    "isin": "ES0105066007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CELLNEX TELECOM",
+                    "porcentaje": 5.02
+                },
+                {
+                    "cantidad": 2021800.0,
+                    "desde": "2019T1",
+                    "isin": "DE000FTG1111",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FINTECH GROUP",
+                    "porcentaje": 4.94
+                },
+                {
+                    "cantidad": 1866231.0,
+                    "desde": "2021T2",
+                    "isin": "CH0038389992",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|BB BIOTECH",
+                    "porcentaje": 4.56
+                },
+                {
+                    "cantidad": 1845900.0,
+                    "desde": "2017T2",
+                    "isin": "LU1598757687",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARCELORMITTAL",
+                    "porcentaje": 4.51
+                },
+                {
+                    "cantidad": 1759871.0,
+                    "desde": "2015T4",
+                    "isin": "US02079K3059",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALPHABET INC-CL",
+                    "porcentaje": 4.3
+                },
+                {
+                    "cantidad": 1730933.0,
+                    "desde": "2019T3",
+                    "isin": "PTEFWAOM0001",
+                    "moneda": "EUR",
+                    "nombre": "R.|EFACEC POWER SO|4,500|2024-07-23",
+                    "porcentaje": 4.23
+                },
+                {
+                    "cantidad": 1687320.0,
+                    "desde": "2017T1",
+                    "isin": "ES0171996095",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GRIFOLS",
+                    "porcentaje": 4.12
+                },
+                {
+                    "cantidad": 1370800.0,
+                    "desde": "2016T4",
+                    "isin": "ES0121975009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CAF.",
+                    "porcentaje": 3.35
+                },
+                {
+                    "cantidad": 1340000.0,
+                    "desde": "2017T3",
+                    "isin": "FR0012435121",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ELIS",
+                    "porcentaje": 3.27
+                },
+                {
+                    "cantidad": 1151245.0,
+                    "desde": "2018T2",
+                    "isin": "FR0004110310",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ESI GROUP",
+                    "porcentaje": 2.81
+                },
+                {
+                    "cantidad": 1106060.0,
+                    "desde": "2014T1",
+                    "isin": "PTZON0AM0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOS SGPS",
+                    "porcentaje": 2.7
+                },
+                {
+                    "cantidad": 873600.0,
+                    "desde": "2021T3",
+                    "isin": "FR0013482791",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NACON S.A.",
+                    "porcentaje": 2.13
+                },
+                {
+                    "cantidad": 811200.0,
+                    "desde": "2020T1",
+                    "isin": "FR0000052680",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SABATE",
+                    "porcentaje": 1.98
+                },
+                {
+                    "cantidad": 812000.0,
+                    "desde": "2021T1",
+                    "isin": "FR0011726835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GAZTRANSPORT ET",
+                    "porcentaje": 1.98
+                },
+                {
+                    "cantidad": 789414.0,
+                    "desde": "2020T2",
+                    "isin": "PTVAAAOM0001",
+                    "moneda": "EUR",
+                    "nombre": "R.|VAA VISTA ALEGR|4,500|2024-10-21",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 742500.0,
+                    "desde": "2018T3",
+                    "isin": "FR0000063935",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BONDUELLE",
+                    "porcentaje": 1.81
+                },
+                {
+                    "cantidad": 702093.0,
+                    "desde": "2021T1",
+                    "isin": "ES0305542005",
+                    "moneda": "EUR",
+                    "nombre": "R.|VALFORTEC|4,500|2026-03-23",
+                    "porcentaje": 1.71
+                },
+                {
+                    "cantidad": 603600.0,
+                    "desde": "2018T4",
+                    "isin": "PTCOR0AE0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORTICEIRA AMOR",
+                    "porcentaje": 1.47
+                },
+                {
+                    "cantidad": 598500.0,
+                    "desde": "2021T2",
+                    "isin": "PTVAA0AM0019",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VAA VISTA ALEGR",
+                    "porcentaje": 1.46
+                },
+                {
+                    "cantidad": 593400.0,
+                    "desde": "2020T1",
+                    "isin": "ES0148396007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INDITEX",
+                    "porcentaje": 1.45
+                },
+                {
+                    "cantidad": 585000.0,
+                    "desde": "2017T4",
+                    "isin": "ES0105065009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TALGO",
+                    "porcentaje": 1.43
+                },
+                {
+                    "cantidad": 544879.0,
+                    "desde": "2021T2",
+                    "isin": "XS1822791619",
+                    "moneda": "EUR",
+                    "nombre": "R.|CITYCON TREASUR|2,375|2027-01-15",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 531392.0,
+                    "desde": "2019T4",
+                    "isin": "PTMENXOM0006",
+                    "moneda": "EUR",
+                    "nombre": "R.|MOTA-ENGIL SGPS|4,375|2024-10-30",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 494490.0,
+                    "desde": "2021T1",
+                    "isin": "XS1829325239",
+                    "moneda": "EUR",
+                    "nombre": "R.|MEINL EUROPEAN|3,000|2025-09-11",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 491400.0,
+                    "desde": "2019T3",
+                    "isin": "IT0005378143",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PATTERN SPA",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 412000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0171996087",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GRIFOLS",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 404174.0,
+                    "desde": "2018T3",
+                    "isin": "ES0376156016",
+                    "moneda": "EUR",
+                    "nombre": "R.|SA DE OBRAS SER|6,000|2022-07-24",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 403593.0,
+                    "desde": "2017T4",
+                    "isin": "LU0556041001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|IVS GROUP",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 400161.0,
+                    "desde": "2020T4",
+                    "isin": "ES0305293005",
+                    "moneda": "EUR",
+                    "nombre": "R.|GREENALIA SA|4,950|2025-12-15",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 397226.0,
+                    "desde": "2021T4",
+                    "isin": "ES0536463260",
+                    "moneda": "EUR",
+                    "nombre": "PAGARÉS|AUDAX RENOV|0,547|2022-09-12",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 376129.0,
+                    "desde": "2020T4",
+                    "isin": "XS1657934714",
+                    "moneda": "EUR",
+                    "nombre": "R.|CELLNEX TELECOM|1,738|2027-08-03",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 372940.0,
+                    "desde": "2020T3",
+                    "isin": "ES0136463017",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AUDAX RENOV",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 369088.0,
+                    "desde": "2014T2",
+                    "isin": "DE0007164600",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAP AG",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 346500.0,
+                    "desde": "2020T1",
+                    "isin": "ES0105015012",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LAR ESPAÑA REAL",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 334423.0,
+                    "desde": "2012T4",
+                    "isin": "US5949181045",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MICROSOFT",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 314006.0,
+                    "desde": "2020T4",
+                    "isin": "USU7744C1063",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOKU INC",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 294340.0,
+                    "desde": "2021T1",
+                    "isin": "ES0305039028",
+                    "moneda": "EUR",
+                    "nombre": "R.|AUDAX ENERGIA|5,500|2023-10-10",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 265200.0,
+                    "desde": "2020T3",
+                    "isin": "ES0105089009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LLEIDANETWORKS",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 231370.0,
+                    "desde": "2021T2",
+                    "isin": "ES0105521001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARTECHE LANTEGI",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 204920.0,
+                    "desde": "2018T2",
+                    "isin": "ES0844251001",
+                    "moneda": "EUR",
+                    "nombre": "R.|IBERCAJA|7,130|2049-04-06",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 199441.0,
+                    "desde": "2021T4",
+                    "isin": "ES0536463278",
+                    "moneda": "EUR",
+                    "nombre": "PAGARÉS|AUDAX RENOV|0,417|2022-05-16",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 200849.0,
+                    "desde": "2022T1",
+                    "isin": "PTMENUOM0009",
+                    "moneda": "EUR",
+                    "nombre": "R.|MOTA-ENGIL SGPS|4,000|2023-01-04",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 129663.0,
+                    "desde": "2021T4",
+                    "isin": "ES0105621009",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROFITHOL",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 100040.0,
+                    "desde": "2020T4",
+                    "isin": "ES0305293005",
+                    "moneda": "EUR",
+                    "nombre": "R.|GREENALIA SA|4,950|2025-12-15",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 94377.0,
+                    "desde": "2018T2",
+                    "isin": "ES0305339006",
+                    "moneda": "EUR",
+                    "nombre": "R.|TYCHE GESTION|4,250|2023-05-03",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 79718.0,
+                    "desde": "2020T4",
+                    "isin": "ES0236463008",
+                    "moneda": "EUR",
+                    "nombre": "R.|AUDAX RENOV|4,200|2027-12-18",
+                    "porcentaje": 0.19
+                }
+            ],
+            "rentabilidad": -7.09
+        },
+        {
+            "gastos": 0.4,
             "indice_rotacion": 0.07,
+            "liquidez": 1.81,
             "participes": 1568,
             "patrimonio": 44810686,
             "periodo": "2021T4",
@@ -447,6 +843,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 1.35,
             "participes": 1507,
             "patrimonio": 43757427,
             "periodo": "2021T3",
@@ -905,6 +1302,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 4.72,
             "participes": 1449,
             "patrimonio": 44752819,
             "periodo": "2021T2",
@@ -1347,6 +1745,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 0.0,
+            "liquidez": 0.7,
             "participes": 1361,
             "patrimonio": 37722932,
             "periodo": "2021T1",
@@ -1781,6 +2180,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.17,
+            "liquidez": 0.72,
             "participes": 1270,
             "patrimonio": 33576450,
             "periodo": "2020T4",
@@ -2167,6 +2567,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.05,
+            "liquidez": 5.98,
             "participes": 1255,
             "patrimonio": 30321445,
             "periodo": "2020T3",
@@ -2569,6 +2970,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.04,
+            "liquidez": 2.85,
             "participes": 1233,
             "patrimonio": 29960521,
             "periodo": "2020T2",
@@ -2955,6 +3357,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.07,
+            "liquidez": 3.56,
             "participes": 1162,
             "patrimonio": 24357095,
             "periodo": "2020T1",
@@ -3341,6 +3744,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.04,
+            "liquidez": -0.09,
             "participes": 1095,
             "patrimonio": 26168310,
             "periodo": "2019T4",
@@ -3727,6 +4131,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 0.87,
             "participes": 1076,
             "patrimonio": 25009232,
             "periodo": "2019T3",
@@ -4137,6 +4542,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 0.14,
             "participes": 1069,
             "patrimonio": 24377923,
             "periodo": "2019T2",
@@ -4547,6 +4953,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 1.87,
             "participes": 1077,
             "patrimonio": 24165688,
             "periodo": "2019T1",
@@ -4925,6 +5332,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.11,
+            "liquidez": 2.51,
             "participes": 1056,
             "patrimonio": 22729943,
             "periodo": "2018T4",
@@ -5343,6 +5751,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.08,
+            "liquidez": 9.67,
             "participes": 992,
             "patrimonio": 24750590,
             "periodo": "2018T3",
@@ -5761,6 +6170,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.0,
+            "liquidez": 6.13,
             "participes": 839,
             "patrimonio": 21322899,
             "periodo": "2018T2",
@@ -6163,6 +6573,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.0,
+            "liquidez": 8.72,
             "participes": 608,
             "patrimonio": 14456000,
             "periodo": "2018T1",
@@ -6533,6 +6944,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.1,
+            "liquidez": 3.49,
             "participes": 429,
             "patrimonio": 10588252,
             "periodo": "2017T4",
@@ -6911,6 +7323,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.0,
+            "liquidez": 7.93,
             "participes": 374,
             "patrimonio": 8704429,
             "periodo": "2017T3",
@@ -7257,6 +7670,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.0,
+            "liquidez": 7.59,
             "participes": 350,
             "patrimonio": 7404210,
             "periodo": "2017T2",
@@ -7603,6 +8017,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.0,
+            "liquidez": 8.86,
             "participes": 318,
             "patrimonio": 6201868,
             "periodo": "2017T1",
@@ -7909,6 +8324,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.13,
+            "liquidez": 8.01,
             "participes": 273,
             "patrimonio": 5448450,
             "periodo": "2016T4",
@@ -8199,6 +8615,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.18,
+            "liquidez": 3.24,
             "participes": 261,
             "patrimonio": 4932715,
             "periodo": "2016T3",
@@ -8521,6 +8938,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.3,
+            "liquidez": 2.25,
             "participes": 261,
             "patrimonio": 4738785,
             "periodo": "2016T2",
@@ -8843,6 +9261,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.19,
+            "liquidez": 4.69,
             "participes": 266,
             "patrimonio": 5043890,
             "periodo": "2016T1",
@@ -9165,6 +9584,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.15,
+            "liquidez": 3.73,
             "participes": 267,
             "patrimonio": 5238810,
             "periodo": "2015T4",
@@ -9495,6 +9915,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.04,
+            "liquidez": 3.89,
             "participes": 273,
             "patrimonio": 4940576,
             "periodo": "2015T3",
@@ -9568,7 +9989,7 @@
                     "desde": "2014T4",
                     "isin": "ES0170885018",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|PRIMA ",
+                    "nombre": "ACCIONES|PRIMA",
                     "porcentaje": 3.31
                 },
                 {
@@ -9857,6 +10278,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.29,
+            "liquidez": 2.52,
             "participes": 276,
             "patrimonio": 5627796,
             "periodo": "2015T2",
@@ -9986,7 +10408,7 @@
                     "desde": "2014T4",
                     "isin": "ES0170885018",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|PRIMA ",
+                    "nombre": "ACCIONES|PRIMA",
                     "porcentaje": 2.71
                 },
                 {
@@ -10146,7 +10568,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 1.05
                 },
                 {
@@ -10251,6 +10673,7 @@
         {
             "gastos": 0.39,
             "indice_rotacion": 0.11,
+            "liquidez": 2.1,
             "participes": 278,
             "patrimonio": 5959468,
             "periodo": "2015T1",
@@ -10404,7 +10827,7 @@
                     "desde": "2014T4",
                     "isin": "ES0170885018",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|PRIMA ",
+                    "nombre": "ACCIONES|PRIMA",
                     "porcentaje": 2.07
                 },
                 {
@@ -10548,7 +10971,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 0.96
                 },
                 {
@@ -10669,6 +11092,7 @@
         {
             "gastos": 0.4,
             "indice_rotacion": 0.21,
+            "liquidez": 1.0,
             "participes": 280,
             "patrimonio": 5622048,
             "periodo": "2014T4",
@@ -10782,7 +11206,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 2.31
                 },
                 {
@@ -10798,7 +11222,7 @@
                     "desde": "2014T4",
                     "isin": "ES0170885018",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|PRIMA ",
+                    "nombre": "ACCIONES|PRIMA",
                     "porcentaje": 2.05
                 },
                 {
@@ -10998,7 +11422,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 0.79
                 },
                 {
@@ -11159,6 +11583,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.13,
+            "liquidez": -0.76,
             "participes": 288,
             "patrimonio": 6000935,
             "periodo": "2014T3",
@@ -11304,7 +11729,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 1.77
                 },
                 {
@@ -11528,7 +11953,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 0.68
                 },
                 {
@@ -11536,7 +11961,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.64
                 },
                 {
@@ -11721,6 +12146,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.0,
+            "liquidez": 0.13,
             "participes": 283,
             "patrimonio": 5868677,
             "periodo": "2014T2",
@@ -11842,7 +12268,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 2.18
                 },
                 {
@@ -12010,7 +12436,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.84
                 },
                 {
@@ -12050,7 +12476,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 0.76
                 },
                 {
@@ -12259,6 +12685,7 @@
         {
             "gastos": 0.41,
             "indice_rotacion": 0.01,
+            "liquidez": 1.26,
             "participes": 261,
             "patrimonio": 4766993,
             "periodo": "2014T1",
@@ -12340,7 +12767,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 3.04
                 },
                 {
@@ -12436,7 +12863,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 1.37
                 },
                 {
@@ -12492,7 +12919,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 1.05
                 },
                 {
@@ -12741,6 +13168,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.02,
+            "liquidez": 3.4,
             "participes": 248,
             "patrimonio": 3927242,
             "periodo": "2013T4",
@@ -12798,7 +13226,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 3.45
                 },
                 {
@@ -12846,7 +13274,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 2.14
                 },
                 {
@@ -12926,7 +13354,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 1.26
                 },
                 {
@@ -13151,6 +13579,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.0,
+            "liquidez": 4.22,
             "participes": 250,
             "patrimonio": 3605298,
             "periodo": "2013T3",
@@ -13208,7 +13637,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 3.58
                 },
                 {
@@ -13296,7 +13725,7 @@
                     "desde": "2013T3",
                     "isin": "ES0176252718",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|SOL MELIA ",
+                    "nombre": "ACCIONES|SOL MELIA",
                     "porcentaje": 1.83
                 },
                 {
@@ -13320,7 +13749,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 1.42
                 },
                 {
@@ -13561,6 +13990,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.57,
+            "liquidez": 0.45,
             "participes": 173,
             "patrimonio": 2058600,
             "periodo": "2013T2",
@@ -13794,7 +14224,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 0.76
                 },
                 {
@@ -13818,7 +14248,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.63
                 },
                 {
@@ -13851,6 +14281,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.47,
+            "liquidez": 4.44,
             "participes": 186,
             "patrimonio": 2345434,
             "periodo": "2013T1",
@@ -13948,7 +14379,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 2.19
                 },
                 {
@@ -14148,7 +14579,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.59
                 },
                 {
@@ -14173,6 +14604,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 1.61,
+            "liquidez": 8.52,
             "participes": 183,
             "patrimonio": 2381731,
             "periodo": "2012T4",
@@ -14230,7 +14662,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 3.68
                 },
                 {
@@ -14294,7 +14726,7 @@
                     "desde": "2012T4",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 1.84
                 },
                 {
@@ -14398,7 +14830,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.53
                 },
                 {
@@ -14406,7 +14838,7 @@
                     "desde": "2012T4",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.08
                 },
                 {
@@ -14423,6 +14855,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.62,
+            "liquidez": 5.61,
             "participes": 185,
             "patrimonio": 2326282,
             "periodo": "2012T3",
@@ -14488,7 +14921,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 3.34
                 },
                 {
@@ -14576,7 +15009,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.53
                 },
                 {
@@ -14601,6 +15034,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.62,
+            "liquidez": 7.26,
             "participes": 189,
             "patrimonio": 2291771,
             "periodo": "2012T2",
@@ -14650,7 +15084,7 @@
                     "desde": "2012T1",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 3.2
                 },
                 {
@@ -14658,7 +15092,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 3.14
                 },
                 {
@@ -14754,7 +15188,7 @@
                     "desde": "2012T2",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 0.71
                 },
                 {
@@ -14778,7 +15212,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.49
                 },
                 {
@@ -14811,6 +15245,7 @@
         {
             "gastos": 0.42,
             "indice_rotacion": 0.18,
+            "liquidez": 4.77,
             "participes": 201,
             "patrimonio": 2784317,
             "periodo": "2012T1",
@@ -14834,7 +15269,7 @@
                 {
                     "cantidad": 300474.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "EUR",
                     "nombre": "DEPÓSITOS|B.SABADELL|3,35|2012-06-22",
                     "porcentaje": 10.79
@@ -14868,7 +15303,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 2.79
                 },
                 {
@@ -14924,7 +15359,7 @@
                     "desde": "2012T1",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 1.62
                 },
                 {
@@ -14948,7 +15383,7 @@
                     "desde": "2011T3",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 1.46
                 },
                 {
@@ -15052,7 +15487,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.45
                 },
                 {
@@ -15069,6 +15504,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.84,
+            "liquidez": 7.48,
             "participes": 209,
             "patrimonio": 2880671,
             "periodo": "2011T4",
@@ -15092,7 +15528,7 @@
                 {
                     "cantidad": 300268.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "EUR",
                     "nombre": "DEPï¿½SITOS|B.SABADELL|3,35|2012-06-22",
                     "porcentaje": 10.42
@@ -15126,7 +15562,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 2.86
                 },
                 {
@@ -15174,7 +15610,7 @@
                     "desde": "2011T3",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 1.48
                 },
                 {
@@ -15198,7 +15634,7 @@
                     "desde": "2011T3",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 1.29
                 },
                 {
@@ -15302,7 +15738,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.46
                 },
                 {
@@ -15324,7 +15760,7 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2011T4",
-                    "isin": null,
+                    "isin": "",
                     "moneda": "EUR",
                     "nombre": "DEPï¿½SITOS|BBV|3,75|2011-08-11",
                     "porcentaje": 0.0
@@ -15335,6 +15771,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 0.59,
+            "liquidez": 1.85,
             "participes": 217,
             "patrimonio": 2918493,
             "periodo": "2011T3",
@@ -15392,7 +15829,7 @@
                     "desde": "2011T3",
                     "isin": "ES0130670112",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|ENDESA ",
+                    "nombre": "ACCIONES|ENDESA",
                     "porcentaje": 3.11
                 },
                 {
@@ -15424,7 +15861,7 @@
                     "desde": "2011T3",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 1.64
                 },
                 {
@@ -15456,7 +15893,7 @@
                     "desde": "2011T3",
                     "isin": "ES0142090317",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|OHL ",
+                    "nombre": "ACCIONES|OHL",
                     "porcentaje": 1.4
                 },
                 {
@@ -15600,7 +16037,7 @@
                     "desde": "2011T3",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.62
                 },
                 {
@@ -15624,7 +16061,7 @@
                     "desde": "2011T3",
                     "isin": "ES0162600417",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|DURO FELGUERA ",
+                    "nombre": "ACCIONES|DURO FELGUERA",
                     "porcentaje": 0.42
                 },
                 {
@@ -15657,6 +16094,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 1.59,
+            "liquidez": 58.23,
             "participes": 221,
             "patrimonio": 3397921,
             "periodo": "2011T2",
@@ -15723,6 +16161,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.72,
+            "liquidez": 9.48,
             "participes": 235,
             "patrimonio": 3784464,
             "periodo": "2011T1",
@@ -15909,6 +16348,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 1.04,
+            "liquidez": 4.07,
             "participes": 245,
             "patrimonio": 4037125,
             "periodo": "2010T4",
@@ -16103,6 +16543,7 @@
         {
             "gastos": 0.45,
             "indice_rotacion": 0.76,
+            "liquidez": 1.46,
             "participes": 265,
             "patrimonio": 4517009,
             "periodo": "2010T3",
@@ -16321,6 +16762,7 @@
         {
             "gastos": 0.44,
             "indice_rotacion": 1.35,
+            "liquidez": 2.67,
             "participes": 275,
             "patrimonio": 4901982,
             "periodo": "2010T2",
@@ -16563,6 +17005,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.25,
+            "liquidez": 2.31,
             "participes": 354,
             "patrimonio": 8104585,
             "periodo": "2010T1",
@@ -16668,7 +17111,7 @@
                     "desde": "2009T2",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 2.6
                 },
                 {
@@ -16772,7 +17215,7 @@
                     "desde": "2009T2",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.91
                 },
                 {
@@ -16789,6 +17232,7 @@
         {
             "gastos": 0.46,
             "indice_rotacion": 0.0,
+            "liquidez": 6.13,
             "participes": 395,
             "patrimonio": 9886383,
             "periodo": "2009T4",
@@ -16862,7 +17306,7 @@
                     "desde": "2009T2",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 2.27
                 },
                 {
@@ -17030,7 +17474,7 @@
                     "desde": "2009T2",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.7
                 },
                 {
@@ -17063,6 +17507,7 @@
         {
             "gastos": 0.46,
             "indice_rotacion": 0.11,
+            "liquidez": 1.51,
             "participes": 392,
             "patrimonio": 9945457,
             "periodo": "2009T3",
@@ -17160,7 +17605,7 @@
                     "desde": "2009T2",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 2.24
                 },
                 {
@@ -17280,7 +17725,7 @@
                     "desde": "2009T2",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.85
                 },
                 {
@@ -17345,6 +17790,7 @@
         {
             "gastos": 0.43,
             "indice_rotacion": 0.04,
+            "liquidez": 1.65,
             "participes": 401,
             "patrimonio": 8941419,
             "periodo": "2009T2",
@@ -17474,7 +17920,7 @@
                     "desde": "2009T2",
                     "isin": "ES0173516115",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|REPSOL ",
+                    "nombre": "ACCIONES|REPSOL",
                     "porcentaje": 2.14
                 },
                 {
@@ -17514,7 +17960,7 @@
                     "desde": "2009T2",
                     "isin": "ES0175438235",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|PROSEGUR ",
+                    "nombre": "ACCIONES|PROSEGUR",
                     "porcentaje": 1.28
                 },
                 {
@@ -17562,7 +18008,7 @@
                     "desde": "2009T2",
                     "isin": "ES0132945017",
                     "moneda": "EUR",
-                    "nombre": "ACCIONES|TUBACEX ",
+                    "nombre": "ACCIONES|TUBACEX",
                     "porcentaje": 0.7
                 },
                 {
