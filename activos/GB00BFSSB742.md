@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AGM LN Applied Graphene Materials PLC
+title: ACCIONES|Applied Graphene Materials PLC
 isin: GB00BFSSB742
 ---

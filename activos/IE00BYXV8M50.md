@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Liontrust Global Fun
+title: Participaciones|LIONTRUST INVESTMENT PARTNERS
 isin: IE00BYXV8M50
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF INVESCO MSCI USA
+isin: IE00BJQRDM08
+---

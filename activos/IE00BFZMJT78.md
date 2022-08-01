@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|NEUBERGER BERMAN EU.LTD
+title: PARTICIPACIONES|NB ULTRA SHORT
 isin: IE00BFZMJT78
 ---

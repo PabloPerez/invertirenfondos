@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Invesco AT1 Cap
+title: PARTICIPACIONES|INVESCO AT1 CAP BONO
 isin: IE00BFZPF439
 ---

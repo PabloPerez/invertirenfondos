@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|DEUT PFANDBRIEFBANK|1,75|2022-11-21
+isin: DE000A2YNVU1
+---

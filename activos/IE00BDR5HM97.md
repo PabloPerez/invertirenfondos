@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|XTRACKERS IE PL
+title: ETN|XTRACKERS IE PL
 isin: IE00BDR5HM97
 ---

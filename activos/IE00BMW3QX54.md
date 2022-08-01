@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|LEGAL&GENERAL INVESTMENT MANAG
+title: PARTICIPACIONES|L&G ROBO GLOBAL
 isin: IE00BMW3QX54
 ---

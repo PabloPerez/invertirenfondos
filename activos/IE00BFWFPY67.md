@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|SPDR BLOOMBERG BARCL
+title: ETF|SPDR BLOOMBERG EMERG
 isin: IE00BFWFPY67
 ---

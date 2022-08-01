@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|LAND NORDRHEIN-|.125|2023-03-16
+title: BONOS|OBLIGA.|LAND NORDRHEIN-|0,130|2023-03-16
 isin: DE000NRW0JF6
 ---

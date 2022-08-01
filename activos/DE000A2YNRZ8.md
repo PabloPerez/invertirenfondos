@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|LAND SACHSEN|.125|2029-06-21
+title: BONOS|OBLIGA.|LAND SACHSEN|0,130|2029-06-21
 isin: DE000A2YNRZ8
 ---

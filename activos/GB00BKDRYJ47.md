@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Airtel Africa PLC
+title: ACCIONES|AIRTEL AFRICA PLC
 isin: GB00BKDRYJ47
 ---

@@ -1,7 +1,522 @@
 {
-    "auditora": "PRICEWATERHOUSECOOPERS AUDITORES S.L",
+    "auditora": "PRICEWATERHOUSECOOPERS AUDITORES S.L.",
     "fecha_registro": "07/06/2019",
     "historico_periodos": [
+        {
+            "gastos": 0.03,
+            "indice_rotacion": 0.51,
+            "liquidez": 3.2,
+            "participes": 406471,
+            "patrimonio": 5995713559,
+            "periodo": "2022T2",
+            "posiciones": [
+                {
+                    "cantidad": 482800461.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005277444",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,900|2022-08-01",
+                    "porcentaje": 8.05
+                },
+                {
+                    "cantidad": 419357187.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005325946",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,950|2023-03-01",
+                    "porcentaje": 6.99
+                },
+                {
+                    "cantidad": 415172657.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005440679",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,379|2022-11-29",
+                    "porcentaje": 6.92
+                },
+                {
+                    "cantidad": 364498294.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005422487",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,367|2022-09-28",
+                    "porcentaje": 6.08
+                },
+                {
+                    "cantidad": 357005566.0,
+                    "desde": "2022T2",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|-0,80|2022-07-01",
+                    "porcentaje": 5.95
+                },
+                {
+                    "cantidad": 356767672.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005472953",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY|-0,488|2022-12-14",
+                    "porcentaje": 5.95
+                },
+                {
+                    "cantidad": 344540577.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005366007",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,000|2022-07-15",
+                    "porcentaje": 5.75
+                },
+                {
+                    "cantidad": 305152920.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005439275",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,198|2024-04-15",
+                    "porcentaje": 5.09
+                },
+                {
+                    "cantidad": 279934197.0,
+                    "desde": "2022T1",
+                    "isin": "IT0004848831",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|5,500|2022-11-01",
+                    "porcentaje": 4.67
+                },
+                {
+                    "cantidad": 205843525.0,
+                    "desde": "2021T4",
+                    "isin": "DE0001104867",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|-0,743|2023-12-15",
+                    "porcentaje": 3.43
+                },
+                {
+                    "cantidad": 189323195.0,
+                    "desde": "2022T1",
+                    "isin": "IE00BCRY6557",
+                    "moneda": "EUR",
+                    "nombre": "ETN|ISHARES ETFS/IR",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 165108048.0,
+                    "desde": "2022T2",
+                    "isin": "IT0005492423",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY|-0,309|2022-10-31",
+                    "porcentaje": 2.75
+                },
+                {
+                    "cantidad": 161926672.0,
+                    "desde": "2021T1",
+                    "isin": "ES0000012H33",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,632|2024-05-31",
+                    "porcentaje": 2.7
+                },
+                {
+                    "cantidad": 135045996.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005452989",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY|-0,208|2024-08-15",
+                    "porcentaje": 2.25
+                },
+                {
+                    "cantidad": 117124511.0,
+                    "desde": "2022T2",
+                    "isin": "EU000A3JZQ93",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|EUR SM TB|-0,110|2023-04-13",
+                    "porcentaje": 1.95
+                },
+                {
+                    "cantidad": 100295692.0,
+                    "desde": "2022T1",
+                    "isin": "EU000A3JZQ10",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|EUR SM TB|-0,605|2022-07-21",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 85412982.0,
+                    "desde": "2022T1",
+                    "isin": "IT0004801541",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|5,500|2022-09-01",
+                    "porcentaje": 1.42
+                },
+                {
+                    "cantidad": 82912834.0,
+                    "desde": "2022T2",
+                    "isin": "ES0L02302104",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|TESORO PUBLICO|-0,083|2023-02-10",
+                    "porcentaje": 1.38
+                },
+                {
+                    "cantidad": 82243022.0,
+                    "desde": "2022T2",
+                    "isin": "DE0001104875",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,260|2024-03-15",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 81791309.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005482309",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,129|2023-11-29",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 79789244.0,
+                    "desde": "2021T2",
+                    "isin": "US465410AH18",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|6,880|2023-09-27",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 71975402.0,
+                    "desde": "2022T1",
+                    "isin": "XS1085735899",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|PORTUGAL|5,130|2024-10-15",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 65548924.0,
+                    "desde": "2022T1",
+                    "isin": "ES00000127P0",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|TESORO PUBLICO|-0,493|2022-07-30",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 50460037.0,
+                    "desde": "2020T4",
+                    "isin": "PTOTVLOE0001",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|PORTUGAL|-0,020|2022-12-05",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 48079790.0,
+                    "desde": "2020T4",
+                    "isin": "PTOTVKOE0002",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|PORTUGAL|-0,510|2022-08-02",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 44980273.0,
+                    "desde": "2022T2",
+                    "isin": "EU000A3K4DL1",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|EUROPEAN COMMUN|0,152|2022-12-09",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 42194290.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000101636",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|MADRID|3,880|2022-09-01",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 41835242.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A289RC9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|KFW|-0,442|2023-06-30",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 41151614.0,
+                    "desde": "2022T2",
+                    "isin": "EU000A3JZRC4",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|EUR SM TB|-0,219|2022-11-17",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 40524304.0,
+                    "desde": "2022T1",
+                    "isin": "ES0200002014",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|ADIF|1,880|2022-09-22",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 38952755.0,
+                    "desde": "2022T2",
+                    "isin": "IT0005492415",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY|-0,155|2023-04-14",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 38168941.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005137614",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,110|2022-12-15",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 32349514.0,
+                    "desde": "2021T4",
+                    "isin": "IT0005105843",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,500|2023-04-20",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 30668822.0,
+                    "desde": "2021T4",
+                    "isin": "FR0012467991",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|FRECH TREASURY|0,500|2023-05-25",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 29705785.0,
+                    "desde": "2021T3",
+                    "isin": "ES0001351594",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|CASTILLA|-0,343|2300-10-31",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 30016052.0,
+                    "desde": "2022T2",
+                    "isin": "PTPBTPGE0059",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|PORTUGAL|-0,171|2022-11-18",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 28497990.0,
+                    "desde": "2021T2",
+                    "isin": "ES0000101602",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|MADRID|4,130|2024-05-21",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 23645998.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005424251",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,275|2024-01-15",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 23193381.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005244774",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CASSA DEPOSITI|-0,450|2023-03-09",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 22563015.0,
+                    "desde": "2021T4",
+                    "isin": "US465410CD85",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,880|2024-05-06",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 21175759.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005253676",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,450|2023-05-22",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 19037653.0,
+                    "desde": "2022T2",
+                    "isin": "FR0127176461",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|FRECH TREASURY|-0,534|2022-09-21",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 18010396.0,
+                    "desde": "2022T2",
+                    "isin": "ES0000012676",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|TESORO PUBLICO|-0,367|2022-07-30",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 15975158.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A2LQHV8",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|KFW|0,130|2023-06-07",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 16230936.0,
+                    "desde": "2022T1",
+                    "isin": "FR0125769903",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNEDIC|-0,534|2022-10-04",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 14786302.0,
+                    "desde": "2022T1",
+                    "isin": "ES0001352576",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|GALICIA|0,030|2023-12-12",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 14409941.0,
+                    "desde": "2020T4",
+                    "isin": "IT0004957913",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|-0,213|2022-09-01",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 12477755.0,
+                    "desde": "2022T2",
+                    "isin": "ES0378641320",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|TESORO PUBLICO|0,850|2023-12-17",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 12492784.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013173358",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|AG FR LOC|0,250|2023-03-20",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 12166984.0,
+                    "desde": "2022T1",
+                    "isin": "XS1979491559",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|TESORO PUBLICO|0,200|2024-01-31",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 10625596.0,
+                    "desde": "2022T1",
+                    "isin": "FR0011037001",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|FRECH TREASURY|4,130|2023-04-25",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 10010956.0,
+                    "desde": "2022T1",
+                    "isin": "ES05000909T2",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|ANDALUCIA|-0,435|2022-11-25",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 9792182.0,
+                    "desde": "2022T2",
+                    "isin": "ES0201001163",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|AY.MADRID 84|-0,360|2022-10-10",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 9747417.0,
+                    "desde": "2022T1",
+                    "isin": "FR0124665995",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|UNEDIC|0,130|2024-11-25",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 8652346.0,
+                    "desde": "2020T4",
+                    "isin": "IT0005204661",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CASSA DEPOSITI|-0,520|2022-07-26",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 8663174.0,
+                    "desde": "2022T2",
+                    "isin": "XS1825405878",
+                    "moneda": "EUR",
+                    "nombre": "EMISIONES|COUNCIL OF EURO|0,130|2023-05-25",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 7793791.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A2GSNV2",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|KREDITANSALT|0,130|2023-02-24",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 7100394.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005314544",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CASSA DEPOSITI|0,750|2022-11-21",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 5705627.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013261328",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|BPIFRANCE SACA|-0,392|2022-11-25",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 5055647.0,
+                    "desde": "2021T2",
+                    "isin": "ES0000101768",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|MADRID|1,000|2024-09-30",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 2104660.0,
+                    "desde": "2022T2",
+                    "isin": "ES0001351396",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|CASTILLA|4,000|2024-04-30",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 1700833.0,
+                    "desde": "2022T2",
+                    "isin": "ES00000124T9",
+                    "moneda": "EUR",
+                    "nombre": "BONOS/OBLIGA.|TESORO PUBLICO|-0,124|2022-10-31",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1299202.0,
+                    "desde": "2022T1",
+                    "isin": "XS1936850137",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|CAISSE CREDIT|-0,399|2023-01-22",
+                    "porcentaje": 0.02
+                }
+            ],
+            "rentabilidad": -0.29
+        },
         {
             "gastos": 0.03,
             "indice_rotacion": 0.26,

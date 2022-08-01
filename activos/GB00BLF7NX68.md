@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|KISTOS PLC
+title: Acciones|KISTOS PLC
 isin: GB00BLF7NX68
 ---

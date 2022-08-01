@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|EUROPEAN FINANC STAB|0,88|2028-09-05
+isin: EU000A2SCAB4
+---

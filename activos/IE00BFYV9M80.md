@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GUINNESS SUSTAN ENER
+title: Participaciones|GUINNESS ASSET MANAGEMENT F
 isin: IE00BFYV9M80
 ---

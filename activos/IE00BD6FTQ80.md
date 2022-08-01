@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|INVESCO BLOOMBERG CO
+title: PARTICIPACIONES|Invesco Bloomberg Co
 isin: IE00BD6FTQ80
 ---

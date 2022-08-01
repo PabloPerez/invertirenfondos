@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GAM FUND MANAGEMENT
+isin: IE00B3CVXM43
+---

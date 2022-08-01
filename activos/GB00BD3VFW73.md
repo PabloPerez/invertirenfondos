@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CONVATEC GROUP P
+title: Acciones|CONVATEC GROUP PLC
 isin: GB00BD3VFW73
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|IsharETF
+title: PARTICIPACIONES|ETF Ishares
 isin: IE00BDDRF478
 ---

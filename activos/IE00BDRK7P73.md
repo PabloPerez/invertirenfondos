@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BLACKROCK UK
+title: FONDO|BLACKROCK UK
 isin: IE00BDRK7P73
 ---

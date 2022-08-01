@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PIMCO
+title: Participaciones|ALLIANZ GLOBAL INVESTORS
 isin: IE00BGSXQR19
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES
+title: PARTICIPACIONES|ETF Ishares S&P 500
 isin: IE00BYXPSP02
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AUTO TRADER GROUP PL
+title: Acciones|AUTO TRADER GROUP PLC
 isin: GB00BVYVFW23
 ---

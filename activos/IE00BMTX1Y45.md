@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARESSWAPU|                               
+title: Acciones|ISHARES
 isin: IE00BMTX1Y45
 ---

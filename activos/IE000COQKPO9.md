@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Invesco Nasdaq-100 E
+title: Participaciones|INVESCO LTD
 isin: IE000COQKPO9
 ---

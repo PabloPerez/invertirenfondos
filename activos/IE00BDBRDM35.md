@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares GLB AGG
+title: ETN|ISHARES ETFS|IR
 isin: IE00BDBRDM35
 ---

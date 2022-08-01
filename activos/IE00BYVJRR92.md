@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES MSCI USA SRI
+title: Participaciones|ISHARES
 isin: IE00BYVJRR92
 ---

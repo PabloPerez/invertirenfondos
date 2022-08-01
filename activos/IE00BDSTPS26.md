@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PIMCO GIS EMERGING MARKE
+title: FONDO|PIMCO FUNDS
 isin: IE00BDSTPS26
 ---

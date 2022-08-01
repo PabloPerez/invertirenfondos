@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES ETFS|IR
+title: Participaciones|BLACKROCK GLOBAL FUNDS
 isin: IE00BDFJYM28
 ---

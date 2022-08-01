@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BNY Mellon Global Short Dated HYB EUR WA
+title: PARTICIPACIONES|BNY MEL G SH DTD
 isin: IE00BD5CVC03
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares MSCI Glo
+title: Acciones|ISHARES
 isin: IE00B4KBBD01
 ---

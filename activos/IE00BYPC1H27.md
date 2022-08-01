@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|58762686 iShares China CNY Bond UCITS E
+title: ETF.ISHARES CHINA CNY BOND-USD D (USD)
 isin: IE00BYPC1H27
 ---

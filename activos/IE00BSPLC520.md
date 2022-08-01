@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|S&P ETF EUR
+title: PARTICIPACIONES|SPDR MSCI USA Value
 isin: IE00BSPLC520
 ---

@@ -4,6 +4,777 @@
     "historico_periodos": [
         {
             "gastos": 0.09,
+            "indice_rotacion": 0.15,
+            "liquidez": 7.59,
+            "participes": 7,
+            "patrimonio": 6642963,
+            "periodo": "2022T2",
+            "posiciones": [
+                {
+                    "cantidad": 1897199.0,
+                    "desde": "2021T3",
+                    "isin": "SE0004869071",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Swedish Govt|1,50|2023-11-13",
+                    "porcentaje": 4.16
+                },
+                {
+                    "cantidad": 1015546.0,
+                    "desde": "2020T4",
+                    "isin": "XS1280834992",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|European Invt BK EIB|0,50|2023-11-15",
+                    "porcentaje": 2.23
+                },
+                {
+                    "cantidad": 1005359.0,
+                    "desde": "2019T4",
+                    "isin": "XS1711933033",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Swedbank AB A Shares|0,25|2022-11-07",
+                    "porcentaje": 2.2
+                },
+                {
+                    "cantidad": 998275.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438285",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Urbaser|0,35|2022-07-20",
+                    "porcentaje": 2.19
+                },
+                {
+                    "cantidad": 982423.0,
+                    "desde": "2022T1",
+                    "isin": "XS2389353181",
+                    "moneda": "euro",
+                    "nombre": "BONO|GOLDMAN SACHS GROUP |0,84|2026-09-23",
+                    "porcentaje": 2.15
+                },
+                {
+                    "cantidad": 982321.0,
+                    "desde": "2021T3",
+                    "isin": "XS2153405118",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|IBERDROLA|0,88|2025-06-16",
+                    "porcentaje": 2.15
+                },
+                {
+                    "cantidad": 955929.0,
+                    "desde": "2021T4",
+                    "isin": "XS2100269088",
+                    "moneda": "euro",
+                    "nombre": "BONO|KOREA HOUSING FINANC|0,01|2025-02-05",
+                    "porcentaje": 2.1
+                },
+                {
+                    "cantidad": 947377.0,
+                    "desde": "2021T3",
+                    "isin": "XS1218319702",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Unibail-Rodamco|1,00|2025-03-14",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 948110.0,
+                    "desde": "2021T1",
+                    "isin": "XS2104915033",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|National Grid Transc|0,19|2025-01-20",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 731913.0,
+                    "desde": "2020T1",
+                    "isin": "XS1598757760",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Accs. Grifols S.A.|3,20|2025-05-01",
+                    "porcentaje": 1.6
+                },
+                {
+                    "cantidad": 696221.0,
+                    "desde": "2021T3",
+                    "isin": "ES0536463443",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Audax Energia|0,69|2022-07-04",
+                    "porcentaje": 1.53
+                },
+                {
+                    "cantidad": 692767.0,
+                    "desde": "2020T4",
+                    "isin": "US037833BU32",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Apple Computer Inc.|2,85|2023-02-23",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 604516.0,
+                    "desde": "2022T2",
+                    "isin": "XS1626933102",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BNP|0,42|2024-06-07",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 595569.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505526105",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|HT WORKING CAPITAL|1,25|2023-03-10",
+                    "porcentaje": 1.31
+                },
+                {
+                    "cantidad": 562015.0,
+                    "desde": "2020T4",
+                    "isin": "ES0378165007",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Tecnicas Reunidas|2,75|2024-12-30",
+                    "porcentaje": 1.23
+                },
+                {
+                    "cantidad": 505880.0,
+                    "desde": "2019T3",
+                    "isin": "ES0205061007",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Canal Isabel II|1,68|2025-02-26",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 505181.0,
+                    "desde": "2020T2",
+                    "isin": "FR0013283686",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Estado Francés|0,00|2023-03-25",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 507218.0,
+                    "desde": "2020T4",
+                    "isin": "XS1963849440",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Danske Bank A/S|1,63|2024-03-15",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 505059.0,
+                    "desde": "2022T1",
+                    "isin": "XS1611255719",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Santander Intl|0,82|2024-05-11",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 499853.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505075053",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Euskaltel SA|0,55|2022-09-28",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 502040.0,
+                    "desde": "2021T1",
+                    "isin": "XS1872032369",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Natl Australia bk|0,63|2023-08-30",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 501933.0,
+                    "desde": "2021T1",
+                    "isin": "FR0013284247",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|EngiFlPe|0,38|2023-02-28",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 498760.0,
+                    "desde": "2022T2",
+                    "isin": "PTJ27VJM0069",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|JOSE MELLO SAUDE|0,70|2022-12-16",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 499064.0,
+                    "desde": "2022T2",
+                    "isin": "XS2488794913",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Cie Automotive SA|0,46|2022-11-29",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498123.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505616096",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Avatel Telecom|0,75|2022-10-25",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498885.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505497125",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Grupo Gransolar|0,42|2022-10-11",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498957.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505438293",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Urbaser|0,35|2022-09-22",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498468.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505293011",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Greenalia SA|0,85|2022-07-29",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498182.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451387",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Pryconsa|0,75|2022-07-18",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 495688.0,
+                    "desde": "2022T1",
+                    "isin": "ES0584696563",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Masmovil Ibercom|0,60|2023-01-13",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 497817.0,
+                    "desde": "2022T1",
+                    "isin": "ES05329453M0",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|TUBACEX|0,90|2022-07-11",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 495321.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505122160",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|METROVACESA|0,85|2022-11-11",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 496973.0,
+                    "desde": "2021T3",
+                    "isin": "ES0505603011",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|HT Nexus|0,80|2022-07-04",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 495501.0,
+                    "desde": "2022T2",
+                    "isin": "XS1917601582",
+                    "moneda": "euro",
+                    "nombre": "BONO|HSBC HOLDINGS PLC|1,50|2024-12-04",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 498511.0,
+                    "desde": "2022T1",
+                    "isin": "PTESS2OM0011",
+                    "moneda": "euro",
+                    "nombre": "BONO|HAITONG BANK SA|1,05|2025-02-08",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 490908.0,
+                    "desde": "2021T4",
+                    "isin": "ES0313040075",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCA MARCH SA|0,10|2025-11-17",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 483800.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A2TEDB8",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Thyssen Ag|2,88|2024-02-22",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 480275.0,
+                    "desde": "2022T1",
+                    "isin": "ES0000012K38",
+                    "moneda": "euro",
+                    "nombre": "BONO|BONOS Y OBLIG DEL ES|0,31|2025-05-31",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 472226.0,
+                    "desde": "2020T1",
+                    "isin": "LU0907928062",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|DPAM L- Bonds Emergi",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 470359.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014003513",
+                    "moneda": "euro",
+                    "nombre": "BONO|FRANCE (GOVT OF)|0,92|2027-02-25",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 467397.0,
+                    "desde": "2022T1",
+                    "isin": "US05971KAH23",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO SANTANDER SA|4,75|2026-11-12",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 464448.0,
+                    "desde": "2020T3",
+                    "isin": "US045167EV11",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Asian Dev Bank|0,25|2023-07-14",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 466434.0,
+                    "desde": "2021T4",
+                    "isin": "XS2081500907",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|FCCSer|1,66|2026-12-04",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 461793.0,
+                    "desde": "2020T4",
+                    "isin": "XS2241387252",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Mizuho Fin|0,21|2025-10-07",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 456395.0,
+                    "desde": "2021T2",
+                    "isin": "XS2194370727",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Santander Intl|1,13|2027-06-23",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 437533.0,
+                    "desde": "2021T4",
+                    "isin": "FR00140003P3",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANQUE FED CRED MUTU|0,10|2027-10-08",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 439357.0,
+                    "desde": "2021T4",
+                    "isin": "XS2388941077",
+                    "moneda": "euro",
+                    "nombre": "BONO|ACCIONA ENERGIA FINA|0,38|2027-10-07",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 403829.0,
+                    "desde": "2022T2",
+                    "isin": "XS2356040357",
+                    "moneda": "euro",
+                    "nombre": "BONO|STELLANTIS NV|0,75|2029-01-18",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 403521.0,
+                    "desde": "2019T4",
+                    "isin": "PTJLLDOM0016",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Jose de Mello Saude|3,88|2027-01-22",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 400707.0,
+                    "desde": "2022T1",
+                    "isin": "PTMENUOM0009",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Mota Engil SGPS SA|4,00|2023-01-04",
+                    "porcentaje": 0.88
+                },
+                {
+                    "cantidad": 398630.0,
+                    "desde": "2021T4",
+                    "isin": "ES0305609002",
+                    "moneda": "euro",
+                    "nombre": "BONO|SACYR GREEN ENERGY M|3,25|2031-12-15",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 395668.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505628042",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|La Sirena|2,52|2022-12-19",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 384475.0,
+                    "desde": "2022T2",
+                    "isin": "XS2013574202",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|Ford Motor Credit|1,51|2023-02-17",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 372920.0,
+                    "desde": "2022T2",
+                    "isin": "XS1224710399",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Naturgy Energy Group|3,38|2049-04-24",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 368224.0,
+                    "desde": "2021T4",
+                    "isin": "XS2413759353",
+                    "moneda": "euro",
+                    "nombre": "BONO|Citi Fixed Coupon US|-0,08|2024-12-16",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 364445.0,
+                    "desde": "2022T2",
+                    "isin": "ES0813211028",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO BILBAO VIZCAYA|6,00|2049-07-15",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 299400.0,
+                    "desde": "2022T2",
+                    "isin": "ES0565386036",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Solaria Energia|0,80|2022-11-21",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 299169.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505072860",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Pikolin SA|0,82|2022-09-19",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 299187.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505401358",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Tradebe|0,72|2022-10-05",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 299176.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505079063",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Grenergy Renovables,|0,75|2022-09-13",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 299443.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505401432",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Tradebe|0,58|2022-07-06",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 299155.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505394439",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Avatel|0,46|2022-09-15",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 302864.0,
+                    "desde": "2019T2",
+                    "isin": "XS1689241278",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Finlombarda SPA|1,53|2022-09-22",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 298102.0,
+                    "desde": "2022T2",
+                    "isin": "ES05051134K4",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Corte Ingles|0,80|2023-04-18",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 297053.0,
+                    "desde": "2022T1",
+                    "isin": "XS2459137290",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Sacyr Vallehermoso|1,51|2023-03-14",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 298554.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505604076",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Ontime Corp|0,95|2022-10-13",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 296310.0,
+                    "desde": "2022T2",
+                    "isin": "ES0573365246",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|RENTA CORPORACION|2,52|2022-10-05",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 296513.0,
+                    "desde": "2022T1",
+                    "isin": "ES0509260164",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|AMPER|1,60|2022-12-21",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 295838.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505072845",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Pikolin SA|1,14|2023-03-20",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 298317.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505395345",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Finycar SL|1,10|2022-09-19",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 298755.0,
+                    "desde": "2022T1",
+                    "isin": "ES0505451403",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Pryconsa|0,75|2022-09-16",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 297193.0,
+                    "desde": "2021T4",
+                    "isin": "ES0505122160",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|METROVACESA|0,85|2022-11-11",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 296040.0,
+                    "desde": "2019T2",
+                    "isin": "FR0013309606",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Renault|0,36|2023-01-12",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 293786.0,
+                    "desde": "2021T4",
+                    "isin": "ES0573365212",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|RENTA CORPORACION|2,91|2022-07-05",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 289802.0,
+                    "desde": "2021T4",
+                    "isin": "PTGNVAOM0000",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Greenvolt Energias R|2,63|2028-11-10",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 276961.0,
+                    "desde": "2021T4",
+                    "isin": "ES0205629001",
+                    "moneda": "euro",
+                    "nombre": "BONO|ARQUIMEA GROUP SA|4,63|2026-12-28",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 276362.0,
+                    "desde": "2021T3",
+                    "isin": "XS2076836555",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Accs. Grifols S.A.|1,63|2025-02-15",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 256308.0,
+                    "desde": "2020T1",
+                    "isin": "ES0213679JR9",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BANKINTER S.A.|0,63|2027-10-06",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 247227.0,
+                    "desde": "2022T1",
+                    "isin": "XS0203470157",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Axa|1,61|2049-10-29",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 225823.0,
+                    "desde": "2020T4",
+                    "isin": "ES0236463008",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Audax Energia|4,20|2027-12-18",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 199069.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505394447",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Avatel|0,95|2022-11-14",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 199368.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505280588",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|NEXUS|1,31|2022-08-10",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 198772.0,
+                    "desde": "2022T2",
+                    "isin": "ES0554653289",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|INMOBILIARIA DEL SUR|1,25|2022-10-27",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 199758.0,
+                    "desde": "2022T2",
+                    "isin": "ES0547352585",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|EBN Banco|0,23|2022-10-07",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 199446.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505401465",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Tradebe|0,67|2022-09-14",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 198153.0,
+                    "desde": "2022T1",
+                    "isin": "PTME1PJM0061",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|Mota Engil SGPS SA|1,86|2022-09-16",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 198123.0,
+                    "desde": "2021T4",
+                    "isin": "ES0509260123",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|AMPER|1,17|2022-09-30",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 193629.0,
+                    "desde": "2022T1",
+                    "isin": "ES0813211002",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|BBVA|5,88|2023-09-24",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 188392.0,
+                    "desde": "2020T4",
+                    "isin": "ES0205072020",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Pikolin SA|5,15|2026-12-14",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 159324.0,
+                    "desde": "2022T2",
+                    "isin": "ES0280907025",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICAJA BANCO SA|3,13|2032-07-19",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 149353.0,
+                    "desde": "2021T1",
+                    "isin": "XS2282606578",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|Abertis Infraestruct|2,63|2049-01-26",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 99884.0,
+                    "desde": "2022T2",
+                    "isin": "ES0505047557",
+                    "moneda": "euro",
+                    "nombre": "PAGARE|BARCELÓ|0,55|2022-07-27",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 98840.0,
+                    "desde": "2018T4",
+                    "isin": "XS1888206627",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|SCF|1,13|2023-10-09",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 89876.0,
+                    "desde": "2022T1",
+                    "isin": "XS2457496359",
+                    "moneda": "euro",
+                    "nombre": "BONO|A2A SPA|1,50|2028-03-16",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 51027.0,
+                    "desde": "2020T2",
+                    "isin": "ES0160482008",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|MAPFRE COMPROMISO SA",
+                    "porcentaje": 0.11
+                }
+            ],
+            "rentabilidad": -1.13
+        },
+        {
+            "gastos": 0.09,
             "indice_rotacion": 0.1,
             "liquidez": 6.0,
             "participes": 8,

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AMER3 BZ Americanas SA
+title: ACCIONES|Americanas SA
 isin: BRAMERACNOR6
 ---

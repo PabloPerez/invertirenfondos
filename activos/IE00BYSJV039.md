@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OTRAS|FIRST STATE GLOBAL U
+title: PART.FIRST SENTIER GL LISTED INFR-VIAE
 isin: IE00BYSJV039
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO.LEG IMMOB 0,375% VT.17|01|26(C10|25)
+title: BONO|LEG IMMOBILIEN|0,38|2026-01-17
 isin: DE000A3MQNN9
 ---
