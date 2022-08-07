@@ -56,7 +56,6 @@ function handleGesture(e) {
     }
 }
 
-
 document.querySelector('#previous-quarter').addEventListener("click", function () {
     pos++
     populatePositions(isin)
@@ -69,7 +68,6 @@ document.querySelector('#next-quarter').addEventListener("click", function() {
 function getFundIsinFromUrl(url) {
     let urlParts = url.split('/');
     return urlParts[urlParts.length - 1].split('.')[0];
-
 }
 
 async function populatePositions(fundIsin, isDragging=false) {
@@ -119,19 +117,19 @@ async function populatePositions(fundIsin, isDragging=false) {
     document.querySelector('#next-quarter').style.visibility = "visible";    
 
     let positions = fundData.historico_periodos[pos].posiciones;
-    let previous_positions = []
+    let previousPositions = []
     let previous_quarter
+    let soldPositionsDiv = document.querySelector('#sold-positions')
+    soldPositionsDiv.style.display = "none";
 
     if (pos == 0) {
         document.querySelector('#next-quarter').style.visibility = "hidden";
     }
     if (pos == fundData.historico_periodos.length - 1) {
         document.querySelector('#previous-quarter').style.visibility = "hidden";
-        document.querySelector('#sold-positions').style.display = "none";
     } else {
         previous_quarter = fundData.historico_periodos[pos + 1].periodo
-        previous_positions = fundData.historico_periodos[pos + 1].posiciones
-        document.querySelector('#sold-positions').style.display = "block";
+        previousPositions = fundData.historico_periodos[pos + 1].posiciones
     }
 
     tableBody = document.querySelector('#positions-table tbody')
@@ -142,7 +140,7 @@ async function populatePositions(fundIsin, isDragging=false) {
         let percentage = position.porcentaje;
         let isin = position.isin;
         let amount = position.cantidad;
-        let isNew = previous_positions.length && !previous_positions.some(p => p.isin === isin)
+        let isNew = previousPositions.length && !previousPositions.some(p => p.isin === isin)
 
         let currency = position.moneda;
         if (currency.toLowerCase() == "euro" || currency.toLowerCase() == "eur") {
@@ -167,8 +165,7 @@ async function populatePositions(fundIsin, isDragging=false) {
         let amounttd = document.createElement('td');
         amounttd.classList.add("amounttd")
         amounttd.innerHTML = `${amount.toLocaleString()} ${currency}`;
-    
-        
+
         tr.addEventListener("click", function() {
             window.location.href = `../activos/${isin}.html`
         })
@@ -179,11 +176,14 @@ async function populatePositions(fundIsin, isDragging=false) {
         tr.appendChild(amounttd);
 
         tableBody.appendChild(tr)
-    
     });
+
     soldTableBody = document.querySelector('#sold-positions-table tbody')
     soldTableBody.innerHTML = ''
-    previous_positions.forEach(position => {
+    previousPositions.forEach(position => {
+        if (soldPositionsDiv.style.display == "none") {
+            soldPositionsDiv.style.display = "block";
+        }
         let isin = position.isin;
         if (!positions.some(p => p.isin === isin)) {
             let name = position.nombre;
