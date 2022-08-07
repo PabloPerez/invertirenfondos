@@ -15,6 +15,33 @@ td {
   text-align: center;
 }
 
+.trimester {
+    position: fixed;
+    top: calc(50vh - 2.5rem);
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    font-size: 5rem;
+    text-align: center;
+    animation: disappear 0.5s forwards reverse;
+    background-color: var(--light);
+    opacity: 0;
+}
+@keyframes disappear {
+    0% {
+        opacity: 0;
+    }
+    33% {
+        opacity: 1;
+    }
+    66% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
 #quarter {
   text-align: center;
   margin: 50px 0px;
@@ -65,6 +92,10 @@ td {
   border: 2px solid black;
 }
 
+.table-striped tbody tr:nth-of-type(odd).table-success>td  {
+  background-color: #B9D9C0;
+}
+
 .blog-post-title {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
@@ -87,6 +118,10 @@ td {
 body {
   position: relative;
   min-height: 100vh;
+}
+
+#positions-table th:first-child, #sold-positions-table th:first-child {
+    width: 50%;
 }
 
 .container {
