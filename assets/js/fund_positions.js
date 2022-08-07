@@ -181,11 +181,12 @@ async function populatePositions(fundIsin, isDragging=false) {
     soldTableBody = document.querySelector('#sold-positions-table tbody')
     soldTableBody.innerHTML = ''
     previousPositions.forEach(position => {
-        if (soldPositionsDiv.style.display == "none") {
-            soldPositionsDiv.style.display = "block";
-        }
         let isin = position.isin;
         if (!positions.some(p => p.isin === isin)) {
+            if (soldPositionsDiv.style.display == "none") {
+                soldPositionsDiv.style.display = "block";
+            }
+
             let name = position.nombre;
             let percentage = position.porcentaje;
 
