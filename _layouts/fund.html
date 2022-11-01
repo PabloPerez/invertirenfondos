@@ -35,8 +35,8 @@
     </script>
   </head>
   <body>
-  {% include navbar.html %}  
-  <h1 class="text-center">Posiciones {{ page.title }} {{ page.isin }}</h1>
+  {% include navbar.html %}
+  <h1 class="text-center pt-3">{{ page.isin }} - {{ page.title }}</h1>
   {%- assign slug = page.isin | upcase | slugify %}
   <div id="fund-container" class="container">
 
@@ -57,6 +57,9 @@
       </tbody>
     </table>
 
+    <h2 class="mb-3">Posiciones:</h2>
+    <p>Las posiciones nuevas se indican <strong style="color:#6EA06F">en verde</strong></p>
+
     <table id="positions-table" class="table table-striped">
       <thead class="thead-dark">
         <tr>
@@ -69,6 +72,25 @@
       <tbody>
       </tbody>
     </table>
+
+    <div id="sold-positions">
+    <h2 class="mt-5 mb-3">Posiciones vendidas:</h2>
+    <table id="sold-positions-table" class="table table-striped">
+      <thead class="thead-dark">
+        <tr>
+          <th>Nombre</th>
+          <th class="isincolumn">ISIN</th>
+          <th>% anterior</th>
+          <th class="sincecolumn">Compra</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+
+    </div>
+
     <script src="https://www.google.com/recaptcha/api.js"></script>
     {% include scripts.html %}
     {% include comments.html %}
