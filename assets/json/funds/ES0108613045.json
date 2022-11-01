@@ -4,6 +4,137 @@
     "historico_periodos": [
         {
             "gastos": 0.35,
+            "indice_rotacion": 0.14,
+            "liquidez": 5.02,
+            "participes": 24,
+            "patrimonio": 161795,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 6436898.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B9M6RS56",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ISH JPM$EM BD EURH",
+                    "porcentaje": 17.53
+                },
+                {
+                    "cantidad": 5472454.0,
+                    "desde": "2020T2",
+                    "isin": "LU1324516308",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF SBEME IM EQUITY",
+                    "porcentaje": 14.9
+                },
+                {
+                    "cantidad": 5457733.0,
+                    "desde": "2021T2",
+                    "isin": "IE00BDDRDY39",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|ETF JMBE IM Equity",
+                    "porcentaje": 14.86
+                },
+                {
+                    "cantidad": 1735279.0,
+                    "desde": "2022T1",
+                    "isin": "IE000C8T09Q7",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI PGHCDHP ID Equity",
+                    "porcentaje": 4.73
+                },
+                {
+                    "cantidad": 1734897.0,
+                    "desde": "2020T2",
+                    "isin": "LU0170991672",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI PFIFGEH LX Equity",
+                    "porcentaje": 4.72
+                },
+                {
+                    "cantidad": 1723311.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B1YBS014",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|STONE HARBOR INVESTM",
+                    "porcentaje": 4.69
+                },
+                {
+                    "cantidad": 1717377.0,
+                    "desde": "2019T4",
+                    "isin": "IE00B986GB56",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|NB EM D-HC-EURIDS",
+                    "porcentaje": 4.68
+                },
+                {
+                    "cantidad": 1714332.0,
+                    "desde": "2020T2",
+                    "isin": "LU1580881933",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI CBEMZAU LX Equity",
+                    "porcentaje": 4.67
+                },
+                {
+                    "cantidad": 1685563.0,
+                    "desde": "2022T3",
+                    "isin": "LU1160616865",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|NOHHBIE LX Equity",
+                    "porcentaje": 4.59
+                },
+                {
+                    "cantidad": 1665149.0,
+                    "desde": "2019T4",
+                    "isin": "LU1323999216",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BGF-EM MK B-I5EURH",
+                    "porcentaje": 4.53
+                },
+                {
+                    "cantidad": 1658974.0,
+                    "desde": "2022T3",
+                    "isin": "IE00B0V9TG48",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI PIMEIEH ID Equity",
+                    "porcentaje": 4.52
+                },
+                {
+                    "cantidad": 1213424.0,
+                    "desde": "2020T2",
+                    "isin": "IE00BFNXVQ35",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI MUZMSSU ID Equity",
+                    "porcentaje": 3.3
+                },
+                {
+                    "cantidad": 1107427.0,
+                    "desde": "2019T4",
+                    "isin": "IE00BD2ZKX64",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|PG-FIN UNC E-IEURI",
+                    "porcentaje": 3.02
+                },
+                {
+                    "cantidad": 686145.0,
+                    "desde": "2020T2",
+                    "isin": "LU2065165933",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|INBRDAE LX Equity",
+                    "porcentaje": 1.87
+                },
+                {
+                    "cantidad": 687204.0,
+                    "desde": "2020T1",
+                    "isin": "LU1480986113",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|FI LOAVEMD LX Equity",
+                    "porcentaje": 1.87
+                }
+            ],
+            "rentabilidad": -5.4
+        },
+        {
+            "gastos": 0.35,
             "indice_rotacion": 0.18,
             "liquidez": 10.93,
             "participes": 24,
@@ -1453,11 +1584,11 @@
         }
     ],
     "id_cnmv": 5374,
-    "id_cnmv_depositaria": 206,
+    "id_cnmv_depositaria": 240,
     "id_cnmv_gestora": 225,
     "isin": "ES0108613045",
     "nif": "V88337233",
     "nombre": "SANTALUCIA RENTA FIJA EMERGENTES, FI CLASE B",
-    "nombre_depositaria": "BNP PARIBAS SECURITIES SERVICES, SUCURSAL EN ESPAÑA",
+    "nombre_depositaria": "BNP PARIBAS S.A., SUCURSAL EN ESPAÑA",
     "nombre_gestora": "SANTA LUCIA ASSET MANAGEMENT, SGIIC, S.A."
 }

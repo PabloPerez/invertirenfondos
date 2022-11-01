@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|EUROPEAN STABILITY M|1,481|2023-03-23
+isin: EU000A3JZRL5
+---

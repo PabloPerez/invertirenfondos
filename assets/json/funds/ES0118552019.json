@@ -4,6 +4,145 @@
     "historico_periodos": [
         {
             "gastos": null,
+            "indice_rotacion": 0.01,
+            "liquidez": 2.29,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 898586.0,
+                    "desde": "2022T1",
+                    "isin": "IE00BDFJYM28",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|BLACKROCK GLOBAL FUNDS",
+                    "porcentaje": 9.59
+                },
+                {
+                    "cantidad": 885279.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B6R52259",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|ISHARES MSCI ACWI UCITS ETF",
+                    "porcentaje": 9.45
+                },
+                {
+                    "cantidad": 880591.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B3YCGJ38",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|INVESCO S&P 500 UCITS ETF",
+                    "porcentaje": 9.4
+                },
+                {
+                    "cantidad": 818432.0,
+                    "desde": "2022T1",
+                    "isin": "IE00BDBRDM35",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|ISHARES CORE GLOBAL AGGREGATE",
+                    "porcentaje": 8.74
+                },
+                {
+                    "cantidad": 806849.0,
+                    "desde": "2022T1",
+                    "isin": "IE00BF1QPL78",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|SPDR BBG GLOBAL AGG BOND ETF",
+                    "porcentaje": 8.61
+                },
+                {
+                    "cantidad": 726712.0,
+                    "desde": "2022T1",
+                    "isin": "LU0496786657",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|LYXOR S&P 500 UCITS ETF USD",
+                    "porcentaje": 7.76
+                },
+                {
+                    "cantidad": 715362.0,
+                    "desde": "2022T1",
+                    "isin": "IE00BG47KH54",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|VANGUARD GLOBAL AGG BOND ETF",
+                    "porcentaje": 7.64
+                },
+                {
+                    "cantidad": 539107.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B3DKXQ41",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|BLACKROCK GLOBAL FUNDS",
+                    "porcentaje": 5.76
+                },
+                {
+                    "cantidad": 532026.0,
+                    "desde": "2022T1",
+                    "isin": "LU1974696418",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|UBS JPM USD EM ESG DIV BOND",
+                    "porcentaje": 5.68
+                },
+                {
+                    "cantidad": 465574.0,
+                    "desde": "2022T1",
+                    "isin": "FR0013416716",
+                    "moneda": "euro",
+                    "nombre": "Bonos|AMUNDI PHYS GOLD|0,000|2070-12-31",
+                    "porcentaje": 4.97
+                },
+                {
+                    "cantidad": 440675.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B41RYL63",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|SPDR BLOOMBERG EURO AGGREGATE",
+                    "porcentaje": 4.7
+                },
+                {
+                    "cantidad": 358612.0,
+                    "desde": "2022T1",
+                    "isin": "LU1781541849",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|LYXOR MSCI EM ASIA UCITS ETF",
+                    "porcentaje": 3.83
+                },
+                {
+                    "cantidad": 339586.0,
+                    "desde": "2022T1",
+                    "isin": "LU1437015735",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|AMUNDI MSCI EUROPE UCITS ETF",
+                    "porcentaje": 3.63
+                },
+                {
+                    "cantidad": 300002.0,
+                    "desde": "2022T3",
+                    "isin": "ES00000128Q6",
+                    "moneda": "euro",
+                    "nombre": "REPO|BNP PARIBA|4,500|2022-10-03",
+                    "porcentaje": 3.2
+                },
+                {
+                    "cantidad": 177790.0,
+                    "desde": "2022T2",
+                    "isin": "LU1215461325",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|UBS BBG MSCI US LIQ CORP SUST",
+                    "porcentaje": 1.9
+                },
+                {
+                    "cantidad": 131846.0,
+                    "desde": "2022T1",
+                    "isin": "IE00B4L5YX21",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|ISHARES CORE MSCI JAPAN IMI UC",
+                    "porcentaje": 1.41
+                }
+            ],
+            "rentabilidad": null
+        },
+        {
+            "gastos": null,
             "indice_rotacion": 1.39,
             "liquidez": 3.23,
             "participes": 0,
@@ -1194,11 +1333,11 @@
         }
     ],
     "id_cnmv": 1514,
-    "id_cnmv_depositaria": 206,
+    "id_cnmv_depositaria": 240,
     "id_cnmv_gestora": 61,
     "isin": "ES0118552019",
     "nif": "V82053034",
     "nombre": "MARCH 35 ALLOCATION TREND, FI CLASE L",
-    "nombre_depositaria": "BNP PARIBAS SECURITIES SERVICES, SUCURSAL EN ESPAÑA",
-    "nombre_gestora": "BNP PARIBAS GESTION DE INVERSIONES, SGIIC, S.A."
+    "nombre_depositaria": "BNP PARIBAS S.A., SUCURSAL EN ESPAÑA",
+    "nombre_gestora": "MARCH ASSET INVESTMENTS, SGIIC, S.A."
 }

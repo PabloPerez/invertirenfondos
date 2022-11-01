@@ -4,6 +4,25 @@
     "historico_periodos": [
         {
             "gastos": 0.36,
+            "indice_rotacion": 0.0,
+            "liquidez": 1.44,
+            "participes": 438,
+            "patrimonio": 21656662,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 38789086.0,
+                    "desde": "2022T1",
+                    "isin": "LU2003419293",
+                    "moneda": "euro",
+                    "nombre": "Participaciones|JP MORGAN ASSET MANAGEMENT EUR",
+                    "porcentaje": 98.66
+                }
+            ],
+            "rentabilidad": -1.56
+        },
+        {
+            "gastos": 0.36,
             "indice_rotacion": 1.99,
             "liquidez": 1.49,
             "participes": 457,
@@ -276,10 +295,10 @@
     ],
     "id_cnmv": 5366,
     "id_cnmv_depositaria": 236,
-    "id_cnmv_gestora": 243,
+    "id_cnmv_gestora": 154,
     "isin": "ES0158302010",
     "nif": "V88316393",
     "nombre": "LIBERBANK GLOBAL MACRO FI CLASE P",
     "nombre_depositaria": "CECABANK, S.A.",
-    "nombre_gestora": "LIBERBANK GESTION, SGIIC, S.A."
+    "nombre_gestora": "UNIGEST, S.G.I.I.C., S.A."
 }

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: T-BILLS|IRISH TREASURY BILL|-0,671|2019-09-23
+isin: IE00BFZRQ358
+---

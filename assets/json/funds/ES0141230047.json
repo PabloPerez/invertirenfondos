@@ -4,6 +4,25 @@
     "historico_periodos": [
         {
             "gastos": 0.0,
+            "indice_rotacion": 0.0,
+            "liquidez": 1.34,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 20175268.0,
+                    "desde": "2022T1",
+                    "isin": "LU2384387481",
+                    "moneda": "euro",
+                    "nombre": "AC.CPR INVEST MEDTECH T3 SICAV",
+                    "porcentaje": 99.12
+                }
+            ],
+            "rentabilidad": -1.58
+        },
+        {
+            "gastos": 0.0,
             "indice_rotacion": 0.03,
             "liquidez": 1.12,
             "participes": 0,
@@ -42,11 +61,11 @@
         }
     ],
     "id_cnmv": 5575,
-    "id_cnmv_depositaria": 206,
+    "id_cnmv_depositaria": 240,
     "id_cnmv_gestora": 58,
     "isin": "ES0141230047",
     "nif": "V67782128",
     "nombre": "SABADELL ECONOMÍA MEDICALTECH, FI PREMIER",
-    "nombre_depositaria": "BNP PARIBAS SECURITIES SERVICES, SUCURSAL EN ESPAÑA",
+    "nombre_depositaria": "BNP PARIBAS S.A., SUCURSAL EN ESPAÑA",
     "nombre_gestora": "SABADELL ASSET MANAGEMENT, S.A., S.G.I.I.C."
 }

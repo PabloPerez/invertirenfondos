@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|HAMBURG COMMERCIAL B|0,38|2026-03-09
+isin: DE000HCB0AZ3
+---

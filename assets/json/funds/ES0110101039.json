@@ -4,6 +4,953 @@
     "historico_periodos": [
         {
             "gastos": 0.59,
+            "indice_rotacion": 0.16,
+            "liquidez": 2.72,
+            "participes": 6347,
+            "patrimonio": 76312000,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 9169000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0012032048",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROCHE HOLDING AG",
+                    "porcentaje": 3.1
+                },
+                {
+                    "cantidad": 8613000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0012005267",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVARTIS AG",
+                    "porcentaje": 2.92
+                },
+                {
+                    "cantidad": 8587000.0,
+                    "desde": "2022T1",
+                    "isin": "DK0060534915",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVO NORDISK A/S",
+                    "porcentaje": 2.91
+                },
+                {
+                    "cantidad": 7825000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000121014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LVMH MOET HENNESSY L",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 6818000.0,
+                    "desde": "2022T1",
+                    "isin": "NL0010273215",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASML HOLDING NV",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 5342000.0,
+                    "desde": "2022T3",
+                    "isin": "GB0005405286",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HSBC HOLDINGS PLC",
+                    "porcentaje": 1.81
+                },
+                {
+                    "cantidad": 5257000.0,
+                    "desde": "2022T3",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 5101000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000120321",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|L'OREAL SA",
+                    "porcentaje": 1.73
+                },
+                {
+                    "cantidad": 4896000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0244767585",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UBS GROUP AG",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 4804000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0007188757",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RIO TINTO PLC",
+                    "porcentaje": 1.63
+                },
+                {
+                    "cantidad": 4700000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0005557508",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE TELEKOM AG",
+                    "porcentaje": 1.59
+                },
+                {
+                    "cantidad": 4524000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0210483332",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CIE FINANCIERE RICHE",
+                    "porcentaje": 1.53
+                },
+                {
+                    "cantidad": 4370000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00B2B0DG97",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RELX PLC",
+                    "porcentaje": 1.48
+                },
+                {
+                    "cantidad": 4205000.0,
+                    "desde": "2022T3",
+                    "isin": "GB00BN7SWP63",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GSK PLC",
+                    "porcentaje": 1.42
+                },
+                {
+                    "cantidad": 4125000.0,
+                    "desde": "2016T2",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA SA",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 4027000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000131104",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BNP PARIBAS SA",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 3986000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000052292",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|HERMES INTERNATIONAL",
+                    "porcentaje": 1.35
+                },
+                {
+                    "cantidad": 3759000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000121667",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ESSILORLUXOTTICA SA",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 3534000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0113900J37",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BANCO SANTANDER SA",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 3544000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0007100000",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MERCEDES-BENZ GROUP",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 3461000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0008706128",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LLOYDS BANKING GROUP",
+                    "porcentaje": 1.17
+                },
+                {
+                    "cantidad": 3416000.0,
+                    "desde": "2022T2",
+                    "isin": "GB00BD6K4575",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|COMPASS GROUP PLC",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 3286000.0,
+                    "desde": "2022T1",
+                    "isin": "NL0000395903",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|WOLTERS KLUWER NV",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 3188000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00BH4HKS39",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VODAFONE GROUP PLC",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 3166000.0,
+                    "desde": "2022T3",
+                    "isin": "ES0113211835",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BANCO BILBAO VIZCAYA",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 3101000.0,
+                    "desde": "2022T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE AHOLD DE",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 3054000.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000120644",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DANONE SA",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 3001000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000125338",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CAPGEMINI SE",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 3005000.0,
+                    "desde": "2022T2",
+                    "isin": "FI4000297767",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NORDEA BANK ABP",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 2976000.0,
+                    "desde": "2018T2",
+                    "isin": "IT0005239360",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UNICREDIT SPA",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 2951000.0,
+                    "desde": "2022T1",
+                    "isin": "JE00BJVNSS43",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FERGUSON PLC",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 2913000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0005552004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE POST AG",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 2902000.0,
+                    "desde": "2016T1",
+                    "isin": "FI0009000681",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOKIA OYJ",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 2825000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0031348658",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BARCLAYS PLC",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 2821000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0005190003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BAYERISCHE MOTOREN W",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 2792000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000125486",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VINCI SA",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 2764000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000121485",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERING SA",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 2743000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0148396007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INDUSTRIA DE DISENO",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 2706000.0,
+                    "desde": "2022T2",
+                    "isin": "FI0009003305",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAMPO OYJ",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 2645000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000133308",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ORANGE SA",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 2666000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0014003TT8",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DASSAULT SYSTEMES SE",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 2633000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0006599905",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MERCK KGAA",
+                    "porcentaje": 0.89
+                },
+                {
+                    "cantidad": 2536000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0007664039",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOLKSWAGEN AG",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 2433000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0178430E18",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELEFONICA SA",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 2390000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000125007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CIE DE SAINT-GOBAIN",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 2258000.0,
+                    "desde": "2022T1",
+                    "isin": "NO0010161896",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DNB BANK ASA",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 2228000.0,
+                    "desde": "2016T4",
+                    "isin": "FR0000130809",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SOCIETE GENERALE SA",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 2179000.0,
+                    "desde": "2022T3",
+                    "isin": "GB00BM8PJY71",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NATWEST GROUP PLC",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 2160000.0,
+                    "desde": "2022T3",
+                    "isin": "GB0004082847",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|STANDARD CHARTERED P",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 2149000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0010570759",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CHOCOLADEFABRIKEN LI",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 2122000.0,
+                    "desde": "2022T1",
+                    "isin": "NL0010773842",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NN GROUP NV",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 2132000.0,
+                    "desde": "2022T2",
+                    "isin": "GB00BLGZ9862",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TESCO PLC",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 2119000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0008742519",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SWISSCOM AG",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 2100000.0,
+                    "desde": "2022T1",
+                    "isin": "DE000A1EWWW0",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ADIDAS AG",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 2058000.0,
+                    "desde": "2022T2",
+                    "isin": "FR001400AJ45",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CIE GENERALE DES ETA",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 2081000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0002497458",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SGS SA",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 2049000.0,
+                    "desde": "2022T3",
+                    "isin": "NL0000009538",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE PHILIPS",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 2048000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0010570767",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CHOCOLADEFABRIKEN LI",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 1999000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0030170408",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GEBERIT AG",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 1969000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0006776081",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PEARSON PLC",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 1955000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00B1YW4409",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|3I GROUP PLC",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 1961000.0,
+                    "desde": "2022T1",
+                    "isin": "NL0000009082",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE KPN NV",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 1905000.0,
+                    "desde": "2022T2",
+                    "isin": "SE0017768716",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOLIDEN AB",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 1908000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0030913577",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BT GROUP PLC",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 1902000.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000130577",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PUBLICIS GROUPE SA",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1839000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0116870314",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NATURGY ENERGY GROUP",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 1794000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00B8C3BL03",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SAGE GROUP PLC/THE",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 1748000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0031743007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BURBERRY GROUP PLC",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 1741000.0,
+                    "desde": "2022T1",
+                    "isin": "JE00B8KF9B49",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|WPP PLC",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 1732000.0,
+                    "desde": "2016T4",
+                    "isin": "FR0000120172",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CARREFOUR SA",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 1680000.0,
+                    "desde": "2022T1",
+                    "isin": "FI0009007132",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FORTUM OYJ",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 1648000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0012549785",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SONOVA HOLDING AG",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 1629000.0,
+                    "desde": "2022T3",
+                    "isin": "DE000CBK1001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|COMMERZBANK AG",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 1592000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0012255151",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SWATCH GROUP AG/THE",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 1606000.0,
+                    "desde": "2022T2",
+                    "isin": "BE0003739530",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|UCB SA",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 1537000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0173093024",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RED ELECTRICA CORP S",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 1514000.0,
+                    "desde": "2022T3",
+                    "isin": "GB00BMJ6DW54",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INFORMA PLC",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 1499000.0,
+                    "desde": "2022T1",
+                    "isin": "FI0009014377",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ORION OYJ",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 1489000.0,
+                    "desde": "2022T1",
+                    "isin": "SE0000667925",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELIA CO AB",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 1472000.0,
+                    "desde": "2022T1",
+                    "isin": "AT0000652011",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ERSTE GROUP BANK AG",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 1484000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0005785604",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FRESENIUS SE & CO KG",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 1411000.0,
+                    "desde": "2022T2",
+                    "isin": "GB00B1WY2338",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SMITHS GROUP PLC",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 1411000.0,
+                    "desde": "2022T3",
+                    "isin": "BE0974264930",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AGEAS SA/NV",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 1378000.0,
+                    "desde": "2022T1",
+                    "isin": "PTJMT0AE0001",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JERONIMO MARTINS SGP",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 1396000.0,
+                    "desde": "2022T1",
+                    "isin": "SE0000106270",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|H & M HENNES & MAURI",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 1355000.0,
+                    "desde": "2022T1",
+                    "isin": "IT0000062957",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MEDIOBANCA BANCA DI",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 1326000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0032089863",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NEXT PLC",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 1300000.0,
+                    "desde": "2022T3",
+                    "isin": "NL00150001Q9",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|STELLANTIS NV",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 1285000.0,
+                    "desde": "2022T1",
+                    "isin": "NO0010063308",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELENOR ASA",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 1264000.0,
+                    "desde": "2022T1",
+                    "isin": "FR0000039299",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BOLLORE SE",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 1232000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0005190037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BAYERISCHE MOTOREN W",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 1198000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0033195214",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KINGFISHER PLC",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 1196000.0,
+                    "desde": "2022T2",
+                    "isin": "CH0011075394",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ZURICH INSURANCE GRO",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 1182000.0,
+                    "desde": "2022T1",
+                    "isin": "DE0007664005",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOLKSWAGEN AG",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 1141000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0000456144",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ANTOFAGASTA PLC",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1164000.0,
+                    "desde": "2022T1",
+                    "isin": "BE0003822393",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ELIA GROUP SA/NV",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1149000.0,
+                    "desde": "2022T1",
+                    "isin": "FI0009000202",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KESKO OYJ",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 1133000.0,
+                    "desde": "2022T1",
+                    "isin": "SE0005190238",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELE2 AB",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 1099000.0,
+                    "desde": "2022T3",
+                    "isin": "NL0014332678",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JDE PEET'S NV",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 1071000.0,
+                    "desde": "2022T1",
+                    "isin": "NO0010582521",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|GJENSIDIGE FORSIKRIN",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 1033000.0,
+                    "desde": "2022T2",
+                    "isin": "NO0003054108",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MOWI ASA",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 952000.0,
+                    "desde": "2022T1",
+                    "isin": "CH0012255144",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SWATCH GROUP AG/THE",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 873000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00B019KW72",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|J SAINSBURY PLC",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 878000.0,
+                    "desde": "2022T3",
+                    "isin": "GB00BP9LHF23",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCHRODERS PLC",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 885000.0,
+                    "desde": "2022T1",
+                    "isin": "DE000EVNK013",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EVONIK INDUSTRIES AG",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 853000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0000811801",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BARRATT DEVELOPMENTS",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 868000.0,
+                    "desde": "2022T1",
+                    "isin": "GB0006825383",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PERSIMMON PLC",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 855000.0,
+                    "desde": "2022T1",
+                    "isin": "GB00BM8Q5M07",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|JD SPORTS FASHION PL",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 856000.0,
+                    "desde": "2022T1",
+                    "isin": "BE0003717312",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SOFINA SA",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 773000.0,
+                    "desde": "2022T1",
+                    "isin": "SE0000108847",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|L E LUNDBERGFORETAGE",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 755000.0,
+                    "desde": "2022T2",
+                    "isin": "IT0003497168",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELECOM ITALIA SPA/M",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 752000.0,
+                    "desde": "2022T1",
+                    "isin": "AT0000606306",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RAIFFEISEN BANK INTE",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 734000.0,
+                    "desde": "2022T1",
+                    "isin": "DK0060738599",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEMANT A/S",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 670000.0,
+                    "desde": "2022T1",
+                    "isin": "SE0000163594",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SECURITAS AB",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 666000.0,
+                    "desde": "2022T1",
+                    "isin": "BE0003810273",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|PROXIMUS SADP",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 575000.0,
+                    "desde": "2022T2",
+                    "isin": "IT0003497176",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|TELECOM ITALIA SPA/M",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 160000.0,
+                    "desde": "2022T3",
+                    "isin": "SE0018689226",
+                    "moneda": "EUR",
+                    "nombre": "DERECHOS|SECURITAS AB",
+                    "porcentaje": 0.05
+                }
+            ],
+            "rentabilidad": -6.56
+        },
+        {
+            "gastos": 0.59,
             "indice_rotacion": 0.92,
             "liquidez": 3.58,
             "participes": 6417,
