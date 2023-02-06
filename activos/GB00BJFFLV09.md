@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CRODA INTERNATIONAL PLC
+title: Acciones|CRODA INTERNATIONAL PLC
 isin: GB00BJFFLV09
 ---

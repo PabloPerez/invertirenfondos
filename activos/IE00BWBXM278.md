@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|SPDR
+title: FONDOS|SPDR S&P U.S. CONSUM
 isin: IE00BWBXM278
 ---

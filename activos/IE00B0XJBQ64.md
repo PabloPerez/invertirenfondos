@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PIMCO EURIBORPLUS FD-INS-ACC
+title: PARTICIPACIONES|Pimco Global HY Bond
 isin: IE00B0XJBQ64
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ASHOKA INDIA OPPORT FD-D EUR
+title: PARTICIPACIONES|India Acorn ICAV - A
 isin: IE00BDR0JY05
 ---

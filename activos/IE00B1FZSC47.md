@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES USD TIPS
+title: PARTICIPACIONES|iShares USD TIPS UCITS ETF
 isin: IE00B1FZSC47
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR EUROSTOXX ETF
+title: Participaciones|SSGA FUNDS MENT INC
 isin: IE00BFTWP510
 ---

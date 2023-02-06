@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ENERGIAS DE PORTUGAL
+title: ACCIONES|ELECTRCPORTUGAL
 isin: PTEDP0AM0009
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|REN|6,25|2016-09-21
+title: Red Energetica Nacionais 6,25% 210916
 isin: PTRELYOE0002
 ---

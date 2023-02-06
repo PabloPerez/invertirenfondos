@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|AKO CAPITAL
+title: Participaciones|AKO CAPITAL LLP
 isin: IE00BYXDVR74
 ---

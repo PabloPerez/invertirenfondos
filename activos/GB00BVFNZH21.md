@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ROTORK LN
+title: ACCIONES|ROTORK
 isin: GB00BVFNZH21
 ---

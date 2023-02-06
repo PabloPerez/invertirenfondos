@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pimco GIS Mortgage O
+title: Participaciones|PIMCO GLOBAL FUNDS
 isin: IE00BYZNBH50
 ---

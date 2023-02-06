@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BAILLIE GIFF WW EM
+title: PARTICIPACIONES|Baille Giff W Em Mar
 isin: IE00BW0DJK52
 ---

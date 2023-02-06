@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|EDP   ENERGIAS D|1.70|2080-07-20
+title: Bonos|ENERGIAS DE PORTUGAL|1,700|2080-07-20
 isin: PTEDPLOM0017
 ---

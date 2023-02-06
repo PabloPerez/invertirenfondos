@@ -3,6 +3,18 @@
         {
             "fondos": [
                 {
+                    "cantidad": 11000.0,
+                    "desde": "2013T2",
+                    "isin": "ES0110088038",
+                    "nombre": "BBVA BOLSA INDICE JAPON (CUBIERTO), FI",
+                    "porcentaje": 0.07
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 10000.0,
                     "desde": "2013T2",
                     "isin": "ES0110088038",
@@ -133,14 +145,14 @@
                     "cantidad": 38000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.02
                 },
                 {
                     "cantidad": 38000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.02
                 }
             ],
@@ -159,14 +171,14 @@
                     "cantidad": 64000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 64000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.04
                 }
             ],
@@ -185,14 +197,14 @@
                     "cantidad": 55000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 55000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.04
                 }
             ],
@@ -211,7 +223,7 @@
                     "cantidad": 51000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.05
                 }
             ],
@@ -230,7 +242,7 @@
                     "cantidad": 54000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.08
                 }
             ],
@@ -249,7 +261,7 @@
                     "cantidad": 51000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.1
                 }
             ],
@@ -268,7 +280,7 @@
                     "cantidad": 68000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.12
                 }
             ],
@@ -280,7 +292,7 @@
                     "cantidad": 67000.0,
                     "desde": "2018T2",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.13
                 },
                 {
@@ -450,22 +462,15 @@
                 {
                     "cantidad": 715000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 715000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 715000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 715000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.64
                 },
                 {
@@ -473,6 +478,13 @@
                     "desde": "2014T4",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 715000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.64
                 },
                 {
@@ -497,22 +509,15 @@
                 {
                     "cantidad": 938000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 938000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 938000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 938000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.63
                 },
                 {
@@ -520,6 +525,13 @@
                     "desde": "2014T4",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 938000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.63
                 },
                 {
@@ -544,22 +556,15 @@
                 {
                     "cantidad": 1019000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.71
-                },
-                {
-                    "cantidad": 1019000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.71
-                },
-                {
-                    "cantidad": 1019000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 1019000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.71
                 },
                 {
@@ -567,6 +572,13 @@
                     "desde": "2014T4",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 1019000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.71
                 },
                 {
@@ -591,22 +603,15 @@
                 {
                     "cantidad": 1196000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 1196000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 1196000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 1196000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.72
                 },
                 {
@@ -614,6 +619,13 @@
                     "desde": "2014T4",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 1196000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.72
                 },
                 {

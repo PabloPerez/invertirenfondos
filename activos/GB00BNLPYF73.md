@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Spire Healthcare
+title: Acciones|SPIRE HEALTHCARE GROUP PLC
 isin: GB00BNLPYF73
 ---

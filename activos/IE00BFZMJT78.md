@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|NB ULTRA SHORT
+title: PARTICIPACIONES|Neuberger Berman Ult
 isin: IE00BFZMJT78
 ---

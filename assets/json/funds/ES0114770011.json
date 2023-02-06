@@ -1,7 +1,67 @@
 {
     "auditora": "-",
     "fecha_registro": "28/10/2022",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 0.11,
+            "indice_rotacion": 0.0,
+            "liquidez": 5.43,
+            "participes": 2,
+            "patrimonio": 50435,
+            "periodo": "2022T4",
+            "posiciones": [
+                {
+                    "cantidad": 5074167.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012J15",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|2,503|2027-01-31",
+                    "porcentaje": 27.12
+                },
+                {
+                    "cantidad": 4511114.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005390874",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,850|2027-01-15",
+                    "porcentaje": 24.11
+                },
+                {
+                    "cantidad": 2660861.0,
+                    "desde": "2022T4",
+                    "isin": "FR0014003513",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|2,205|2027-02-25",
+                    "porcentaje": 14.22
+                },
+                {
+                    "cantidad": 2567840.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005210650",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,250|2026-12-01",
+                    "porcentaje": 13.72
+                },
+                {
+                    "cantidad": 1529623.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000128H5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|1,300|2026-10-31",
+                    "porcentaje": 8.17
+                },
+                {
+                    "cantidad": 1321150.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000128P8",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|1,500|2027-04-30",
+                    "porcentaje": 7.06
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5685,
     "id_cnmv_depositaria": 236,
     "id_cnmv_gestora": 15,

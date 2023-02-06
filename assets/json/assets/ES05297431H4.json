@@ -3,6 +3,25 @@
         {
             "fondos": [
                 {
+                    "cantidad": 0.0,
+                    "desde": "2022T2",
+                    "isin": "ES0175450032",
+                    "nombre": "SELECTOR GLOBAL ACCIONES",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T2",
+                    "isin": "ES0175450008",
+                    "nombre": "SELECTOR GLOBAL FLEXIBLE",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 997691.0,
                     "desde": "2022T3",
                     "isin": "ES0133565004",
@@ -20,8 +39,22 @@
                     "cantidad": 99764.0,
                     "desde": "2022T2",
                     "isin": "ES0109695033",
-                    "nombre": "GESIURIS FIXED INCOME, FI",
+                    "nombre": "GESIURIS MULTIGESTIÓN - FIXED INCOME",
                     "porcentaje": 3.71
+                },
+                {
+                    "cantidad": 1496537.0,
+                    "desde": "2022T3",
+                    "isin": "ES0138922069",
+                    "nombre": "GESCONSULT CORTO PLAZO CLASE I",
+                    "porcentaje": 3.31
+                },
+                {
+                    "cantidad": 1496537.0,
+                    "desde": "2022T3",
+                    "isin": "ES0138922036",
+                    "nombre": "GESCONSULT CORTO PLAZO CLASE A",
+                    "porcentaje": 3.31
                 },
                 {
                     "cantidad": 299409.0,
@@ -33,15 +66,15 @@
                 {
                     "cantidad": 8981112.0,
                     "desde": "2022T3",
-                    "isin": "ES0161032000",
-                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE C",
+                    "isin": "ES0161032018",
+                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE S",
                     "porcentaje": 2.26
                 },
                 {
                     "cantidad": 8981112.0,
                     "desde": "2022T3",
-                    "isin": "ES0161032018",
-                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE S",
+                    "isin": "ES0161032034",
+                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE A",
                     "porcentaje": 2.26
                 },
                 {
@@ -54,16 +87,9 @@
                 {
                     "cantidad": 8981112.0,
                     "desde": "2022T3",
-                    "isin": "ES0161032034",
-                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE A",
+                    "isin": "ES0161032000",
+                    "nombre": "MARCH RENTA FIJA CORTO PLAZO, FI CLASE C",
                     "porcentaje": 2.26
-                },
-                {
-                    "cantidad": 2794124.0,
-                    "desde": "2022T3",
-                    "isin": "ES0160873008",
-                    "nombre": "MARCH TESORERO, FI CLASE A",
-                    "porcentaje": 2.13
                 },
                 {
                     "cantidad": 2794124.0,
@@ -75,8 +101,8 @@
                 {
                     "cantidad": 2794124.0,
                     "desde": "2022T3",
-                    "isin": "ES0160873024",
-                    "nombre": "MARCH TESORERO, FI CLASE C",
+                    "isin": "ES0160873008",
+                    "nombre": "MARCH TESORERO, FI CLASE A",
                     "porcentaje": 2.13
                 },
                 {
@@ -84,6 +110,13 @@
                     "desde": "2022T3",
                     "isin": "ES0160873032",
                     "nombre": "MARCH TESORERO, FI CLASE S",
+                    "porcentaje": 2.13
+                },
+                {
+                    "cantidad": 2794124.0,
+                    "desde": "2022T3",
+                    "isin": "ES0160873024",
+                    "nombre": "MARCH TESORERO, FI CLASE C",
                     "porcentaje": 2.13
                 },
                 {
@@ -131,23 +164,16 @@
                 {
                     "cantidad": 4990359.0,
                     "desde": "2022T3",
-                    "isin": "ES0107943005",
-                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
-                    "porcentaje": 0.99
-                },
-                {
-                    "cantidad": 4990359.0,
-                    "desde": "2022T3",
                     "isin": "ES0107943013",
                     "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE CARTERA",
                     "porcentaje": 0.99
                 },
                 {
-                    "cantidad": 11976860.0,
+                    "cantidad": 4990359.0,
                     "desde": "2022T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.64
+                    "isin": "ES0107943005",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "porcentaje": 0.99
                 },
                 {
                     "cantidad": 11976860.0,
@@ -164,17 +190,24 @@
                     "porcentaje": 0.64
                 },
                 {
-                    "cantidad": 399161.0,
+                    "cantidad": 11976860.0,
                     "desde": "2022T3",
-                    "isin": "ES0160990000",
-                    "nombre": "MARCH PATRIMONIO CORTO PLAZO, FI CLASE A",
-                    "porcentaje": 0.54
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "porcentaje": 0.64
                 },
                 {
                     "cantidad": 399161.0,
                     "desde": "2022T3",
                     "isin": "ES0160990018",
                     "nombre": "MARCH PATRIMONIO CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 399161.0,
+                    "desde": "2022T3",
+                    "isin": "ES0160990000",
+                    "nombre": "MARCH PATRIMONIO CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.54
                 },
                 {
@@ -208,15 +241,15 @@
                 {
                     "cantidad": 5988431.0,
                     "desde": "2022T3",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.23
                 },
                 {
                     "cantidad": 5988431.0,
                     "desde": "2022T3",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.23
                 },
                 {
@@ -235,7 +268,7 @@
                     "cantidad": 99800.0,
                     "desde": "2022T2",
                     "isin": "ES0109695033",
-                    "nombre": "GESIURIS FIXED INCOME, FI",
+                    "nombre": "GESIURIS MULTIGESTIÓN - FIXED INCOME",
                     "porcentaje": 2.96
                 },
                 {
@@ -264,5 +297,5 @@
         }
     ],
     "isin": "ES05297431H4",
-    "nombre": "PAGARE|ELECNOR SA|0.00|2022-11-18"
+    "nombre": "PAGARE|ELECNOR|1,28|2022-11-18"
 }

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|VANGUARD
+title: PARTICIPACIONES|Vanguard S&P 500 UCI
 isin: IE00BFMXXD54
 ---

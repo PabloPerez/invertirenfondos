@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BIM BIRLESIK MAGAZAL
+title: AC.BIM BIRLESIK MAGAZALAR AS (TRY)
 isin: TREBIMM00018
 ---

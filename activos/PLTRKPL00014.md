@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|TRAKCJA
+title: Acciones|TRAKJA POLSKA S.A.
 isin: PLTRKPL00014
 ---

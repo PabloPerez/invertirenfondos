@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|SSGA FUNDS MANAGEMENT INC 3
+title: FONDOS|SPDR MSCI WORLD UCIT
 isin: IE00BFY0GT14
 ---

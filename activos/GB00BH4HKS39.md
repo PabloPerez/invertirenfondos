@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|VODAFONE GROUP
+title: ACCIONES|VODAFONE
 isin: GB00BH4HKS39
 ---

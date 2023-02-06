@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|FOXTONS GROUP PL
+title: Acciones|FOXTONS GROUP
 isin: GB00BCKFY513
 ---

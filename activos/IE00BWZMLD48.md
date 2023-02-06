@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ODEY EUROPEAN FOCUS
+title: Participaciones|ODEY ASSET MANAGEMENT
 isin: IE00BWZMLD48
 ---

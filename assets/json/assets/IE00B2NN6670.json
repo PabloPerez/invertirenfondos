@@ -16,13 +16,6 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
-                    "desde": "2019T4",
-                    "isin": "ES0125126039",
-                    "nombre": "CS DIRECTOR INCOME, FI",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2020T4",
                     "isin": "ES0143673004",
                     "nombre": "CS DIRECTOR GROWTH, FI CLASE A",
@@ -33,6 +26,13 @@
                     "desde": "2020T4",
                     "isin": "ES0143673038",
                     "nombre": "CS DIRECTOR GROWTH, FI CLASE B",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T4",
+                    "isin": "ES0125126039",
+                    "nombre": "CS DIRECTOR INCOME, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -75,30 +75,30 @@
                 },
                 {
                     "cantidad": 2340108.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113569018",
-                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
-                    "porcentaje": 5.53
-                },
-                {
-                    "cantidad": 2340108.0,
                     "desde": "2020T1",
                     "isin": "ES0113569026",
                     "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE R",
                     "porcentaje": 5.53
                 },
                 {
-                    "cantidad": 9323096.0,
+                    "cantidad": 2340108.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.24
+                    "isin": "ES0113569018",
+                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
+                    "porcentaje": 5.53
                 },
                 {
                     "cantidad": 9323096.0,
                     "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
+                    "porcentaje": 4.24
+                },
+                {
+                    "cantidad": 9323096.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
                     "porcentaje": 4.24
                 },
                 {
@@ -111,22 +111,8 @@
                 {
                     "cantidad": 17870070.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 2.99
-                },
-                {
-                    "cantidad": 17870070.0,
-                    "desde": "2018T3",
                     "isin": "ES0113257010",
                     "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
-                    "porcentaje": 2.99
-                },
-                {
-                    "cantidad": 17870070.0,
-                    "desde": "2020T1",
-                    "isin": "ES0113257028",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE R",
                     "porcentaje": 2.99
                 },
                 {
@@ -134,6 +120,20 @@
                     "desde": "2020T4",
                     "isin": "ES0113257036",
                     "nombre": "BANKINTER PLATEA MODERADO, FI CLASE D",
+                    "porcentaje": 2.99
+                },
+                {
+                    "cantidad": 17870070.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "porcentaje": 2.99
+                },
+                {
+                    "cantidad": 17870070.0,
+                    "desde": "2020T1",
+                    "isin": "ES0113257028",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE R",
                     "porcentaje": 2.99
                 },
                 {
@@ -145,31 +145,17 @@
                 },
                 {
                     "cantidad": 21070770.0,
-                    "desde": "2018T3",
-                    "isin": "ES0164586010",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
-                    "porcentaje": 2.59
-                },
-                {
-                    "cantidad": 21070770.0,
                     "desde": "2020T2",
                     "isin": "ES0164586028",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 2.59
                 },
                 {
-                    "cantidad": 13661713.0,
+                    "cantidad": 21070770.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.96
-                },
-                {
-                    "cantidad": 13661713.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113500013",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
-                    "porcentaje": 1.96
+                    "isin": "ES0164586010",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
+                    "porcentaje": 2.59
                 },
                 {
                     "cantidad": 13661713.0,
@@ -186,11 +172,18 @@
                     "porcentaje": 1.96
                 },
                 {
-                    "cantidad": 1767414.0,
+                    "cantidad": 13661713.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 1.66
+                    "isin": "ES0113500013",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
+                    "porcentaje": 1.96
+                },
+                {
+                    "cantidad": 13661713.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "porcentaje": 1.96
                 },
                 {
                     "cantidad": 1767414.0,
@@ -200,17 +193,24 @@
                     "porcentaje": 1.66
                 },
                 {
-                    "cantidad": 3101501.0,
+                    "cantidad": 1767414.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 1.22
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 1.66
                 },
                 {
                     "cantidad": 3101501.0,
                     "desde": "2018T3",
                     "isin": "ES0113734018",
                     "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 3101501.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.22
                 },
                 {
@@ -269,30 +269,30 @@
                 },
                 {
                     "cantidad": 3006669.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113569018",
-                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
-                    "porcentaje": 8.48
-                },
-                {
-                    "cantidad": 3006669.0,
                     "desde": "2020T1",
                     "isin": "ES0113569026",
                     "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE R",
                     "porcentaje": 8.48
                 },
                 {
-                    "cantidad": 10111491.0,
+                    "cantidad": 3006669.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.96
+                    "isin": "ES0113569018",
+                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
+                    "porcentaje": 8.48
                 },
                 {
                     "cantidad": 10111491.0,
                     "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
+                    "porcentaje": 4.96
+                },
+                {
+                    "cantidad": 10111491.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
                     "porcentaje": 4.96
                 },
                 {
@@ -305,15 +305,15 @@
                 {
                     "cantidad": 24338603.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "isin": "ES0113257010",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
                     "porcentaje": 4.4
                 },
                 {
                     "cantidad": 24338603.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257010",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
                     "porcentaje": 4.4
                 },
                 {
@@ -332,23 +332,23 @@
                 },
                 {
                     "cantidad": 20461713.0,
-                    "desde": "2018T3",
-                    "isin": "ES0164586010",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
-                    "porcentaje": 2.75
-                },
-                {
-                    "cantidad": 20461713.0,
                     "desde": "2020T2",
                     "isin": "ES0164586028",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 2.75
                 },
                 {
-                    "cantidad": 15932000.0,
+                    "cantidad": 20461713.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "isin": "ES0164586010",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
+                    "porcentaje": 2.75
+                },
+                {
+                    "cantidad": 15932000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0113500021",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
                     "porcentaje": 2.33
                 },
                 {
@@ -360,17 +360,10 @@
                 },
                 {
                     "cantidad": 15932000.0,
-                    "desde": "2020T1",
-                    "isin": "ES0113500021",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
-                    "porcentaje": 2.33
-                },
-                {
-                    "cantidad": 4743690.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 2.11
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "porcentaje": 2.33
                 },
                 {
                     "cantidad": 4743690.0,
@@ -380,17 +373,24 @@
                     "porcentaje": 2.11
                 },
                 {
-                    "cantidad": 1239009.0,
+                    "cantidad": 4743690.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 1.36
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
+                    "porcentaje": 2.11
                 },
                 {
                     "cantidad": 1239009.0,
                     "desde": "2018T3",
                     "isin": "ES0135705012",
                     "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 1239009.0,
+                    "desde": "2018T3",
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
                     "porcentaje": 1.36
                 },
                 {
@@ -435,30 +435,30 @@
                 },
                 {
                     "cantidad": 2883406.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113569018",
-                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
-                    "porcentaje": 8.35
-                },
-                {
-                    "cantidad": 2883406.0,
                     "desde": "2020T1",
                     "isin": "ES0113569026",
                     "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE R",
                     "porcentaje": 8.35
                 },
                 {
-                    "cantidad": 7288399.0,
+                    "cantidad": 2883406.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.77
+                    "isin": "ES0113569018",
+                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
+                    "porcentaje": 8.35
                 },
                 {
                     "cantidad": 7288399.0,
                     "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
+                    "porcentaje": 4.77
+                },
+                {
+                    "cantidad": 7288399.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
                     "porcentaje": 4.77
                 },
                 {
@@ -471,15 +471,15 @@
                 {
                     "cantidad": 23356060.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "isin": "ES0113257010",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
                     "porcentaje": 4.2
                 },
                 {
                     "cantidad": 23356060.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257010",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
                     "porcentaje": 4.2
                 },
                 {
@@ -491,9 +491,9 @@
                 },
                 {
                     "cantidad": 12875779.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "desde": "2020T1",
+                    "isin": "ES0113500021",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
                     "porcentaje": 2.16
                 },
                 {
@@ -505,9 +505,9 @@
                 },
                 {
                     "cantidad": 12875779.0,
-                    "desde": "2020T1",
-                    "isin": "ES0113500021",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
                     "porcentaje": 2.16
                 },
                 {
@@ -519,30 +519,30 @@
                 },
                 {
                     "cantidad": 11180869.0,
-                    "desde": "2018T3",
-                    "isin": "ES0164586010",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 11180869.0,
                     "desde": "2020T2",
                     "isin": "ES0164586028",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 1.52
                 },
                 {
-                    "cantidad": 1150863.0,
+                    "cantidad": 11180869.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 1.22
+                    "isin": "ES0164586010",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
+                    "porcentaje": 1.52
                 },
                 {
                     "cantidad": 1150863.0,
                     "desde": "2018T3",
                     "isin": "ES0135705012",
                     "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 1150863.0,
+                    "desde": "2018T3",
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
                     "porcentaje": 1.22
                 },
                 {
@@ -569,15 +569,15 @@
                 {
                     "cantidad": 2372616.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
+                    "isin": "ES0113734018",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
                     "porcentaje": 1.06
                 },
                 {
                     "cantidad": 2372616.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734018",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.06
                 },
                 {
@@ -608,30 +608,30 @@
                 },
                 {
                     "cantidad": 2735512.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113569018",
-                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
-                    "porcentaje": 9.21
-                },
-                {
-                    "cantidad": 2735512.0,
                     "desde": "2020T1",
                     "isin": "ES0113569026",
                     "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE R",
                     "porcentaje": 9.21
                 },
                 {
-                    "cantidad": 6366687.0,
+                    "cantidad": 2735512.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.76
+                    "isin": "ES0113569018",
+                    "nombre": "BANKINTER PLATEA AGRESIVO, FI CLASE A",
+                    "porcentaje": 9.21
                 },
                 {
                     "cantidad": 6366687.0,
                     "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
+                    "porcentaje": 4.76
+                },
+                {
+                    "cantidad": 6366687.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
                     "porcentaje": 4.76
                 },
                 {
@@ -644,15 +644,15 @@
                 {
                     "cantidad": 22802040.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "isin": "ES0113257010",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
                     "porcentaje": 4.43
                 },
                 {
                     "cantidad": 22802040.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257010",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
                     "porcentaje": 4.43
                 },
                 {
@@ -671,9 +671,9 @@
                 },
                 {
                     "cantidad": 10450716.0,
-                    "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "desde": "2020T1",
+                    "isin": "ES0113500021",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
                     "porcentaje": 1.8
                 },
                 {
@@ -685,9 +685,9 @@
                 },
                 {
                     "cantidad": 10450716.0,
-                    "desde": "2020T1",
-                    "isin": "ES0113500021",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE R",
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
                     "porcentaje": 1.8
                 },
                 {
@@ -728,29 +728,29 @@
                 {
                     "cantidad": 958616.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 1.15
-                },
-                {
-                    "cantidad": 958616.0,
-                    "desde": "2018T3",
                     "isin": "ES0135705012",
                     "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
                     "porcentaje": 1.15
                 },
                 {
-                    "cantidad": 1976282.0,
+                    "cantidad": 958616.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 0.99
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 1.15
                 },
                 {
                     "cantidad": 1976282.0,
                     "desde": "2018T3",
                     "isin": "ES0113734018",
                     "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 1976282.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 0.99
                 },
                 {
@@ -782,29 +782,29 @@
                 {
                     "cantidad": 6403089.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 3.88
-                },
-                {
-                    "cantidad": 6403089.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 3.88
                 },
                 {
-                    "cantidad": 20429969.0,
+                    "cantidad": 6403089.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 3.35
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 3.88
                 },
                 {
                     "cantidad": 20429969.0,
                     "desde": "2018T3",
                     "isin": "ES0113257010",
                     "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
+                    "porcentaje": 3.35
+                },
+                {
+                    "cantidad": 20429969.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
                     "porcentaje": 3.35
                 },
                 {
@@ -817,15 +817,15 @@
                 {
                     "cantidad": 1065071.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "isin": "ES0135705012",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
                     "porcentaje": 1.55
                 },
                 {
                     "cantidad": 1065071.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705012",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
                     "porcentaje": 1.55
                 },
                 {
@@ -845,29 +845,29 @@
                 {
                     "cantidad": 8938811.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.33
-                },
-                {
-                    "cantidad": 8938811.0,
-                    "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
                     "porcentaje": 1.33
                 },
                 {
-                    "cantidad": 2195749.0,
+                    "cantidad": 8938811.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 1.04
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "porcentaje": 1.33
                 },
                 {
                     "cantidad": 2195749.0,
                     "desde": "2018T3",
                     "isin": "ES0113734018",
                     "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 2195749.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.04
                 },
                 {
@@ -899,23 +899,16 @@
                 {
                     "cantidad": 6233470.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 3.91
-                },
-                {
-                    "cantidad": 6233470.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 3.91
                 },
                 {
-                    "cantidad": 18230891.0,
+                    "cantidad": 6233470.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 2.96
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 3.91
                 },
                 {
                     "cantidad": 18230891.0,
@@ -925,11 +918,11 @@
                     "porcentaje": 2.96
                 },
                 {
-                    "cantidad": 997327.0,
+                    "cantidad": 18230891.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 2.06
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "porcentaje": 2.96
                 },
                 {
                     "cantidad": 997327.0,
@@ -939,17 +932,24 @@
                     "porcentaje": 2.06
                 },
                 {
-                    "cantidad": 11788890.0,
+                    "cantidad": 997327.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.71
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 2.06
                 },
                 {
                     "cantidad": 11788890.0,
                     "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
+                    "porcentaje": 1.71
+                },
+                {
+                    "cantidad": 11788890.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
                     "porcentaje": 1.71
                 },
                 {
@@ -969,15 +969,15 @@
                 {
                     "cantidad": 2056088.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
+                    "isin": "ES0113734018",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
                     "porcentaje": 1.12
                 },
                 {
                     "cantidad": 2056088.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734018",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.12
                 },
                 {
@@ -1009,23 +1009,16 @@
                 {
                     "cantidad": 7248674.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.11
-                },
-                {
-                    "cantidad": 7248674.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 4.11
                 },
                 {
-                    "cantidad": 19893959.0,
+                    "cantidad": 7248674.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 3.14
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 4.11
                 },
                 {
                     "cantidad": 19893959.0,
@@ -1035,11 +1028,11 @@
                     "porcentaje": 3.14
                 },
                 {
-                    "cantidad": 942138.0,
+                    "cantidad": 19893959.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 2.04
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "porcentaje": 3.14
                 },
                 {
                     "cantidad": 942138.0,
@@ -1049,17 +1042,24 @@
                     "porcentaje": 2.04
                 },
                 {
-                    "cantidad": 12950565.0,
+                    "cantidad": 942138.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.84
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 2.04
                 },
                 {
                     "cantidad": 12950565.0,
                     "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 12950565.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
                     "porcentaje": 1.84
                 },
                 {
@@ -1086,15 +1086,15 @@
                 {
                     "cantidad": 1942310.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
+                    "isin": "ES0113734018",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
                     "porcentaje": 1.14
                 },
                 {
                     "cantidad": 1942310.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734018",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.14
                 }
             ],
@@ -1119,23 +1119,16 @@
                 {
                     "cantidad": 9366087.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.73
-                },
-                {
-                    "cantidad": 9366087.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 4.73
                 },
                 {
-                    "cantidad": 21274308.0,
+                    "cantidad": 9366087.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 3.13
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 4.73
                 },
                 {
                     "cantidad": 21274308.0,
@@ -1145,11 +1138,11 @@
                     "porcentaje": 3.13
                 },
                 {
-                    "cantidad": 899242.0,
+                    "cantidad": 21274308.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 2.08
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "porcentaje": 3.13
                 },
                 {
                     "cantidad": 899242.0,
@@ -1159,17 +1152,24 @@
                     "porcentaje": 2.08
                 },
                 {
-                    "cantidad": 12441716.0,
+                    "cantidad": 899242.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.74
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 2.08
                 },
                 {
                     "cantidad": 12441716.0,
                     "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
+                    "porcentaje": 1.74
+                },
+                {
+                    "cantidad": 12441716.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
                     "porcentaje": 1.74
                 },
                 {
@@ -1189,15 +1189,15 @@
                 {
                     "cantidad": 1853876.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
+                    "isin": "ES0113734018",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
                     "porcentaje": 1.07
                 },
                 {
                     "cantidad": 1853876.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734018",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 1.07
                 }
             ],
@@ -1222,23 +1222,16 @@
                 {
                     "cantidad": 9070795.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 4.7
-                },
-                {
-                    "cantidad": 9070795.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 4.7
                 },
                 {
-                    "cantidad": 1134916.0,
+                    "cantidad": 9070795.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 2.83
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 4.7
                 },
                 {
                     "cantidad": 1134916.0,
@@ -1248,17 +1241,24 @@
                     "porcentaje": 2.83
                 },
                 {
-                    "cantidad": 17974108.0,
+                    "cantidad": 1134916.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 2.68
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
+                    "porcentaje": 2.83
                 },
                 {
                     "cantidad": 17974108.0,
                     "desde": "2018T3",
                     "isin": "ES0113257010",
                     "nombre": "BANKINTER PLATEA MODERADO, FI CLASE A",
+                    "porcentaje": 2.68
+                },
+                {
+                    "cantidad": 17974108.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
                     "porcentaje": 2.68
                 },
                 {
@@ -1278,29 +1278,29 @@
                 {
                     "cantidad": 7348298.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.07
-                },
-                {
-                    "cantidad": 7348298.0,
-                    "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
                     "porcentaje": 1.07
                 },
                 {
-                    "cantidad": 1537887.0,
+                    "cantidad": 7348298.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 0.9
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "porcentaje": 1.07
                 },
                 {
                     "cantidad": 1537887.0,
                     "desde": "2018T3",
                     "isin": "ES0113734018",
                     "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 1537887.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 0.9
                 }
             ],
@@ -1325,23 +1325,16 @@
                 {
                     "cantidad": 12564567.0,
                     "desde": "2018T3",
-                    "isin": "ES0115086003",
-                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
-                    "porcentaje": 5.9
-                },
-                {
-                    "cantidad": 12564567.0,
-                    "desde": "2018T3",
                     "isin": "ES0115086011",
                     "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE A",
                     "porcentaje": 5.9
                 },
                 {
-                    "cantidad": 27386740.0,
+                    "cantidad": 12564567.0,
                     "desde": "2018T3",
-                    "isin": "ES0113257002",
-                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
-                    "porcentaje": 3.67
+                    "isin": "ES0115086003",
+                    "nombre": "BANKINTER PLATEA DINÁMICO, FI CLASE B",
+                    "porcentaje": 5.9
                 },
                 {
                     "cantidad": 27386740.0,
@@ -1351,17 +1344,24 @@
                     "porcentaje": 3.67
                 },
                 {
-                    "cantidad": 1296876.0,
+                    "cantidad": 27386740.0,
                     "desde": "2018T3",
-                    "isin": "ES0135705004",
-                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
-                    "porcentaje": 2.73
+                    "isin": "ES0113257002",
+                    "nombre": "BANKINTER PLATEA MODERADO, FI CLASE B",
+                    "porcentaje": 3.67
                 },
                 {
                     "cantidad": 1296876.0,
                     "desde": "2018T3",
                     "isin": "ES0135705012",
                     "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE A",
+                    "porcentaje": 2.73
+                },
+                {
+                    "cantidad": 1296876.0,
+                    "desde": "2018T3",
+                    "isin": "ES0135705004",
+                    "nombre": "BANKINTER PREMIUM AGRESIVO, FI CLASE B",
                     "porcentaje": 2.73
                 },
                 {
@@ -1381,29 +1381,29 @@
                 {
                     "cantidad": 7744780.0,
                     "desde": "2018T3",
-                    "isin": "ES0113500005",
-                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
-                    "porcentaje": 1.03
-                },
-                {
-                    "cantidad": 7744780.0,
-                    "desde": "2018T3",
                     "isin": "ES0113500013",
                     "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE A",
                     "porcentaje": 1.03
                 },
                 {
-                    "cantidad": 1757354.0,
+                    "cantidad": 7744780.0,
                     "desde": "2018T3",
-                    "isin": "ES0113734000",
-                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
-                    "porcentaje": 0.96
+                    "isin": "ES0113500005",
+                    "nombre": "BANKINTER PLATEA CONSERVADOR, FI CLASE B",
+                    "porcentaje": 1.03
                 },
                 {
                     "cantidad": 1757354.0,
                     "desde": "2018T3",
                     "isin": "ES0113734018",
                     "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE A",
+                    "porcentaje": 0.96
+                },
+                {
+                    "cantidad": 1757354.0,
+                    "desde": "2018T3",
+                    "isin": "ES0113734000",
+                    "nombre": "BANKINTER PREMIUM DINAMICO, FI CLASE B",
                     "porcentaje": 0.96
                 }
             ],

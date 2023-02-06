@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BAILLIE GIFFORD
+title: PARTICIPACIONES|BG-WW Positive Chng
 isin: IE00BDCY2C68
 ---

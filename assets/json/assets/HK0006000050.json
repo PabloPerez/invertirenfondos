@@ -10,6 +10,18 @@
                     "porcentaje": 0.0
                 }
             ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T2",
+                    "isin": "ES0125102030",
+                    "nombre": "CS DIRECTOR FLEXIBLE, FI",
+                    "porcentaje": 0.0
+                }
+            ],
             "periodo": "2022T3"
         },
         {
@@ -48,13 +60,6 @@
                 {
                     "cantidad": 94000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 94000.0,
-                    "desde": "2019T2",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.17
@@ -64,6 +69,13 @@
                     "desde": "2019T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.17
                 },
                 {
@@ -83,8 +95,15 @@
                 {
                     "cantidad": 218000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 218000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.13
                 },
                 {
@@ -97,8 +116,8 @@
                 {
                     "cantidad": 218000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.13
                 },
                 {
@@ -106,13 +125,6 @@
                     "desde": "2019T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 218000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.13
                 },
                 {
@@ -125,50 +137,8 @@
                 {
                     "cantidad": 557000.0,
                     "desde": "2019T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 557000.0,
-                    "desde": "2019T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 557000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 557000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 114000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 114000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 114000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
@@ -181,16 +151,51 @@
                 {
                     "cantidad": 114000.0,
                     "desde": "2019T2",
-                    "isin": "ES0182544041",
-                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 48000.0,
+                    "cantidad": 114000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.03
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 557000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 557000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 557000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 114000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 114000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0182544041",
+                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "porcentaje": 0.06
                 },
                 {
                     "cantidad": 48000.0,
@@ -209,15 +214,22 @@
                 {
                     "cantidad": 48000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 48000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 48000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.03
                 }
             ],
@@ -228,13 +240,6 @@
                 {
                     "cantidad": 107000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 107000.0,
-                    "desde": "2019T2",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.22
@@ -244,6 +249,13 @@
                     "desde": "2019T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 107000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.22
                 },
                 {
@@ -263,8 +275,15 @@
                 {
                     "cantidad": 221000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 221000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.15
                 },
                 {
@@ -277,8 +296,8 @@
                 {
                     "cantidad": 221000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.15
                 },
                 {
@@ -286,13 +305,6 @@
                     "desde": "2019T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 221000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.15
                 },
                 {
@@ -305,50 +317,8 @@
                 {
                     "cantidad": 556000.0,
                     "desde": "2019T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 556000.0,
-                    "desde": "2019T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 556000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 556000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 83000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 83000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 83000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -361,16 +331,51 @@
                 {
                     "cantidad": 83000.0,
                     "desde": "2019T2",
-                    "isin": "ES0182544041",
-                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
-                    "cantidad": 58000.0,
+                    "cantidad": 83000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.03
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 556000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 556000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 556000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 83000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 83000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0182544041",
+                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "porcentaje": 0.08
                 },
                 {
                     "cantidad": 58000.0,
@@ -389,15 +394,22 @@
                 {
                     "cantidad": 58000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 58000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 58000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.03
                 }
             ],
@@ -408,13 +420,6 @@
                 {
                     "cantidad": 85000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 85000.0,
-                    "desde": "2019T2",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.18
@@ -424,6 +429,13 @@
                     "desde": "2019T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 85000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.18
                 },
                 {
@@ -443,8 +455,15 @@
                 {
                     "cantidad": 158000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 158000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.12
                 },
                 {
@@ -457,8 +476,8 @@
                 {
                     "cantidad": 158000.0,
                     "desde": "2019T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.12
                 },
                 {
@@ -466,13 +485,6 @@
                     "desde": "2019T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 158000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.12
                 },
                 {
@@ -485,15 +497,22 @@
                 {
                     "cantidad": 372000.0,
                     "desde": "2019T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "isin": "ES0177124031",
+                    "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.06
                 },
                 {
                     "cantidad": 372000.0,
                     "desde": "2019T2",
-                    "isin": "ES0177124031",
-                    "nombre": "INVERSABADELL 25, FI BASE",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 372000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
                     "porcentaje": 0.06
                 },
                 {
@@ -504,11 +523,18 @@
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 372000.0,
+                    "cantidad": 31000.0,
                     "desde": "2019T2",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.06
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 31000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
+                    "porcentaje": 0.04
                 },
                 {
                     "cantidad": 31000.0,
@@ -527,30 +553,9 @@
                 {
                     "cantidad": 31000.0,
                     "desde": "2019T2",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 31000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 31000.0,
-                    "desde": "2019T2",
                     "isin": "ES0182544041",
                     "nombre": "SABADELL PLANIFICACION, FI PYME",
                     "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 47000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.02
                 },
                 {
                     "cantidad": 47000.0,
@@ -569,15 +574,22 @@
                 {
                     "cantidad": 47000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.02
                 },
                 {
                     "cantidad": 47000.0,
                     "desde": "2019T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 47000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.02
                 }
             ],
@@ -585,13 +597,6 @@
         },
         {
             "fondos": [
-                {
-                    "cantidad": 60000.0,
-                    "desde": "2018T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.15
-                },
                 {
                     "cantidad": 60000.0,
                     "desde": "2018T2",
@@ -604,6 +609,13 @@
                     "desde": "2018T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 60000.0,
+                    "desde": "2018T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.15
                 },
                 {
@@ -623,8 +635,15 @@
                 {
                     "cantidad": 105000.0,
                     "desde": "2018T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 105000.0,
+                    "desde": "2018T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.11
                 },
                 {
@@ -637,8 +656,8 @@
                 {
                     "cantidad": 105000.0,
                     "desde": "2018T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.11
                 },
                 {
@@ -646,13 +665,6 @@
                     "desde": "2018T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 105000.0,
-                    "desde": "2018T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.11
                 },
                 {
@@ -665,22 +677,8 @@
                 {
                     "cantidad": 219000.0,
                     "desde": "2018T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 219000.0,
-                    "desde": "2018T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 219000.0,
-                    "desde": "2018T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.05
                 },
                 {
@@ -691,11 +689,18 @@
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 21000.0,
+                    "cantidad": 219000.0,
                     "desde": "2018T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.01
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 219000.0,
+                    "desde": "2018T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.05
                 },
                 {
                     "cantidad": 21000.0,
@@ -714,15 +719,22 @@
                 {
                     "cantidad": 21000.0,
                     "desde": "2018T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.01
                 },
                 {
                     "cantidad": 21000.0,
                     "desde": "2018T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.01
+                },
+                {
+                    "cantidad": 21000.0,
+                    "desde": "2018T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.01
                 }
             ],
@@ -790,5 +802,5 @@
         }
     ],
     "isin": "HK0006000050",
-    "nombre": "ACCIONES|POWER ASSETS HOLD"
+    "nombre": "AC.POWER ASSET HOLDING LTD (HKD)"
 }

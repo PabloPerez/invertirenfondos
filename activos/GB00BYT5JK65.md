@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Mimecast Ltd
+title: ACCIONES|MIMECAST
 isin: GB00BYT5JK65
 ---

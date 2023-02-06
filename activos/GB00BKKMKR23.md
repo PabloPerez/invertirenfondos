@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|RSA INSURANCE GROUP
+title: ACCIONES|RSA INS
 isin: GB00BKKMKR23
 ---

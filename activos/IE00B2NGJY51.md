@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PRINCIPAL GLOBAL PREFERR
+title: PARTICIPACIONES|Principal Financial
 isin: IE00B2NGJY51
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC Legg Mason - Western Macro Opportunities Bond
+title: PARTICIPACIONES|LEGG MASON INTL.
 isin: IE00BHBFD143
 ---

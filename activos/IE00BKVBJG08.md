@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BROWN ADVISORY
+title: FONDO|BROWN ADVISORY
 isin: IE00BKVBJG08
 ---

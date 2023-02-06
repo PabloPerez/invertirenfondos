@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CGEO LN Georgia Capital PLC
+title: Acciones|GEORGIA CAPITAL PLC
 isin: GB00BF4HYV08
 ---

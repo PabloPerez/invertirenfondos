@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES
+title: ETF.ISHARES MSCI INDIA UCITS ETF (USD)
 isin: IE00BZCQB185
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|XTRACK MSCI USA HEAL
+isin: IE00BCHWNW54
+---

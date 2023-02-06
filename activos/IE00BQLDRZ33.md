@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|POLAR CAPITAL
+title: PARTICIPACIONES|Polar Capital Income
 isin: IE00BQLDRZ33
 ---

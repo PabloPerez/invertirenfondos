@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|SIEMENS AG|1,750|2021-03-12
+title: OB.SIEMENS FINAN 1,75% VT.12|03|21
 isin: DE000A1UDWM7
 ---

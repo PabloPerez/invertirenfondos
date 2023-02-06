@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISH S&P 500 MATERIAL
+title: PARTICIPACIONES|ETF Ishares MSCI Glo
 isin: IE00B4MKCJ84
 ---

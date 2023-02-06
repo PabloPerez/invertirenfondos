@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|LORD ABBETT PAS
+title: Participaciones|LORD ABBETT PASSPORT PORFFOLIO
 isin: IE00BJ7BPF87
 ---

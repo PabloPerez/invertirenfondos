@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|VANGUARD GROUP
+title: Participaciones|VANGUARD GLBL STK-B INV EUR
 isin: IE00B8GKDB10
 ---

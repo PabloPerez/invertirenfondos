@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|GREENVOLT ENERGIAS|2,625|2028-11-10
+title: BONO|Greenvolt-Energias Renovaveis|2,63|2028-11-10
 isin: PTGNVAOM0000
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|XTRACKERS MSCI WORLD UCI
+title: Participaciones|DEUTSCHE BANK
 isin: IE00BJ0KDQ92
 ---

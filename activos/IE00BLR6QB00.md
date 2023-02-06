@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Global X Telemedicin
+title: PARTICIPACIONES|GLOBAL X TELE&DIGITA
 isin: IE00BLR6QB00
 ---

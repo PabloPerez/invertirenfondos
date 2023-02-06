@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|STIRX GROUP PLC
+title: ACCIONES|STRIX GROUP PLC
 isin: IM00BF0FMG91
 ---

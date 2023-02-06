@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Accs. ETF Vanguard G
+title: FONDOS|VANGUARD FTSE ALL-WO
 isin: IE00BK5BQT80
 ---

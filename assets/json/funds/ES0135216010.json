@@ -3,6 +3,913 @@
     "fecha_registro": "01/04/2022",
     "historico_periodos": [
         {
+            "gastos": 0.39,
+            "indice_rotacion": 1.02,
+            "liquidez": 1.87,
+            "participes": 26,
+            "patrimonio": 214852,
+            "periodo": "2022T4",
+            "posiciones": [
+                {
+                    "cantidad": 2037056.0,
+                    "desde": "2022T3",
+                    "isin": "ES0128522028",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Renta 4 Valor Relativo FI",
+                    "porcentaje": 6.92
+                },
+                {
+                    "cantidad": 967206.0,
+                    "desde": "2022T3",
+                    "isin": "ES0115527030",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Cat Patrimonis Sicav SA",
+                    "porcentaje": 3.29
+                },
+                {
+                    "cantidad": 961108.0,
+                    "desde": "2022T3",
+                    "isin": "LU1170326638",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BlueBay Investment Grade Bond",
+                    "porcentaje": 3.27
+                },
+                {
+                    "cantidad": 954893.0,
+                    "desde": "2022T3",
+                    "isin": "LU0243958047",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Invesco Euro Corporate Bond Fu",
+                    "porcentaje": 3.25
+                },
+                {
+                    "cantidad": 522404.0,
+                    "desde": "2022T2",
+                    "isin": "CH0038863350",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Nestle SA",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 488420.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02310065",
+                    "moneda": "euro",
+                    "nombre": "LETRA|SPAIN LETRAS DEL TESORO|2,36|2023-10-06",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 480071.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012H33",
+                    "moneda": "euro",
+                    "nombre": "BONO|BONOS Y OBLIG DEL ESTADO|2,73|2024-05-31",
+                    "porcentaje": 1.63
+                },
+                {
+                    "cantidad": 474165.0,
+                    "desde": "2022T2",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Iberdrola SA",
+                    "porcentaje": 1.61
+                },
+                {
+                    "cantidad": 444816.0,
+                    "desde": "2022T2",
+                    "isin": "ES0118900010",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Ferrovial SA",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 393737.0,
+                    "desde": "2022T3",
+                    "isin": "XS2166217278",
+                    "moneda": "euro",
+                    "nombre": "BONO|NETFLIX INC|3,00|2025-03-15",
+                    "porcentaje": 1.34
+                },
+                {
+                    "cantidad": 392088.0,
+                    "desde": "2022T4",
+                    "isin": "XS1645495349",
+                    "moneda": "euro",
+                    "nombre": "BONO|CAIXABANK SA|2,75|2023-07-14",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 372693.0,
+                    "desde": "2022T4",
+                    "isin": "ES0179362001",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|TOP CLASS HEALTHCARE, FI",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 367584.0,
+                    "desde": "2022T3",
+                    "isin": "XS2465792294",
+                    "moneda": "euro",
+                    "nombre": "BONO|CELLNEX FINANCE CO SA|2,25|2026-01-12",
+                    "porcentaje": 1.25
+                },
+                {
+                    "cantidad": 359178.0,
+                    "desde": "2022T3",
+                    "isin": "FR0014000NZ4",
+                    "moneda": "euro",
+                    "nombre": "BONO|RENAULT SA|2,38|2026-02-25",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 356225.0,
+                    "desde": "2022T2",
+                    "isin": "ES0148396007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Industria de Diseno Textil SA",
+                    "porcentaje": 1.21
+                },
+                {
+                    "cantidad": 350438.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000131104",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BNP PARIBAS",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 343062.0,
+                    "desde": "2022T2",
+                    "isin": "CH0010570767",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Chocoladefabriken Lindt & Spru",
+                    "porcentaje": 1.17
+                },
+                {
+                    "cantidad": 331354.0,
+                    "desde": "2022T2",
+                    "isin": "ES0109067019",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AMADEUS IT GROUP SA",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 325510.0,
+                    "desde": "2022T2",
+                    "isin": "US5949181045",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|MICROSOFT CORP",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 321024.0,
+                    "desde": "2022T2",
+                    "isin": "US02079K3059",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Alphabet Inc",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 317317.0,
+                    "desde": "2022T2",
+                    "isin": "US92826C8394",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|VISA INC",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 309007.0,
+                    "desde": "2022T3",
+                    "isin": "FR0010804500",
+                    "moneda": "euro",
+                    "nombre": "BONO|ORANO SA|4,88|2024-09-23",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 299644.0,
+                    "desde": "2022T4",
+                    "isin": "XS1019821732",
+                    "moneda": "euro",
+                    "nombre": "BONO|HOLCIM FINANCE L|3,00|2024-01-22",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 299865.0,
+                    "desde": "2022T3",
+                    "isin": "XS1730873731",
+                    "moneda": "euro",
+                    "nombre": "BONO|ARCELORMITTAL SA|0,95|2023-01-17",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 299741.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000121972",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SCHNEIDER ELECTRIC SE",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 295988.0,
+                    "desde": "2022T4",
+                    "isin": "ES05306742X0",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|Endesa SA|2,73|2023-06-16",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 296381.0,
+                    "desde": "2022T3",
+                    "isin": "ES0582870I97",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|SACYR SA|1,69|2023-02-28",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 296363.0,
+                    "desde": "2022T3",
+                    "isin": "ES0505531105",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|Premier Inc|2,29|2023-01-25",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 295924.0,
+                    "desde": "2022T3",
+                    "isin": "XS2082323630",
+                    "moneda": "euro",
+                    "nombre": "BONO|ARCELORMITTAL SA|1,00|2023-02-19",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 297796.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000121014",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|LVMH MOET HENNESSY VUITT",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 297968.0,
+                    "desde": "2022T2",
+                    "isin": "CH0012032048",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Roche Holding AG",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 295538.0,
+                    "desde": "2022T4",
+                    "isin": "XS2557344079",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|ACCIONA S.A.|3,01|2023-05-15",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 289984.0,
+                    "desde": "2022T3",
+                    "isin": "XS1960260021",
+                    "moneda": "euro",
+                    "nombre": "BONO|LEASEPLAN CORPORATION NV|1,38|2024-03-07",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 289096.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005424251",
+                    "moneda": "euro",
+                    "nombre": "BONO|BUONI POLIENNALI DEL TES|1,30|2024-01-15",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 288875.0,
+                    "desde": "2022T3",
+                    "isin": "FR0011911247",
+                    "moneda": "euro",
+                    "nombre": "BONO|ENGIE SA|2,38|2026-05-19",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 280246.0,
+                    "desde": "2022T4",
+                    "isin": "XS1107727007",
+                    "moneda": "euro",
+                    "nombre": "BONO|CITIGROUP INC|2,13|2026-09-10",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 278939.0,
+                    "desde": "2022T4",
+                    "isin": "XS2202744384",
+                    "moneda": "euro",
+                    "nombre": "BONO|CEPSA FINANCE SA|2,25|2025-11-13",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 275426.0,
+                    "desde": "2022T4",
+                    "isin": "XS1197270819",
+                    "moneda": "euro",
+                    "nombre": "BONO|MONDELEZ INTERNATIONAL|1,63|2026-12-08",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 276544.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000120693",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PERNOD RICARD SA",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 270569.0,
+                    "desde": "2022T3",
+                    "isin": "ES0211845302",
+                    "moneda": "euro",
+                    "nombre": "BONO|ABERTIS INFRAESTRUCTURA|1,38|2026-05-20",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 270211.0,
+                    "desde": "2022T4",
+                    "isin": "XS2430287529",
+                    "moneda": "euro",
+                    "nombre": "BONO|Prosus NV|1,21|2025-12-19",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 263741.0,
+                    "desde": "2022T3",
+                    "isin": "ES0213679HN2",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANKINTER SA|0,88|2026-07-08",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 246045.0,
+                    "desde": "2022T3",
+                    "isin": "XS2015314037",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNIONE DI BANCHE ITALIAN|2,63|2024-06-20",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 243064.0,
+                    "desde": "2022T3",
+                    "isin": "XS1190632999",
+                    "moneda": "euro",
+                    "nombre": "BONO|BNP PARIBAS|2,38|2025-02-17",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 244173.0,
+                    "desde": "2022T2",
+                    "isin": "DE0007165631",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Sartorius AG",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 242250.0,
+                    "desde": "2022T3",
+                    "isin": "XS1849518276",
+                    "moneda": "euro",
+                    "nombre": "BONO|SMURFIT KAPPA ACQUISITIO|2,88|2025-10-15",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 241137.0,
+                    "desde": "2022T3",
+                    "isin": "XS2241400295",
+                    "moneda": "euro",
+                    "nombre": "BONO|OCI NV|3,63|2023-01-10",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 232364.0,
+                    "desde": "2022T2",
+                    "isin": "ES0105066007",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|CELLNEX TELECOM SA",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 225907.0,
+                    "desde": "2022T2",
+                    "isin": "US09857L1089",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BOOKING HOLDINGS INC",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 214950.0,
+                    "desde": "2022T2",
+                    "isin": "DE0005552004",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DEUTSCHE POST AG",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 211334.0,
+                    "desde": "2022T3",
+                    "isin": "XS0454773713",
+                    "moneda": "euro",
+                    "nombre": "BONO|KONINKLIJKE KPN NV|5,63|2024-09-30",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 209204.0,
+                    "desde": "2022T4",
+                    "isin": "US0846707026",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BERKSHIRE HATHAWAY INC",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 199974.0,
+                    "desde": "2022T4",
+                    "isin": "ES0380907065",
+                    "moneda": "euro",
+                    "nombre": "BONO|UNICAJA BANCO SA|7,25|2026-11-15",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 198055.0,
+                    "desde": "2022T4",
+                    "isin": "XS2570651039",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|FCC|3,19|2023-04-20",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 198428.0,
+                    "desde": "2022T4",
+                    "isin": "ES0505449076",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|Izertis SA|3,02|2023-01-26",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 196139.0,
+                    "desde": "2022T4",
+                    "isin": "XS2560385796",
+                    "moneda": "euro",
+                    "nombre": "BONO|ACS ACTIVIDADES CONS Y S|4,75|2026-11-30",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 196849.0,
+                    "desde": "2022T3",
+                    "isin": "XS2325693369",
+                    "moneda": "euro",
+                    "nombre": "BONO|SACYR SA|3,25|2024-04-02",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 196953.0,
+                    "desde": "2022T4",
+                    "isin": "DE000A2TEDB8",
+                    "moneda": "euro",
+                    "nombre": "BONO|THYSSENKRUPP AG|2,88|2023-11-22",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 197029.0,
+                    "desde": "2022T4",
+                    "isin": "ES0505075103",
+                    "moneda": "euro",
+                    "nombre": "ACTIVOS|Euskaltel SA|3,60|2023-04-28",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 194397.0,
+                    "desde": "2022T3",
+                    "isin": "XS1040508241",
+                    "moneda": "euro",
+                    "nombre": "BONO|IMPERIAL BRANDS FIN PLC|3,38|2025-11-28",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 192930.0,
+                    "desde": "2022T4",
+                    "isin": "XS1962554785",
+                    "moneda": "euro",
+                    "nombre": "BONO|CIE DE SAINT-GOBAIN|0,63|2024-03-15",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 195459.0,
+                    "desde": "2022T4",
+                    "isin": "XS1725630740",
+                    "moneda": "euro",
+                    "nombre": "BONO|MCDONALD'S CORP|0,63|2024-01-29",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 194181.0,
+                    "desde": "2022T3",
+                    "isin": "XS1562614831",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO BILBAO VIZCAYA ARG|3,50|2027-02-10",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 194475.0,
+                    "desde": "2022T3",
+                    "isin": "XS1201001572",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO SANTANDER SA|2,50|2025-03-18",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 193226.0,
+                    "desde": "2022T3",
+                    "isin": "FR0013262912",
+                    "moneda": "euro",
+                    "nombre": "BONO|LAGARDERE SCA|1,63|2024-03-21",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 195156.0,
+                    "desde": "2022T3",
+                    "isin": "FR0000120321",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|L'OREAL SA",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 191028.0,
+                    "desde": "2022T3",
+                    "isin": "FR0013512944",
+                    "moneda": "euro",
+                    "nombre": "BONO|STELLANTIS NV|2,75|2026-02-15",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 190354.0,
+                    "desde": "2022T3",
+                    "isin": "XS1933828433",
+                    "moneda": "euro",
+                    "nombre": "BONO|TELEFONICA EUROPE BV|4,38|2024-12-14",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 188897.0,
+                    "desde": "2022T3",
+                    "isin": "XS2463918313",
+                    "moneda": "euro",
+                    "nombre": "BONO|HOLCIM FINANCE L|1,50|2025-04-06",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 185246.0,
+                    "desde": "2022T3",
+                    "isin": "XS2242979719",
+                    "moneda": "euro",
+                    "nombre": "BONO|HEATHROW FUNDING LTD|1,50|2025-07-12",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 186511.0,
+                    "desde": "2022T4",
+                    "isin": "XS1398476793",
+                    "moneda": "euro",
+                    "nombre": "BONO|IBERDROLA INTL BV|1,13|2026-04-21",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 184733.0,
+                    "desde": "2022T3",
+                    "isin": "XS1439749281",
+                    "moneda": "euro",
+                    "nombre": "BONO|TEVA PHARM FNC NL II|1,13|2024-10-15",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 184105.0,
+                    "desde": "2022T2",
+                    "isin": "DE0007164600",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SAP SE",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 181889.0,
+                    "desde": "2022T4",
+                    "isin": "US7170811035",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|PFIZER INC",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 183586.0,
+                    "desde": "2022T3",
+                    "isin": "DE0007100000",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|DAIMLER AG",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 178037.0,
+                    "desde": "2022T3",
+                    "isin": "FR0014009E07",
+                    "moneda": "euro",
+                    "nombre": "BONO|CARREFOUR SA|2,38|2029-07-30",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 179555.0,
+                    "desde": "2022T4",
+                    "isin": "XS1202213291",
+                    "moneda": "euro",
+                    "nombre": "BONO|PPG INDUSTRIES INC|1,40|2026-12-13",
+                    "porcentaje": 0.61
+                },
+                {
+                    "cantidad": 177532.0,
+                    "desde": "2022T3",
+                    "isin": "XS2236363573",
+                    "moneda": "euro",
+                    "nombre": "BONO|AMADEUS IT GROUP SA|1,88|2028-06-24",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 175284.0,
+                    "desde": "2022T3",
+                    "isin": "XS2199266003",
+                    "moneda": "euro",
+                    "nombre": "BONO|BAYER AG|0,75|2026-10-06",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 172458.0,
+                    "desde": "2022T3",
+                    "isin": "ES0213900220",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO SANTANDER SA|1,00|2024-12-15",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 172120.0,
+                    "desde": "2022T2",
+                    "isin": "FR0000120073",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Air Liquide SA",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 148129.0,
+                    "desde": "2022T3",
+                    "isin": "XS2013574202",
+                    "moneda": "euro",
+                    "nombre": "BONO|FORD MOTOR CREDIT CO LLC|1,51|2023-02-17",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 144932.0,
+                    "desde": "2022T2",
+                    "isin": "CH0432492467",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Alcon Inc",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 141123.0,
+                    "desde": "2022T3",
+                    "isin": "XS1202849086",
+                    "moneda": "euro",
+                    "nombre": "BONO|GLENCORE FINANCE EUROPE|1,75|2024-12-17",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 137256.0,
+                    "desde": "2022T2",
+                    "isin": "ES0184262212",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Viscofan SA",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 129146.0,
+                    "desde": "2022T4",
+                    "isin": "XS2105735935",
+                    "moneda": "euro",
+                    "nombre": "BONO|MACQUARIE GROUP LTD|0,63|2027-02-03",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 129924.0,
+                    "desde": "2022T3",
+                    "isin": "XS2103014291",
+                    "moneda": "euro",
+                    "nombre": "BONO|E.ON SE|0,38|2027-06-29",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 129619.0,
+                    "desde": "2022T4",
+                    "isin": "IE00B4BNMY34",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Accenture PLC",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 125950.0,
+                    "desde": "2022T3",
+                    "isin": "NL0010273215",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|ASML HOLDING NV",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 121773.0,
+                    "desde": "2022T4",
+                    "isin": "US8740391003",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|TSMC",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 121272.0,
+                    "desde": "2022T4",
+                    "isin": "US28176E1082",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Edwards Lifesciences Corp",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 113927.0,
+                    "desde": "2022T4",
+                    "isin": "US61945C1036",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Mosaic Co/The",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 112019.0,
+                    "desde": "2022T4",
+                    "isin": "CH0418792922",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Sika AG",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 108622.0,
+                    "desde": "2022T4",
+                    "isin": "US0090661010",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Airbnb Inc",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 105506.0,
+                    "desde": "2022T4",
+                    "isin": "US2546871060",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|WALT DISNEY COMPANY/THE",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 102138.0,
+                    "desde": "2022T2",
+                    "isin": "NL0000235190",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|AIRBUS SE",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 99569.0,
+                    "desde": "2022T4",
+                    "isin": "NL0014332678",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|JDE PEET'S NV",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 96451.0,
+                    "desde": "2022T3",
+                    "isin": "DE000A14J587",
+                    "moneda": "euro",
+                    "nombre": "BONO|THYSSENKRUPP AG|2,50|2025-02-25",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 97583.0,
+                    "desde": "2022T3",
+                    "isin": "XS1935256369",
+                    "moneda": "euro",
+                    "nombre": "BONO|TELECOM ITALIA SPA|4,00|2024-01-11",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 97086.0,
+                    "desde": "2022T2",
+                    "isin": "FR0006174348",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|BUREAU VERITAS SA",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 95572.0,
+                    "desde": "2022T3",
+                    "isin": "XS1991397545",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO DE SABADELL SA|1,75|2024-05-10",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 95255.0,
+                    "desde": "2022T4",
+                    "isin": "XS1967635621",
+                    "moneda": "euro",
+                    "nombre": "BONO|ABERTIS INFRAESTRUCTURA|1,50|2024-03-27",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 90194.0,
+                    "desde": "2022T3",
+                    "isin": "XS2055190172",
+                    "moneda": "euro",
+                    "nombre": "BONO|BANCO DE SABADELL SA|1,13|2025-03-27",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 91885.0,
+                    "desde": "2022T3",
+                    "isin": "XS1910948162",
+                    "moneda": "euro",
+                    "nombre": "BONO|VOLKSWAGEN INTL FIN NV|2,63|2027-11-16",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 91453.0,
+                    "desde": "2022T3",
+                    "isin": "XS1725677543",
+                    "moneda": "euro",
+                    "nombre": "BONO|INMOBILIARIA COLONIAL SO|1,63|2025-08-28",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 87975.0,
+                    "desde": "2022T4",
+                    "isin": "ES0105046009",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Aena SME SA",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 86798.0,
+                    "desde": "2022T3",
+                    "isin": "XS2078696866",
+                    "moneda": "euro",
+                    "nombre": "BONO|GRENKE FINANCE PLC|0,63|2025-01-09",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 87351.0,
+                    "desde": "2022T2",
+                    "isin": "DK0060448595",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Coloplast A/S",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 84686.0,
+                    "desde": "2022T2",
+                    "isin": "SE0007100581",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Assa Abloy AB",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 81128.0,
+                    "desde": "2022T2",
+                    "isin": "GB0009223206",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|SMITH & NEPHEW PLC",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 79313.0,
+                    "desde": "2022T2",
+                    "isin": "US46138G6492",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|Invesco Nasdaq 100 ETF",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 62390.0,
+                    "desde": "2022T2",
+                    "isin": "US30303M1027",
+                    "moneda": "euro",
+                    "nombre": "ACCIONES|Facebook Inc",
+                    "porcentaje": 0.21
+                }
+            ],
+            "rentabilidad": 2.24
+        },
+        {
             "gastos": 0.04,
             "indice_rotacion": 0.96,
             "liquidez": 10.55,

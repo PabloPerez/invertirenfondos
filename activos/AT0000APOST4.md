@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.OESTERREICHISCHE POST AG
+title: ACCIONES|OESTERREICHISCH
 isin: AT0000APOST4
 ---

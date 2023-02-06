@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|ELECTRCPORTUGAL|1.5|2023-03-14
+title: Bonos|ENERGIAS DE PORTUGAL|1,500|2026-12-14
 isin: PTEDPXOM0021
 ---

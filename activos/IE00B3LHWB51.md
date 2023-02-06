@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|HEPTAGON FUND PLC - YACKTMAN U
+title: Participaciones|HEPTAGON CAPITAL LLP
 isin: IE00B3LHWB51
 ---

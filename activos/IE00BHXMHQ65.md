@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|UBSETF S&P 500 E
+title: PARTICIPACIONES|UBS AG
 isin: IE00BHXMHQ65
 ---

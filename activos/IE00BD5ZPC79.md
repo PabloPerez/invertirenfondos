@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|TRELIGGA PLC
+title: FONDO|ID_BB_26398935
 isin: IE00BD5ZPC79
 ---

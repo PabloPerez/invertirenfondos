@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|MONTLAKE MANAGEMENT LTD
+title: Participaciones|MONTLAKE UCITS
 isin: IE00BJBY6V60
 ---

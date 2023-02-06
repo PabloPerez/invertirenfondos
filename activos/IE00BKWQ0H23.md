@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|SPDR MSCI EUROPE HEA
+title: PARTICIPACIONES|SPDR MSCI EUROPE HEALTH
 isin: IE00BKWQ0H23
 ---

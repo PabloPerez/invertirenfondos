@@ -85,17 +85,17 @@
                     "porcentaje": 0.22
                 },
                 {
-                    "cantidad": 420000.0,
-                    "desde": "2015T3",
-                    "isin": "ES0159155003",
-                    "nombre": "BBVA FUSION CORTO PLAZO III, FI",
-                    "porcentaje": 0.21
-                },
-                {
                     "cantidad": 54000.0,
                     "desde": "2014T2",
                     "isin": "ES0164977037",
                     "nombre": "MULTIACTIVO MIXTO RENTA FIJA, FI",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 420000.0,
+                    "desde": "2015T3",
+                    "isin": "ES0159155003",
+                    "nombre": "BBVA FUSION CORTO PLAZO III, FI",
                     "porcentaje": 0.21
                 }
             ],
@@ -153,13 +153,6 @@
                     "porcentaje": 0.29
                 },
                 {
-                    "cantidad": 1052000.0,
-                    "desde": "2015T3",
-                    "isin": "ES0114129036",
-                    "nombre": "BBVA AHORRO EMPRESAS, FI",
-                    "porcentaje": 0.27
-                },
-                {
                     "cantidad": 5218000.0,
                     "desde": "2015T4",
                     "isin": "ES0173829005",
@@ -174,10 +167,10 @@
                     "porcentaje": 0.27
                 },
                 {
-                    "cantidad": 5218000.0,
-                    "desde": "2015T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "cantidad": 1052000.0,
+                    "desde": "2015T3",
+                    "isin": "ES0114129036",
+                    "nombre": "BBVA AHORRO EMPRESAS, FI",
                     "porcentaje": 0.27
                 },
                 {
@@ -185,13 +178,6 @@
                     "desde": "2015T2",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 5218000.0,
-                    "desde": "2015T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.27
                 },
                 {
@@ -206,6 +192,20 @@
                     "desde": "2015T4",
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 5218000.0,
+                    "desde": "2015T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 5218000.0,
+                    "desde": "2015T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.27
                 },
                 {
@@ -298,20 +298,6 @@
                     "porcentaje": 0.3
                 },
                 {
-                    "cantidad": 3983000.0,
-                    "desde": "2015T3",
-                    "isin": "ES0110131036",
-                    "nombre": "BBVA RENTABILIDAD AHORRO CORTO PLAZO, FI",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 54000.0,
-                    "desde": "2014T2",
-                    "isin": "ES0164977037",
-                    "nombre": "MULTIACTIVO MIXTO RENTA FIJA, FI",
-                    "porcentaje": 0.28
-                },
-                {
                     "cantidad": 5218000.0,
                     "desde": "2015T4",
                     "isin": "ES0173829005",
@@ -327,23 +313,16 @@
                 },
                 {
                     "cantidad": 5218000.0,
-                    "desde": "2015T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 5218000.0,
                     "desde": "2015T2",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
                     "porcentaje": 0.28
                 },
                 {
-                    "cantidad": 5218000.0,
-                    "desde": "2015T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "cantidad": 54000.0,
+                    "desde": "2014T2",
+                    "isin": "ES0164977037",
+                    "nombre": "MULTIACTIVO MIXTO RENTA FIJA, FI",
                     "porcentaje": 0.28
                 },
                 {
@@ -358,6 +337,27 @@
                     "desde": "2015T4",
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 3983000.0,
+                    "desde": "2015T3",
+                    "isin": "ES0110131036",
+                    "nombre": "BBVA RENTABILIDAD AHORRO CORTO PLAZO, FI",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 5218000.0,
+                    "desde": "2015T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 5218000.0,
+                    "desde": "2015T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.28
                 }
             ],
@@ -1013,5 +1013,5 @@
         }
     ],
     "isin": "XS0270800815",
-    "nombre": "BONO|MORGAN STANLEY|04,375|2016-10-12"
+    "nombre": "OB.MORGAN STANLEY 4,375% VT.12/10/2016"
 }

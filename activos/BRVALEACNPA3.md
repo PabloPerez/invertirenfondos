@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.CIA VALE DO RIO DOCE -PREF (BRL)
+title: ACCIONES|VALE,S.A.(CIA.VALE DO RIO DOCE)
 isin: BRVALEACNPA3
 ---

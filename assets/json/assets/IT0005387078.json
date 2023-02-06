@@ -4,23 +4,16 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
+                    "desde": "2019T4",
+                    "isin": "ES0174431033",
+                    "nombre": "RURAL MIXTO 25, FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2020T1",
                     "isin": "ES0145553006",
                     "nombre": "DB MODERADO ESG,FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T4",
-                    "isin": "ES0145553014",
-                    "nombre": "DB MODERADO ESG,FI CLASE B",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T4",
-                    "isin": "ES0174227035",
-                    "nombre": "RURAL MIXTO 15, FI",
                     "porcentaje": 0.0
                 },
                 {
@@ -33,8 +26,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T4",
-                    "isin": "ES0174431033",
-                    "nombre": "RURAL MIXTO 25, FI",
+                    "isin": "ES0174227035",
+                    "nombre": "RURAL MIXTO 15, FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "ES0145553014",
+                    "nombre": "DB MODERADO ESG,FI CLASE B",
                     "porcentaje": 0.0
                 }
             ],
@@ -52,13 +52,6 @@
                 {
                     "cantidad": 2000524.0,
                     "desde": "2020T2",
-                    "isin": "ES0180965008",
-                    "nombre": "CAIXABANK RF DURACION NEGATIVA, FI PLUS",
-                    "porcentaje": 12.23
-                },
-                {
-                    "cantidad": 2000524.0,
-                    "desde": "2020T2",
                     "isin": "ES0180965016",
                     "nombre": "CAIXABANK RF DURACION NEGATIVA, FI EXTRA",
                     "porcentaje": 12.23
@@ -68,6 +61,13 @@
                     "desde": "2020T2",
                     "isin": "ES0180965024",
                     "nombre": "CAIXABANK RF DURACION NEGATIVA, FI CARTERA",
+                    "porcentaje": 12.23
+                },
+                {
+                    "cantidad": 2000524.0,
+                    "desde": "2020T2",
+                    "isin": "ES0180965008",
+                    "nombre": "CAIXABANK RF DURACION NEGATIVA, FI PLUS",
                     "porcentaje": 12.23
                 },
                 {
@@ -108,15 +108,8 @@
                 {
                     "cantidad": 39059416.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 4.57
-                },
-                {
-                    "cantidad": 39059416.0,
-                    "desde": "2019T4",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 4.57
                 },
                 {
@@ -129,6 +122,13 @@
                 {
                     "cantidad": 39059416.0,
                     "desde": "2019T4",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 4.57
+                },
+                {
+                    "cantidad": 39059416.0,
+                    "desde": "2019T4",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 4.57
@@ -136,8 +136,8 @@
                 {
                     "cantidad": 39059416.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 4.57
                 },
                 {
@@ -151,22 +151,15 @@
                     "cantidad": 30043852.0,
                     "desde": "2019T4",
                     "isin": "ES0137608008",
-                    "nombre": "CAIXABANK DESTINO 2022, FI ESTÁNDAR",
+                    "nombre": "CAIXABANK DESTINO, FI ESTÁNDAR",
                     "porcentaje": 2.64
                 },
                 {
                     "cantidad": 30043852.0,
                     "desde": "2019T4",
                     "isin": "ES0137608016",
-                    "nombre": "CAIXABANK DESTINO 2022, FI PLUS",
+                    "nombre": "CAIXABANK DESTINO, FI PLUS",
                     "porcentaje": 2.64
-                },
-                {
-                    "cantidad": 1001557.0,
-                    "desde": "2019T4",
-                    "isin": "ES0110058007",
-                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
-                    "porcentaje": 2.27
                 },
                 {
                     "cantidad": 1001557.0,
@@ -180,6 +173,13 @@
                     "desde": "2019T4",
                     "isin": "ES0110058031",
                     "nombre": "CAIXABANK GESTION 60, FI PLUS",
+                    "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 1001557.0,
+                    "desde": "2019T4",
+                    "isin": "ES0110058007",
+                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
                     "porcentaje": 2.27
                 },
                 {
@@ -199,29 +199,8 @@
                 {
                     "cantidad": 80156632.0,
                     "desde": "2019T4",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 1.93
-                },
-                {
-                    "cantidad": 80156632.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 1.93
-                },
-                {
-                    "cantidad": 80156632.0,
-                    "desde": "2019T4",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 1.93
-                },
-                {
-                    "cantidad": 80156632.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 1.93
                 },
                 {
@@ -234,8 +213,29 @@
                 {
                     "cantidad": 80156632.0,
                     "desde": "2019T4",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 80156632.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 80156632.0,
+                    "desde": "2019T4",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 1.93
+                },
+                {
+                    "cantidad": 80156632.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 1.93
                 },
                 {
@@ -244,6 +244,13 @@
                     "isin": "ES0174349037",
                     "nombre": "RURAL PERFIL CONSERVADOR, FI",
                     "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 378310.0,
+                    "desde": "2020T3",
+                    "isin": "ES0137625028",
+                    "nombre": "CAIXABANK BOLSA USA DIVISA CUBIERTA, FI CARTERA",
+                    "porcentaje": 1.81
                 },
                 {
                     "cantidad": 378310.0,
@@ -260,11 +267,11 @@
                     "porcentaje": 1.81
                 },
                 {
-                    "cantidad": 378310.0,
-                    "desde": "2020T3",
-                    "isin": "ES0137625028",
-                    "nombre": "CAIXABANK BOLSA USA DIVISA CUBIERTA, FI CARTERA",
-                    "porcentaje": 1.81
+                    "cantidad": 500738.0,
+                    "desde": "2019T4",
+                    "isin": "ES0137626018",
+                    "nombre": "CAIXABANK DESTINO 2040, FI PLUS",
+                    "porcentaje": 0.73
                 },
                 {
                     "cantidad": 500738.0,
@@ -274,24 +281,17 @@
                     "porcentaje": 0.73
                 },
                 {
-                    "cantidad": 500738.0,
+                    "cantidad": 5007309.0,
                     "desde": "2019T4",
-                    "isin": "ES0137626018",
-                    "nombre": "CAIXABANK DESTINO 2040, FI PLUS",
-                    "porcentaje": 0.73
+                    "isin": "ES0137474013",
+                    "nombre": "CAIXABANK DESTINO 2030, FI PLUS",
+                    "porcentaje": 0.7
                 },
                 {
                     "cantidad": 5007309.0,
                     "desde": "2019T4",
                     "isin": "ES0137474005",
                     "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
-                    "porcentaje": 0.7
-                },
-                {
-                    "cantidad": 5007309.0,
-                    "desde": "2019T4",
-                    "isin": "ES0137474013",
-                    "nombre": "CAIXABANK DESTINO 2030, FI PLUS",
                     "porcentaje": 0.7
                 },
                 {
@@ -304,15 +304,15 @@
                 {
                     "cantidad": 66939.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257003",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
+                    "isin": "ES0138257037",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
                     "porcentaje": 0.16
                 },
                 {
                     "cantidad": 66939.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257037",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
+                    "isin": "ES0138257003",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
                     "porcentaje": 0.16
                 }
             ],
@@ -337,13 +337,6 @@
                 {
                     "cantidad": 2001674.0,
                     "desde": "2020T2",
-                    "isin": "ES0180965008",
-                    "nombre": "CAIXABANK RF DURACION NEGATIVA, FI PLUS",
-                    "porcentaje": 10.26
-                },
-                {
-                    "cantidad": 2001674.0,
-                    "desde": "2020T2",
                     "isin": "ES0180965016",
                     "nombre": "CAIXABANK RF DURACION NEGATIVA, FI EXTRA",
                     "porcentaje": 10.26
@@ -353,6 +346,13 @@
                     "desde": "2020T2",
                     "isin": "ES0180965024",
                     "nombre": "CAIXABANK RF DURACION NEGATIVA, FI CARTERA",
+                    "porcentaje": 10.26
+                },
+                {
+                    "cantidad": 2001674.0,
+                    "desde": "2020T2",
+                    "isin": "ES0180965008",
+                    "nombre": "CAIXABANK RF DURACION NEGATIVA, FI PLUS",
                     "porcentaje": 10.26
                 },
                 {
@@ -372,15 +372,15 @@
                 {
                     "cantidad": 2100594.0,
                     "desde": "2020T1",
-                    "isin": "ES0164466015",
-                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE B",
+                    "isin": "ES0164466023",
+                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE C",
                     "porcentaje": 6.12
                 },
                 {
                     "cantidad": 2100594.0,
                     "desde": "2020T1",
-                    "isin": "ES0164466023",
-                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE C",
+                    "isin": "ES0164466015",
+                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE B",
                     "porcentaje": 6.12
                 },
                 {
@@ -393,15 +393,8 @@
                 {
                     "cantidad": 39068866.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 4.5
-                },
-                {
-                    "cantidad": 39068866.0,
-                    "desde": "2019T4",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 4.5
                 },
                 {
@@ -414,6 +407,13 @@
                 {
                     "cantidad": 39068866.0,
                     "desde": "2019T4",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 4.5
+                },
+                {
+                    "cantidad": 39068866.0,
+                    "desde": "2019T4",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 4.5
@@ -421,8 +421,8 @@
                 {
                     "cantidad": 39068866.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 4.5
                 },
                 {
@@ -435,15 +435,15 @@
                 {
                     "cantidad": 1409000.0,
                     "desde": "2020T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 3.22
                 },
                 {
                     "cantidad": 1409000.0,
                     "desde": "2020T1",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 3.22
                 },
                 {
@@ -471,22 +471,15 @@
                     "cantidad": 30051457.0,
                     "desde": "2019T4",
                     "isin": "ES0137608008",
-                    "nombre": "CAIXABANK DESTINO 2022, FI ESTÁNDAR",
+                    "nombre": "CAIXABANK DESTINO, FI ESTÁNDAR",
                     "porcentaje": 2.59
                 },
                 {
                     "cantidad": 30051457.0,
                     "desde": "2019T4",
                     "isin": "ES0137608016",
-                    "nombre": "CAIXABANK DESTINO 2022, FI PLUS",
+                    "nombre": "CAIXABANK DESTINO, FI PLUS",
                     "porcentaje": 2.59
-                },
-                {
-                    "cantidad": 1001778.0,
-                    "desde": "2019T4",
-                    "isin": "ES0110058007",
-                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
-                    "porcentaje": 2.21
                 },
                 {
                     "cantidad": 1001778.0,
@@ -500,6 +493,13 @@
                     "desde": "2019T4",
                     "isin": "ES0110058031",
                     "nombre": "CAIXABANK GESTION 60, FI PLUS",
+                    "porcentaje": 2.21
+                },
+                {
+                    "cantidad": 1001778.0,
+                    "desde": "2019T4",
+                    "isin": "ES0110058007",
+                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
                     "porcentaje": 2.21
                 },
                 {
@@ -526,29 +526,8 @@
                 {
                     "cantidad": 80168190.0,
                     "desde": "2019T4",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 2.08
-                },
-                {
-                    "cantidad": 80168190.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 2.08
-                },
-                {
-                    "cantidad": 80168190.0,
-                    "desde": "2019T4",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 2.08
-                },
-                {
-                    "cantidad": 80168190.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 2.08
                 },
                 {
@@ -561,8 +540,29 @@
                 {
                     "cantidad": 80168190.0,
                     "desde": "2019T4",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 80168190.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 80168190.0,
+                    "desde": "2019T4",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 2.08
+                },
+                {
+                    "cantidad": 80168190.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 2.08
                 },
                 {
@@ -596,29 +596,29 @@
                 {
                     "cantidad": 500862.0,
                     "desde": "2019T4",
-                    "isin": "ES0137626000",
-                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
-                    "porcentaje": 0.75
-                },
-                {
-                    "cantidad": 500862.0,
-                    "desde": "2019T4",
                     "isin": "ES0137626018",
                     "nombre": "CAIXABANK DESTINO 2040, FI PLUS",
                     "porcentaje": 0.75
                 },
                 {
-                    "cantidad": 5008576.0,
+                    "cantidad": 500862.0,
                     "desde": "2019T4",
-                    "isin": "ES0137474005",
-                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
-                    "porcentaje": 0.74
+                    "isin": "ES0137626000",
+                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
+                    "porcentaje": 0.75
                 },
                 {
                     "cantidad": 5008576.0,
                     "desde": "2019T4",
                     "isin": "ES0137474013",
                     "nombre": "CAIXABANK DESTINO 2030, FI PLUS",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 5008576.0,
+                    "desde": "2019T4",
+                    "isin": "ES0137474005",
+                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
                     "porcentaje": 0.74
                 },
                 {
@@ -631,15 +631,15 @@
                 {
                     "cantidad": 136040.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257003",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
+                    "isin": "ES0138257037",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
                     "porcentaje": 0.3
                 },
                 {
                     "cantidad": 136040.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257037",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
+                    "isin": "ES0138257003",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
                     "porcentaje": 0.3
                 }
             ],
@@ -664,15 +664,15 @@
                 {
                     "cantidad": 4604281.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257003",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
+                    "isin": "ES0138257037",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
                     "porcentaje": 9.91
                 },
                 {
                     "cantidad": 4604281.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257037",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
+                    "isin": "ES0138257003",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
                     "porcentaje": 9.91
                 },
                 {
@@ -685,15 +685,8 @@
                 {
                     "cantidad": 59011929.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 6.73
-                },
-                {
-                    "cantidad": 59011929.0,
-                    "desde": "2019T4",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 6.73
                 },
                 {
@@ -706,6 +699,13 @@
                 {
                     "cantidad": 59011929.0,
                     "desde": "2019T4",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 6.73
+                },
+                {
+                    "cantidad": 59011929.0,
+                    "desde": "2019T4",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 6.73
@@ -713,8 +713,8 @@
                 {
                     "cantidad": 59011929.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 6.73
                 },
                 {
@@ -727,15 +727,15 @@
                 {
                     "cantidad": 2099023.0,
                     "desde": "2020T1",
-                    "isin": "ES0164466015",
-                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE B",
+                    "isin": "ES0164466023",
+                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE C",
                     "porcentaje": 6.12
                 },
                 {
                     "cantidad": 2099023.0,
                     "desde": "2020T1",
-                    "isin": "ES0164466023",
-                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE C",
+                    "isin": "ES0164466015",
+                    "nombre": "FONDITEL BOLSA MUNDIAL SOSTENIBLE, FI CLASE B",
                     "porcentaje": 6.12
                 },
                 {
@@ -762,15 +762,15 @@
                 {
                     "cantidad": 1407000.0,
                     "desde": "2020T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 3.19
                 },
                 {
                     "cantidad": 1407000.0,
                     "desde": "2020T1",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 3.19
                 },
                 {
@@ -784,14 +784,14 @@
                     "cantidad": 30004880.0,
                     "desde": "2019T4",
                     "isin": "ES0137608008",
-                    "nombre": "CAIXABANK DESTINO 2022, FI ESTÁNDAR",
+                    "nombre": "CAIXABANK DESTINO, FI ESTÁNDAR",
                     "porcentaje": 2.74
                 },
                 {
                     "cantidad": 30004880.0,
                     "desde": "2019T4",
                     "isin": "ES0137608016",
-                    "nombre": "CAIXABANK DESTINO 2022, FI PLUS",
+                    "nombre": "CAIXABANK DESTINO, FI PLUS",
                     "porcentaje": 2.74
                 },
                 {
@@ -818,13 +818,6 @@
                 {
                     "cantidad": 1000194.0,
                     "desde": "2019T4",
-                    "isin": "ES0110058007",
-                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
-                    "porcentaje": 2.33
-                },
-                {
-                    "cantidad": 1000194.0,
-                    "desde": "2019T4",
                     "isin": "ES0110058015",
                     "nombre": "CAIXABANK GESTION 60, FI PLATINUM",
                     "porcentaje": 2.33
@@ -834,6 +827,13 @@
                     "desde": "2019T4",
                     "isin": "ES0110058031",
                     "nombre": "CAIXABANK GESTION 60, FI PLUS",
+                    "porcentaje": 2.33
+                },
+                {
+                    "cantidad": 1000194.0,
+                    "desde": "2019T4",
+                    "isin": "ES0110058007",
+                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
                     "porcentaje": 2.33
                 },
                 {
@@ -874,29 +874,8 @@
                 {
                     "cantidad": 80035351.0,
                     "desde": "2019T4",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 1.99
-                },
-                {
-                    "cantidad": 80035351.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 1.99
-                },
-                {
-                    "cantidad": 80035351.0,
-                    "desde": "2019T4",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 1.99
-                },
-                {
-                    "cantidad": 80035351.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 1.99
                 },
                 {
@@ -909,8 +888,29 @@
                 {
                     "cantidad": 80035351.0,
                     "desde": "2019T4",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 80035351.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 80035351.0,
+                    "desde": "2019T4",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 80035351.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 1.99
                 },
                 {
@@ -937,29 +937,29 @@
                 {
                     "cantidad": 500084.0,
                     "desde": "2019T4",
-                    "isin": "ES0137626000",
-                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
-                    "porcentaje": 0.88
-                },
-                {
-                    "cantidad": 500084.0,
-                    "desde": "2019T4",
                     "isin": "ES0137626018",
                     "nombre": "CAIXABANK DESTINO 2040, FI PLUS",
                     "porcentaje": 0.88
                 },
                 {
-                    "cantidad": 5000813.0,
+                    "cantidad": 500084.0,
                     "desde": "2019T4",
-                    "isin": "ES0137474005",
-                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
-                    "porcentaje": 0.87
+                    "isin": "ES0137626000",
+                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
+                    "porcentaje": 0.88
                 },
                 {
                     "cantidad": 5000813.0,
                     "desde": "2019T4",
                     "isin": "ES0137474013",
                     "nombre": "CAIXABANK DESTINO 2030, FI PLUS",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 5000813.0,
+                    "desde": "2019T4",
+                    "isin": "ES0137474005",
+                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
                     "porcentaje": 0.87
                 },
                 {
@@ -986,15 +986,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T4",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
+                    "isin": "ES0164540033",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2019T4",
-                    "isin": "ES0164540033",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.0
                 }
             ],
@@ -1005,29 +1005,22 @@
                 {
                     "cantidad": 17094707.0,
                     "desde": "2019T4",
-                    "isin": "ES0138257003",
-                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
-                    "porcentaje": 29.54
-                },
-                {
-                    "cantidad": 17094707.0,
-                    "desde": "2019T4",
                     "isin": "ES0138257037",
                     "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI ESTÁNDAR",
                     "porcentaje": 29.54
                 },
                 {
-                    "cantidad": 59111656.0,
+                    "cantidad": 17094707.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 7.38
+                    "isin": "ES0138257003",
+                    "nombre": "CAIXABANK DIVERSIFICADO DINAMICO, FI CARTERA",
+                    "porcentaje": 29.54
                 },
                 {
                     "cantidad": 59111656.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 7.38
                 },
                 {
@@ -1040,6 +1033,13 @@
                 {
                     "cantidad": 59111656.0,
                     "desde": "2019T4",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 7.38
+                },
+                {
+                    "cantidad": 59111656.0,
+                    "desde": "2019T4",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 7.38
@@ -1047,8 +1047,8 @@
                 {
                     "cantidad": 59111656.0,
                     "desde": "2019T4",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 7.38
                 },
                 {
@@ -1069,42 +1069,21 @@
                     "cantidad": 30055921.0,
                     "desde": "2019T4",
                     "isin": "ES0137608008",
-                    "nombre": "CAIXABANK DESTINO 2022, FI ESTÁNDAR",
+                    "nombre": "CAIXABANK DESTINO, FI ESTÁNDAR",
                     "porcentaje": 2.29
                 },
                 {
                     "cantidad": 30055921.0,
                     "desde": "2019T4",
                     "isin": "ES0137608016",
-                    "nombre": "CAIXABANK DESTINO 2022, FI PLUS",
+                    "nombre": "CAIXABANK DESTINO, FI PLUS",
                     "porcentaje": 2.29
-                },
-                {
-                    "cantidad": 80162817.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 2.17
-                },
-                {
-                    "cantidad": 80162817.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 2.17
                 },
                 {
                     "cantidad": 80162817.0,
                     "desde": "2019T4",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 2.17
-                },
-                {
-                    "cantidad": 80162817.0,
-                    "desde": "2019T4",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 2.17
                 },
                 {
@@ -1117,8 +1096,29 @@
                 {
                     "cantidad": 80162817.0,
                     "desde": "2019T4",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 80162817.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 80162817.0,
+                    "desde": "2019T4",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 80162817.0,
+                    "desde": "2019T4",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 2.17
                 },
                 {
@@ -1127,13 +1127,6 @@
                     "isin": "ES0111223006",
                     "nombre": "CAIXABANK MASTER RENTA FIJA DEUDA PUBLICA 3-7, FI",
                     "porcentaje": 2.15
-                },
-                {
-                    "cantidad": 1001863.0,
-                    "desde": "2019T4",
-                    "isin": "ES0110058007",
-                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
-                    "porcentaje": 1.96
                 },
                 {
                     "cantidad": 1001863.0,
@@ -1150,17 +1143,24 @@
                     "porcentaje": 1.96
                 },
                 {
-                    "cantidad": 10018640.0,
+                    "cantidad": 1001863.0,
                     "desde": "2019T4",
-                    "isin": "ES0137474005",
-                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
-                    "porcentaje": 1.85
+                    "isin": "ES0110058007",
+                    "nombre": "CAIXABANK GESTION 60, FI CARTERA",
+                    "porcentaje": 1.96
                 },
                 {
                     "cantidad": 10018640.0,
                     "desde": "2019T4",
                     "isin": "ES0137474013",
                     "nombre": "CAIXABANK DESTINO 2030, FI PLUS",
+                    "porcentaje": 1.85
+                },
+                {
+                    "cantidad": 10018640.0,
+                    "desde": "2019T4",
+                    "isin": "ES0137474005",
+                    "nombre": "CAIXABANK DESTINO 2030, FI ESTÁNDAR",
                     "porcentaje": 1.85
                 },
                 {
@@ -1194,15 +1194,15 @@
                 {
                     "cantidad": 9844954.0,
                     "desde": "2019T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "isin": "ES0113605010",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE AJ",
                     "porcentaje": 1.34
                 },
                 {
                     "cantidad": 9844954.0,
                     "desde": "2019T4",
-                    "isin": "ES0113605010",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE AJ",
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
                     "porcentaje": 1.34
                 },
                 {
@@ -1215,15 +1215,15 @@
                 {
                     "cantidad": 30056483.0,
                     "desde": "2019T4",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
+                    "isin": "ES0164540033",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
                     "porcentaje": 1.2
                 },
                 {
                     "cantidad": 30056483.0,
                     "desde": "2019T4",
-                    "isin": "ES0164540033",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 1.2
                 },
                 {
@@ -1278,29 +1278,29 @@
                 {
                     "cantidad": 500932.0,
                     "desde": "2019T4",
-                    "isin": "ES0137626000",
-                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 500932.0,
-                    "desde": "2019T4",
                     "isin": "ES0137626018",
                     "nombre": "CAIXABANK DESTINO 2040, FI PLUS",
                     "porcentaje": 0.85
                 },
                 {
-                    "cantidad": 20996545.0,
+                    "cantidad": 500932.0,
                     "desde": "2019T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 0.74
+                    "isin": "ES0137626000",
+                    "nombre": "CAIXABANK DESTINO 2040, FI ESTÁNDAR",
+                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 20996545.0,
                     "desde": "2019T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 20996545.0,
+                    "desde": "2019T4",
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
                     "porcentaje": 0.74
                 },
                 {

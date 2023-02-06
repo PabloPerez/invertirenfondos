@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ETF SECURITIES LTD
+title: PARTICIPACIONES ETFS US ENERGY INFRASTRUCTUR
 isin: IE00BHZKHS06
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|XTRACKERS IE PL
+title: Participaciones|XTRACKERS MSCI EMERGING UCITS
 isin: IE00BTJRMP35
 ---

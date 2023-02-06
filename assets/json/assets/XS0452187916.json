@@ -12,8 +12,15 @@
                 {
                     "cantidad": 11365000.0,
                     "desde": "2021T1",
-                    "isin": "ES0174403008",
-                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
+                    "isin": "ES0174403040",
+                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 11365000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0174403057",
+                    "nombre": "SABADELL INTERES EURO, FI PYME",
                     "porcentaje": 0.74
                 },
                 {
@@ -40,29 +47,22 @@
                 {
                     "cantidad": 11365000.0,
                     "desde": "2021T1",
-                    "isin": "ES0174403040",
-                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
+                    "isin": "ES0174403008",
+                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
                     "porcentaje": 0.74
-                },
-                {
-                    "cantidad": 11365000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0174403057",
-                    "nombre": "SABADELL INTERES EURO, FI PYME",
-                    "porcentaje": 0.74
-                },
-                {
-                    "cantidad": 1116197.0,
-                    "desde": "2020T2",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.55
                 },
                 {
                     "cantidad": 1116197.0,
                     "desde": "2020T4",
                     "isin": "ES0176938019",
                     "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 1116197.0,
+                    "desde": "2020T2",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
@@ -82,22 +82,8 @@
                 {
                     "cantidad": 4348000.0,
                     "desde": "2021T1",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 4348000.0,
-                    "desde": "2021T1",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 4348000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.2
                 },
                 {
@@ -112,6 +98,20 @@
                     "desde": "2021T1",
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 4348000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 4348000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.2
                 },
                 {
@@ -135,16 +135,16 @@
                 },
                 {
                     "cantidad": 1118497.0,
-                    "desde": "2020T2",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "desde": "2020T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.57
                 },
                 {
                     "cantidad": 1118497.0,
-                    "desde": "2020T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "desde": "2020T2",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
                     "porcentaje": 0.57
                 }
             ],
@@ -265,29 +265,29 @@
                 {
                     "cantidad": 649201.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 649201.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.37
                 },
                 {
-                    "cantidad": 1839565.0,
+                    "cantidad": 649201.0,
                     "desde": "2015T3",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
-                    "porcentaje": 0.07
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.37
                 },
                 {
                     "cantidad": 1839565.0,
                     "desde": "2015T3",
                     "isin": "ES0164540033",
                     "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 1839565.0,
+                    "desde": "2015T3",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.07
                 },
                 {
@@ -300,15 +300,15 @@
                 {
                     "cantidad": 2877632.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539019",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
+                    "isin": "ES0164539035",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 2877632.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539035",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
+                    "isin": "ES0164539019",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
                     "porcentaje": 0.03
                 }
             ],
@@ -319,29 +319,29 @@
                 {
                     "cantidad": 630652.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 630652.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.33
                 },
                 {
-                    "cantidad": 4998423.0,
+                    "cantidad": 630652.0,
                     "desde": "2015T3",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
-                    "porcentaje": 0.16
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.33
                 },
                 {
                     "cantidad": 4998423.0,
                     "desde": "2015T3",
                     "isin": "ES0164540033",
                     "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 4998423.0,
+                    "desde": "2015T3",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.16
                 },
                 {
@@ -354,15 +354,15 @@
                 {
                     "cantidad": 9068747.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539019",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
+                    "isin": "ES0164539035",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 9068747.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539035",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
+                    "isin": "ES0164539019",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
                     "porcentaje": 0.09
                 }
             ],
@@ -373,29 +373,29 @@
                 {
                     "cantidad": 619021.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 619021.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.29
                 },
                 {
-                    "cantidad": 4906821.0,
+                    "cantidad": 619021.0,
                     "desde": "2015T3",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
-                    "porcentaje": 0.17
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.29
                 },
                 {
                     "cantidad": 4906821.0,
                     "desde": "2015T3",
                     "isin": "ES0164540033",
                     "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 4906821.0,
+                    "desde": "2015T3",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.17
                 },
                 {
@@ -408,15 +408,15 @@
                 {
                     "cantidad": 8902553.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539019",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
+                    "isin": "ES0164539035",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 8902553.0,
                     "desde": "2015T3",
-                    "isin": "ES0164539035",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
+                    "isin": "ES0164539019",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
                     "porcentaje": 0.09
                 }
             ],
@@ -478,7 +478,7 @@
                     "cantidad": 351083.0,
                     "desde": "2013T2",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.2
                 },
                 {
@@ -504,7 +504,7 @@
                     "cantidad": 332870.0,
                     "desde": "2013T2",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.43
                 },
                 {
@@ -523,7 +523,7 @@
                     "cantidad": 323034.0,
                     "desde": "2013T2",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.43
                 }
             ],
@@ -535,7 +535,7 @@
                     "cantidad": 318379.0,
                     "desde": "2013T2",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.52
                 }
             ],
@@ -545,13 +545,6 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
-                    "desde": "2009T3",
-                    "isin": "ES0138047032",
-                    "nombre": "FONDITEL RENTA FIJA MIXTA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2010T3",
                     "isin": "ES0138184009",
                     "nombre": "FONDITEL ALBATROS, FI Clase B",
@@ -562,6 +555,13 @@
                     "desde": "2009T3",
                     "isin": "ES0138184033",
                     "nombre": "FONDITEL ALBATROS, FI Clase A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2009T3",
+                    "isin": "ES0138047032",
+                    "nombre": "FONDITEL RENTA FIJA MIXTA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -571,13 +571,6 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
-                    "desde": "2009T3",
-                    "isin": "ES0138047032",
-                    "nombre": "FONDITEL RENTA FIJA MIXTA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2010T3",
                     "isin": "ES0138184009",
                     "nombre": "FONDITEL ALBATROS, FI Clase B",
@@ -588,6 +581,13 @@
                     "desde": "2009T3",
                     "isin": "ES0138184033",
                     "nombre": "FONDITEL ALBATROS, FI Clase A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2009T3",
+                    "isin": "ES0138047032",
+                    "nombre": "FONDITEL RENTA FIJA MIXTA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -991,5 +991,5 @@
         }
     ],
     "isin": "XS0452187916",
-    "nombre": "OBLIGACION|ENEL FI.NV|05.00|2022-09-14"
+    "nombre": "RENTA FIJA|ENEL SPA|5,00|2022-09-14"
 }

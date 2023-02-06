@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES US AGGREGATE BOND UCIT|
+title: PARTICIPACIONES|Ishares US Aerospace
 isin: IE00BYXYYM63
 ---

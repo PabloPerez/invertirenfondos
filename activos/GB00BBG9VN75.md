@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AVEVA GROUP PLC
+title: Acciones|AVEVA GROUP PLC
 isin: GB00BBG9VN75
 ---

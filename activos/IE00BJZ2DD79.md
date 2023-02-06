@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|XTRACKERS RUSSELL 2000 UCITS
+title: PARTICIPACIONES|ETF DB X-Trackers
 isin: IE00BJZ2DD79
 ---

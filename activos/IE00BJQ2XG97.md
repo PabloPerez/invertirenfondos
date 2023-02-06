@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|MAN GLG ALPHA SELECT
+title: FONDO|MAN FUNDS
 isin: IE00BJQ2XG97
 ---

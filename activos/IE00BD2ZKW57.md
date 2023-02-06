@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|FINISTERRE UNC.EM FX INC.I
+title: Participaciones|PRINCIPAL GLOBAL INVESTORS LTD
 isin: IE00BD2ZKW57
 ---

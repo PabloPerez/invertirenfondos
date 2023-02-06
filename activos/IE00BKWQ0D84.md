@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|S&P ETF EUR
+title: ETF|SPDR MSCI EUROPE CON
 isin: IE00BKWQ0D84
 ---

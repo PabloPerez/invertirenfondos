@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OTRAS|M&G INVESTMENT FUNDS
+title: PARTICIPACIONES|M&G SECURITIES LTD
 isin: GB00BMP3SH07
 ---

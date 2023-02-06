@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: UK TREASURY 2.75 VTO.22|01|2015
+title: Treasury Ukt 2,75% 220115
 isin: GB00B4LFZR36
 ---

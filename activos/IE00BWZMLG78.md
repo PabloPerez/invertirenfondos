@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ODEY ASSET MANAGEMEN
+title: PARTICIPACIONES|46290671 Odey European Focus Fund
 isin: IE00BWZMLG78
 ---

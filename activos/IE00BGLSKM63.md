@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|IPM SYSTEMATIC MACRO UCI
+title: Participaciones|IPM UCITS UMBRELLA ICAV
 isin: IE00BGLSKM63
 ---

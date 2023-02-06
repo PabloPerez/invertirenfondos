@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ADIDAS
+title: AC.ADIDAS AG
 isin: DE000A1EWWW0
 ---

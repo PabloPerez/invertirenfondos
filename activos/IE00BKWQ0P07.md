@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: PARTICIPACIONES|ETF SPDR Europe Util
 isin: IE00BKWQ0P07
 ---

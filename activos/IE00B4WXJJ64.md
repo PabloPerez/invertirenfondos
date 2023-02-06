@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES CORE GOVT BOND U
+title: ETN|ISHARES ETFS|IR
 isin: IE00B4WXJJ64
 ---

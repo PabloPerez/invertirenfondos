@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Xtrackers MSCI N
+title: FONDOS|XTRACKERS MSCI NORDI
 isin: IE00B9MRHC27
 ---

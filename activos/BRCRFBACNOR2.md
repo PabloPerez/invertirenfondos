@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ATACADAO CARREFOUR SA
+title: ACCIONES|ATACADAO SA
 isin: BRCRFBACNOR2
 ---

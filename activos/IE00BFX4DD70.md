@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BAILLIE GIFFORD
+title: Baillie Gifford Worldwide Alpha B EUR A
 isin: IE00BFX4DD70
 ---

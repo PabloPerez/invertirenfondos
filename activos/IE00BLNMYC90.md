@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC ETF Xtrackers S&P 500 Equal Weight UCITS
+title: PARTICIPACIONES|ETF Xtrackers MSCI W
 isin: IE00BLNMYC90
 ---

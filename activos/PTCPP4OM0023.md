@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|SANT.TOTTA|03.75|2012-06-12
+title: SANTANDER TOTTA 12|06|2012
 isin: PTCPP4OM0023
 ---

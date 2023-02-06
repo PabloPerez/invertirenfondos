@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES USD SHORT DU
+title: PARTICIPACIO|ISHARES USD SHORT DUR CP BND
 isin: IE00BCRY5Y77
 ---

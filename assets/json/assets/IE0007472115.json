@@ -17,6 +17,25 @@
                     "porcentaje": 0.0
                 }
             ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T4",
+                    "isin": "ES0143673004",
+                    "nombre": "CS DIRECTOR GROWTH, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T3",
+                    "isin": "ES0143673038",
+                    "nombre": "CS DIRECTOR GROWTH, FI CLASE B",
+                    "porcentaje": 0.0
+                }
+            ],
             "periodo": "2022T3"
         },
         {
@@ -37,6 +56,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2020T1",
+                    "isin": "ES0165121031",
+                    "nombre": "CS DIRECTOR BOND FOCUS, FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2019T4",
                     "isin": "ES0125102030",
                     "nombre": "CS DIRECTOR FLEXIBLE, FI",
@@ -47,13 +73,6 @@
                     "desde": "2020T1",
                     "isin": "ES0125126039",
                     "nombre": "CS DIRECTOR INCOME, FI",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0165121031",
-                    "nombre": "CS DIRECTOR BOND FOCUS, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -77,6 +96,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2020T1",
+                    "isin": "ES0165121031",
+                    "nombre": "CS DIRECTOR BOND FOCUS, FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2019T4",
                     "isin": "ES0125102030",
                     "nombre": "CS DIRECTOR FLEXIBLE, FI",
@@ -87,13 +113,6 @@
                     "desde": "2020T1",
                     "isin": "ES0125126039",
                     "nombre": "CS DIRECTOR INCOME, FI",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0165121031",
-                    "nombre": "CS DIRECTOR BOND FOCUS, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -436,15 +455,15 @@
                 {
                     "cantidad": 61622983.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "isin": "ES0175835018",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 2.05
                 },
                 {
                     "cantidad": 61622983.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835018",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
                     "porcentaje": 2.05
                 },
                 {
@@ -457,29 +476,29 @@
                 {
                     "cantidad": 70376524.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.92
-                },
-                {
-                    "cantidad": 70376524.0,
-                    "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
                     "porcentaje": 1.92
                 },
                 {
-                    "cantidad": 9462512.0,
+                    "cantidad": 70376524.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 1.83
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
+                    "porcentaje": 1.92
                 },
                 {
                     "cantidad": 9462512.0,
                     "desde": "2016T4",
                     "isin": "ES0113605010",
                     "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE AJ",
+                    "porcentaje": 1.83
+                },
+                {
+                    "cantidad": 9462512.0,
+                    "desde": "2016T4",
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
                     "porcentaje": 1.83
                 }
             ],
@@ -490,23 +509,16 @@
                 {
                     "cantidad": 211627733.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.8
-                },
-                {
-                    "cantidad": 211627733.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.8
                 },
                 {
-                    "cantidad": 13335176.0,
+                    "cantidad": 211627733.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 2.8
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.8
                 },
                 {
                     "cantidad": 13335176.0,
@@ -516,17 +528,24 @@
                     "porcentaje": 2.8
                 },
                 {
-                    "cantidad": 38675585.0,
+                    "cantidad": 13335176.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.09
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 2.8
                 },
                 {
                     "cantidad": 38675585.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 38675585.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.09
                 }
             ],
@@ -537,23 +556,16 @@
                 {
                     "cantidad": 209150214.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.53
-                },
-                {
-                    "cantidad": 209150214.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.53
                 },
                 {
-                    "cantidad": 13179061.0,
+                    "cantidad": 209150214.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 2.93
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.53
                 },
                 {
                     "cantidad": 13179061.0,
@@ -563,17 +575,24 @@
                     "porcentaje": 2.93
                 },
                 {
-                    "cantidad": 38222811.0,
+                    "cantidad": 13179061.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.12
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 2.93
                 },
                 {
                     "cantidad": 38222811.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 38222811.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.12
                 }
             ],
@@ -584,23 +603,16 @@
                 {
                     "cantidad": 223056662.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.71
-                },
-                {
-                    "cantidad": 223056662.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.71
                 },
                 {
-                    "cantidad": 13117310.0,
+                    "cantidad": 223056662.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 3.07
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.71
                 },
                 {
                     "cantidad": 13117310.0,
@@ -610,17 +622,24 @@
                     "porcentaje": 3.07
                 },
                 {
-                    "cantidad": 37002953.0,
+                    "cantidad": 13117310.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.1
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 3.07
                 },
                 {
                     "cantidad": 37002953.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 37002953.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.1
                 }
             ],
@@ -631,23 +650,16 @@
                 {
                     "cantidad": 227007562.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.58
-                },
-                {
-                    "cantidad": 227007562.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.58
                 },
                 {
-                    "cantidad": 13660980.0,
+                    "cantidad": 227007562.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 3.13
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.58
                 },
                 {
                     "cantidad": 13660980.0,
@@ -657,17 +669,24 @@
                     "porcentaje": 3.13
                 },
                 {
-                    "cantidad": 36833142.0,
+                    "cantidad": 13660980.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.08
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 3.13
                 },
                 {
                     "cantidad": 36833142.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 36833142.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.08
                 }
             ],
@@ -678,23 +697,16 @@
                 {
                     "cantidad": 245864911.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.68
-                },
-                {
-                    "cantidad": 245864911.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.68
                 },
                 {
-                    "cantidad": 12899952.0,
+                    "cantidad": 245864911.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 2.92
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.68
                 },
                 {
                     "cantidad": 12899952.0,
@@ -704,17 +716,24 @@
                     "porcentaje": 2.92
                 },
                 {
-                    "cantidad": 36675898.0,
+                    "cantidad": 12899952.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.08
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 2.92
                 },
                 {
                     "cantidad": 36675898.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 36675898.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.08
                 }
             ],
@@ -725,23 +744,16 @@
                 {
                     "cantidad": 262842671.0,
                     "desde": "2016T4",
-                    "isin": "ES0175835000",
-                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
-                    "porcentaje": 6.69
-                },
-                {
-                    "cantidad": 262842671.0,
-                    "desde": "2016T4",
                     "isin": "ES0175835018",
                     "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE AJ",
                     "porcentaje": 6.69
                 },
                 {
-                    "cantidad": 13093355.0,
+                    "cantidad": 262842671.0,
                     "desde": "2016T4",
-                    "isin": "ES0113605002",
-                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
-                    "porcentaje": 3.08
+                    "isin": "ES0175835000",
+                    "nombre": "SANTANDER GESTION GLOBAL CRECIMIENTO, FI CLASE S",
+                    "porcentaje": 6.69
                 },
                 {
                     "cantidad": 13093355.0,
@@ -751,17 +763,24 @@
                     "porcentaje": 3.08
                 },
                 {
-                    "cantidad": 37225765.0,
+                    "cantidad": 13093355.0,
                     "desde": "2016T4",
-                    "isin": "ES0107781009",
-                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
-                    "porcentaje": 1.14
+                    "isin": "ES0113605002",
+                    "nombre": "SANTANDER GESTION GLOBAL EQUILIBRADO, FI CLASE S",
+                    "porcentaje": 3.08
                 },
                 {
                     "cantidad": 37225765.0,
                     "desde": "2016T4",
                     "isin": "ES0107781017",
                     "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE AJ",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 37225765.0,
+                    "desde": "2016T4",
+                    "isin": "ES0107781009",
+                    "nombre": "MI FONDO SANTANDER MODERADO, FI CLASE S",
                     "porcentaje": 1.14
                 }
             ],
@@ -800,5 +819,5 @@
         }
     ],
     "isin": "IE0007472115",
-    "nombre": "PARTICIPACIONES|VANGUARD INVESTMENT SERI"
+    "nombre": "PARTICIPACIONES|VANGUARD GROUP IRELAND LTD"
 }

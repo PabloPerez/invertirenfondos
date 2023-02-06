@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|HEPTAGON FUNDS
+title: Participaciones|HEPTAGON
 isin: IE00BH6XSF26
 ---

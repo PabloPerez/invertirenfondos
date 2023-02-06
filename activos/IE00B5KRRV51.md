@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|UBS IRL INV SEL
+title: PARTICIPACIONES|UBS Irl Gl Emer
 isin: IE00B5KRRV51
 ---

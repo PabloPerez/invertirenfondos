@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|PLAMBECK N ENERG
+title: ACCIONES|PNE Wind AG
 isin: DE000A0JBPG2
 ---

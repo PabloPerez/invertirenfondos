@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|100157 Banco Comercial Portugues SA|4,50|2022-12-07
+title: OBLIGACION|BANCO COMERCIAL PORT|6,88|2027-12-07
 isin: PTBCPWOM0034
 ---

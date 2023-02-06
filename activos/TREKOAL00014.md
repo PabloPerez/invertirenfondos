@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|KOZA ALTIN ISLETMELE
+title: AC.KOZA ALTIN ISTELMELERI (TRY)
 isin: TREKOAL00014
 ---

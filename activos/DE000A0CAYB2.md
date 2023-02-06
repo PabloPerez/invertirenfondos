@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|WINCOR NIXDORF AG
+title: Ac.Wincor Nixdorf AG
 isin: DE000A0CAYB2
 ---

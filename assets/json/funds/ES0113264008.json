@@ -1,7 +1,27 @@
 {
     "auditora": "-",
     "fecha_registro": "21/10/2022",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 1.33,
+            "indice_rotacion": 0.0,
+            "liquidez": 52.41,
+            "participes": 10,
+            "patrimonio": 617718,
+            "periodo": "2022T4",
+            "posiciones": [
+                {
+                    "cantidad": 299780.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000121G2",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|1,51|2023-01-02",
+                    "porcentaje": 48.53
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5677,
     "id_cnmv_depositaria": 236,
     "id_cnmv_gestora": 15,

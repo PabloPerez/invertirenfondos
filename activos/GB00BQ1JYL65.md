@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|RollsRoyce Holdings PLC
+title: ACCIONES|ROLLS-ROYCE HOLD
 isin: GB00BQ1JYL65
 ---

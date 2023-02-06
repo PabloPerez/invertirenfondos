@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SCS GROUP PLC
+title: ACCIONES|SCS GROUP PLC
 isin: GB00BRF0TJ56
 ---

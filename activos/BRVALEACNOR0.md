@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.CIA VALE DO RIO DOCE (BRL)
+title: ACCIONES|VALE SA
 isin: BRVALEACNOR0
 ---

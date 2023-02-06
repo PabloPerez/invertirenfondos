@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO.BCO.COM.PORTUGUES 9,25% VT.12|10|14
+title: BONO|BANCO COMERCIAL PORT|9,25|2014-10-13
 isin: PTBCQWOM0033
 ---

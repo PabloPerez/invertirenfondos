@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|KFW|0,375|2025-04-23
+title: KFW 0,375% 230425
 isin: DE000A2GSNW0
 ---

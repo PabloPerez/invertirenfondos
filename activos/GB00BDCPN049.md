@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|COCA-COLA EURPEAN P
+title: ACCIONES|COCA COLA EUROP
 isin: GB00BDCPN049
 ---

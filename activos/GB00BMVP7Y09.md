@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Royalty Pharma PLC
+title: ACCIONES|ROYALTY PHARMA PLC
 isin: GB00BMVP7Y09
 ---

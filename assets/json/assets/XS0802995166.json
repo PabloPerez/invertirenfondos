@@ -4,9 +4,16 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
+                    "desde": "2020T2",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
@@ -16,6 +23,18 @@
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
                     "porcentaje": 0.0
                 },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
                 {
                     "cantidad": 0.0,
                     "desde": "2020T2",
@@ -28,6 +47,20 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -58,24 +91,17 @@
                 },
                 {
                     "cantidad": 861000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0165197007",
-                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
-                    "porcentaje": 1.24
-                },
-                {
-                    "cantidad": 861000.0,
                     "desde": "2021T3",
                     "isin": "ES0165197031",
                     "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE R",
                     "porcentaje": 1.24
                 },
                 {
-                    "cantidad": 14247078.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 1.11
+                    "cantidad": 861000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0165197007",
+                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
+                    "porcentaje": 1.24
                 },
                 {
                     "cantidad": 14247078.0,
@@ -92,6 +118,13 @@
                     "porcentaje": 1.11
                 },
                 {
+                    "cantidad": 14247078.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 1.11
+                },
+                {
                     "cantidad": 2865165.0,
                     "desde": "2017T3",
                     "isin": "ES0162916037",
@@ -101,43 +134,22 @@
                 {
                     "cantidad": 14564354.0,
                     "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.92
-                },
-                {
-                    "cantidad": 14564354.0,
-                    "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.92
                 },
                 {
-                    "cantidad": 36227466.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 36227466.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.9
+                    "cantidad": 14564354.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.92
                 },
                 {
                     "cantidad": 36227466.0,
                     "desde": "2021T3",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 36227466.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 0.9
                 },
                 {
@@ -150,8 +162,29 @@
                 {
                     "cantidad": 36227466.0,
                     "desde": "2021T3",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 36227466.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 36227466.0,
+                    "desde": "2021T3",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 36227466.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.9
                 },
                 {
@@ -163,16 +196,16 @@
                 },
                 {
                     "cantidad": 916000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0138901030",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.38
                 },
                 {
                     "cantidad": 916000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "desde": "2018T1",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.38
                 },
                 {
@@ -199,22 +232,8 @@
                 {
                     "cantidad": 1571681.0,
                     "desde": "2021T4",
-                    "isin": "ES0112899002",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 1571681.0,
-                    "desde": "2021T4",
                     "isin": "ES0112899010",
                     "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 1571681.0,
-                    "desde": "2021T4",
-                    "isin": "ES0112899028",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE INTERNA",
                     "porcentaje": 0.34
                 },
                 {
@@ -225,10 +244,24 @@
                     "porcentaje": 0.34
                 },
                 {
+                    "cantidad": 1571681.0,
+                    "desde": "2021T4",
+                    "isin": "ES0112899002",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.34
+                },
+                {
                     "cantidad": 515550.0,
                     "desde": "2019T2",
                     "isin": "ES0138516010",
                     "nombre": "MICROBANK FONDO ETICO, FI CARTERA",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 1571681.0,
+                    "desde": "2021T4",
+                    "isin": "ES0112899028",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE INTERNA",
                     "porcentaje": 0.34
                 },
                 {
@@ -253,10 +286,17 @@
                     "porcentaje": 0.27
                 },
                 {
+                    "cantidad": 239973.0,
+                    "desde": "2020T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.13
+                },
+                {
                     "cantidad": 1250372.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.13
                 },
                 {
@@ -269,8 +309,8 @@
                 {
                     "cantidad": 1250372.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.13
                 },
                 {
@@ -278,13 +318,6 @@
                     "desde": "2019T1",
                     "isin": "ES0176938001",
                     "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 239973.0,
-                    "desde": "2020T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.13
                 },
                 {
@@ -308,16 +341,16 @@
                 },
                 {
                     "cantidad": 239134.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.44
                 },
                 {
                     "cantidad": 239134.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.44
                 },
                 {
@@ -343,24 +376,17 @@
                 },
                 {
                     "cantidad": 861000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0165197007",
-                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
-                    "porcentaje": 1.23
-                },
-                {
-                    "cantidad": 861000.0,
                     "desde": "2021T3",
                     "isin": "ES0165197031",
                     "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE R",
                     "porcentaje": 1.23
                 },
                 {
-                    "cantidad": 14318679.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 1.09
+                    "cantidad": 861000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0165197007",
+                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
+                    "porcentaje": 1.23
                 },
                 {
                     "cantidad": 14318679.0,
@@ -377,6 +403,13 @@
                     "porcentaje": 1.09
                 },
                 {
+                    "cantidad": 14318679.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 1.09
+                },
+                {
                     "cantidad": 2871032.0,
                     "desde": "2017T3",
                     "isin": "ES0162916037",
@@ -386,43 +419,22 @@
                 {
                     "cantidad": 14572674.0,
                     "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.94
-                },
-                {
-                    "cantidad": 14572674.0,
-                    "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.94
                 },
                 {
-                    "cantidad": 31881077.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.79
-                },
-                {
-                    "cantidad": 31881077.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.79
+                    "cantidad": 14572674.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.94
                 },
                 {
                     "cantidad": 31881077.0,
                     "desde": "2021T3",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.79
-                },
-                {
-                    "cantidad": 31881077.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 0.79
                 },
                 {
@@ -435,8 +447,29 @@
                 {
                     "cantidad": 31881077.0,
                     "desde": "2021T3",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 31881077.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 31881077.0,
+                    "desde": "2021T3",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 31881077.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.79
                 },
                 {
@@ -448,16 +481,16 @@
                 },
                 {
                     "cantidad": 917000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0138901030",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.34
                 },
                 {
                     "cantidad": 917000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "desde": "2018T1",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.34
                 },
                 {
@@ -484,22 +517,8 @@
                 {
                     "cantidad": 1571419.0,
                     "desde": "2021T4",
-                    "isin": "ES0112899002",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 1571419.0,
-                    "desde": "2021T4",
                     "isin": "ES0112899010",
                     "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 1571419.0,
-                    "desde": "2021T4",
-                    "isin": "ES0112899028",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE INTERNA",
                     "porcentaje": 0.3
                 },
                 {
@@ -510,10 +529,24 @@
                     "porcentaje": 0.3
                 },
                 {
+                    "cantidad": 1571419.0,
+                    "desde": "2021T4",
+                    "isin": "ES0112899002",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.3
+                },
+                {
                     "cantidad": 516251.0,
                     "desde": "2019T2",
                     "isin": "ES0138516010",
                     "nombre": "MICROBANK FONDO ETICO, FI CARTERA",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 1571419.0,
+                    "desde": "2021T4",
+                    "isin": "ES0112899028",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE INTERNA",
                     "porcentaje": 0.3
                 },
                 {
@@ -539,23 +572,23 @@
                 },
                 {
                     "cantidad": 240510.0,
-                    "desde": "2019T1",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 240510.0,
                     "desde": "2020T4",
                     "isin": "ES0176938019",
                     "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.13
                 },
                 {
+                    "cantidad": 240510.0,
+                    "desde": "2019T1",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.13
+                },
+                {
                     "cantidad": 1252866.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.12
                 },
                 {
@@ -568,8 +601,8 @@
                 {
                     "cantidad": 1252866.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.12
                 }
             ],
@@ -586,16 +619,16 @@
                 },
                 {
                     "cantidad": 241702.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.4
                 },
                 {
                     "cantidad": 241702.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.4
                 },
                 {
@@ -621,31 +654,17 @@
                 },
                 {
                     "cantidad": 862000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0165197007",
-                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
-                    "porcentaje": 1.29
-                },
-                {
-                    "cantidad": 862000.0,
                     "desde": "2021T3",
                     "isin": "ES0165197031",
                     "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE R",
                     "porcentaje": 1.29
                 },
                 {
-                    "cantidad": 2880881.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
-                    "porcentaje": 0.95
-                },
-                {
-                    "cantidad": 14408653.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.95
+                    "cantidad": 862000.0,
+                    "desde": "2021T1",
+                    "isin": "ES0165197007",
+                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
+                    "porcentaje": 1.29
                 },
                 {
                     "cantidad": 14408653.0,
@@ -662,17 +681,31 @@
                     "porcentaje": 0.95
                 },
                 {
-                    "cantidad": 14600057.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.92
+                    "cantidad": 14408653.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 2880881.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
+                    "porcentaje": 0.95
                 },
                 {
                     "cantidad": 14600057.0,
                     "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 14600057.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.92
                 },
                 {
@@ -685,29 +718,8 @@
                 {
                     "cantidad": 12541702.0,
                     "desde": "2021T3",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.32
-                },
-                {
-                    "cantidad": 12541702.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.32
-                },
-                {
-                    "cantidad": 12541702.0,
-                    "desde": "2021T3",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.32
-                },
-                {
-                    "cantidad": 12541702.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 0.32
                 },
                 {
@@ -720,8 +732,8 @@
                 {
                     "cantidad": 12541702.0,
                     "desde": "2021T3",
-                    "isin": "ES0138045051",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
                     "porcentaje": 0.32
                 },
                 {
@@ -732,6 +744,13 @@
                     "porcentaje": 0.32
                 },
                 {
+                    "cantidad": 12541702.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.32
+                },
+                {
                     "cantidad": 3618713.0,
                     "desde": "2020T4",
                     "isin": "ES0146791019",
@@ -739,17 +758,31 @@
                     "porcentaje": 0.32
                 },
                 {
-                    "cantidad": 918000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.31
+                    "cantidad": 12541702.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045051",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 12541702.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.32
                 },
                 {
                     "cantidad": 918000.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 918000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.31
                 },
                 {
@@ -797,15 +830,15 @@
                 {
                     "cantidad": 1573572.0,
                     "desde": "2021T4",
-                    "isin": "ES0112899002",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
+                    "isin": "ES0112899010",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
                     "porcentaje": 0.25
                 },
                 {
                     "cantidad": 1573572.0,
                     "desde": "2021T4",
-                    "isin": "ES0112899010",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
+                    "isin": "ES0112899002",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
                     "porcentaje": 0.25
                 },
                 {
@@ -817,23 +850,23 @@
                 },
                 {
                     "cantidad": 241334.0,
-                    "desde": "2019T1",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 241334.0,
                     "desde": "2020T4",
                     "isin": "ES0176938019",
                     "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.15
                 },
                 {
+                    "cantidad": 241334.0,
+                    "desde": "2019T1",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.15
+                },
+                {
                     "cantidad": 1256799.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.13
                 },
                 {
@@ -846,23 +879,9 @@
                 {
                     "cantidad": 1256799.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
@@ -876,6 +895,20 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -892,16 +925,16 @@
                 },
                 {
                     "cantidad": 244104.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.37
                 },
                 {
                     "cantidad": 244104.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.37
                 },
                 {
@@ -927,16 +960,16 @@
                 },
                 {
                     "cantidad": 862000.0,
-                    "desde": "2021T1",
-                    "isin": "ES0165197007",
-                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0165197031",
+                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE R",
                     "porcentaje": 1.14
                 },
                 {
                     "cantidad": 862000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0165197031",
-                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE R",
+                    "desde": "2021T1",
+                    "isin": "ES0165197007",
+                    "nombre": "FONDMAPFRE RENTA CORTO, FI CLASE C",
                     "porcentaje": 1.14
                 },
                 {
@@ -945,13 +978,6 @@
                     "isin": "ES0162916037",
                     "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 0.94
-                },
-                {
-                    "cantidad": 14488662.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.93
                 },
                 {
                     "cantidad": 14488662.0,
@@ -968,17 +994,24 @@
                     "porcentaje": 0.93
                 },
                 {
-                    "cantidad": 14615422.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.91
+                    "cantidad": 14488662.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.93
                 },
                 {
                     "cantidad": 14615422.0,
                     "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 14615422.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.91
                 },
                 {
@@ -1010,20 +1043,6 @@
                     "porcentaje": 0.32
                 },
                 {
-                    "cantidad": 518471.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138516010",
-                    "nombre": "MICROBANK FONDO ETICO, FI CARTERA",
-                    "porcentaje": 0.32
-                },
-                {
-                    "cantidad": 518471.0,
-                    "desde": "2017T4",
-                    "isin": "ES0138516036",
-                    "nombre": "MICROBANK FONDO ETICO, FI ESTÁNDAR",
-                    "porcentaje": 0.32
-                },
-                {
                     "cantidad": 3621541.0,
                     "desde": "2020T4",
                     "isin": "ES0146791001",
@@ -1031,10 +1050,24 @@
                     "porcentaje": 0.32
                 },
                 {
+                    "cantidad": 518471.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138516010",
+                    "nombre": "MICROBANK FONDO ETICO, FI CARTERA",
+                    "porcentaje": 0.32
+                },
+                {
                     "cantidad": 3621541.0,
                     "desde": "2020T4",
                     "isin": "ES0146791019",
                     "nombre": "IBERCAJA AHORRO RENTA FIJA, FI CLASE B",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 518471.0,
+                    "desde": "2017T4",
+                    "isin": "ES0138516036",
+                    "nombre": "MICROBANK FONDO ETICO, FI ESTÁNDAR",
                     "porcentaje": 0.32
                 },
                 {
@@ -1046,23 +1079,23 @@
                 },
                 {
                     "cantidad": 919000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.31
-                },
-                {
-                    "cantidad": 919000.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.31
                 },
                 {
+                    "cantidad": 919000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "porcentaje": 0.31
+                },
+                {
                     "cantidad": 1259843.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.15
                 },
                 {
@@ -1075,16 +1108,9 @@
                 {
                     "cantidad": 1259843.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 241981.0,
-                    "desde": "2019T1",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 241981.0,
@@ -1094,31 +1120,17 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 4680262.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 4680262.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.12
+                    "cantidad": 241981.0,
+                    "desde": "2019T1",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 4680262.0,
                     "desde": "2021T3",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 4680262.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 0.12
                 },
                 {
@@ -1131,23 +1143,30 @@
                 {
                     "cantidad": 4680262.0,
                     "desde": "2021T3",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 4680262.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 4680262.0,
+                    "desde": "2021T3",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.0
+                    "cantidad": 4680262.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 0.0,
@@ -1161,6 +1180,20 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -1177,16 +1210,16 @@
                 },
                 {
                     "cantidad": 246373.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.62
                 },
                 {
                     "cantidad": 246373.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.62
                 },
                 {
@@ -1213,13 +1246,6 @@
                 {
                     "cantidad": 14560745.0,
                     "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 14560745.0,
-                    "desde": "2020T2",
                     "isin": "ES0165142011",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
                     "porcentaje": 1.0
@@ -1232,6 +1258,13 @@
                     "porcentaje": 1.0
                 },
                 {
+                    "cantidad": 14560745.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 1.0
+                },
+                {
                     "cantidad": 3060256.0,
                     "desde": "2017T3",
                     "isin": "ES0162916037",
@@ -1241,29 +1274,29 @@
                 {
                     "cantidad": 14617947.0,
                     "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 14617947.0,
-                    "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.93
                 },
                 {
-                    "cantidad": 257000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138820008",
-                    "nombre": "FONDMAPFRE RENTA FIJA FLEXIBLE, FI CLASE C",
-                    "porcentaje": 0.65
+                    "cantidad": 14617947.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.93
                 },
                 {
                     "cantidad": 897066.0,
                     "desde": "2020T4",
                     "isin": "ES0183091000",
                     "nombre": "BESTINVER CORTO PLAZO, FI",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 257000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138820008",
+                    "nombre": "FONDMAPFRE RENTA FIJA FLEXIBLE, FI CLASE C",
                     "porcentaje": 0.65
                 },
                 {
@@ -1318,8 +1351,8 @@
                 {
                     "cantidad": 1261901.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.15
                 },
                 {
@@ -1332,9 +1365,16 @@
                 {
                     "cantidad": 1261901.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 242431.0,
+                    "desde": "2020T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 386000.0,
@@ -1348,13 +1388,6 @@
                     "desde": "2019T1",
                     "isin": "ES0176938001",
                     "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 242431.0,
-                    "desde": "2020T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.13
                 }
             ],
@@ -1371,16 +1404,16 @@
                 },
                 {
                     "cantidad": 248236.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.63
                 },
                 {
                     "cantidad": 248236.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.63
                 },
                 {
@@ -1414,13 +1447,6 @@
                 {
                     "cantidad": 14616326.0,
                     "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 14616326.0,
-                    "desde": "2020T2",
                     "isin": "ES0165142011",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
                     "porcentaje": 0.98
@@ -1433,17 +1459,24 @@
                     "porcentaje": 0.98
                 },
                 {
-                    "cantidad": 14606221.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.93
+                    "cantidad": 14616326.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.98
                 },
                 {
                     "cantidad": 14606221.0,
                     "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 14606221.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.93
                 },
                 {
@@ -1512,8 +1545,8 @@
                 {
                     "cantidad": 1262952.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.18
                 },
                 {
@@ -1526,8 +1559,8 @@
                 {
                     "cantidad": 1262952.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.18
                 },
                 {
@@ -1539,16 +1572,16 @@
                 },
                 {
                     "cantidad": 242681.0,
-                    "desde": "2019T1",
-                    "isin": "ES0176938001",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "desde": "2020T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.12
                 },
                 {
                     "cantidad": 242681.0,
-                    "desde": "2020T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "desde": "2019T1",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
                     "porcentaje": 0.12
                 }
             ],
@@ -1565,16 +1598,16 @@
                 },
                 {
                     "cantidad": 250628.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 2.93
                 },
                 {
                     "cantidad": 250628.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 2.93
                 },
                 {
@@ -1599,34 +1632,6 @@
                     "porcentaje": 2.25
                 },
                 {
-                    "cantidad": 14617060.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 14617060.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 3071404.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 14703487.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 0.98
-                },
-                {
                     "cantidad": 14703487.0,
                     "desde": "2020T2",
                     "isin": "ES0165142011",
@@ -1638,6 +1643,34 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 14617060.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 14617060.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 14703487.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 3071404.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 0.98
                 },
                 {
@@ -1699,8 +1732,8 @@
                 {
                     "cantidad": 1265712.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.2
                 },
                 {
@@ -1713,8 +1746,8 @@
                 {
                     "cantidad": 1265712.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.2
                 },
                 {
@@ -1727,8 +1760,8 @@
                 {
                     "cantidad": 250904.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.12
                 },
                 {
@@ -1739,17 +1772,17 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 250904.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
+                    "cantidad": 243272.0,
+                    "desde": "2020T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.12
                 },
                 {
                     "cantidad": 250904.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.12
                 },
                 {
@@ -1762,8 +1795,15 @@
                 {
                     "cantidad": 250904.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 250904.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.12
                 },
                 {
@@ -1774,17 +1814,10 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 243272.0,
-                    "desde": "2020T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
-                    "porcentaje": 0.12
-                },
-                {
                     "cantidad": 752710.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.08
                 },
                 {
@@ -1797,15 +1830,15 @@
                 {
                     "cantidad": 752710.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 752710.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.08
                 },
                 {
@@ -1818,22 +1851,22 @@
                 {
                     "cantidad": 752710.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
-                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2018T1",
                     "isin": "ES0113231015",
                     "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2018T1",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -1850,16 +1883,16 @@
                 },
                 {
                     "cantidad": 251938.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 3.1
                 },
                 {
                     "cantidad": 251938.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 3.1
                 },
                 {
@@ -1907,30 +1940,16 @@
                 {
                     "cantidad": 14558046.0,
                     "desde": "2020T3",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 1.09
-                },
-                {
-                    "cantidad": 14558046.0,
-                    "desde": "2020T3",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 1.09
                 },
                 {
-                    "cantidad": 3063950.0,
-                    "desde": "2017T3",
-                    "isin": "ES0162916037",
-                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 14712357.0,
-                    "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 1.0
+                    "cantidad": 14558046.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 1.09
                 },
                 {
                     "cantidad": 14712357.0,
@@ -1944,6 +1963,20 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 14712357.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 3063950.0,
+                    "desde": "2017T3",
+                    "isin": "ES0162916037",
+                    "nombre": "FON FINECO RENTA FIJA PLUS, FI",
                     "porcentaje": 1.0
                 },
                 {
@@ -1977,8 +2010,8 @@
                 {
                     "cantidad": 1263135.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.22
                 },
                 {
@@ -1991,8 +2024,8 @@
                 {
                     "cantidad": 1263135.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.22
                 },
                 {
@@ -2005,8 +2038,8 @@
                 {
                     "cantidad": 250585.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.12
                 },
                 {
@@ -2019,15 +2052,8 @@
                 {
                     "cantidad": 250585.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 250585.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.12
                 },
                 {
@@ -2040,8 +2066,15 @@
                 {
                     "cantidad": 250585.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 250585.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.12
                 },
                 {
@@ -2054,8 +2087,8 @@
                 {
                     "cantidad": 751754.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.09
                 },
                 {
@@ -2068,15 +2101,15 @@
                 {
                     "cantidad": 751754.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 751754.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.09
                 },
                 {
@@ -2089,22 +2122,22 @@
                 {
                     "cantidad": 751754.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
-                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2018T1",
                     "isin": "ES0113231015",
                     "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2018T1",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -2121,30 +2154,30 @@
                 },
                 {
                     "cantidad": 252189.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
-                    "porcentaje": 3.07
-                },
-                {
-                    "cantidad": 252189.0,
                     "desde": "2019T2",
                     "isin": "ES0108686033",
                     "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 3.07
                 },
                 {
-                    "cantidad": 678558.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
-                    "porcentaje": 1.23
+                    "cantidad": 252189.0,
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "porcentaje": 3.07
                 },
                 {
                     "cantidad": 678558.0,
                     "desde": "2018T1",
                     "isin": "ES0113231015",
                     "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "porcentaje": 1.23
+                },
+                {
+                    "cantidad": 678558.0,
+                    "desde": "2018T1",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.23
                 },
                 {
@@ -2178,13 +2211,6 @@
                 {
                     "cantidad": 14803685.0,
                     "desde": "2020T2",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
-                    "porcentaje": 1.01
-                },
-                {
-                    "cantidad": 14803685.0,
-                    "desde": "2020T2",
                     "isin": "ES0165142011",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
                     "porcentaje": 1.01
@@ -2194,6 +2220,13 @@
                     "desde": "2020T2",
                     "isin": "ES0165142037",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 14803685.0,
+                    "desde": "2020T2",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
                     "porcentaje": 1.01
                 },
                 {
@@ -2227,8 +2260,8 @@
                 {
                     "cantidad": 1255934.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.22
                 },
                 {
@@ -2241,8 +2274,8 @@
                 {
                     "cantidad": 1255934.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.22
                 },
                 {
@@ -2255,8 +2288,8 @@
                 {
                     "cantidad": 249181.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.13
                 },
                 {
@@ -2269,15 +2302,8 @@
                 {
                     "cantidad": 249181.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 249181.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.13
                 },
                 {
@@ -2290,8 +2316,15 @@
                 {
                     "cantidad": 249181.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 249181.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.13
                 },
                 {
@@ -2304,8 +2337,8 @@
                 {
                     "cantidad": 747542.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.1
                 },
                 {
@@ -2318,15 +2351,15 @@
                 {
                     "cantidad": 747542.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 747542.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.1
                 },
                 {
@@ -2339,8 +2372,8 @@
                 {
                     "cantidad": 747542.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.1
                 }
             ],
@@ -2357,16 +2390,16 @@
                 },
                 {
                     "cantidad": 242707.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 3.14
                 },
                 {
                     "cantidad": 242707.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 3.14
                 },
                 {
@@ -2393,15 +2426,15 @@
                 {
                     "cantidad": 650994.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.2
                 },
                 {
                     "cantidad": 650994.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.2
                 },
                 {
@@ -2463,15 +2496,15 @@
                 {
                     "cantidad": 244000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 244000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.55
                 },
                 {
@@ -2491,8 +2524,8 @@
                 {
                     "cantidad": 1202505.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.22
                 },
                 {
@@ -2505,8 +2538,8 @@
                 {
                     "cantidad": 1202505.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.22
                 },
                 {
@@ -2519,8 +2552,8 @@
                 {
                     "cantidad": 238102.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.13
                 },
                 {
@@ -2533,15 +2566,8 @@
                 {
                     "cantidad": 238102.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 238102.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.13
                 },
                 {
@@ -2554,8 +2580,15 @@
                 {
                     "cantidad": 238102.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 238102.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.13
                 },
                 {
@@ -2568,8 +2601,8 @@
                 {
                     "cantidad": 714307.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.1
                 },
                 {
@@ -2582,15 +2615,15 @@
                 {
                     "cantidad": 714307.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 714307.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.1
                 },
                 {
@@ -2603,8 +2636,8 @@
                 {
                     "cantidad": 714307.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.1
                 }
             ],
@@ -2621,16 +2654,16 @@
                 },
                 {
                     "cantidad": 258805.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 3.23
                 },
                 {
                     "cantidad": 258805.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 3.23
                 },
                 {
@@ -2664,15 +2697,15 @@
                 {
                     "cantidad": 702072.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.11
                 },
                 {
                     "cantidad": 702072.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.11
                 },
                 {
@@ -2734,15 +2767,15 @@
                 {
                     "cantidad": 258000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.56
                 },
                 {
                     "cantidad": 258000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.56
                 },
                 {
@@ -2762,8 +2795,8 @@
                 {
                     "cantidad": 378096.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.22
                 },
                 {
@@ -2776,27 +2809,6 @@
                 {
                     "cantidad": 378096.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 378096.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 378096.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126048",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-A",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 378096.0,
-                    "desde": "2018T2",
                     "isin": "ES0165126055",
                     "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.22
@@ -2804,8 +2816,15 @@
                 {
                     "cantidad": 1271580.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 378096.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126048",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-A",
                     "porcentaje": 0.22
                 },
                 {
@@ -2818,15 +2837,29 @@
                 {
                     "cantidad": 1271580.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 378096.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 378096.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.22
                 },
                 {
                     "cantidad": 1260321.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.17
                 },
                 {
@@ -2839,15 +2872,15 @@
                 {
                     "cantidad": 1260321.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 1260321.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.17
                 },
                 {
@@ -2860,8 +2893,8 @@
                 {
                     "cantidad": 1260321.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.17
                 },
                 {
@@ -2874,15 +2907,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
+                    "isin": "ES0114592035",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592035",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -2899,16 +2932,16 @@
                 },
                 {
                     "cantidad": 260916.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 3.31
                 },
                 {
                     "cantidad": 260916.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 3.31
                 },
                 {
@@ -2921,15 +2954,15 @@
                 {
                     "cantidad": 711864.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.13
                 },
                 {
                     "cantidad": 711864.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.13
                 },
                 {
@@ -2991,15 +3024,15 @@
                 {
                     "cantidad": 258000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.53
                 },
                 {
                     "cantidad": 258000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.53
                 },
                 {
@@ -3012,8 +3045,8 @@
                 {
                     "cantidad": 1272414.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.45
                 },
                 {
@@ -3026,8 +3059,8 @@
                 {
                     "cantidad": 1272414.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.45
                 },
                 {
@@ -3040,8 +3073,8 @@
                 {
                     "cantidad": 378532.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.24
                 },
                 {
@@ -3054,15 +3087,8 @@
                 {
                     "cantidad": 378532.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.24
-                },
-                {
-                    "cantidad": 378532.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.24
                 },
                 {
@@ -3075,15 +3101,22 @@
                 {
                     "cantidad": 378532.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 378532.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 1261772.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.19
                 },
                 {
@@ -3096,15 +3129,15 @@
                 {
                     "cantidad": 1261772.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.19
                 },
                 {
                     "cantidad": 1261772.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.19
                 },
                 {
@@ -3117,8 +3150,8 @@
                 {
                     "cantidad": 1261772.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.19
                 },
                 {
@@ -3131,15 +3164,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
+                    "isin": "ES0114592035",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592035",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -3156,16 +3189,16 @@
                 },
                 {
                     "cantidad": 263667.0,
-                    "desde": "2013T4",
-                    "isin": "ES0108686017",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
+                    "desde": "2019T2",
+                    "isin": "ES0108686033",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
                     "porcentaje": 4.93
                 },
                 {
                     "cantidad": 263667.0,
-                    "desde": "2019T2",
-                    "isin": "ES0108686033",
-                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE A",
+                    "desde": "2013T4",
+                    "isin": "ES0108686017",
+                    "nombre": "SANTALUCIA RENTA FIJA DINAMICA, FI CLASE B",
                     "porcentaje": 4.93
                 },
                 {
@@ -3206,15 +3239,15 @@
                 {
                     "cantidad": 726066.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.13
                 },
                 {
                     "cantidad": 726066.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.13
                 },
                 {
@@ -3262,23 +3295,16 @@
                 {
                     "cantidad": 1277793.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 1277793.0,
-                    "desde": "2018T2",
                     "isin": "ES0175164039",
                     "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.45
                 },
                 {
-                    "cantidad": 259000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.44
+                    "cantidad": 1277793.0,
+                    "desde": "2018T2",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "porcentaje": 0.45
                 },
                 {
                     "cantidad": 259000.0,
@@ -3288,10 +3314,17 @@
                     "porcentaje": 0.44
                 },
                 {
+                    "cantidad": 259000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.44
+                },
+                {
                     "cantidad": 380020.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.27
                 },
                 {
@@ -3304,15 +3337,8 @@
                 {
                     "cantidad": 380020.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 380020.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.27
                 },
                 {
@@ -3325,8 +3351,15 @@
                 {
                     "cantidad": 380020.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 380020.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.27
                 },
                 {
@@ -3339,36 +3372,8 @@
                 {
                     "cantidad": 1009605.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 1009605.0,
-                    "desde": "2018T3",
                     "isin": "ES0114592035",
                     "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 1266734.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 1266734.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165127012",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-B",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 1266734.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.21
                 },
                 {
@@ -3381,8 +3386,8 @@
                 {
                     "cantidad": 1266734.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127046",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-A",
+                    "isin": "ES0165127012",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-B",
                     "porcentaje": 0.21
                 },
                 {
@@ -3390,6 +3395,34 @@
                     "desde": "2018T2",
                     "isin": "ES0165127053",
                     "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1266734.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1266734.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165127046",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-A",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1009605.0,
+                    "desde": "2018T3",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1266734.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.21
                 },
                 {
@@ -3456,15 +3489,15 @@
                 {
                     "cantidad": 725154.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.11
                 },
                 {
                     "cantidad": 725154.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.11
                 },
                 {
@@ -3498,8 +3531,8 @@
                 {
                     "cantidad": 2885106.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.51
                 },
                 {
@@ -3512,15 +3545,15 @@
                 {
                     "cantidad": 2885106.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.51
                 },
                 {
                     "cantidad": 2885106.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.51
                 },
                 {
@@ -3533,8 +3566,8 @@
                 {
                     "cantidad": 2885106.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.51
                 },
                 {
@@ -3547,23 +3580,16 @@
                 {
                     "cantidad": 1265416.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 1265416.0,
-                    "desde": "2018T2",
                     "isin": "ES0175164039",
                     "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.44
                 },
                 {
-                    "cantidad": 257000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.42
+                    "cantidad": 1265416.0,
+                    "desde": "2018T2",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "porcentaje": 0.44
                 },
                 {
                     "cantidad": 257000.0,
@@ -3573,10 +3599,17 @@
                     "porcentaje": 0.42
                 },
                 {
+                    "cantidad": 257000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.42
+                },
+                {
                     "cantidad": 376318.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.36
                 },
                 {
@@ -3589,15 +3622,8 @@
                 {
                     "cantidad": 376318.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.36
-                },
-                {
-                    "cantidad": 376318.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.36
                 },
                 {
@@ -3610,8 +3636,15 @@
                 {
                     "cantidad": 376318.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 376318.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.36
                 },
                 {
@@ -3624,15 +3657,15 @@
                 {
                     "cantidad": 1000078.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
+                    "isin": "ES0114592035",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
                     "porcentaje": 0.21
                 },
                 {
                     "cantidad": 1000078.0,
                     "desde": "2018T3",
-                    "isin": "ES0114592035",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.21
                 },
                 {
@@ -3699,15 +3732,15 @@
                 {
                     "cantidad": 716994.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 1.04
                 },
                 {
                     "cantidad": 716994.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 1.04
                 },
                 {
@@ -3734,8 +3767,8 @@
                 {
                     "cantidad": 2821442.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.52
                 },
                 {
@@ -3748,15 +3781,15 @@
                 {
                     "cantidad": 2821442.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.52
                 },
                 {
                     "cantidad": 2821442.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.52
                 },
                 {
@@ -3769,8 +3802,8 @@
                 {
                     "cantidad": 2821442.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.52
                 },
                 {
@@ -3783,23 +3816,16 @@
                 {
                     "cantidad": 1237059.0,
                     "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 1237059.0,
-                    "desde": "2018T2",
                     "isin": "ES0175164039",
                     "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.42
                 },
                 {
-                    "cantidad": 251000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.41
+                    "cantidad": 1237059.0,
+                    "desde": "2018T2",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "porcentaje": 0.42
                 },
                 {
                     "cantidad": 251000.0,
@@ -3809,10 +3835,17 @@
                     "porcentaje": 0.41
                 },
                 {
+                    "cantidad": 251000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.41
+                },
+                {
                     "cantidad": 368014.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.39
                 },
                 {
@@ -3825,15 +3858,8 @@
                 {
                     "cantidad": 368014.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 368014.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.39
                 },
                 {
@@ -3846,22 +3872,29 @@
                 {
                     "cantidad": 368014.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
                     "porcentaje": 0.39
                 },
                 {
-                    "cantidad": 977187.0,
-                    "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.25
+                    "cantidad": 368014.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "porcentaje": 0.39
                 },
                 {
                     "cantidad": 977187.0,
                     "desde": "2018T3",
                     "isin": "ES0114592035",
                     "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 977187.0,
+                    "desde": "2018T3",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.25
                 },
                 {
@@ -3935,15 +3968,15 @@
                 {
                     "cantidad": 734550.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 0.91
                 },
                 {
                     "cantidad": 734550.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 0.91
                 },
                 {
@@ -3963,8 +3996,8 @@
                 {
                     "cantidad": 2854504.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.53
                 },
                 {
@@ -3977,15 +4010,15 @@
                 {
                     "cantidad": 2854504.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.53
                 },
                 {
                     "cantidad": 2854504.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.53
                 },
                 {
@@ -3998,8 +4031,8 @@
                 {
                     "cantidad": 2854504.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.53
                 },
                 {
@@ -4019,8 +4052,8 @@
                 {
                     "cantidad": 372327.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.43
                 },
                 {
@@ -4033,15 +4066,8 @@
                 {
                     "cantidad": 372327.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.43
-                },
-                {
-                    "cantidad": 372327.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.43
                 },
                 {
@@ -4054,16 +4080,16 @@
                 {
                     "cantidad": 372327.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
                     "porcentaje": 0.43
                 },
                 {
-                    "cantidad": 253000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.39
+                    "cantidad": 372327.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "porcentaje": 0.43
                 },
                 {
                     "cantidad": 253000.0,
@@ -4073,11 +4099,11 @@
                     "porcentaje": 0.39
                 },
                 {
-                    "cantidad": 1251190.0,
-                    "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
-                    "porcentaje": 0.38
+                    "cantidad": 253000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.39
                 },
                 {
                     "cantidad": 1251190.0,
@@ -4087,17 +4113,24 @@
                     "porcentaje": 0.38
                 },
                 {
-                    "cantidad": 988502.0,
-                    "desde": "2018T3",
-                    "isin": "ES0114592001",
-                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.25
+                    "cantidad": 1251190.0,
+                    "desde": "2018T2",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "porcentaje": 0.38
                 },
                 {
                     "cantidad": 988502.0,
                     "desde": "2018T3",
                     "isin": "ES0114592035",
                     "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE I",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 988502.0,
+                    "desde": "2018T3",
+                    "isin": "ES0114592001",
+                    "nombre": "FON FINECO RENTA FIJA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.25
                 },
                 {
@@ -4171,15 +4204,15 @@
                 {
                     "cantidad": 739800.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 0.83
                 },
                 {
                     "cantidad": 739800.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 0.83
                 },
                 {
@@ -4199,8 +4232,8 @@
                 {
                     "cantidad": 2841305.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.54
                 },
                 {
@@ -4213,15 +4246,15 @@
                 {
                     "cantidad": 2841305.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.54
                 },
                 {
                     "cantidad": 2841305.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.54
                 },
                 {
@@ -4234,15 +4267,15 @@
                 {
                     "cantidad": 2841305.0,
                     "desde": "2018T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.54
                 },
                 {
                     "cantidad": 370605.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.49
                 },
                 {
@@ -4255,15 +4288,8 @@
                 {
                     "cantidad": 370605.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.49
-                },
-                {
-                    "cantidad": 370605.0,
-                    "desde": "2018T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.49
                 },
                 {
@@ -4276,8 +4302,15 @@
                 {
                     "cantidad": 370605.0,
                     "desde": "2018T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 370605.0,
+                    "desde": "2018T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.49
                 },
                 {
@@ -4297,29 +4330,29 @@
                 {
                     "cantidad": 252000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 252000.0,
-                    "desde": "2018T1",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.37
                 },
                 {
-                    "cantidad": 1244794.0,
-                    "desde": "2018T2",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
-                    "porcentaje": 0.36
+                    "cantidad": 252000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.37
                 },
                 {
                     "cantidad": 1244794.0,
                     "desde": "2018T2",
                     "isin": "ES0175164039",
                     "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 1244794.0,
+                    "desde": "2018T2",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.36
                 },
                 {
@@ -4414,15 +4447,15 @@
                 {
                     "cantidad": 751926.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231007",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
+                    "isin": "ES0113231015",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 751926.0,
                     "desde": "2018T1",
-                    "isin": "ES0113231015",
-                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE UNIVERSAL",
+                    "isin": "ES0113231007",
+                    "nombre": "CAIXABANK BANKIA RENTA FIJA CORPORATIVA, FI CLASE CARTERA",
                     "porcentaje": 0.72
                 },
                 {
@@ -4442,15 +4475,15 @@
                 {
                     "cantidad": 829095.0,
                     "desde": "2017T4",
-                    "isin": "ES0114165006",
-                    "nombre": "CAIXABANK GESTION TOTAL, FI PLATINUM",
+                    "isin": "ES0114165030",
+                    "nombre": "CAIXABANK GESTION TOTAL, FI PLUS",
                     "porcentaje": 0.38
                 },
                 {
                     "cantidad": 829095.0,
                     "desde": "2017T4",
-                    "isin": "ES0114165030",
-                    "nombre": "CAIXABANK GESTION TOTAL, FI PLUS",
+                    "isin": "ES0114165006",
+                    "nombre": "CAIXABANK GESTION TOTAL, FI PLATINUM",
                     "porcentaje": 0.38
                 },
                 {
@@ -4463,23 +4496,16 @@
                 {
                     "cantidad": 253000.0,
                     "desde": "2018T1",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 253000.0,
-                    "desde": "2018T1",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.34
                 },
                 {
-                    "cantidad": 718172.76,
+                    "cantidad": 253000.0,
                     "desde": "2018T1",
-                    "isin": "ES0176954008",
-                    "nombre": "RENTA 4 RENTA FIJA, FI CLASE R",
-                    "porcentaje": 0.32
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.34
                 },
                 {
                     "cantidad": 718172.76,
@@ -4489,10 +4515,17 @@
                     "porcentaje": 0.32
                 },
                 {
+                    "cantidad": 718172.76,
+                    "desde": "2018T1",
+                    "isin": "ES0176954008",
+                    "nombre": "RENTA 4 RENTA FIJA, FI CLASE R",
+                    "porcentaje": 0.32
+                },
+                {
                     "cantidad": 8803696.0,
                     "desde": "2017T4",
-                    "isin": "ES0107678007",
-                    "nombre": "ALBUS, FI PLATINUM",
+                    "isin": "ES0107678023",
+                    "nombre": "ALBUS, FI CARTERA",
                     "porcentaje": 0.23
                 },
                 {
@@ -4505,8 +4538,8 @@
                 {
                     "cantidad": 8803696.0,
                     "desde": "2017T4",
-                    "isin": "ES0107678023",
-                    "nombre": "ALBUS, FI CARTERA",
+                    "isin": "ES0107678007",
+                    "nombre": "ALBUS, FI PLATINUM",
                     "porcentaje": 0.23
                 },
                 {
@@ -4519,16 +4552,23 @@
                 {
                     "cantidad": 3846654.0,
                     "desde": "2017T4",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
+                    "isin": "ES0164540033",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
                     "porcentaje": 0.13
                 },
                 {
                     "cantidad": 3846654.0,
                     "desde": "2017T4",
-                    "isin": "ES0164540033",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 3951562.0,
+                    "desde": "2017T4",
+                    "isin": "ES0164539001",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI ESTÁNDAR",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 253000.0,
@@ -4540,8 +4580,8 @@
                 {
                     "cantidad": 3951562.0,
                     "desde": "2017T4",
-                    "isin": "ES0164539001",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI ESTÁNDAR",
+                    "isin": "ES0164539035",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.1
                 },
                 {
@@ -4549,13 +4589,6 @@
                     "desde": "2017T4",
                     "isin": "ES0164539019",
                     "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 3951562.0,
-                    "desde": "2017T4",
-                    "isin": "ES0164539035",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.1
                 }
             ],
@@ -4643,22 +4676,22 @@
                 {
                     "cantidad": 680711.0,
                     "desde": "2017T4",
-                    "isin": "ES0114165006",
-                    "nombre": "CAIXABANK GESTION TOTAL, FI PLATINUM",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 680711.0,
-                    "desde": "2017T4",
                     "isin": "ES0114165030",
                     "nombre": "CAIXABANK GESTION TOTAL, FI PLUS",
                     "porcentaje": 0.27
                 },
                 {
+                    "cantidad": 680711.0,
+                    "desde": "2017T4",
+                    "isin": "ES0114165006",
+                    "nombre": "CAIXABANK GESTION TOTAL, FI PLATINUM",
+                    "porcentaje": 0.27
+                },
+                {
                     "cantidad": 6085636.0,
                     "desde": "2017T4",
-                    "isin": "ES0107678007",
-                    "nombre": "ALBUS, FI PLATINUM",
+                    "isin": "ES0107678023",
+                    "nombre": "ALBUS, FI CARTERA",
                     "porcentaje": 0.18
                 },
                 {
@@ -4671,22 +4704,22 @@
                 {
                     "cantidad": 6085636.0,
                     "desde": "2017T4",
-                    "isin": "ES0107678023",
-                    "nombre": "ALBUS, FI CARTERA",
+                    "isin": "ES0107678007",
+                    "nombre": "ALBUS, FI PLATINUM",
                     "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 3876737.0,
-                    "desde": "2017T4",
-                    "isin": "ES0164540009",
-                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
-                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 3876737.0,
                     "desde": "2017T4",
                     "isin": "ES0164540033",
                     "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI PLUS",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 3876737.0,
+                    "desde": "2017T4",
+                    "isin": "ES0164540009",
+                    "nombre": "CAIXABANK SI IMPACTO 0/60 RV, FI ESTÁNDAR",
                     "porcentaje": 0.14
                 },
                 {
@@ -4699,15 +4732,15 @@
                 {
                     "cantidad": 2716523.0,
                     "desde": "2017T4",
-                    "isin": "ES0164539019",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
+                    "isin": "ES0164539035",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
                     "porcentaje": 0.05
                 },
                 {
                     "cantidad": 2716523.0,
                     "desde": "2017T4",
-                    "isin": "ES0164539035",
-                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PLUS",
+                    "isin": "ES0164539019",
+                    "nombre": "CAIXABANK SI IMPACTO 0/30 RV, FI PREMIUM",
                     "porcentaje": 0.05
                 }
             ],
@@ -4849,8 +4882,8 @@
                 {
                     "cantidad": 5164438.0,
                     "desde": "2017T2",
-                    "isin": "ES0138219003",
-                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI ESTÁNDAR",
+                    "isin": "ES0138219037",
+                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI PLUS",
                     "porcentaje": 0.3
                 },
                 {
@@ -4863,15 +4896,15 @@
                 {
                     "cantidad": 5164438.0,
                     "desde": "2017T2",
-                    "isin": "ES0138219029",
-                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI PLATINUM",
+                    "isin": "ES0138219052",
+                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI CARTERA",
                     "porcentaje": 0.3
                 },
                 {
                     "cantidad": 5164438.0,
                     "desde": "2017T2",
-                    "isin": "ES0138219037",
-                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI PLUS",
+                    "isin": "ES0138219029",
+                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI PLATINUM",
                     "porcentaje": 0.3
                 },
                 {
@@ -4884,8 +4917,8 @@
                 {
                     "cantidad": 5164438.0,
                     "desde": "2017T2",
-                    "isin": "ES0138219052",
-                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI CARTERA",
+                    "isin": "ES0138219003",
+                    "nombre": "CAIXABANK RENTA FIJA FLEXIBLE, FI ESTÁNDAR",
                     "porcentaje": 0.3
                 },
                 {
@@ -4943,17 +4976,17 @@
                     "porcentaje": 0.58
                 },
                 {
-                    "cantidad": 2483000.0,
-                    "desde": "2016T2",
-                    "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
-                    "porcentaje": 0.31
-                },
-                {
                     "cantidad": 589000.0,
                     "desde": "2016T2",
                     "isin": "ES0114205034",
                     "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 2483000.0,
+                    "desde": "2016T2",
+                    "isin": "ES0113278008",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
                     "porcentaje": 0.31
                 }
             ],
@@ -5019,23 +5052,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0124143001",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0124143019",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0165183007",
-                    "nombre": "MUTUAFONDO MIXTO SELECCION, FI CLASE A",
+                    "desde": "2014T2",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.0
                 },
                 {
@@ -5047,16 +5066,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2013T2",
-                    "isin": "ES0165237035",
-                    "nombre": "MUTUAFONDO, FI CLASE A",
+                    "desde": "2014T2",
+                    "isin": "ES0175808015",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE D",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "desde": "2013T2",
+                    "isin": "ES0182631004",
+                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
@@ -5068,6 +5087,34 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0165183007",
+                    "nombre": "MUTUAFONDO MIXTO SELECCION, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0124143001",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0124143019",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2014T2",
                     "isin": "ES0175808007",
                     "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
@@ -5075,23 +5122,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0175808015",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE D",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0182631004",
-                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
+                    "isin": "ES0165237035",
+                    "nombre": "MUTUAFONDO, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -5157,23 +5190,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0124143001",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0124143019",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T1",
-                    "isin": "ES0165183007",
-                    "nombre": "MUTUAFONDO MIXTO SELECCION, FI CLASE A",
+                    "desde": "2014T2",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.0
                 },
                 {
@@ -5185,16 +5204,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2013T2",
-                    "isin": "ES0165237035",
-                    "nombre": "MUTUAFONDO, FI CLASE A",
+                    "desde": "2014T2",
+                    "isin": "ES0175808015",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE D",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "desde": "2013T2",
+                    "isin": "ES0182631004",
+                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
@@ -5206,6 +5225,34 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0165183007",
+                    "nombre": "MUTUAFONDO MIXTO SELECCION, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0124143001",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T1",
+                    "isin": "ES0124143019",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2014T2",
                     "isin": "ES0175808007",
                     "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
@@ -5213,23 +5260,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0175808015",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE D",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0182631004",
-                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
+                    "isin": "ES0165237035",
+                    "nombre": "MUTUAFONDO, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -5282,8 +5315,8 @@
                 {
                     "cantidad": 149180.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.47
                 },
                 {
@@ -5296,8 +5329,8 @@
                 {
                     "cantidad": 149180.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.47
                 },
                 {
@@ -5324,15 +5357,15 @@
                 {
                     "cantidad": 526513.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.32
                 },
                 {
                     "cantidad": 526513.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.32
                 },
                 {
@@ -5352,13 +5385,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T2",
                     "isin": "ES0165145014",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE D",
                     "porcentaje": 0.0
@@ -5368,6 +5394,13 @@
                     "desde": "2014T2",
                     "isin": "ES0165145022",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE E",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -5413,13 +5446,6 @@
                 {
                     "cantidad": 437960.0,
                     "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 437960.0,
-                    "desde": "2014T2",
                     "isin": "ES0165145014",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE D",
                     "porcentaje": 0.6
@@ -5432,6 +5458,13 @@
                     "porcentaje": 0.6
                 },
                 {
+                    "cantidad": 437960.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.6
+                },
+                {
                     "cantidad": 472263.0,
                     "desde": "2014T1",
                     "isin": "ES0165183007",
@@ -5441,8 +5474,8 @@
                 {
                     "cantidad": 148427.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.46
                 },
                 {
@@ -5455,8 +5488,8 @@
                 {
                     "cantidad": 148427.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.46
                 },
                 {
@@ -5483,15 +5516,15 @@
                 {
                     "cantidad": 528215.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 528215.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.33
                 }
             ],
@@ -5551,13 +5584,6 @@
                 {
                     "cantidad": 432844.0,
                     "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 432844.0,
-                    "desde": "2014T2",
                     "isin": "ES0165145014",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE D",
                     "porcentaje": 0.4
@@ -5570,17 +5596,24 @@
                     "porcentaje": 0.4
                 },
                 {
-                    "cantidad": 526302.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.37
+                    "cantidad": 432844.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.4
                 },
                 {
                     "cantidad": 526302.0,
                     "desde": "2012T3",
                     "isin": "ES0165240039",
                     "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 526302.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.37
                 },
                 {
@@ -5600,8 +5633,8 @@
                 {
                     "cantidad": 146713.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.27
                 },
                 {
@@ -5614,8 +5647,8 @@
                 {
                     "cantidad": 146713.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.27
                 }
             ],
@@ -5666,10 +5699,17 @@
                     "porcentaje": 0.42
                 },
                 {
-                    "cantidad": 421972.0,
-                    "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "cantidad": 3576211.0,
+                    "desde": "2013T2",
+                    "isin": "ES0165237001",
+                    "nombre": "MUTUAFONDO, FI CLASE D",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 161107.0,
+                    "desde": "2013T2",
+                    "isin": "ES0182631004",
+                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
                     "porcentaje": 0.4
                 },
                 {
@@ -5687,10 +5727,10 @@
                     "porcentaje": 0.4
                 },
                 {
-                    "cantidad": 3576211.0,
-                    "desde": "2013T2",
-                    "isin": "ES0165237001",
-                    "nombre": "MUTUAFONDO, FI CLASE D",
+                    "cantidad": 421972.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
                     "porcentaje": 0.4
                 },
                 {
@@ -5701,11 +5741,11 @@
                     "porcentaje": 0.4
                 },
                 {
-                    "cantidad": 161107.0,
-                    "desde": "2013T2",
-                    "isin": "ES0182631004",
-                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
-                    "porcentaje": 0.4
+                    "cantidad": 517229.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "porcentaje": 0.36
                 },
                 {
                     "cantidad": 517229.0,
@@ -5715,17 +5755,10 @@
                     "porcentaje": 0.36
                 },
                 {
-                    "cantidad": 517229.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
-                    "porcentaje": 0.36
-                },
-                {
                     "cantidad": 143052.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.27
                 },
                 {
@@ -5738,8 +5771,8 @@
                 {
                     "cantidad": 143052.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.27
                 }
             ],
@@ -5797,13 +5830,6 @@
                     "porcentaje": 0.81
                 },
                 {
-                    "cantidad": 7207473.0,
-                    "desde": "2013T2",
-                    "isin": "ES0165237035",
-                    "nombre": "MUTUAFONDO, FI CLASE A",
-                    "porcentaje": 0.81
-                },
-                {
                     "cantidad": 328443.0,
                     "desde": "2013T2",
                     "isin": "ES0182631004",
@@ -5811,11 +5837,11 @@
                     "porcentaje": 0.81
                 },
                 {
-                    "cantidad": 1022650.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.69
+                    "cantidad": 7207473.0,
+                    "desde": "2013T2",
+                    "isin": "ES0165237035",
+                    "nombre": "MUTUAFONDO, FI CLASE A",
+                    "porcentaje": 0.81
                 },
                 {
                     "cantidad": 1022650.0,
@@ -5825,11 +5851,11 @@
                     "porcentaje": 0.69
                 },
                 {
-                    "cantidad": 468722.0,
-                    "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.49
+                    "cantidad": 1022650.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.69
                 },
                 {
                     "cantidad": 468722.0,
@@ -5846,10 +5872,17 @@
                     "porcentaje": 0.49
                 },
                 {
+                    "cantidad": 468722.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.49
+                },
+                {
                     "cantidad": 287043.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.48
                 },
                 {
@@ -5862,8 +5895,8 @@
                 {
                     "cantidad": 287043.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.48
                 },
                 {
@@ -5901,13 +5934,6 @@
                 },
                 {
                     "cantidad": 138000.0,
-                    "desde": "2014T1",
-                    "isin": "ES0111093003",
-                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
-                    "porcentaje": 2.01
-                },
-                {
-                    "cantidad": 138000.0,
                     "desde": "2014T3",
                     "isin": "ES0111093011",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PLUS",
@@ -5918,6 +5944,13 @@
                     "desde": "2014T3",
                     "isin": "ES0111093029",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PREMIER",
+                    "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 138000.0,
+                    "desde": "2014T1",
+                    "isin": "ES0111093003",
+                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
                     "porcentaje": 2.01
                 },
                 {
@@ -5972,13 +6005,6 @@
                 {
                     "cantidad": 492392.0,
                     "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.75
-                },
-                {
-                    "cantidad": 492392.0,
-                    "desde": "2014T2",
                     "isin": "ES0165145014",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE D",
                     "porcentaje": 0.75
@@ -5991,11 +6017,11 @@
                     "porcentaje": 0.75
                 },
                 {
-                    "cantidad": 1084023.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.61
+                    "cantidad": 492392.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.75
                 },
                 {
                     "cantidad": 1084023.0,
@@ -6005,10 +6031,17 @@
                     "porcentaje": 0.61
                 },
                 {
+                    "cantidad": 1084023.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.61
+                },
+                {
                     "cantidad": 301642.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.55
                 },
                 {
@@ -6021,8 +6054,8 @@
                 {
                     "cantidad": 301642.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
@@ -6060,13 +6093,6 @@
                 },
                 {
                     "cantidad": 134000.0,
-                    "desde": "2014T1",
-                    "isin": "ES0111093003",
-                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
-                    "porcentaje": 1.75
-                },
-                {
-                    "cantidad": 134000.0,
                     "desde": "2014T3",
                     "isin": "ES0111093011",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PLUS",
@@ -6077,6 +6103,13 @@
                     "desde": "2014T3",
                     "isin": "ES0111093029",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PREMIER",
+                    "porcentaje": 1.75
+                },
+                {
+                    "cantidad": 134000.0,
+                    "desde": "2014T1",
+                    "isin": "ES0111093003",
+                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
                     "porcentaje": 1.75
                 },
                 {
@@ -6124,23 +6157,16 @@
                 {
                     "cantidad": 1057491.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.57
-                },
-                {
-                    "cantidad": 1057491.0,
-                    "desde": "2012T3",
                     "isin": "ES0165240039",
                     "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.57
                 },
                 {
-                    "cantidad": 147657.0,
-                    "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.4
+                    "cantidad": 1057491.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.57
                 },
                 {
                     "cantidad": 147657.0,
@@ -6157,10 +6183,17 @@
                     "porcentaje": 0.4
                 },
                 {
+                    "cantidad": 147657.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.4
+                },
+                {
                     "cantidad": 134233.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.37
                 },
                 {
@@ -6173,8 +6206,8 @@
                 {
                     "cantidad": 134233.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.37
                 },
                 {
@@ -6219,13 +6252,6 @@
                 },
                 {
                     "cantidad": 132000.0,
-                    "desde": "2014T1",
-                    "isin": "ES0111093003",
-                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
-                    "porcentaje": 1.09
-                },
-                {
-                    "cantidad": 132000.0,
                     "desde": "2014T3",
                     "isin": "ES0111093011",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PLUS",
@@ -6236,6 +6262,13 @@
                     "desde": "2014T3",
                     "isin": "ES0111093029",
                     "nombre": "SABADELL FINANCIAL CAPITAL, FI PREMIER",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 132000.0,
+                    "desde": "2014T1",
+                    "isin": "ES0111093003",
+                    "nombre": "SABADELL FINANCIAL CAPITAL, FI BASE",
                     "porcentaje": 1.09
                 },
                 {
@@ -6262,23 +6295,16 @@
                 {
                     "cantidad": 1046151.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.59
-                },
-                {
-                    "cantidad": 1046151.0,
-                    "desde": "2012T3",
                     "isin": "ES0165240039",
                     "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.59
                 },
                 {
-                    "cantidad": 145240.0,
-                    "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.49
+                    "cantidad": 1046151.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.59
                 },
                 {
                     "cantidad": 145240.0,
@@ -6295,6 +6321,13 @@
                     "porcentaje": 0.49
                 },
                 {
+                    "cantidad": 145240.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.49
+                },
+                {
                     "cantidad": 264698.0,
                     "desde": "2014T1",
                     "isin": "ES0165183007",
@@ -6304,8 +6337,8 @@
                 {
                     "cantidad": 132036.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.42
                 },
                 {
@@ -6318,8 +6351,8 @@
                 {
                     "cantidad": 132036.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.42
                 },
                 {
@@ -6379,13 +6412,6 @@
                 {
                     "cantidad": 142146.0,
                     "desde": "2014T2",
-                    "isin": "ES0165145006",
-                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 142146.0,
-                    "desde": "2014T2",
                     "isin": "ES0165145014",
                     "nombre": "MUTUAFONDO FORTALEZA, FI CLASE D",
                     "porcentaje": 0.68
@@ -6398,17 +6424,24 @@
                     "porcentaje": 0.68
                 },
                 {
-                    "cantidad": 1029725.0,
-                    "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
-                    "porcentaje": 0.62
+                    "cantidad": 142146.0,
+                    "desde": "2014T2",
+                    "isin": "ES0165145006",
+                    "nombre": "MUTUAFONDO FORTALEZA, FI CLASE A",
+                    "porcentaje": 0.68
                 },
                 {
                     "cantidad": 1029725.0,
                     "desde": "2012T3",
                     "isin": "ES0165240039",
                     "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 1029725.0,
+                    "desde": "2012T3",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.62
                 },
                 {
@@ -6421,8 +6454,8 @@
                 {
                     "cantidad": 129223.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808007",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
+                    "isin": "ES0175808023",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
                     "porcentaje": 0.48
                 },
                 {
@@ -6435,8 +6468,8 @@
                 {
                     "cantidad": 129223.0,
                     "desde": "2014T2",
-                    "isin": "ES0175808023",
-                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE E",
+                    "isin": "ES0175808007",
+                    "nombre": "MUTUAFONDO CRECIMIENTO, FI CLASE A",
                     "porcentaje": 0.48
                 },
                 {
@@ -6517,15 +6550,15 @@
                 {
                     "cantidad": 998398.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.51
                 },
                 {
                     "cantidad": 998398.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.51
                 },
                 {
@@ -6585,15 +6618,15 @@
                 {
                     "cantidad": 963591.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.58
                 },
                 {
                     "cantidad": 963591.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.58
                 },
                 {
@@ -6625,15 +6658,15 @@
                 {
                     "cantidad": 925464.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.62
                 },
                 {
                     "cantidad": 925464.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.62
                 },
                 {
@@ -6665,15 +6698,15 @@
                 {
                     "cantidad": 910436.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.57
                 },
                 {
                     "cantidad": 910436.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.57
                 },
                 {
@@ -6705,15 +6738,15 @@
                 {
                     "cantidad": 913100.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 913100.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.55
                 }
             ],
@@ -6724,15 +6757,15 @@
                 {
                     "cantidad": 943752.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 943752.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.55
                 }
             ],
@@ -6743,15 +6776,15 @@
                 {
                     "cantidad": 854879.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.52
                 },
                 {
                     "cantidad": 854879.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.52
                 }
             ],
@@ -6759,5 +6792,5 @@
         }
     ],
     "isin": "XS0802995166",
-    "nombre": "BONOS|ABN AMRO BANK|7.125|2022-07-06"
+    "nombre": "OBLIGACION|ABN AMRO GROUP NV|7,13|2022-07-06"
 }

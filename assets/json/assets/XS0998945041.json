@@ -3,6 +3,39 @@
         {
             "fondos": [
                 {
+                    "cantidad": 0.0,
+                    "desde": "2022T1",
+                    "isin": "ES0180873004",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T1",
+                    "isin": "ES0180873012",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE B",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T1",
+                    "isin": "ES0180873038",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T1",
+                    "isin": "ES0180873020",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 101298.0,
                     "desde": "2022T3",
                     "isin": "ES0109191009",
@@ -26,29 +59,29 @@
                 {
                     "cantidad": 3459469.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
-                    "porcentaje": 1.12
-                },
-                {
-                    "cantidad": 3459469.0,
-                    "desde": "2020T4",
                     "isin": "ES0174709024",
                     "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 1.12
                 },
                 {
-                    "cantidad": 506490.0,
-                    "desde": "2022T3",
-                    "isin": "ES0119376004",
-                    "nombre": "ADRIZA RENTA FIJA CORTO PLAZO SOSTENIBLE, FI CLASE R",
-                    "porcentaje": 1.09
+                    "cantidad": 3459469.0,
+                    "desde": "2020T4",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "porcentaje": 1.12
                 },
                 {
                     "cantidad": 506490.0,
                     "desde": "2022T3",
                     "isin": "ES0119376012",
                     "nombre": "ADRIZA RENTA FIJA CORTO PLAZO SOSTENIBLE, FI CLASE I",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 506490.0,
+                    "desde": "2022T3",
+                    "isin": "ES0119376004",
+                    "nombre": "ADRIZA RENTA FIJA CORTO PLAZO SOSTENIBLE, FI CLASE R",
                     "porcentaje": 1.09
                 },
                 {
@@ -131,15 +164,15 @@
                 {
                     "cantidad": 9471496.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.36
                 },
                 {
                     "cantidad": 9471496.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.36
                 },
                 {
@@ -148,13 +181,6 @@
                     "isin": "ES0105931036",
                     "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.36
-                },
-                {
-                    "cantidad": 2996808.0,
-                    "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 2996808.0,
@@ -171,10 +197,17 @@
                     "porcentaje": 0.16
                 },
                 {
+                    "cantidad": 2996808.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "porcentaje": 0.16
+                },
+                {
                     "cantidad": 408451.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.05
                 },
                 {
@@ -187,15 +220,15 @@
                 {
                     "cantidad": 408451.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.05
                 },
                 {
                     "cantidad": 408451.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.05
                 },
                 {
@@ -208,8 +241,8 @@
                 {
                     "cantidad": 408451.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.05
                 },
                 {
@@ -229,15 +262,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2022T1",
-                    "isin": "ES0180873020",
-                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
+                    "isin": "ES0180873038",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2022T1",
-                    "isin": "ES0180873038",
-                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
+                    "isin": "ES0180873020",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
                     "porcentaje": 0.0
                 }
             ],
@@ -255,15 +288,15 @@
                 {
                     "cantidad": 3508088.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 1.06
                 },
                 {
                     "cantidad": 3508088.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 1.06
                 },
                 {
@@ -297,15 +330,15 @@
                 {
                     "cantidad": 9603108.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 9603108.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.35
                 },
                 {
@@ -381,23 +414,16 @@
                 {
                     "cantidad": 416688.0,
                     "desde": "2022T1",
-                    "isin": "ES0180873020",
-                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 416688.0,
-                    "desde": "2022T1",
                     "isin": "ES0180873038",
                     "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
                     "porcentaje": 0.19
                 },
                 {
-                    "cantidad": 3038924.0,
-                    "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.17
+                    "cantidad": 416688.0,
+                    "desde": "2022T1",
+                    "isin": "ES0180873020",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
+                    "porcentaje": 0.19
                 },
                 {
                     "cantidad": 3038924.0,
@@ -411,6 +437,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 3038924.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.17
                 },
                 {
@@ -430,8 +463,8 @@
                 {
                     "cantidad": 416008.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.05
                 },
                 {
@@ -444,15 +477,15 @@
                 {
                     "cantidad": 416008.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.05
                 },
                 {
                     "cantidad": 416008.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.05
                 },
                 {
@@ -465,8 +498,8 @@
                 {
                     "cantidad": 416008.0,
                     "desde": "2022T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.05
                 }
             ],
@@ -491,15 +524,15 @@
                 {
                     "cantidad": 3554524.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.92
                 },
                 {
                     "cantidad": 3554524.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.92
                 },
                 {
@@ -540,15 +573,15 @@
                 {
                     "cantidad": 423760.0,
                     "desde": "2022T1",
-                    "isin": "ES0180873020",
-                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
+                    "isin": "ES0180873038",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
                     "porcentaje": 0.45
                 },
                 {
                     "cantidad": 423760.0,
                     "desde": "2022T1",
-                    "isin": "ES0180873038",
-                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE D",
+                    "isin": "ES0180873020",
+                    "nombre": "UNIFOND GESTIÓN PRUDENTE, FI CLASE C",
                     "porcentaje": 0.45
                 },
                 {
@@ -561,15 +594,15 @@
                 {
                     "cantidad": 9728846.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.36
                 },
                 {
                     "cantidad": 9728846.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.36
                 },
                 {
@@ -596,13 +629,6 @@
                 {
                     "cantidad": 3079136.0,
                     "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 3079136.0,
-                    "desde": "2021T1",
                     "isin": "ES0112793015",
                     "nombre": "SPB RF AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.18
@@ -612,6 +638,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 3079136.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.18
                 },
                 {
@@ -678,15 +711,15 @@
                 {
                     "cantidad": 3599995.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.84
                 },
                 {
                     "cantidad": 3599995.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.84
                 },
                 {
@@ -720,15 +753,15 @@
                 {
                     "cantidad": 9851976.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 9851976.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.35
                 },
                 {
@@ -737,13 +770,6 @@
                     "isin": "ES0105931036",
                     "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.35
-                },
-                {
-                    "cantidad": 3118507.0,
-                    "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 3118507.0,
@@ -757,6 +783,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 3118507.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.17
                 },
                 {
@@ -795,15 +828,15 @@
                 {
                     "cantidad": 3601709.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.83
                 },
                 {
                     "cantidad": 3601709.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.83
                 },
                 {
@@ -830,15 +863,15 @@
                 {
                     "cantidad": 9857559.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.34
                 },
                 {
                     "cantidad": 9857559.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.34
                 },
                 {
@@ -847,13 +880,6 @@
                     "isin": "ES0105931036",
                     "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 3119571.0,
-                    "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 3119571.0,
@@ -867,6 +893,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 3119571.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.15
                 },
                 {
@@ -905,15 +938,15 @@
                 {
                     "cantidad": 2384180.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.61
                 },
                 {
                     "cantidad": 2384180.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.61
                 },
                 {
@@ -933,15 +966,15 @@
                 {
                     "cantidad": 9844884.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 9844884.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.35
                 },
                 {
@@ -950,13 +983,6 @@
                     "isin": "ES0105931036",
                     "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.35
-                },
-                {
-                    "cantidad": 1461344.0,
-                    "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.07
                 },
                 {
                     "cantidad": 1461344.0,
@@ -970,6 +996,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 1461344.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.07
                 },
                 {
@@ -1001,15 +1034,15 @@
                 {
                     "cantidad": 2376812.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 2376812.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.72
                 },
                 {
@@ -1029,15 +1062,15 @@
                 {
                     "cantidad": 9814462.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.37
                 },
                 {
                     "cantidad": 9814462.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.37
                 },
                 {
@@ -1064,13 +1097,6 @@
                 {
                     "cantidad": 1456567.0,
                     "desde": "2021T1",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.07
-                },
-                {
-                    "cantidad": 1456567.0,
-                    "desde": "2021T1",
                     "isin": "ES0112793015",
                     "nombre": "SPB RF AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.07
@@ -1080,6 +1106,13 @@
                     "desde": "2021T1",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 1456567.0,
+                    "desde": "2021T1",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.07
                 }
             ],
@@ -1097,15 +1130,15 @@
                 {
                     "cantidad": 2383737.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709016",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
+                    "isin": "ES0174709024",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.92
                 },
                 {
                     "cantidad": 2383737.0,
                     "desde": "2020T4",
-                    "isin": "ES0174709024",
-                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I PLUS",
+                    "isin": "ES0174709016",
+                    "nombre": "SANTANDER EMPRESAS RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.92
                 },
                 {
@@ -1125,15 +1158,15 @@
                 {
                     "cantidad": 9842578.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.38
                 },
                 {
                     "cantidad": 9842578.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.38
                 },
                 {
@@ -1193,15 +1226,15 @@
                 {
                     "cantidad": 3467668.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.14
                 },
                 {
                     "cantidad": 3467668.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.14
                 },
                 {
@@ -1240,15 +1273,15 @@
                 {
                     "cantidad": 3452584.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.15
                 },
                 {
                     "cantidad": 3452584.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.15
                 },
                 {
@@ -1287,15 +1320,15 @@
                 {
                     "cantidad": 3411902.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931010",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0105931028",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
                     "porcentaje": 0.14
                 },
                 {
                     "cantidad": 3411902.0,
                     "desde": "2020T1",
-                    "isin": "ES0105931028",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE S",
+                    "isin": "ES0105931010",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.14
                 },
                 {
@@ -1762,13 +1795,6 @@
                 {
                     "cantidad": 124411.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.24
-                },
-                {
-                    "cantidad": 124411.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.24
@@ -1776,15 +1802,22 @@
                 {
                     "cantidad": 124411.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 124411.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 124411.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.24
                 },
                 {
@@ -1797,8 +1830,8 @@
                 {
                     "cantidad": 372255.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.14
                 },
                 {
@@ -1811,15 +1844,15 @@
                 {
                     "cantidad": 372255.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.14
                 },
                 {
                     "cantidad": 372255.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.14
                 },
                 {
@@ -1832,8 +1865,8 @@
                 {
                     "cantidad": 372255.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.14
                 },
                 {
@@ -1893,13 +1926,6 @@
                 {
                     "cantidad": 123544.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.25
-                },
-                {
-                    "cantidad": 123544.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.25
@@ -1907,15 +1933,22 @@
                 {
                     "cantidad": 123544.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.25
                 },
                 {
                     "cantidad": 123544.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 123544.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.25
                 },
                 {
@@ -1928,8 +1961,8 @@
                 {
                     "cantidad": 369737.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.18
                 },
                 {
@@ -1942,15 +1975,15 @@
                 {
                     "cantidad": 369737.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.18
                 },
                 {
                     "cantidad": 369737.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.18
                 },
                 {
@@ -1963,8 +1996,8 @@
                 {
                     "cantidad": 369737.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.18
                 },
                 {
@@ -2017,13 +2050,6 @@
                 {
                     "cantidad": 120935.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 120935.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.26
@@ -2031,15 +2057,22 @@
                 {
                     "cantidad": 120935.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.26
                 },
                 {
                     "cantidad": 120935.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 120935.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.26
                 },
                 {
@@ -2052,8 +2085,8 @@
                 {
                     "cantidad": 361988.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.23
                 },
                 {
@@ -2066,15 +2099,15 @@
                 {
                     "cantidad": 361988.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.23
                 },
                 {
                     "cantidad": 361988.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.23
                 },
                 {
@@ -2087,8 +2120,8 @@
                 {
                     "cantidad": 361988.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.23
                 },
                 {
@@ -2134,8 +2167,8 @@
                 {
                     "cantidad": 374194.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.29
                 },
                 {
@@ -2148,15 +2181,15 @@
                 {
                     "cantidad": 374194.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.29
                 },
                 {
                     "cantidad": 374194.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.29
                 },
                 {
@@ -2169,8 +2202,8 @@
                 {
                     "cantidad": 374194.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.29
                 },
                 {
@@ -2190,13 +2223,6 @@
                 {
                     "cantidad": 124975.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 124975.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.28
@@ -2204,15 +2230,22 @@
                 {
                     "cantidad": 124975.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.28
                 },
                 {
                     "cantidad": 124975.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 124975.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.28
                 },
                 {
@@ -2265,8 +2298,8 @@
                 {
                     "cantidad": 366164.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.35
                 },
                 {
@@ -2279,15 +2312,15 @@
                 {
                     "cantidad": 366164.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 366164.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.35
                 },
                 {
@@ -2300,9 +2333,16 @@
                 {
                     "cantidad": 366164.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 242776.0,
+                    "desde": "2016T1",
+                    "isin": "ES0180622005",
+                    "nombre": "TREA CAJAMAR RENTA FIJA, FI CLASE A",
+                    "porcentaje": 0.28
                 },
                 {
                     "cantidad": 122270.0,
@@ -2321,22 +2361,8 @@
                 {
                     "cantidad": 122270.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 122270.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 122270.0,
-                    "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.28
                 },
                 {
@@ -2347,10 +2373,17 @@
                     "porcentaje": 0.28
                 },
                 {
-                    "cantidad": 242776.0,
+                    "cantidad": 122270.0,
                     "desde": "2016T1",
-                    "isin": "ES0180622005",
-                    "nombre": "TREA CAJAMAR RENTA FIJA, FI CLASE A",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 122270.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.28
                 },
                 {
@@ -2403,8 +2436,8 @@
                 {
                     "cantidad": 363153.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.38
                 },
                 {
@@ -2417,15 +2450,15 @@
                 {
                     "cantidad": 363153.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.38
                 },
                 {
                     "cantidad": 363153.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.38
                 },
                 {
@@ -2438,8 +2471,8 @@
                 {
                     "cantidad": 363153.0,
                     "desde": "2016T1",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.38
                 },
                 {
@@ -2459,13 +2492,6 @@
                 {
                     "cantidad": 121239.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 121239.0,
-                    "desde": "2016T1",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.29
@@ -2473,15 +2499,22 @@
                 {
                     "cantidad": 121239.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.29
                 },
                 {
                     "cantidad": 121239.0,
                     "desde": "2016T1",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 121239.0,
+                    "desde": "2016T1",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.29
                 },
                 {
@@ -2663,7 +2696,7 @@
                     "cantidad": 913855.0,
                     "desde": "2014T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 3.23
                 },
                 {
@@ -2709,8 +2742,8 @@
                 {
                     "cantidad": 109272.0,
                     "desde": "2013T4",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.71
                 },
                 {
@@ -2723,8 +2756,8 @@
                 {
                     "cantidad": 109272.0,
                     "desde": "2013T4",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
                     "porcentaje": 0.71
                 },
                 {
@@ -2738,7 +2771,7 @@
                     "cantidad": 108905.0,
                     "desde": "2014T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 0.68
                 },
                 {
@@ -2763,8 +2796,8 @@
                 {
                     "cantidad": 101668.0,
                     "desde": "2013T4",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 1.19
                 },
                 {
@@ -2777,8 +2810,8 @@
                 {
                     "cantidad": 101668.0,
                     "desde": "2013T4",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
                     "porcentaje": 1.19
                 },
                 {
@@ -2805,8 +2838,8 @@
                 {
                     "cantidad": 101668.0,
                     "desde": "2013T4",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.32
                 },
                 {
@@ -2819,15 +2852,15 @@
                 {
                     "cantidad": 101668.0,
                     "desde": "2013T4",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.32
                 },
                 {
                     "cantidad": 101668.0,
                     "desde": "2013T4",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.32
                 },
                 {
@@ -2842,5 +2875,5 @@
         }
     ],
     "isin": "XS0998945041",
-    "nombre": "RFIJA|MADRILENA RED DE|4.50|2023-12-04"
+    "nombre": "OBLIGACION|MADRILEÑA RED DE GAS|4,50|2023-12-04"
 }

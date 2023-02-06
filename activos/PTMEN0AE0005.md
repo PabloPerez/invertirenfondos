@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MOTA ENGIL SGPS SA
+title: ACCIONES|MOTA-ENGIL SGPS
 isin: PTMEN0AE0005
 ---

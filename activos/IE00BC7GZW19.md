@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR BARCLAYS 03 YEAR EU
+title: PARTICIPACIONES|ETF SPDR Energy Sele
 isin: IE00BC7GZW19
 ---

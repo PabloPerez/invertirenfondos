@@ -4,6 +4,20 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
+                    "desde": "2018T4",
+                    "isin": "ES0158983009",
+                    "nombre": "CAIXABANK INDEX JAPON, FI CLASE CARTERA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2018T4",
+                    "isin": "ES0158983033",
+                    "nombre": "CAIXABANK INDEX JAPON, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2016T3",
                     "isin": "ES0147507000",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE CARTERA",
@@ -22,6 +36,18 @@
                     "isin": "ES0147507034",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2019T4"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
@@ -36,25 +62,6 @@
                     "isin": "ES0158983033",
                     "nombre": "CAIXABANK INDEX JAPON, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
-                }
-            ],
-            "periodo": "2019T4"
-        },
-        {
-            "fondos": [
-                {
-                    "cantidad": 0.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
-                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
@@ -66,15 +73,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002036",
-                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
                     "porcentaje": 0.0
                 },
                 {
@@ -107,16 +107,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2018T4",
-                    "isin": "ES0158983009",
-                    "nombre": "CAIXABANK INDEX JAPON, FI CLASE CARTERA",
+                    "desde": "2016T3",
+                    "isin": "ES0105002036",
+                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2018T4",
-                    "isin": "ES0158983033",
-                    "nombre": "CAIXABANK INDEX JAPON, FI CLASE UNIVERSAL",
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.0
                 }
             ],
@@ -176,29 +176,29 @@
                 {
                     "cantidad": 2213431.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 2213431.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.19
                 },
                 {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.17
+                    "cantidad": 2213431.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.19
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.17
                 },
                 {
@@ -210,16 +210,9 @@
                 },
                 {
                     "cantidad": 701768.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 701768.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.09
                 },
                 {
@@ -232,15 +225,22 @@
                 {
                     "cantidad": 701768.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 701768.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 701768.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.09
                 },
                 {
@@ -266,9 +266,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2018T2",
-                    "isin": "ES0141173007",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
+                    "desde": "2016T3",
+                    "isin": "ES0141173023",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -280,9 +280,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2016T3",
-                    "isin": "ES0141173023",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
+                    "desde": "2018T2",
+                    "isin": "ES0141173007",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
                     "porcentaje": 0.0
                 },
                 {
@@ -356,23 +356,16 @@
                 {
                     "cantidad": 2213635.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 2213635.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.18
                 },
                 {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.17
+                    "cantidad": 2213635.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.18
                 },
                 {
                     "cantidad": 100000.0,
@@ -382,17 +375,17 @@
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 4012470.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.09
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 4012470.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.09
                 },
                 {
@@ -405,15 +398,8 @@
                 {
                     "cantidad": 4012470.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002036",
-                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 4012470.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
                     "porcentaje": 0.09
                 },
                 {
@@ -438,10 +424,24 @@
                     "porcentaje": 0.09
                 },
                 {
+                    "cantidad": 4012470.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002036",
+                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 4012470.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.09
+                },
+                {
                     "cantidad": 0.0,
-                    "desde": "2018T2",
-                    "isin": "ES0141173007",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
+                    "desde": "2016T3",
+                    "isin": "ES0141173023",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -453,9 +453,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2016T3",
-                    "isin": "ES0141173023",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
+                    "desde": "2018T2",
+                    "isin": "ES0141173007",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
                     "porcentaje": 0.0
                 },
                 {
@@ -486,9 +486,9 @@
                 },
                 {
                     "cantidad": 1602976.0,
-                    "desde": "2018T2",
-                    "isin": "ES0141173007",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
+                    "desde": "2016T3",
+                    "isin": "ES0141173023",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
                     "porcentaje": 0.84
                 },
                 {
@@ -500,9 +500,9 @@
                 },
                 {
                     "cantidad": 1602976.0,
-                    "desde": "2016T3",
-                    "isin": "ES0141173023",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
+                    "desde": "2018T2",
+                    "isin": "ES0141173007",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
                     "porcentaje": 0.84
                 },
                 {
@@ -571,23 +571,16 @@
                 {
                     "cantidad": 2213160.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 2213160.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.18
                 },
                 {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.16
+                    "cantidad": 2213160.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.18
                 },
                 {
                     "cantidad": 100000.0,
@@ -597,17 +590,17 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 4014082.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.09
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 4014082.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.09
                 },
                 {
@@ -620,29 +613,36 @@
                 {
                     "cantidad": 4014082.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 4014082.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 4014082.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 1003584.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.07
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 1003584.0,
                     "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 1003584.0,
+                    "desde": "2016T3",
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
                     "porcentaje": 0.07
                 },
                 {
@@ -659,9 +659,9 @@
             "fondos": [
                 {
                     "cantidad": 2607826.0,
-                    "desde": "2018T2",
-                    "isin": "ES0141173007",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
+                    "desde": "2016T3",
+                    "isin": "ES0141173023",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
                     "porcentaje": 1.33
                 },
                 {
@@ -673,9 +673,9 @@
                 },
                 {
                     "cantidad": 2607826.0,
-                    "desde": "2016T3",
-                    "isin": "ES0141173023",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
+                    "desde": "2018T2",
+                    "isin": "ES0141173007",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
                     "porcentaje": 1.33
                 },
                 {
@@ -728,13 +728,6 @@
                     "porcentaje": 0.53
                 },
                 {
-                    "cantidad": 100543.0,
-                    "desde": "2017T4",
-                    "isin": "ES0138812039",
-                    "nombre": "GCO AHORRO, FI",
-                    "porcentaje": 0.27
-                },
-                {
                     "cantidad": 301033.0,
                     "desde": "2016T3",
                     "isin": "ES0138986031",
@@ -742,17 +735,24 @@
                     "porcentaje": 0.27
                 },
                 {
-                    "cantidad": 1811653.0,
-                    "desde": "2017T3",
-                    "isin": "ES0174894008",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
-                    "porcentaje": 0.21
+                    "cantidad": 100543.0,
+                    "desde": "2017T4",
+                    "isin": "ES0138812039",
+                    "nombre": "GCO AHORRO, FI",
+                    "porcentaje": 0.27
                 },
                 {
                     "cantidad": 1811653.0,
                     "desde": "2017T3",
                     "isin": "ES0174894016",
                     "nombre": "SANTANDER GENERACION 2, FI CLASE B",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1811653.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174894008",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
                     "porcentaje": 0.21
                 },
                 {
@@ -779,23 +779,16 @@
                 {
                     "cantidad": 2214228.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 2214228.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.15
+                    "cantidad": 2214228.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 100000.0,
@@ -805,17 +798,17 @@
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 4017562.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.09
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 4017562.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.09
                 },
                 {
@@ -828,29 +821,36 @@
                 {
                     "cantidad": 4017562.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 4017562.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 4017562.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 1004481.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.07
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 1004481.0,
                     "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 1004481.0,
+                    "desde": "2016T3",
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
                     "porcentaje": 0.07
                 },
                 {
@@ -895,9 +895,9 @@
                 },
                 {
                     "cantidad": 1604752.0,
-                    "desde": "2018T2",
-                    "isin": "ES0141173007",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
+                    "desde": "2016T3",
+                    "isin": "ES0141173023",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
                     "porcentaje": 0.78
                 },
                 {
@@ -909,9 +909,9 @@
                 },
                 {
                     "cantidad": 1604752.0,
-                    "desde": "2016T3",
-                    "isin": "ES0141173023",
-                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE CARTERA",
+                    "desde": "2018T2",
+                    "isin": "ES0141173007",
+                    "nombre": "CAIXABANK BONOS 24 MESES, FI CLASE PREMIER",
                     "porcentaje": 0.78
                 },
                 {
@@ -930,13 +930,6 @@
                 },
                 {
                     "cantidad": 6029513.0,
-                    "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 6029513.0,
                     "desde": "2017T4",
                     "isin": "ES0112793015",
                     "nombre": "SPB RF AHORRO, FI CLASE CARTERA",
@@ -947,6 +940,13 @@
                     "desde": "2016T3",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 6029513.0,
+                    "desde": "2016T3",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.29
                 },
                 {
@@ -964,17 +964,17 @@
                     "porcentaje": 0.26
                 },
                 {
-                    "cantidad": 7036100.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105931036",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
-                    "porcentaje": 0.26
-                },
-                {
                     "cantidad": 100502.0,
                     "desde": "2017T4",
                     "isin": "ES0138812039",
                     "nombre": "GCO AHORRO, FI",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 7036100.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105931036",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
                     "porcentaje": 0.26
                 },
                 {
@@ -1001,15 +1001,15 @@
                 {
                     "cantidad": 1810346.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894008",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
+                    "isin": "ES0174894016",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
                     "porcentaje": 0.21
                 },
                 {
                     "cantidad": 1810346.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894016",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
+                    "isin": "ES0174894008",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
                     "porcentaje": 0.21
                 },
                 {
@@ -1036,23 +1036,16 @@
                 {
                     "cantidad": 2212634.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 2212634.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.15
+                    "cantidad": 2212634.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 100000.0,
@@ -1062,17 +1055,17 @@
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 4016967.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.1
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 4016967.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.1
                 },
                 {
@@ -1085,29 +1078,36 @@
                 {
                     "cantidad": 4016967.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 4016967.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 4016967.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 1004458.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.06
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 1004458.0,
                     "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 1004458.0,
+                    "desde": "2016T3",
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
                     "porcentaje": 0.06
                 },
                 {
@@ -1126,9 +1126,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2016T3",
-                    "isin": "ES0158603003",
-                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
+                    "desde": "2017T4",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
                 },
                 {
@@ -1140,9 +1140,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T4",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "desde": "2016T3",
+                    "isin": "ES0158603003",
+                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -1194,13 +1194,6 @@
                 },
                 {
                     "cantidad": 12068787.0,
-                    "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 12068787.0,
                     "desde": "2017T4",
                     "isin": "ES0112793015",
                     "nombre": "SPB RF AHORRO, FI CLASE CARTERA",
@@ -1211,6 +1204,13 @@
                     "desde": "2016T3",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 12068787.0,
+                    "desde": "2016T3",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
@@ -1235,6 +1235,13 @@
                     "porcentaje": 0.26
                 },
                 {
+                    "cantidad": 301501.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.26
+                },
+                {
                     "cantidad": 7040999.0,
                     "desde": "2017T4",
                     "isin": "ES0105931010",
@@ -1249,24 +1256,17 @@
                     "porcentaje": 0.26
                 },
                 {
-                    "cantidad": 301501.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.26
+                    "cantidad": 1811221.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174894016",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
+                    "porcentaje": 0.22
                 },
                 {
                     "cantidad": 1811221.0,
                     "desde": "2017T3",
                     "isin": "ES0174894008",
                     "nombre": "SANTANDER GENERACION 2, FI CLASE A",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 1811221.0,
-                    "desde": "2017T3",
-                    "isin": "ES0174894016",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
                     "porcentaje": 0.22
                 },
                 {
@@ -1300,23 +1300,16 @@
                 {
                     "cantidad": 2213707.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 2213707.0,
-                    "desde": "2017T3",
                     "isin": "ES0174869026",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 101000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.14
+                    "cantidad": 2213707.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 101000.0,
@@ -1326,17 +1319,17 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 4020576.0,
+                    "cantidad": 101000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.1
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 4020576.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.1
                 },
                 {
@@ -1349,15 +1342,22 @@
                 {
                     "cantidad": 4020576.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 4020576.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 4020576.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.1
                 },
                 {
@@ -1377,23 +1377,16 @@
                 {
                     "cantidad": 1005136.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 1005136.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 101000.0,
+                    "cantidad": 1005136.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.06
                 },
                 {
                     "cantidad": 201000.0,
@@ -1403,10 +1396,17 @@
                     "porcentaje": 0.04
                 },
                 {
-                    "cantidad": 0.0,
+                    "cantidad": 101000.0,
                     "desde": "2016T3",
-                    "isin": "ES0158603003",
-                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2017T4",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
                 },
                 {
@@ -1418,9 +1418,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T4",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "desde": "2016T3",
+                    "isin": "ES0158603003",
+                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -1437,16 +1437,16 @@
                 },
                 {
                     "cantidad": 200720.0,
-                    "desde": "2016T3",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "desde": "2017T4",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.76
                 },
                 {
                     "cantidad": 200720.0,
-                    "desde": "2017T4",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "desde": "2016T3",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.76
                 },
                 {
@@ -1472,13 +1472,6 @@
                 },
                 {
                     "cantidad": 12058127.0,
-                    "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 12058127.0,
                     "desde": "2017T4",
                     "isin": "ES0112793015",
                     "nombre": "SPB RF AHORRO, FI CLASE CARTERA",
@@ -1489,6 +1482,13 @@
                     "desde": "2016T3",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 12058127.0,
+                    "desde": "2016T3",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.52
                 },
                 {
@@ -1522,15 +1522,15 @@
                 {
                     "cantidad": 1809040.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894008",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
+                    "isin": "ES0174894016",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
                     "porcentaje": 0.27
                 },
                 {
                     "cantidad": 1809040.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894016",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
+                    "isin": "ES0174894008",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
                     "porcentaje": 0.27
                 },
                 {
@@ -1555,6 +1555,13 @@
                     "porcentaje": 0.25
                 },
                 {
+                    "cantidad": 100482.0,
+                    "desde": "2017T4",
+                    "isin": "ES0138812039",
+                    "nombre": "GCO AHORRO, FI",
+                    "porcentaje": 0.25
+                },
+                {
                     "cantidad": 7033995.0,
                     "desde": "2016T3",
                     "isin": "ES0105931036",
@@ -1562,11 +1569,11 @@
                     "porcentaje": 0.25
                 },
                 {
-                    "cantidad": 100482.0,
-                    "desde": "2017T4",
-                    "isin": "ES0138812039",
-                    "nombre": "GCO AHORRO, FI",
-                    "porcentaje": 0.25
+                    "cantidad": 2211043.0,
+                    "desde": "2017T3",
+                    "isin": "ES0174869000",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE A",
+                    "porcentaje": 0.2
                 },
                 {
                     "cantidad": 1004340.0,
@@ -1578,8 +1585,8 @@
                 {
                     "cantidad": 2211043.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869000",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE A",
+                    "isin": "ES0174869026",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.2
                 },
                 {
@@ -1588,27 +1595,6 @@
                     "isin": "ES0174869018",
                     "nombre": "SANTANDER GENERACION 1, FI CLASE B",
                     "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 2211043.0,
-                    "desde": "2017T3",
-                    "isin": "ES0174869026",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE R",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138820008",
-                    "nombre": "FONDMAPFRE RENTA FIJA FLEXIBLE, FI CLASE C",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 301000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
-                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 301000.0,
@@ -1620,15 +1606,15 @@
                 {
                     "cantidad": 301000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "isin": "ES0184976035",
+                    "nombre": "SABADELL EURO YIELD, FI BASE",
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 301000.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976035",
-                    "nombre": "SABADELL EURO YIELD, FI BASE",
+                    "isin": "ES0138820008",
+                    "nombre": "FONDMAPFRE RENTA FIJA FLEXIBLE, FI CLASE C",
                     "porcentaje": 0.17
                 },
                 {
@@ -1641,9 +1627,44 @@
                 {
                     "cantidad": 301000.0,
                     "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 301000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 301000.0,
+                    "desde": "2016T3",
                     "isin": "ES0184976050",
                     "nombre": "SABADELL EURO YIELD, FI PYME",
                     "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 4019309.0,
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 4019309.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002028",
+                    "nombre": "CAIXABANK AHORRO, FI INSTITUCIONAL",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 4019309.0,
@@ -1653,17 +1674,10 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 4019309.0,
+                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 4019309.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002028",
-                    "nombre": "CAIXABANK AHORRO, FI INSTITUCIONAL",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.13
                 },
                 {
@@ -1675,23 +1689,9 @@
                 },
                 {
                     "cantidad": 4019309.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 100000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.13
                 },
                 {
@@ -1711,29 +1711,29 @@
                 {
                     "cantidad": 1004990.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 1004990.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 1004990.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.05
                 },
                 {
                     "cantidad": 201000.0,
                     "desde": "2016T3",
                     "isin": "ES0160634004",
                     "nombre": "MAPFRE FONDTESORO PLUS, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.04
                 }
             ],
@@ -1758,15 +1758,15 @@
                 {
                     "cantidad": 12058065.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "isin": "ES0112793031",
+                    "nombre": "SPB RF AHORRO, FI CLASE I",
                     "porcentaje": 0.64
                 },
                 {
                     "cantidad": 12058065.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793031",
-                    "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.64
                 },
                 {
@@ -1793,15 +1793,15 @@
                 {
                     "cantidad": 1808435.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894008",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
+                    "isin": "ES0174894016",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 1808435.0,
                     "desde": "2017T3",
-                    "isin": "ES0174894016",
-                    "nombre": "SANTANDER GENERACION 2, FI CLASE B",
+                    "isin": "ES0174894008",
+                    "nombre": "SANTANDER GENERACION 2, FI CLASE A",
                     "porcentaje": 0.35
                 },
                 {
@@ -1856,15 +1856,15 @@
                 {
                     "cantidad": 2210307.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869018",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
+                    "isin": "ES0174869026",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE R",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 2210307.0,
                     "desde": "2017T3",
-                    "isin": "ES0174869026",
-                    "nombre": "SANTANDER GENERACION 1, FI CLASE R",
+                    "isin": "ES0174869018",
+                    "nombre": "SANTANDER GENERACION 1, FI CLASE B",
                     "porcentaje": 0.24
                 },
                 {
@@ -1877,22 +1877,8 @@
                 {
                     "cantidad": 301000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 301000.0,
-                    "desde": "2016T3",
                     "isin": "ES0184976019",
                     "nombre": "SABADELL EURO YIELD, FI PLUS",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 301000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.18
                 },
                 {
@@ -1912,22 +1898,36 @@
                 {
                     "cantidad": 301000.0,
                     "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 301000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 301000.0,
+                    "desde": "2016T3",
                     "isin": "ES0184976050",
                     "nombre": "SABADELL EURO YIELD, FI PYME",
                     "porcentaje": 0.18
                 },
                 {
                     "cantidad": 4018551.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 4018551.0,
+                    "cantidad": 502370.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.16
                 },
                 {
@@ -1938,20 +1938,6 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 4018551.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002036",
-                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
-                    "porcentaje": 0.16
-                },
-                {
-                    "cantidad": 4018551.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
                     "isin": "ES0138820008",
@@ -1959,10 +1945,10 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 502370.0,
+                    "cantidad": 4018551.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
                     "porcentaje": 0.16
                 },
                 {
@@ -1975,15 +1961,15 @@
                 {
                     "cantidad": 502370.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.16
                 },
                 {
                     "cantidad": 502370.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.16
                 },
                 {
@@ -1994,24 +1980,38 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 502370.0,
+                    "cantidad": 4018551.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0105002036",
+                    "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 4018551.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.12
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 502370.0,
+                    "desde": "2016T3",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.12
                 },
                 {
@@ -2038,29 +2038,29 @@
                 {
                     "cantidad": 1004724.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 1004724.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 1004724.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.05
                 },
                 {
                     "cantidad": 201000.0,
                     "desde": "2016T3",
                     "isin": "ES0160634004",
                     "nombre": "MAPFRE FONDTESORO PLUS, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.04
                 }
             ],
@@ -2099,15 +2099,15 @@
                 {
                     "cantidad": 9023939.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "isin": "ES0112793031",
+                    "nombre": "SPB RF AHORRO, FI CLASE I",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 9023939.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793031",
-                    "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
@@ -2148,50 +2148,8 @@
                 {
                     "cantidad": 501257.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 501257.0,
-                    "desde": "2016T3",
-                    "isin": "ES0165127012",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-B",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 501257.0,
-                    "desde": "2016T3",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 501257.0,
-                    "desde": "2016T3",
                     "isin": "ES0165127038",
                     "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 501257.0,
-                    "desde": "2016T3",
-                    "isin": "ES0165127046",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-A",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 501257.0,
-                    "desde": "2016T3",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
                     "porcentaje": 0.19
                 },
                 {
@@ -2204,15 +2162,15 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "isin": "ES0184976035",
+                    "nombre": "SABADELL EURO YIELD, FI BASE",
                     "porcentaje": 0.19
                 },
                 {
-                    "cantidad": 300000.0,
+                    "cantidad": 501257.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976035",
-                    "nombre": "SABADELL EURO YIELD, FI BASE",
+                    "isin": "ES0165127012",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-B",
                     "porcentaje": 0.19
                 },
                 {
@@ -2223,6 +2181,41 @@
                     "porcentaje": 0.19
                 },
                 {
+                    "cantidad": 501257.0,
+                    "desde": "2016T3",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 501257.0,
+                    "desde": "2016T3",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 501257.0,
+                    "desde": "2016T3",
+                    "isin": "ES0165127046",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-A",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "porcentaje": 0.19
+                },
+                {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
                     "isin": "ES0184976050",
@@ -2230,17 +2223,17 @@
                     "porcentaje": 0.19
                 },
                 {
-                    "cantidad": 4009116.0,
+                    "cantidad": 501257.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.18
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "porcentaje": 0.19
                 },
                 {
                     "cantidad": 4009116.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
                     "porcentaje": 0.18
                 },
                 {
@@ -2253,15 +2246,22 @@
                 {
                     "cantidad": 4009116.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 4009116.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
                     "porcentaje": 0.18
                 },
                 {
                     "cantidad": 4009116.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.18
                 },
                 {
@@ -2288,15 +2288,15 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.11
                 },
                 {
@@ -2316,29 +2316,29 @@
                 {
                     "cantidad": 601504.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 601504.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 601504.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.05
                 },
                 {
                     "cantidad": 200000.0,
                     "desde": "2016T3",
                     "isin": "ES0160634004",
                     "nombre": "MAPFRE FONDTESORO PLUS, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.04
                 }
             ],
@@ -2356,29 +2356,29 @@
                 {
                     "cantidad": 9019178.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.69
-                },
-                {
-                    "cantidad": 9019178.0,
-                    "desde": "2016T3",
                     "isin": "ES0112793031",
                     "nombre": "SPB RF AHORRO, FI CLASE I",
                     "porcentaje": 0.69
                 },
                 {
-                    "cantidad": 2905000.0,
+                    "cantidad": 9019178.0,
                     "desde": "2016T3",
-                    "isin": "ES0138709003",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE C",
-                    "porcentaje": 0.64
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "porcentaje": 0.69
                 },
                 {
                     "cantidad": 200140.0,
                     "desde": "2016T3",
                     "isin": "ES0173441009",
                     "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 2905000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138709003",
+                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE C",
                     "porcentaje": 0.64
                 },
                 {
@@ -2405,8 +2405,8 @@
                 {
                     "cantidad": 500941.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.24
                 },
                 {
@@ -2419,15 +2419,15 @@
                 {
                     "cantidad": 500941.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 500941.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.24
                 },
                 {
@@ -2440,8 +2440,8 @@
                 {
                     "cantidad": 500941.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.24
                 },
                 {
@@ -2454,22 +2454,8 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
                     "isin": "ES0184976019",
                     "nombre": "SABADELL EURO YIELD, FI PLUS",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.21
                 },
                 {
@@ -2489,9 +2475,51 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
                     "isin": "ES0184976050",
                     "nombre": "SABADELL EURO YIELD, FI PYME",
                     "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 4007486.0,
+                    "desde": "2017T1",
+                    "isin": "ES0105002044",
+                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 1001610.0,
+                    "desde": "2017T1",
+                    "isin": "ES0138828035",
+                    "nombre": "FONDONORTE, FI",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 4007486.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002028",
+                    "nombre": "CAIXABANK AHORRO, FI INSTITUCIONAL",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 3006488.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105931002",
+                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.2
                 },
                 {
                     "cantidad": 4007486.0,
@@ -2503,36 +2531,8 @@
                 {
                     "cantidad": 4007486.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 4007486.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002028",
-                    "nombre": "CAIXABANK AHORRO, FI INSTITUCIONAL",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 4007486.0,
-                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 4007486.0,
-                    "desde": "2017T1",
-                    "isin": "ES0105002044",
-                    "nombre": "CAIXABANK AHORRO, FI CARTERA",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 3006488.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105931002",
-                    "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.2
                 },
                 {
@@ -2543,10 +2543,10 @@
                     "porcentaje": 0.2
                 },
                 {
-                    "cantidad": 1001610.0,
-                    "desde": "2017T1",
-                    "isin": "ES0138828035",
-                    "nombre": "FONDONORTE, FI",
+                    "cantidad": 4007486.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.2
                 },
                 {
@@ -2566,15 +2566,15 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.1
                 },
                 {
@@ -2594,29 +2594,29 @@
                 {
                     "cantidad": 601125.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 601125.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 601125.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.05
                 },
                 {
                     "cantidad": 200000.0,
                     "desde": "2016T3",
                     "isin": "ES0160634004",
                     "nombre": "MAPFRE FONDTESORO PLUS, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.04
                 }
             ],
@@ -2641,15 +2641,15 @@
                 {
                     "cantidad": 9019250.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "isin": "ES0112793031",
+                    "nombre": "SPB RF AHORRO, FI CLASE I",
                     "porcentaje": 0.76
                 },
                 {
                     "cantidad": 9019250.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793031",
-                    "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.76
                 },
                 {
@@ -2697,22 +2697,15 @@
                 {
                     "cantidad": 4007980.0,
                     "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 4007980.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 4007980.0,
-                    "desde": "2016T3",
                     "isin": "ES0105002028",
                     "nombre": "CAIXABANK AHORRO, FI INSTITUCIONAL",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 4007980.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
                     "porcentaje": 0.33
                 },
                 {
@@ -2723,10 +2716,17 @@
                     "porcentaje": 0.33
                 },
                 {
+                    "cantidad": 4007980.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
+                    "porcentaje": 0.33
+                },
+                {
                     "cantidad": 501154.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.31
                 },
                 {
@@ -2739,15 +2739,15 @@
                 {
                     "cantidad": 501154.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.31
                 },
                 {
                     "cantidad": 501154.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.31
                 },
                 {
@@ -2760,8 +2760,8 @@
                 {
                     "cantidad": 501154.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.31
                 },
                 {
@@ -2795,22 +2795,8 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
                     "isin": "ES0184976019",
                     "nombre": "SABADELL EURO YIELD, FI PLUS",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.18
                 },
                 {
@@ -2825,6 +2811,20 @@
                     "desde": "2016T3",
                     "isin": "ES0184976043",
                     "nombre": "SABADELL EURO YIELD, FI EMPRESA",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.18
                 },
                 {
@@ -2851,15 +2851,15 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.09
                 },
                 {
@@ -2886,29 +2886,29 @@
                 {
                     "cantidad": 601382.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 601382.0,
-                    "desde": "2016T3",
                     "isin": "ES0146843034",
                     "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 601382.0,
                     "desde": "2016T3",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.04
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "porcentaje": 0.06
                 },
                 {
                     "cantidad": 200000.0,
                     "desde": "2016T3",
                     "isin": "ES0160634004",
                     "nombre": "MAPFRE FONDTESORO PLUS, FI CLASE C",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.04
                 }
             ],
@@ -2975,8 +2975,8 @@
                 {
                     "cantidad": 500496.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.39
                 },
                 {
@@ -2989,15 +2989,15 @@
                 {
                     "cantidad": 500496.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.39
                 },
                 {
                     "cantidad": 500496.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.39
                 },
                 {
@@ -3010,23 +3010,9 @@
                 {
                     "cantidad": 500496.0,
                     "desde": "2016T3",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 4004703.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002002",
-                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 4004703.0,
-                    "desde": "2016T3",
-                    "isin": "ES0105002010",
-                    "nombre": "CAIXABANK AHORRO, FI PLUS",
-                    "porcentaje": 0.34
                 },
                 {
                     "cantidad": 4004703.0,
@@ -3038,8 +3024,22 @@
                 {
                     "cantidad": 4004703.0,
                     "desde": "2016T3",
+                    "isin": "ES0105002002",
+                    "nombre": "CAIXABANK AHORRO, FI ESTÁNDAR",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 4004703.0,
+                    "desde": "2016T3",
                     "isin": "ES0105002036",
                     "nombre": "CAIXABANK AHORRO, FI PREMIUM",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 4004703.0,
+                    "desde": "2016T3",
+                    "isin": "ES0105002010",
+                    "nombre": "CAIXABANK AHORRO, FI PLUS",
                     "porcentaje": 0.34
                 },
                 {
@@ -3066,15 +3066,15 @@
                 {
                     "cantidad": 2402091.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793007",
-                    "nombre": "SPB RF AHORRO, FI CLASE A",
+                    "isin": "ES0112793031",
+                    "nombre": "SPB RF AHORRO, FI CLASE I",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 2402091.0,
                     "desde": "2016T3",
-                    "isin": "ES0112793031",
-                    "nombre": "SPB RF AHORRO, FI CLASE I",
+                    "isin": "ES0112793007",
+                    "nombre": "SPB RF AHORRO, FI CLASE A",
                     "porcentaje": 0.24
                 },
                 {
@@ -3087,22 +3087,8 @@
                 {
                     "cantidad": 300000.0,
                     "desde": "2016T3",
-                    "isin": "ES0184976001",
-                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
                     "isin": "ES0184976019",
                     "nombre": "SABADELL EURO YIELD, FI PLUS",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 300000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0184976027",
-                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.15
                 },
                 {
@@ -3117,6 +3103,20 @@
                     "desde": "2016T3",
                     "isin": "ES0184976043",
                     "nombre": "SABADELL EURO YIELD, FI EMPRESA",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976001",
+                    "nombre": "SABADELL EURO YIELD, FI CARTERA",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0184976027",
+                    "nombre": "SABADELL EURO YIELD, FI PREMIER",
                     "porcentaje": 0.15
                 },
                 {
@@ -3143,15 +3143,15 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "isin": "ES0138903036",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2016T3",
-                    "isin": "ES0138903036",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
                     "porcentaje": 0.09
                 },
                 {
@@ -3178,15 +3178,15 @@
                 {
                     "cantidad": 600595.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843000",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
+                    "isin": "ES0146843034",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
                     "porcentaje": 0.06
                 },
                 {
                     "cantidad": 600595.0,
                     "desde": "2016T3",
-                    "isin": "ES0146843034",
-                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE A",
+                    "isin": "ES0146843000",
+                    "nombre": "IBERCAJA ESTRATEGIA DINÁMICA, FI CLASE B",
                     "porcentaje": 0.06
                 },
                 {
@@ -3208,5 +3208,5 @@
         }
     ],
     "isin": "XS1496344794",
-    "nombre": "BONOS|SANTANDER CB AS|.25|2019-09-30"
+    "nombre": "RENTA FIJA|BANCO SANTANDER SA|0,25|2019-09-30"
 }

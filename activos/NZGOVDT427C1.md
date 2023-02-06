@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DEUDA|HER MAJESTY THE QUEE|4,500|2027-04-15
+title: Bonos|ESTADO NEW ZEALAND|2,250|2027-04-15
 isin: NZGOVDT427C1
 ---

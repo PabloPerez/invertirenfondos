@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES MSCI WORLD E
+title: ETF|ISHARES MSCI WORLD E
 isin: IE00BHZPJ569
 ---

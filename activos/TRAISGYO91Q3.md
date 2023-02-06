@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.IS GAYRIMENKUL YATIRIM ORTAK (TRY)
+title: ACCIONES|Is Gayrimenkul Yatir
 isin: TRAISGYO91Q3
 ---

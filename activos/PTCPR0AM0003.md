@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: CIMPOR-CIMENTOS DE PORTUGAL
+title: Acciones|CIMPOR-CIMENTOS DE PORTUGAL
 isin: PTCPR0AM0003
 ---

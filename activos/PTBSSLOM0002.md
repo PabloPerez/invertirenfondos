@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|BRISA CONCESSAO ROD|02,375|2027-05-10
+title: BONO|BRISA|2,38|2027-05-10
 isin: PTBSSLOM0002
 ---

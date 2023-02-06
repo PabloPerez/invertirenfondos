@@ -3,6 +3,32 @@
         {
             "fondos": [
                 {
+                    "cantidad": 60000.0,
+                    "desde": "2020T1",
+                    "isin": "ES0147634036",
+                    "nombre": "BBVA BOLSA JAPON, FI",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 1136000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0125459000",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 1136000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0125459034",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
+                    "porcentaje": 0.18
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 57000.0,
                     "desde": "2020T1",
                     "isin": "ES0147634036",
@@ -13,14 +39,14 @@
                     "cantidad": 979000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 979000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.17
                 }
             ],
@@ -39,14 +65,14 @@
                     "cantidad": 1044000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 1044000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.17
                 }
             ],
@@ -65,14 +91,14 @@
                     "cantidad": 1014000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.15
                 },
                 {
                     "cantidad": 1014000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.15
                 }
             ],
@@ -176,27 +202,6 @@
                     "porcentaje": 0.37
                 },
                 {
-                    "cantidad": 221000.0,
-                    "desde": "2019T3",
-                    "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 221000.0,
-                    "desde": "2017T4",
-                    "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 54000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.1
-                },
-                {
                     "cantidad": 54000.0,
                     "desde": "2020T3",
                     "isin": "ES0174434011",
@@ -204,10 +209,31 @@
                     "porcentaje": 0.1
                 },
                 {
+                    "cantidad": 221000.0,
+                    "desde": "2019T3",
+                    "isin": "ES0125459000",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
+                    "porcentaje": 0.1
+                },
+                {
                     "cantidad": 54000.0,
                     "desde": "2020T3",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 221000.0,
+                    "desde": "2017T4",
+                    "isin": "ES0125459034",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 54000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.1
                 },
                 {
@@ -227,6 +253,20 @@
                 {
                     "cantidad": 5000.0,
                     "desde": "2020T3",
+                    "isin": "ES0138504032",
+                    "nombre": "SABADELL PLANIFICACIÓN 70, F.I. EMPRESA",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 5000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0138504024",
+                    "nombre": "SABADELL PLANIFICACIÓN 70, F.I. PLUS",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 5000.0,
+                    "desde": "2020T3",
                     "isin": "ES0138504008",
                     "nombre": "SABADELL PLANIFICACIÓN 70, F.I. PYME",
                     "porcentaje": 0.09
@@ -241,20 +281,6 @@
                 {
                     "cantidad": 5000.0,
                     "desde": "2020T3",
-                    "isin": "ES0138504024",
-                    "nombre": "SABADELL PLANIFICACIÓN 70, F.I. PLUS",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 5000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0138504032",
-                    "nombre": "SABADELL PLANIFICACIÓN 70, F.I. EMPRESA",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 5000.0,
-                    "desde": "2020T3",
                     "isin": "ES0138504040",
                     "nombre": "SABADELL PLANIFICACIÓN 70, F.I. BASE",
                     "porcentaje": 0.09
@@ -262,8 +288,15 @@
                 {
                     "cantidad": 127000.0,
                     "desde": "2020T3",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 127000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.07
                 },
                 {
@@ -276,8 +309,8 @@
                 {
                     "cantidad": 127000.0,
                     "desde": "2020T3",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.07
                 },
                 {
@@ -285,13 +318,6 @@
                     "desde": "2020T3",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.07
-                },
-                {
-                    "cantidad": 127000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.07
                 },
                 {
@@ -304,15 +330,15 @@
                 {
                     "cantidad": 9000.0,
                     "desde": "2020T3",
-                    "isin": "ES0138503018",
-                    "nombre": "SABADELL PLANIFICACIÓN 50, FI EMPRESA",
+                    "isin": "ES0138503026",
+                    "nombre": "SABADELL PLANIFICACIÓN 50, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
                     "cantidad": 9000.0,
                     "desde": "2020T3",
-                    "isin": "ES0138503026",
-                    "nombre": "SABADELL PLANIFICACIÓN 50, FI PLUS",
+                    "isin": "ES0138503018",
+                    "nombre": "SABADELL PLANIFICACIÓN 50, FI EMPRESA",
                     "porcentaje": 0.06
                 },
                 {
@@ -339,50 +365,8 @@
                 {
                     "cantidad": 306000.0,
                     "desde": "2020T3",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 306000.0,
-                    "desde": "2020T3",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 306000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 306000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 81000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 81000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 81000.0,
-                    "desde": "2020T3",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -395,16 +379,51 @@
                 {
                     "cantidad": 81000.0,
                     "desde": "2020T3",
-                    "isin": "ES0182544041",
-                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 21000.0,
+                    "cantidad": 81000.0,
                     "desde": "2020T3",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.01
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 306000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 306000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 306000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 81000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 81000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0182544041",
+                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "porcentaje": 0.03
                 },
                 {
                     "cantidad": 21000.0,
@@ -423,15 +442,22 @@
                 {
                     "cantidad": 21000.0,
                     "desde": "2020T3",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.01
                 },
                 {
                     "cantidad": 21000.0,
                     "desde": "2020T3",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.01
+                },
+                {
+                    "cantidad": 21000.0,
+                    "desde": "2020T3",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.01
                 }
             ],
@@ -457,14 +483,14 @@
                     "cantidad": 208000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 208000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.1
                 }
             ],
@@ -489,13 +515,6 @@
                 {
                     "cantidad": 136000.0,
                     "desde": "2019T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 136000.0,
-                    "desde": "2019T4",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.27
@@ -505,6 +524,13 @@
                     "desde": "2019T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 136000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.27
                 },
                 {
@@ -524,8 +550,15 @@
                 {
                     "cantidad": 325000.0,
                     "desde": "2019T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 325000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.19
                 },
                 {
@@ -538,8 +571,8 @@
                 {
                     "cantidad": 325000.0,
                     "desde": "2019T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.19
                 },
                 {
@@ -547,13 +580,6 @@
                     "desde": "2019T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 325000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.19
                 },
                 {
@@ -566,43 +592,15 @@
                 {
                     "cantidad": 830000.0,
                     "desde": "2019T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 830000.0,
-                    "desde": "2019T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 830000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 830000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.09
-                },
-                {
                     "cantidad": 210000.0,
                     "desde": "2019T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 210000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
                     "porcentaje": 0.09
                 },
                 {
@@ -615,8 +613,36 @@
                 {
                     "cantidad": 210000.0,
                     "desde": "2019T4",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 830000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 830000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 830000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 210000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
                     "porcentaje": 0.09
                 },
                 {
@@ -630,22 +656,15 @@
                     "cantidad": 101000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.06
                 },
                 {
                     "cantidad": 101000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 61000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.03
                 },
                 {
                     "cantidad": 61000.0,
@@ -664,15 +683,22 @@
                 {
                     "cantidad": 61000.0,
                     "desde": "2019T4",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 61000.0,
                     "desde": "2019T4",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 61000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.03
                 }
             ],
@@ -690,22 +716,15 @@
                 {
                     "cantidad": 670000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.9
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 670000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.9
                 },
                 {
@@ -717,9 +736,9 @@
                 },
                 {
                     "cantidad": 670000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.9
                 },
                 {
@@ -730,11 +749,11 @@
                     "porcentaje": 0.9
                 },
                 {
-                    "cantidad": 132000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.23
+                    "cantidad": 670000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.9
                 },
                 {
                     "cantidad": 132000.0,
@@ -748,6 +767,13 @@
                     "desde": "2019T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 132000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.23
                 },
                 {
@@ -767,8 +793,15 @@
                 {
                     "cantidad": 281000.0,
                     "desde": "2019T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 281000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.16
                 },
                 {
@@ -781,8 +814,8 @@
                 {
                     "cantidad": 281000.0,
                     "desde": "2019T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.16
                 },
                 {
@@ -790,13 +823,6 @@
                     "desde": "2019T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.16
-                },
-                {
-                    "cantidad": 281000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.16
                 },
                 {
@@ -809,43 +835,15 @@
                 {
                     "cantidad": 720000.0,
                     "desde": "2019T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 720000.0,
-                    "desde": "2019T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.08
                 },
                 {
-                    "cantidad": 720000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 720000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 145000.0,
                     "desde": "2019T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 145000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
                     "porcentaje": 0.08
                 },
                 {
@@ -858,8 +856,36 @@
                 {
                     "cantidad": 145000.0,
                     "desde": "2019T4",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 720000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 720000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 720000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 145000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
                     "porcentaje": 0.08
                 },
                 {
@@ -873,22 +899,15 @@
                     "cantidad": 131000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.07
                 },
                 {
                     "cantidad": 131000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.07
-                },
-                {
-                    "cantidad": 62000.0,
-                    "desde": "2019T4",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.03
                 },
                 {
                     "cantidad": 62000.0,
@@ -907,15 +926,22 @@
                 {
                     "cantidad": 62000.0,
                     "desde": "2019T4",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 62000.0,
                     "desde": "2019T4",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 62000.0,
+                    "desde": "2019T4",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.03
                 }
             ],
@@ -933,22 +959,15 @@
                 {
                     "cantidad": 608000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 608000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 608000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 608000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.8
                 },
                 {
@@ -960,9 +979,9 @@
                 },
                 {
                     "cantidad": 608000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.8
                 },
                 {
@@ -973,17 +992,24 @@
                     "porcentaje": 0.8
                 },
                 {
+                    "cantidad": 608000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.8
+                },
+                {
                     "cantidad": 119000.0,
                     "desde": "2019T3",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 119000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.09
                 }
             ],
@@ -994,22 +1020,15 @@
                 {
                     "cantidad": 488000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.76
-                },
-                {
-                    "cantidad": 488000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.76
-                },
-                {
-                    "cantidad": 488000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 488000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.76
                 },
                 {
@@ -1021,9 +1040,9 @@
                 },
                 {
                     "cantidad": 488000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.76
                 },
                 {
@@ -1034,10 +1053,17 @@
                     "porcentaje": 0.76
                 },
                 {
+                    "cantidad": 488000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.76
+                },
+                {
                     "cantidad": 53000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.06
                 }
             ],
@@ -1048,22 +1074,15 @@
                 {
                     "cantidad": 472000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.73
-                },
-                {
-                    "cantidad": 472000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.73
-                },
-                {
-                    "cantidad": 472000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 472000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.73
                 },
                 {
@@ -1075,9 +1094,9 @@
                 },
                 {
                     "cantidad": 472000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.73
                 },
                 {
@@ -1088,10 +1107,17 @@
                     "porcentaje": 0.73
                 },
                 {
+                    "cantidad": 472000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.73
+                },
+                {
                     "cantidad": 57000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.09
                 }
             ],
@@ -1102,22 +1128,15 @@
                 {
                     "cantidad": 513000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.59
-                },
-                {
-                    "cantidad": 513000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.59
-                },
-                {
-                    "cantidad": 513000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 513000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.59
                 },
                 {
@@ -1129,9 +1148,9 @@
                 },
                 {
                     "cantidad": 513000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.59
                 },
                 {
@@ -1139,6 +1158,13 @@
                     "desde": "2016T3",
                     "isin": "ES0174402059",
                     "nombre": "SABADELL JAPON BOLSA, FI PYME",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 513000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
                     "porcentaje": 0.59
                 },
                 {
@@ -1152,7 +1178,7 @@
                     "cantidad": 52000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.1
                 }
             ],
@@ -1163,22 +1189,15 @@
                 {
                     "cantidad": 633000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 633000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 633000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 633000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.67
                 },
                 {
@@ -1190,9 +1209,9 @@
                 },
                 {
                     "cantidad": 633000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.67
                 },
                 {
@@ -1200,6 +1219,13 @@
                     "desde": "2016T3",
                     "isin": "ES0174402059",
                     "nombre": "SABADELL JAPON BOLSA, FI PYME",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 633000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
                     "porcentaje": 0.67
                 },
                 {
@@ -1213,7 +1239,7 @@
                     "cantidad": 64000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.11
                 }
             ],
@@ -1224,22 +1250,15 @@
                 {
                     "cantidad": 582000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.62
-                },
-                {
-                    "cantidad": 582000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.62
-                },
-                {
-                    "cantidad": 582000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 582000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.62
                 },
                 {
@@ -1251,9 +1270,9 @@
                 },
                 {
                     "cantidad": 582000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.62
                 },
                 {
@@ -1264,10 +1283,17 @@
                     "porcentaje": 0.62
                 },
                 {
+                    "cantidad": 582000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.62
+                },
+                {
                     "cantidad": 59000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.12
                 }
             ],
@@ -1278,22 +1304,15 @@
                 {
                     "cantidad": 829000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.87
-                },
-                {
-                    "cantidad": 829000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.87
-                },
-                {
-                    "cantidad": 829000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 829000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.87
                 },
                 {
@@ -1305,9 +1324,9 @@
                 },
                 {
                     "cantidad": 829000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.87
                 },
                 {
@@ -1318,11 +1337,11 @@
                     "porcentaje": 0.87
                 },
                 {
-                    "cantidad": 124000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.32
+                    "cantidad": 829000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.87
                 },
                 {
                     "cantidad": 124000.0,
@@ -1336,6 +1355,13 @@
                     "desde": "2017T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 124000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.32
                 },
                 {
@@ -1355,8 +1381,15 @@
                 {
                     "cantidad": 214000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 214000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.22
                 },
                 {
@@ -1369,8 +1402,8 @@
                 {
                     "cantidad": 214000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.22
                 },
                 {
@@ -1381,24 +1414,17 @@
                     "porcentaje": 0.22
                 },
                 {
-                    "cantidad": 214000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
-                    "porcentaje": 0.22
+                    "cantidad": 25000.0,
+                    "desde": "2017T3",
+                    "isin": "ES0147634036",
+                    "nombre": "BBVA BOLSA JAPON, FI",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 56000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 25000.0,
-                    "desde": "2017T3",
-                    "isin": "ES0147634036",
-                    "nombre": "BBVA BOLSA JAPON, FI",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.12
                 },
                 {
@@ -1411,22 +1437,8 @@
                 {
                     "cantidad": 451000.0,
                     "desde": "2017T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 451000.0,
-                    "desde": "2017T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 451000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.11
                 },
                 {
@@ -1437,11 +1449,18 @@
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 86000.0,
+                    "cantidad": 451000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 451000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 86000.0,
@@ -1460,15 +1479,22 @@
                 {
                     "cantidad": 86000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 86000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 86000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -1479,22 +1505,15 @@
                 {
                     "cantidad": 993000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.97
-                },
-                {
-                    "cantidad": 993000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.97
-                },
-                {
-                    "cantidad": 993000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 993000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.97
                 },
                 {
@@ -1506,9 +1525,9 @@
                 },
                 {
                     "cantidad": 993000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.97
                 },
                 {
@@ -1519,11 +1538,11 @@
                     "porcentaje": 0.97
                 },
                 {
-                    "cantidad": 145000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.35
+                    "cantidad": 993000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.97
                 },
                 {
                     "cantidad": 145000.0,
@@ -1537,6 +1556,13 @@
                     "desde": "2017T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 145000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.35
                 },
                 {
@@ -1556,8 +1582,15 @@
                 {
                     "cantidad": 248000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 248000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.25
                 },
                 {
@@ -1570,8 +1603,8 @@
                 {
                     "cantidad": 248000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.25
                 },
                 {
@@ -1579,13 +1612,6 @@
                     "desde": "2017T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.25
-                },
-                {
-                    "cantidad": 248000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.25
                 },
                 {
@@ -1599,7 +1625,7 @@
                     "cantidad": 67000.0,
                     "desde": "2017T4",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.13
                 },
                 {
@@ -1612,22 +1638,8 @@
                 {
                     "cantidad": 536000.0,
                     "desde": "2017T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 536000.0,
-                    "desde": "2017T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 536000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.12
                 },
                 {
@@ -1638,11 +1650,18 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 536000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 536000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 100000.0,
@@ -1661,15 +1680,22 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -1680,22 +1706,15 @@
                 {
                     "cantidad": 986000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 1.01
-                },
-                {
-                    "cantidad": 986000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 1.01
-                },
-                {
-                    "cantidad": 986000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 986000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 1.01
                 },
                 {
@@ -1707,9 +1726,9 @@
                 },
                 {
                     "cantidad": 986000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 1.01
                 },
                 {
@@ -1717,6 +1736,13 @@
                     "desde": "2016T3",
                     "isin": "ES0174402059",
                     "nombre": "SABADELL JAPON BOLSA, FI PYME",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 986000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
                     "porcentaje": 1.01
                 },
                 {
@@ -1729,13 +1755,6 @@
                 {
                     "cantidad": 121000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 121000.0,
-                    "desde": "2017T2",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.28
@@ -1745,6 +1764,13 @@
                     "desde": "2017T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 121000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.28
                 },
                 {
@@ -1764,8 +1790,15 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.2
+                },
+                {
+                    "cantidad": 203000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.2
                 },
                 {
@@ -1778,8 +1811,8 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.2
                 },
                 {
@@ -1787,13 +1820,6 @@
                     "desde": "2017T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.2
-                },
-                {
-                    "cantidad": 203000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.2
                 },
                 {
@@ -1806,22 +1832,8 @@
                 {
                     "cantidad": 460000.0,
                     "desde": "2017T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 460000.0,
-                    "desde": "2017T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 460000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.1
                 },
                 {
@@ -1832,11 +1844,18 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 103000.0,
+                    "cantidad": 460000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 460000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 103000.0,
@@ -1855,15 +1874,22 @@
                 {
                     "cantidad": 103000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 103000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 103000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -1874,22 +1900,15 @@
                 {
                     "cantidad": 823000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 823000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 823000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 823000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.93
                 },
                 {
@@ -1901,9 +1920,9 @@
                 },
                 {
                     "cantidad": 823000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.93
                 },
                 {
@@ -1914,11 +1933,11 @@
                     "porcentaje": 0.93
                 },
                 {
-                    "cantidad": 129000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.29
+                    "cantidad": 823000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.93
                 },
                 {
                     "cantidad": 129000.0,
@@ -1932,6 +1951,13 @@
                     "desde": "2017T2",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 129000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.29
                 },
                 {
@@ -1951,8 +1977,15 @@
                 {
                     "cantidad": 217000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 217000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.21
                 },
                 {
@@ -1965,8 +1998,8 @@
                 {
                     "cantidad": 217000.0,
                     "desde": "2017T2",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.21
                 },
                 {
@@ -1974,13 +2007,6 @@
                     "desde": "2017T2",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.21
-                },
-                {
-                    "cantidad": 217000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.21
                 },
                 {
@@ -1993,22 +2019,8 @@
                 {
                     "cantidad": 472000.0,
                     "desde": "2017T2",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 472000.0,
-                    "desde": "2017T2",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 472000.0,
-                    "desde": "2017T2",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.1
                 },
                 {
@@ -2019,11 +2031,18 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 97000.0,
+                    "cantidad": 472000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 472000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 97000.0,
@@ -2042,15 +2061,22 @@
                 {
                     "cantidad": 97000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 97000.0,
                     "desde": "2017T2",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 97000.0,
+                    "desde": "2017T2",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -2075,22 +2101,15 @@
                 {
                     "cantidad": 1362000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.91
-                },
-                {
-                    "cantidad": 1362000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.91
-                },
-                {
-                    "cantidad": 1362000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 1362000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.91
                 },
                 {
@@ -2102,9 +2121,9 @@
                 },
                 {
                     "cantidad": 1362000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.91
                 },
                 {
@@ -2112,6 +2131,13 @@
                     "desde": "2016T3",
                     "isin": "ES0174402059",
                     "nombre": "SABADELL JAPON BOLSA, FI PYME",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 1362000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
                     "porcentaje": 0.91
                 }
             ],
@@ -2136,22 +2162,15 @@
                 {
                     "cantidad": 931000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.94
-                },
-                {
-                    "cantidad": 931000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.94
-                },
-                {
-                    "cantidad": 931000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 931000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.94
                 },
                 {
@@ -2163,9 +2182,9 @@
                 },
                 {
                     "cantidad": 931000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.94
                 },
                 {
@@ -2173,6 +2192,13 @@
                     "desde": "2016T3",
                     "isin": "ES0174402059",
                     "nombre": "SABADELL JAPON BOLSA, FI PYME",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 931000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
                     "porcentaje": 0.94
                 }
             ],
@@ -2197,22 +2223,15 @@
                 {
                     "cantidad": 733000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 733000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 733000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 733000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.81
                 },
                 {
@@ -2224,9 +2243,9 @@
                 },
                 {
                     "cantidad": 733000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174402042",
-                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.81
                 },
                 {
@@ -2237,11 +2256,11 @@
                     "porcentaje": 0.81
                 },
                 {
-                    "cantidad": 110000.0,
-                    "desde": "2016T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.25
+                    "cantidad": 733000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174402042",
+                    "nombre": "SABADELL JAPON BOLSA, FI EMPRESA",
+                    "porcentaje": 0.81
                 },
                 {
                     "cantidad": 110000.0,
@@ -2255,6 +2274,13 @@
                     "desde": "2016T1",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 110000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.25
                 },
                 {
@@ -2274,8 +2300,15 @@
                 {
                     "cantidad": 190000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 190000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.18
                 },
                 {
@@ -2288,8 +2321,8 @@
                 {
                     "cantidad": 190000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.18
                 },
                 {
@@ -2297,13 +2330,6 @@
                     "desde": "2016T3",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.18
-                },
-                {
-                    "cantidad": 190000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.18
                 },
                 {
@@ -2316,22 +2342,8 @@
                 {
                     "cantidad": 450000.0,
                     "desde": "2016T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 450000.0,
-                    "desde": "2016T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 450000.0,
-                    "desde": "2016T3",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.09
                 },
                 {
@@ -2342,11 +2354,18 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 102000.0,
+                    "cantidad": 450000.0,
                     "desde": "2016T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 450000.0,
+                    "desde": "2016T3",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 102000.0,
@@ -2365,15 +2384,22 @@
                 {
                     "cantidad": 102000.0,
                     "desde": "2016T3",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 102000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 102000.0,
                     "desde": "2016T3",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -2398,22 +2424,15 @@
                 {
                     "cantidad": 670000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.74
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.74
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 670000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.74
                 },
                 {
@@ -2424,11 +2443,11 @@
                     "porcentaje": 0.74
                 },
                 {
-                    "cantidad": 110000.0,
-                    "desde": "2016T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.26
+                    "cantidad": 670000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
+                    "porcentaje": 0.74
                 },
                 {
                     "cantidad": 110000.0,
@@ -2445,10 +2464,17 @@
                     "porcentaje": 0.26
                 },
                 {
+                    "cantidad": 110000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
+                    "porcentaje": 0.26
+                },
+                {
                     "cantidad": 190000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.18
                 },
                 {
@@ -2461,8 +2487,8 @@
                 {
                     "cantidad": 190000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.18
                 },
                 {
@@ -2475,23 +2501,16 @@
                 {
                     "cantidad": 479000.0,
                     "desde": "2016T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 479000.0,
-                    "desde": "2016T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 110000.0,
+                    "cantidad": 479000.0,
                     "desde": "2016T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 110000.0,
@@ -2506,6 +2525,13 @@
                     "isin": "ES0155008032",
                     "nombre": "INVERSABADELL 10, FI BASE",
                     "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 110000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2016T2"
@@ -2515,22 +2541,15 @@
                 {
                     "cantidad": 923000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.83
-                },
-                {
-                    "cantidad": 923000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.83
-                },
-                {
-                    "cantidad": 923000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 923000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.83
                 },
                 {
@@ -2538,6 +2557,13 @@
                     "desde": "2013T2",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 923000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.83
                 },
                 {
@@ -2557,13 +2583,6 @@
                 {
                     "cantidad": 132000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 132000.0,
-                    "desde": "2016T1",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.3
@@ -2576,10 +2595,17 @@
                     "porcentaje": 0.3
                 },
                 {
+                    "cantidad": 132000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
+                    "porcentaje": 0.3
+                },
+                {
                     "cantidad": 235000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.21
                 },
                 {
@@ -2592,8 +2618,8 @@
                 {
                     "cantidad": 235000.0,
                     "desde": "2016T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.21
                 },
                 {
@@ -2606,23 +2632,16 @@
                 {
                     "cantidad": 567000.0,
                     "desde": "2016T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 567000.0,
-                    "desde": "2016T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 131000.0,
+                    "cantidad": 567000.0,
                     "desde": "2016T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 131000.0,
@@ -2637,6 +2656,13 @@
                     "isin": "ES0155008032",
                     "nombre": "INVERSABADELL 10, FI BASE",
                     "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 131000.0,
+                    "desde": "2016T1",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2016T1"
@@ -2646,22 +2672,15 @@
                 {
                     "cantidad": 1166000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.78
-                },
-                {
-                    "cantidad": 1166000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.78
-                },
-                {
-                    "cantidad": 1166000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 1166000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.78
                 },
                 {
@@ -2669,6 +2688,13 @@
                     "desde": "2013T2",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 1166000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.78
                 },
                 {
@@ -2707,22 +2733,15 @@
                 {
                     "cantidad": 919000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 919000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 919000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 919000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.64
                 },
                 {
@@ -2730,6 +2749,13 @@
                     "desde": "2013T2",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 919000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.64
                 }
             ],
@@ -2754,22 +2780,15 @@
                 {
                     "cantidad": 1086000.0,
                     "desde": "2015T2",
-                    "isin": "ES0174402000",
-                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
-                    "porcentaje": 0.66
-                },
-                {
-                    "cantidad": 1086000.0,
-                    "desde": "2015T2",
-                    "isin": "ES0174402018",
-                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
-                    "porcentaje": 0.66
-                },
-                {
-                    "cantidad": 1086000.0,
-                    "desde": "2015T2",
                     "isin": "ES0174402026",
                     "nombre": "SABADELL JAPON BOLSA, FI PREMIER",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 1086000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402000",
+                    "nombre": "SABADELL JAPON BOLSA, FI CARTERA",
                     "porcentaje": 0.66
                 },
                 {
@@ -2777,6 +2796,13 @@
                     "desde": "2013T2",
                     "isin": "ES0174402034",
                     "nombre": "SABADELL JAPON BOLSA, FI BASE",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 1086000.0,
+                    "desde": "2015T2",
+                    "isin": "ES0174402018",
+                    "nombre": "SABADELL JAPON BOLSA, FI PLUS",
                     "porcentaje": 0.66
                 }
             ],
@@ -2892,5 +2918,5 @@
         }
     ],
     "isin": "JP3419400001",
-    "nombre": "ACCIONES|Sekisui Chem"
+    "nombre": "AC.SEKISUI CHEMICAL CO LTD (JPY)"
 }

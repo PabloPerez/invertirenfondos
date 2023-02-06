@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CTT CORREIOS PORTUG.
+title: Acciones|CTT CORREIOS DE PORTUGAL
 isin: PTCTT0AM0001
 ---

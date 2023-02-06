@@ -4,6 +4,20 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
+                    "desde": "2016T2",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2016T2",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2015T2",
                     "isin": "ES0147507000",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE CARTERA",
@@ -15,20 +29,6 @@
                     "isin": "ES0147507034",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
-                    "porcentaje": 0.0
                 }
             ],
             "periodo": "2018T2"
@@ -38,15 +38,15 @@
                 {
                     "cantidad": 1062096.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 3.42
                 },
                 {
                     "cantidad": 1062096.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 3.42
                 },
                 {
@@ -71,15 +71,15 @@
                 {
                     "cantidad": 1063738.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 3.55
                 },
                 {
                     "cantidad": 1063738.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 3.55
                 },
                 {
@@ -92,22 +92,8 @@
                 {
                     "cantidad": 11094659.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.36
-                },
-                {
-                    "cantidad": 11094659.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.36
-                },
-                {
-                    "cantidad": 11094659.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.36
                 },
                 {
@@ -119,9 +105,23 @@
                 },
                 {
                     "cantidad": 11094659.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 11094659.0,
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.36
+                },
+                {
+                    "cantidad": 11094659.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.36
                 },
                 {
@@ -155,22 +155,8 @@
                 {
                     "cantidad": 1095000.0,
                     "desde": "2016T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.04
                 },
                 {
@@ -186,6 +172,20 @@
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
                     "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2017T4"
@@ -195,15 +195,15 @@
                 {
                     "cantidad": 1064440.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 3.08
                 },
                 {
                     "cantidad": 1064440.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 3.08
                 },
                 {
@@ -216,22 +216,8 @@
                 {
                     "cantidad": 11117279.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 11117279.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 11117279.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.42
                 },
                 {
@@ -243,9 +229,23 @@
                 },
                 {
                     "cantidad": 11117279.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 11117279.0,
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 11117279.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.42
                 },
                 {
@@ -286,22 +286,8 @@
                 {
                     "cantidad": 1096000.0,
                     "desde": "2016T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 1096000.0,
-                    "desde": "2016T4",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 1096000.0,
-                    "desde": "2016T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.04
                 },
                 {
@@ -317,6 +303,20 @@
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
                     "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 1096000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 1096000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2017T3"
@@ -326,15 +326,15 @@
                 {
                     "cantidad": 1063842.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 2.73
                 },
                 {
                     "cantidad": 1063842.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 2.73
                 },
                 {
@@ -347,22 +347,8 @@
                 {
                     "cantidad": 11127192.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.43
-                },
-                {
-                    "cantidad": 11127192.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.43
-                },
-                {
-                    "cantidad": 11127192.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.43
                 },
                 {
@@ -374,9 +360,23 @@
                 },
                 {
                     "cantidad": 11127192.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 11127192.0,
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 11127192.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.43
                 },
                 {
@@ -410,22 +410,8 @@
                 {
                     "cantidad": 1095000.0,
                     "desde": "2016T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -443,17 +429,31 @@
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
-                    "porcentaje": 0.0
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.03
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2016T2",
                     "isin": "ES0180942031",
                     "nombre": "SWM VALOR,FI CLASE P",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2016T2",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 0.0
                 }
             ],
@@ -464,15 +464,15 @@
                 {
                     "cantidad": 1121396.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 2.49
                 },
                 {
                     "cantidad": 1121396.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 2.49
                 },
                 {
@@ -492,22 +492,8 @@
                 {
                     "cantidad": 11140090.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 11140090.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 11140090.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.4
                 },
                 {
@@ -519,9 +505,23 @@
                 },
                 {
                     "cantidad": 11140090.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 11140090.0,
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 11140090.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.4
                 },
                 {
@@ -555,22 +555,8 @@
                 {
                     "cantidad": 1094000.0,
                     "desde": "2016T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1094000.0,
-                    "desde": "2016T4",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1094000.0,
-                    "desde": "2016T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -586,6 +572,20 @@
                     "isin": "ES0173829062",
                     "nombre": "SABADELL RENDIMIENTO, FI PYME",
                     "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1094000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1094000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.03
                 }
             ],
             "periodo": "2017T1"
@@ -595,15 +595,15 @@
                 {
                     "cantidad": 1122564.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 2.3
                 },
                 {
                     "cantidad": 1122564.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 2.3
                 },
                 {
@@ -623,22 +623,8 @@
                 {
                     "cantidad": 11163590.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 11163590.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 11163590.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.37
                 },
                 {
@@ -650,9 +636,23 @@
                 },
                 {
                     "cantidad": 11163590.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 11163590.0,
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 11163590.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.37
                 },
                 {
@@ -679,22 +679,8 @@
                 {
                     "cantidad": 1095000.0,
                     "desde": "2016T4",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1095000.0,
-                    "desde": "2016T4",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -712,6 +698,20 @@
                     "porcentaje": 0.03
                 },
                 {
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1095000.0,
+                    "desde": "2016T4",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
                     "cantidad": 0.0,
                     "desde": "2014T4",
                     "isin": "ES0152739001",
@@ -726,15 +726,15 @@
                 {
                     "cantidad": 1122194.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 2.23
                 },
                 {
                     "cantidad": 1122194.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 2.23
                 },
                 {
@@ -754,23 +754,16 @@
                 {
                     "cantidad": 1181158.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.57
-                },
-                {
-                    "cantidad": 1181158.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.57
                 },
                 {
-                    "cantidad": 11173294.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.41
+                    "cantidad": 1181158.0,
+                    "desde": "2015T3",
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.57
                 },
                 {
                     "cantidad": 11173294.0,
@@ -782,15 +775,15 @@
                 {
                     "cantidad": 11173294.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.41
                 },
                 {
                     "cantidad": 11173294.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
                     "porcentaje": 0.41
                 },
                 {
@@ -798,6 +791,13 @@
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 11173294.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.41
                 },
                 {
@@ -822,15 +822,15 @@
                 {
                     "cantidad": 1120673.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942007",
-                    "nombre": "SWM VALOR,FI CLASE Q",
+                    "isin": "ES0180942031",
+                    "nombre": "SWM VALOR,FI CLASE P",
                     "porcentaje": 1.92
                 },
                 {
                     "cantidad": 1120673.0,
                     "desde": "2016T2",
-                    "isin": "ES0180942031",
-                    "nombre": "SWM VALOR,FI CLASE P",
+                    "isin": "ES0180942007",
+                    "nombre": "SWM VALOR,FI CLASE Q",
                     "porcentaje": 1.92
                 },
                 {
@@ -857,23 +857,16 @@
                 {
                     "cantidad": 1181410.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 1181410.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.63
                 },
                 {
-                    "cantidad": 11173329.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.41
+                    "cantidad": 1181410.0,
+                    "desde": "2015T3",
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.63
                 },
                 {
                     "cantidad": 11173329.0,
@@ -885,15 +878,15 @@
                 {
                     "cantidad": 11173329.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.41
                 },
                 {
                     "cantidad": 11173329.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
                     "porcentaje": 0.41
                 },
                 {
@@ -901,6 +894,13 @@
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 11173329.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.41
                 },
                 {
@@ -946,23 +946,16 @@
                 {
                     "cantidad": 1180397.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 1180397.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.67
                 },
                 {
-                    "cantidad": 11160390.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.4
+                    "cantidad": 1180397.0,
+                    "desde": "2015T3",
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.67
                 },
                 {
                     "cantidad": 11160390.0,
@@ -974,15 +967,15 @@
                 {
                     "cantidad": 11160390.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.4
                 },
                 {
                     "cantidad": 11160390.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
                     "porcentaje": 0.4
                 },
                 {
@@ -990,6 +983,13 @@
                     "desde": "2016T1",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 11160390.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.4
                 },
                 {
@@ -1028,23 +1028,16 @@
                 {
                     "cantidad": 1179313.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.62
-                },
-                {
-                    "cantidad": 1179313.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.62
                 },
                 {
-                    "cantidad": 11145703.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.41
+                    "cantidad": 1179313.0,
+                    "desde": "2015T3",
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.62
                 },
                 {
                     "cantidad": 11145703.0,
@@ -1056,15 +1049,22 @@
                 {
                     "cantidad": 11145703.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.41
                 },
                 {
                     "cantidad": 11145703.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 11145703.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.41
                 },
                 {
@@ -1096,23 +1096,16 @@
                 {
                     "cantidad": 1172597.0,
                     "desde": "2015T3",
-                    "isin": "ES0137896009",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI PREMIUM",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 1172597.0,
-                    "desde": "2015T3",
                     "isin": "ES0137896033",
                     "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI ESTÁNDAR",
                     "porcentaje": 0.55
                 },
                 {
-                    "cantidad": 11079467.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.43
+                    "cantidad": 1172597.0,
+                    "desde": "2015T3",
+                    "isin": "ES0137896009",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA, FI EXTRA",
+                    "porcentaje": 0.55
                 },
                 {
                     "cantidad": 11079467.0,
@@ -1124,15 +1117,22 @@
                 {
                     "cantidad": 11079467.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.43
                 },
                 {
                     "cantidad": 11079467.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 11079467.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.43
                 },
                 {
@@ -1185,13 +1185,6 @@
                 {
                     "cantidad": 11091031.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 11091031.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
                     "porcentaje": 0.42
@@ -1199,15 +1192,22 @@
                 {
                     "cantidad": 11091031.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.42
                 },
                 {
                     "cantidad": 11091031.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 11091031.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.42
                 },
                 {
@@ -1253,13 +1253,6 @@
                 {
                     "cantidad": 11138937.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.38
-                },
-                {
-                    "cantidad": 11138937.0,
-                    "desde": "2015T1",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
                     "porcentaje": 0.38
@@ -1267,15 +1260,22 @@
                 {
                     "cantidad": 11138937.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
+                    "isin": "ES0138534047",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
                     "porcentaje": 0.38
                 },
                 {
                     "cantidad": 11138937.0,
                     "desde": "2015T1",
-                    "isin": "ES0138534047",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE S",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 11138937.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.38
                 },
                 {
@@ -1401,15 +1401,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.0
                 }
             ],
@@ -1441,15 +1441,15 @@
                 {
                     "cantidad": 1044825.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.53
                 },
                 {
                     "cantidad": 1044825.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.53
                 }
             ],
@@ -1481,15 +1481,15 @@
                 {
                     "cantidad": 1035209.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.62
                 },
                 {
                     "cantidad": 1035209.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.62
                 }
             ],
@@ -1521,15 +1521,15 @@
                 {
                     "cantidad": 1036568.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.69
                 },
                 {
                     "cantidad": 1036568.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.69
                 }
             ],
@@ -1540,15 +1540,15 @@
                 {
                     "cantidad": 1023994.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.64
                 },
                 {
                     "cantidad": 1023994.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.64
                 },
                 {
@@ -1573,15 +1573,15 @@
                 {
                     "cantidad": 1040152.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 1040152.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.63
                 }
             ],
@@ -1599,15 +1599,15 @@
                 {
                     "cantidad": 1033005.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.6
                 },
                 {
                     "cantidad": 1033005.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.6
                 }
             ],
@@ -1625,15 +1625,15 @@
                 {
                     "cantidad": 994201.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.61
                 },
                 {
                     "cantidad": 994201.0,
                     "desde": "2012T3",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.61
                 }
             ],
@@ -1715,16 +1715,16 @@
             "fondos": [
                 {
                     "cantidad": 1112476.0,
-                    "desde": "2009T4",
-                    "isin": "ES0170138004",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
+                    "desde": "2010T1",
+                    "isin": "ES0170138038",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
                     "porcentaje": 0.87
                 },
                 {
                     "cantidad": 1112476.0,
-                    "desde": "2010T1",
-                    "isin": "ES0170138038",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
+                    "desde": "2009T4",
+                    "isin": "ES0170138004",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
                     "porcentaje": 0.87
                 },
                 {
@@ -1758,5 +1758,5 @@
         }
     ],
     "isin": "XS0361975443",
-    "nombre": "RFIJA|GOLDMAN SACHS GR|6.38|2018-05-02"
+    "nombre": "OBLIGACION|GOLDMAN SACHS GROUP|6,38|2018-05-02"
 }

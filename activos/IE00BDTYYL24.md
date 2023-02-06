@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Man Glg High Yield O
+title: Participaciones|MAN GROUP PLC
 isin: IE00BDTYYL24
 ---

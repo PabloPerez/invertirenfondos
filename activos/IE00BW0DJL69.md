@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Baillie Gifford Emerg.Mark Leading Co.B
+title: PARTICIPACIONES|BAIL GIFF EMERGING M
 isin: IE00BW0DJL69
 ---

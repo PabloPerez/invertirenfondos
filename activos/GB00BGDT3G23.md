@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|RIGHTMOVE PLC
+title: AC.RIGHTMOVE PLC (GBP)
 isin: GB00BGDT3G23
 ---

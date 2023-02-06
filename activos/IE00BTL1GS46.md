@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|NOMURA FUNDS IRELAND PLC - GLO
+title: PARTICIPACIONES|NOMURA ASSET MANEGE
 isin: IE00BTL1GS46
 ---

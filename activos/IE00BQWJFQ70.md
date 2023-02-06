@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR MSTR MLT AST GLOB I
+title: PARTICIPACIONES|ETF SPDR Morningstar
 isin: IE00BQWJFQ70
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|LONDON STOCK EXCHANGE GROUP
+title: ACCIONES|LONDON STOCK EX
 isin: GB00B0SWJX34
 ---

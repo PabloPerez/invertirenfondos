@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|KAPE TECHNOLOGIES PL
+title: ACCIONES|Crossrider PLC
 isin: IM00BQ8NYV14
 ---

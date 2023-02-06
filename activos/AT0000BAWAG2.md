@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BAWAG GROUP
+title: Acciones|BAWAG GROUP AG
 isin: AT0000BAWAG2
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF IBGY IM Equity
+title: PARTICIPACIONES|ISHARES EURO
 isin: IE00B4WXJG34
 ---

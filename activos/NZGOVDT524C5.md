@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DEUDA|HER MAJESTY THE QUEE|0,500|2024-05-15
+title: BO.NEW ZEALAND 0,5% VT.15|05|2024 (NZD)
 isin: NZGOVDT524C5
 ---

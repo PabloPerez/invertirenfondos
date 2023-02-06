@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|PARPUBLICA SGPS SA|5,250|2017-09-2
+title: RFIJA|PARPUBLICA   PAR|5.25|2017-09-28
 isin: PTPETROM0005
 ---

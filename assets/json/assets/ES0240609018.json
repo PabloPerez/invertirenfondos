@@ -4,6 +4,20 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
+                    "desde": "2017T4",
+                    "isin": "ES0142167032",
+                    "nombre": "DP RENTA FIJA FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T1",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0124143001",
                     "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
@@ -18,23 +32,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T4",
-                    "isin": "ES0142167032",
-                    "nombre": "DP RENTA FIJA FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -45,6 +45,13 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2015T1",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T1",
                     "isin": "ES0124143001",
                     "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
                     "porcentaje": 0.0
@@ -60,14 +67,7 @@
                     "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -78,8 +78,8 @@
                 {
                     "cantidad": 525415.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 2.31
                 },
                 {
@@ -92,15 +92,8 @@
                 {
                     "cantidad": 525415.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 2.31
-                },
-                {
-                    "cantidad": 525415.0,
-                    "desde": "2016T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 2.31
                 },
                 {
@@ -113,8 +106,15 @@
                 {
                     "cantidad": 525415.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 525415.0,
+                    "desde": "2016T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 2.31
                 },
                 {
@@ -134,8 +134,8 @@
                 {
                     "cantidad": 3640619.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 1.37
                 },
                 {
@@ -148,15 +148,15 @@
                 {
                     "cantidad": 3640619.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 1.37
                 },
                 {
                     "cantidad": 3640619.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 1.37
                 },
                 {
@@ -169,22 +169,22 @@
                 {
                     "cantidad": 3640619.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 1.37
-                },
-                {
-                    "cantidad": 1705926.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 1.12
                 },
                 {
                     "cantidad": 1705926.0,
                     "desde": "2015T1",
                     "isin": "ES0165182017",
                     "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 1705926.0,
+                    "desde": "2015T1",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 1.12
                 },
                 {
@@ -204,13 +204,6 @@
                 {
                     "cantidad": 318415.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 318415.0,
-                    "desde": "2016T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.63
@@ -218,15 +211,22 @@
                 {
                     "cantidad": 318415.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 318415.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 318415.0,
+                    "desde": "2016T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.63
                 },
                 {
@@ -267,6 +267,13 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2015T1",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T1",
                     "isin": "ES0124143001",
                     "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
                     "porcentaje": 0.0
@@ -282,14 +289,7 @@
                     "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -314,8 +314,8 @@
                 {
                     "cantidad": 225799.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 1.15
                 },
                 {
@@ -328,15 +328,15 @@
                 {
                     "cantidad": 225799.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 1.15
                 },
                 {
-                    "cantidad": 225799.0,
-                    "desde": "2016T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "cantidad": 1705356.0,
+                    "desde": "2015T1",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 1.15
                 },
                 {
@@ -349,29 +349,29 @@
                 {
                     "cantidad": 225799.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 225799.0,
+                    "desde": "2016T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 1.15
                 },
                 {
                     "cantidad": 1705356.0,
                     "desde": "2015T1",
                     "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 1.15
-                },
-                {
-                    "cantidad": 1705356.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 1.15
                 },
                 {
                     "cantidad": 2261233.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 1.07
                 },
                 {
@@ -384,15 +384,15 @@
                 {
                     "cantidad": 2261233.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 1.07
                 },
                 {
                     "cantidad": 2261233.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 1.07
                 },
                 {
@@ -405,8 +405,8 @@
                 {
                     "cantidad": 2261233.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 1.07
                 },
                 {
@@ -426,22 +426,8 @@
                 {
                     "cantidad": 161052.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 161052.0,
-                    "desde": "2016T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 161052.0,
-                    "desde": "2016T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.33
                 },
                 {
@@ -452,10 +438,24 @@
                     "porcentaje": 0.33
                 },
                 {
+                    "cantidad": 161052.0,
+                    "desde": "2016T4",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 161052.0,
+                    "desde": "2016T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "porcentaje": 0.33
+                },
+                {
                     "cantidad": 113223.0,
                     "desde": "2016T4",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 0.3
                 },
                 {
@@ -496,6 +496,13 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2015T1",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T1",
                     "isin": "ES0124143001",
                     "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
                     "porcentaje": 0.0
@@ -511,14 +518,7 @@
                     "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -543,15 +543,15 @@
                 {
                     "cantidad": 1708774.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 1.48
                 },
                 {
                     "cantidad": 1708774.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 1.48
                 },
                 {
@@ -564,8 +564,8 @@
                 {
                     "cantidad": 1775446.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 1.11
                 },
                 {
@@ -578,15 +578,15 @@
                 {
                     "cantidad": 1775446.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 1.11
                 },
                 {
                     "cantidad": 1775446.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 1.11
                 },
                 {
@@ -599,15 +599,15 @@
                 {
                     "cantidad": 1775446.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 1.11
                 },
                 {
                     "cantidad": 122152.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.7
                 },
                 {
@@ -620,15 +620,8 @@
                 {
                     "cantidad": 122152.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.7
-                },
-                {
-                    "cantidad": 122152.0,
-                    "desde": "2016T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.7
                 },
                 {
@@ -641,8 +634,15 @@
                 {
                     "cantidad": 122152.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 122152.0,
+                    "desde": "2016T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.7
                 },
                 {
@@ -669,13 +669,6 @@
                 {
                     "cantidad": 157964.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 157964.0,
-                    "desde": "2016T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.33
@@ -683,15 +676,22 @@
                 {
                     "cantidad": 157964.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 157964.0,
                     "desde": "2016T4",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 157964.0,
+                    "desde": "2016T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.33
                 },
                 {
@@ -705,7 +705,7 @@
                     "cantidad": 111838.0,
                     "desde": "2016T4",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 0.26
                 }
             ],
@@ -716,15 +716,15 @@
                 {
                     "cantidad": 1724266.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 1.78
                 },
                 {
                     "cantidad": 1724266.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 1.78
                 },
                 {
@@ -751,8 +751,8 @@
                 {
                     "cantidad": 1053711.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.82
                 },
                 {
@@ -765,15 +765,15 @@
                 {
                     "cantidad": 1053711.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 1053711.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.82
                 },
                 {
@@ -786,15 +786,15 @@
                 {
                     "cantidad": 1053711.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 122240.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.75
                 },
                 {
@@ -807,15 +807,8 @@
                 {
                     "cantidad": 122240.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.75
-                },
-                {
-                    "cantidad": 122240.0,
-                    "desde": "2016T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.75
                 },
                 {
@@ -828,8 +821,15 @@
                 {
                     "cantidad": 122240.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 122240.0,
+                    "desde": "2016T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.75
                 },
                 {
@@ -854,8 +854,8 @@
                 {
                     "cantidad": 892968.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127004",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
+                    "isin": "ES0165127038",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
                     "porcentaje": 0.86
                 },
                 {
@@ -868,15 +868,15 @@
                 {
                     "cantidad": 892968.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127020",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
+                    "isin": "ES0165127053",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
                     "porcentaje": 0.86
                 },
                 {
                     "cantidad": 892968.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127038",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE S-A",
+                    "isin": "ES0165127004",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-A",
                     "porcentaje": 0.86
                 },
                 {
@@ -889,15 +889,15 @@
                 {
                     "cantidad": 892968.0,
                     "desde": "2016T2",
-                    "isin": "ES0165127053",
-                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE E-B",
+                    "isin": "ES0165127020",
+                    "nombre": "MEDIOLANUM ACTIVO, FI CLASE L-B",
                     "porcentaje": 0.86
                 },
                 {
                     "cantidad": 122226.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126006",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "isin": "ES0165126022",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
                     "porcentaje": 0.81
                 },
                 {
@@ -910,15 +910,8 @@
                 {
                     "cantidad": 122226.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126022",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-B",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 122226.0,
-                    "desde": "2016T2",
-                    "isin": "ES0165126030",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
+                    "isin": "ES0165126055",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
                     "porcentaje": 0.81
                 },
                 {
@@ -931,8 +924,15 @@
                 {
                     "cantidad": 122226.0,
                     "desde": "2016T2",
-                    "isin": "ES0165126055",
-                    "nombre": "MEDIOLANUM RENTA, FI CLASE E-B",
+                    "isin": "ES0165126006",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE L-A",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 122226.0,
+                    "desde": "2016T2",
+                    "isin": "ES0165126030",
+                    "nombre": "MEDIOLANUM RENTA, FI CLASE S-A",
                     "porcentaje": 0.81
                 },
                 {
@@ -952,15 +952,15 @@
                 {
                     "cantidad": 716232.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 0.59
                 },
                 {
                     "cantidad": 716232.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.59
                 },
                 {
@@ -999,15 +999,15 @@
                 {
                     "cantidad": 718878.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 0.6
                 },
                 {
                     "cantidad": 718878.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.6
                 }
             ],
@@ -1039,15 +1039,15 @@
                 {
                     "cantidad": 728066.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 0.6
                 },
                 {
                     "cantidad": 728066.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.6
                 }
             ],
@@ -1065,15 +1065,15 @@
                 {
                     "cantidad": 726291.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 0.88
                 },
                 {
                     "cantidad": 726291.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.88
                 },
                 {
@@ -1105,29 +1105,29 @@
                 {
                     "cantidad": 530316.0,
                     "desde": "2015T1",
-                    "isin": "ES0170138004",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
-                    "porcentaje": 0.84
-                },
-                {
-                    "cantidad": 530316.0,
-                    "desde": "2015T1",
                     "isin": "ES0170138038",
                     "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
                     "porcentaje": 0.84
                 },
                 {
-                    "cantidad": 738104.0,
+                    "cantidad": 530316.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
-                    "porcentaje": 0.68
+                    "isin": "ES0170138004",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
+                    "porcentaje": 0.84
                 },
                 {
                     "cantidad": 738104.0,
                     "desde": "2015T1",
                     "isin": "ES0165182017",
                     "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 738104.0,
+                    "desde": "2015T1",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.68
                 },
                 {
@@ -1152,15 +1152,15 @@
                 {
                     "cantidad": 1268060.0,
                     "desde": "2015T1",
-                    "isin": "ES0170138004",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
+                    "isin": "ES0170138038",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
                     "porcentaje": 1.59
                 },
                 {
                     "cantidad": 1268060.0,
                     "desde": "2015T1",
-                    "isin": "ES0170138038",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
+                    "isin": "ES0170138004",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
                     "porcentaje": 1.59
                 },
                 {
@@ -1173,15 +1173,15 @@
                 {
                     "cantidad": 742503.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182009",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE A",
+                    "isin": "ES0165182017",
+                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
                     "porcentaje": 0.99
                 },
                 {
                     "cantidad": 742503.0,
                     "desde": "2015T1",
-                    "isin": "ES0165182017",
-                    "nombre": "MUTUAFONDO RENTA FIJA ESPAÑOLA, FI CLASE D",
+                    "isin": "ES0165182009",
+                    "nombre": "MUTUAFONDO DEUDA ESPAÑOLA, FI CLASE A",
                     "porcentaje": 0.99
                 },
                 {
@@ -1214,7 +1214,7 @@
                     "cantidad": 206991.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 0.74
                 }
             ],
@@ -1226,7 +1226,7 @@
                     "cantidad": 667586.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.39
                 },
                 {
@@ -1245,7 +1245,7 @@
                     "cantidad": 1049474.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 3.71
                 }
             ],
@@ -1257,7 +1257,7 @@
                     "cantidad": 1043381.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 6.53
                 }
             ],
@@ -1269,7 +1269,7 @@
                     "cantidad": 980039.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 7.16
                 }
             ],
@@ -1281,7 +1281,7 @@
                     "cantidad": 1121220.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 8.44
                 }
             ],
@@ -1293,7 +1293,7 @@
                     "cantidad": 1052279.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 8.34
                 }
             ],
@@ -1305,7 +1305,7 @@
                     "cantidad": 281096.0,
                     "desde": "2013T1",
                     "isin": "ES0109286007",
-                    "nombre": "ANNAPURNA, FI",
+                    "nombre": "ANNAPURNA, FI (EN LIQUIDACIÓN)",
                     "porcentaje": 2.22
                 }
             ],
@@ -1313,5 +1313,5 @@
         }
     ],
     "isin": "ES0240609018",
-    "nombre": "RENTA FIJA|CAIXABANK|5,00|2022-02-09"
+    "nombre": "OBLIGACION|GRUPO LA CAIXA|5,00|2022-02-09"
 }

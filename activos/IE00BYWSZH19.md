@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|SEI GMF LIQ ALT FUND P E
+isin: IE00BYWSZH19
+---

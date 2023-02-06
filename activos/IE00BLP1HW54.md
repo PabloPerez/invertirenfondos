@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AON PLC-CLASS A
+title: AC.AON PLC (USD) 
 isin: IE00BLP1HW54
 ---

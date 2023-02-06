@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ISHARES
+title: PARTICIPACIONES|ETF Ishares Global
 isin: IE00B1XNHC34
 ---

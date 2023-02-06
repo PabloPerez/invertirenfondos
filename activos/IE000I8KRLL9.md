@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ISHARES
+title: PARTICIPACIONES|iShares MSCI Global
 isin: IE000I8KRLL9
 ---

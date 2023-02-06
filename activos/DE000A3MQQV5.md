@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|DEUTSCHE BOERSE |2.00|2048-06-23
+title: Obligaciones|DEUTSCHE BOERSE AG|0,000|2028-06-2
 isin: DE000A3MQQV5
 ---

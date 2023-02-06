@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|S4 CAPITAL PLC
+title: ACCIONES|SFOR LN S4 Capital PLC
 isin: GB00BFZZM640
 ---

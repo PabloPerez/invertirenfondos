@@ -3,17 +3,43 @@
         {
             "fondos": [
                 {
+                    "cantidad": 782000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0110101005",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE CARTERA",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 782000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0110101039",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE A",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 74000.0,
+                    "desde": "2017T3",
+                    "isin": "ES0114564000",
+                    "nombre": "BINDEX EUROPA INDICE, FI",
+                    "porcentaje": 0.03
+                }
+            ],
+            "periodo": "2022T4"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 773000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101005",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.26
                 },
                 {
                     "cantidad": 773000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101039",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.26
                 },
                 {
@@ -32,28 +58,28 @@
                     "cantidad": 798000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101005",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.25
                 },
                 {
                     "cantidad": 798000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101039",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.25
                 },
                 {
                     "cantidad": 585000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 585000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.1
                 },
                 {
@@ -66,8 +92,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "isin": "ES0105243002",
+                    "nombre": "ACACIA BONOMIX FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -87,27 +120,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243002",
-                    "nombre": "ACACIA BONOMIX FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.0
@@ -115,15 +127,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105244018",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -139,6 +144,27 @@
                     "isin": "ES0157934003",
                     "nombre": "ACACIA REINVERPLUS EUROPA FI",
                     "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244018",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.0
                 }
             ],
             "periodo": "2022T2"
@@ -149,28 +175,28 @@
                     "cantidad": 940000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101005",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.27
                 },
                 {
                     "cantidad": 940000.0,
                     "desde": "2022T1",
                     "isin": "ES0110101039",
-                    "nombre": "BBVA EUROPA DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA EUROPA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.27
                 },
                 {
                     "cantidad": 682000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459000",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE CARTERA",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 682000.0,
                     "desde": "2022T1",
                     "isin": "ES0125459034",
-                    "nombre": "BBVA GLOBAL DESARROLLO SOSTENIBLE ISR, FI CLASE A",
+                    "nombre": "BBVA GLOBAL DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.1
                 },
                 {
@@ -183,8 +209,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "isin": "ES0105243002",
+                    "nombre": "ACACIA BONOMIX FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -204,27 +237,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243002",
-                    "nombre": "ACACIA BONOMIX FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.0
@@ -232,15 +244,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105244018",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -255,6 +260,27 @@
                     "desde": "2019T3",
                     "isin": "ES0157934003",
                     "nombre": "ACACIA REINVERPLUS EUROPA FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244018",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
                     "porcentaje": 0.0
                 }
             ],
@@ -279,6 +305,13 @@
                 {
                     "cantidad": 26057.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 26057.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.19
@@ -289,20 +322,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 26057.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 154614.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 154614.0,
@@ -319,6 +338,13 @@
                     "porcentaje": 0.11
                 },
                 {
+                    "cantidad": 154614.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.11
+                },
+                {
                     "cantidad": 48807.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -328,15 +354,15 @@
                 {
                     "cantidad": 48807.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 48807.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.08
                 },
                 {
@@ -368,6 +394,13 @@
                 {
                     "cantidad": 25119.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 25119.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.19
@@ -378,20 +411,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 25119.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.19
-                },
-                {
-                    "cantidad": 149046.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 149046.0,
@@ -408,6 +427,13 @@
                     "porcentaje": 0.11
                 },
                 {
+                    "cantidad": 149046.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.11
+                },
+                {
                     "cantidad": 47050.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -417,15 +443,15 @@
                 {
                     "cantidad": 47050.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 47050.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.08
                 },
                 {
@@ -457,6 +483,13 @@
                 {
                     "cantidad": 35445.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 35445.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.26
@@ -467,20 +500,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 35445.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 204831.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 204831.0,
@@ -497,6 +516,13 @@
                     "porcentaje": 0.14
                 },
                 {
+                    "cantidad": 204831.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.14
+                },
+                {
                     "cantidad": 61634.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -506,15 +532,15 @@
                 {
                     "cantidad": 61634.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 61634.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.11
                 },
                 {
@@ -546,6 +572,13 @@
                 {
                     "cantidad": 30312.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 30312.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.23
@@ -556,20 +589,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 30312.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 175166.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 175166.0,
@@ -586,6 +605,13 @@
                     "porcentaje": 0.13
                 },
                 {
+                    "cantidad": 175166.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.13
+                },
+                {
                     "cantidad": 52708.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -595,15 +621,15 @@
                 {
                     "cantidad": 52708.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 52708.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.1
                 },
                 {
@@ -628,8 +654,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "isin": "ES0105243002",
+                    "nombre": "ACACIA BONOMIX FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -649,27 +682,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243002",
-                    "nombre": "ACACIA BONOMIX FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.0
@@ -677,15 +689,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105244018",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -700,6 +705,27 @@
                     "desde": "2019T3",
                     "isin": "ES0157934003",
                     "nombre": "ACACIA REINVERPLUS EUROPA FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244018",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
                     "porcentaje": 0.0
                 }
             ],
@@ -717,8 +743,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "isin": "ES0105243002",
+                    "nombre": "ACACIA BONOMIX FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -738,27 +771,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243002",
-                    "nombre": "ACACIA BONOMIX FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.0
@@ -766,15 +778,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T3",
-                    "isin": "ES0105244018",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.0
                 },
                 {
@@ -789,6 +794,27 @@
                     "desde": "2019T3",
                     "isin": "ES0157934003",
                     "nombre": "ACACIA REINVERPLUS EUROPA FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105244018",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
                     "porcentaje": 0.0
                 }
             ],
@@ -813,6 +839,13 @@
                 {
                     "cantidad": 25976.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 25976.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.23
@@ -823,20 +856,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 25976.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 164380.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 164380.0,
@@ -853,6 +872,13 @@
                     "porcentaje": 0.14
                 },
                 {
+                    "cantidad": 164380.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.14
+                },
+                {
                     "cantidad": 9292.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -862,15 +888,15 @@
                 {
                     "cantidad": 9292.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 9292.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.11
                 },
                 {
@@ -902,6 +928,13 @@
                 {
                     "cantidad": 23927.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 23927.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.26
@@ -912,20 +945,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 23927.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 151412.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 151412.0,
@@ -942,6 +961,13 @@
                     "porcentaje": 0.14
                 },
                 {
+                    "cantidad": 151412.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.14
+                },
+                {
                     "cantidad": 8559.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -951,15 +977,15 @@
                 {
                     "cantidad": 8559.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 8559.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.11
                 },
                 {
@@ -991,6 +1017,13 @@
                 {
                     "cantidad": 28772.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 28772.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.26
@@ -1001,20 +1034,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 28772.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.26
-                },
-                {
-                    "cantidad": 189781.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 189781.0,
@@ -1031,6 +1050,13 @@
                     "porcentaje": 0.15
                 },
                 {
+                    "cantidad": 189781.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.15
+                },
+                {
                     "cantidad": 10765.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -1040,15 +1066,15 @@
                 {
                     "cantidad": 10765.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.12
                 },
                 {
                     "cantidad": 10765.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.12
                 },
                 {
@@ -1080,6 +1106,13 @@
                 {
                     "cantidad": 25392.0,
                     "desde": "2019T3",
+                    "isin": "ES0105244026",
+                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 25392.0,
+                    "desde": "2019T3",
                     "isin": "ES0105244000",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI ORO",
                     "porcentaje": 0.23
@@ -1090,20 +1123,6 @@
                     "isin": "ES0105244018",
                     "nombre": "ACACIA GLOBALMIX 60-90, FI PLATA",
                     "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 25392.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105244026",
-                    "nombre": "ACACIA GLOBALMIX 60-90, FI PLATINO",
-                    "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 167486.0,
-                    "desde": "2019T3",
-                    "isin": "ES0105207007",
-                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
-                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 167486.0,
@@ -1120,6 +1139,13 @@
                     "porcentaje": 0.13
                 },
                 {
+                    "cantidad": 167486.0,
+                    "desde": "2019T3",
+                    "isin": "ES0105207007",
+                    "nombre": "ACACIA INVERMIX 30-60, FI ORO",
+                    "porcentaje": 0.13
+                },
+                {
                     "cantidad": 9501.0,
                     "desde": "2019T3",
                     "isin": "ES0105243002",
@@ -1129,15 +1155,15 @@
                 {
                     "cantidad": 9501.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243010",
-                    "nombre": "ACACIA BONOMIX FI ORO",
+                    "isin": "ES0105243028",
+                    "nombre": "ACACIA BONOMIX FI PLATINO",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 9501.0,
                     "desde": "2019T3",
-                    "isin": "ES0105243028",
-                    "nombre": "ACACIA BONOMIX FI PLATINO",
+                    "isin": "ES0105243010",
+                    "nombre": "ACACIA BONOMIX FI ORO",
                     "porcentaje": 0.11
                 },
                 {

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|CALAMOS ADVISOR LLC
+title: Participaciones|CALAMOS ADVISORS LLC
 isin: IE00BKRVJD11
 ---

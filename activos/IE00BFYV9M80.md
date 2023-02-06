@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|GUINNESS ASSET MANAGEMENT F
+title: PARTICIPACIONES|GUINNESS ASSET
 isin: IE00BFYV9M80
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|REDES ENERGETICAS NACIONAIS|6,375|2013-12
+title: R.|REN REDES|6,38|2013-12-10
 isin: PTRELAOM0000
 ---

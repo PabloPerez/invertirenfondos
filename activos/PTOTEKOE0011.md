@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DEUDA|PORTUGAL|2,880|2025-10-15
+title: Obligaciones|REPUBLICA DE PORTUGA|2,875|2025-10
 isin: PTOTEKOE0011
 ---

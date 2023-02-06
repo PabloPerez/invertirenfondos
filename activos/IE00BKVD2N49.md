@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SEAGATE TECHNOLOGY H
+title: ACCIONES|SAGATE TECHNOLOGY
 isin: IE00BKVD2N49
 ---

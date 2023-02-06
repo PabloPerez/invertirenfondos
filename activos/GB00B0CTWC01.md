@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ETF SECURITIES LTD.
+title: ACCIONES|Accs. ETF Ishares
 isin: GB00B0CTWC01
 ---

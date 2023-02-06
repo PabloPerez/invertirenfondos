@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|NOMURA JPA SMALL C
+title: I.I.C.|NOMURA JAPAN SM
 isin: IE00BJCW7L63
 ---

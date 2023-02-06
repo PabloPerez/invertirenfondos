@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares USD 20+
+title: Participaciones|ISH USD TREASURY BOND 20 YR
 isin: IE00BD8PGZ49
 ---

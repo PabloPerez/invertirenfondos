@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Harbour Energy PLC
+title: Acciones|HARBOUR ENERGY PLC
 isin: GB00BMBVGQ36
 ---

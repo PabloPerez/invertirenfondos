@@ -5,8 +5,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2014T3",
-                    "isin": "ES0123971006",
-                    "nombre": "RURAL RENTA FIJA 3, FI CLASE CARTERA",
+                    "isin": "ES0174305005",
+                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -19,15 +19,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2014T3",
-                    "isin": "ES0158603003",
-                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
+                    "isin": "ES0123971006",
+                    "nombre": "RURAL RENTA FIJA 3, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2014T3",
-                    "isin": "ES0174305005",
-                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
+                    "isin": "ES0158603003",
+                    "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -35,6 +35,20 @@
         },
         {
             "fondos": [
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T3",
+                    "isin": "ES0174305005",
+                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T3",
+                    "isin": "ES0126535006",
+                    "nombre": "RURAL RENTA FIJA 1, FI CLASE CARTERA",
+                    "porcentaje": 0.0
+                },
                 {
                     "cantidad": 0.0,
                     "desde": "2014T3",
@@ -52,22 +66,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2014T3",
-                    "isin": "ES0126535006",
-                    "nombre": "RURAL RENTA FIJA 1, FI CLASE CARTERA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T3",
                     "isin": "ES0158603003",
                     "nombre": "RURAL BONOS CORPORATIVOS, FI CLASE CARTERA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2014T3",
-                    "isin": "ES0174305005",
-                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -99,13 +99,6 @@
                 {
                     "cantidad": 2283000.0,
                     "desde": "2015T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 2283000.0,
-                    "desde": "2015T1",
                     "isin": "ES0155008024",
                     "nombre": "INVERSABADELL 10, FI PREMIER",
                     "porcentaje": 0.68
@@ -115,6 +108,13 @@
                     "desde": "2014T3",
                     "isin": "ES0155008032",
                     "nombre": "INVERSABADELL 10, FI BASE",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 2283000.0,
+                    "desde": "2015T1",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
                     "porcentaje": 0.68
                 },
                 {
@@ -147,23 +147,23 @@
                 },
                 {
                     "cantidad": 1886000.0,
-                    "desde": "2015T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 1886000.0,
                     "desde": "2014T3",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.34
                 },
                 {
-                    "cantidad": 297000.0,
+                    "cantidad": 1886000.0,
                     "desde": "2015T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 297000.0,
+                    "desde": "2014T3",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.26
                 },
                 {
@@ -175,9 +175,9 @@
                 },
                 {
                     "cantidad": 297000.0,
-                    "desde": "2014T3",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "desde": "2015T1",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.26
                 },
                 {
@@ -216,13 +216,6 @@
                 {
                     "cantidad": 2285000.0,
                     "desde": "2015T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 2285000.0,
-                    "desde": "2015T1",
                     "isin": "ES0155008024",
                     "nombre": "INVERSABADELL 10, FI PREMIER",
                     "porcentaje": 0.67
@@ -232,6 +225,13 @@
                     "desde": "2014T3",
                     "isin": "ES0155008032",
                     "nombre": "INVERSABADELL 10, FI BASE",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 2285000.0,
+                    "desde": "2015T1",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
                     "porcentaje": 0.67
                 },
                 {
@@ -264,16 +264,16 @@
                 },
                 {
                     "cantidad": 1887000.0,
-                    "desde": "2015T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "desde": "2014T3",
+                    "isin": "ES0177124031",
+                    "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.32
                 },
                 {
                     "cantidad": 1887000.0,
-                    "desde": "2014T3",
-                    "isin": "ES0177124031",
-                    "nombre": "INVERSABADELL 25, FI BASE",
+                    "desde": "2015T1",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
                     "porcentaje": 0.32
                 },
                 {
@@ -285,9 +285,9 @@
                 },
                 {
                     "cantidad": 298000.0,
-                    "desde": "2015T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "desde": "2014T3",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.25
                 },
                 {
@@ -299,9 +299,9 @@
                 },
                 {
                     "cantidad": 298000.0,
-                    "desde": "2014T3",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "desde": "2015T1",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.25
                 }
             ],
@@ -459,5 +459,5 @@
         }
     ],
     "isin": "ES0513862H02",
-    "nombre": "PAGARES B. SABADELL VTO 16/0 2015-09-16"
+    "nombre": "Pagares Sabadell 160915"
 }

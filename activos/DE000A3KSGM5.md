@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Traton Finance Lux SA 0% 140624
+title: BONO|TRATON FINANCE LUX|0,80|2024-06-14
 isin: DE000A3KSGM5
 ---

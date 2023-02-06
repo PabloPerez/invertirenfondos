@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES EUR GOVT BON
+title: Participaciones|BLACKROCK
 isin: IE00B3VTMJ91
 ---

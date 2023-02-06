@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|IWG PLC
+title: IWG PLC
 isin: JE00BYVQYS01
 ---

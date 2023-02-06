@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|XTRACKERS MSCI EUROPE ESG UCIT
+title: PARTICIPACIONES|XTRACKERS ESG MSCI EUROP
 isin: IE00BFMNHK08
 ---

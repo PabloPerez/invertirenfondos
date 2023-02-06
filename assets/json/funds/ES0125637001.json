@@ -1,7 +1,126 @@
 {
     "auditora": "-",
     "fecha_registro": "15/07/2022",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 0.15,
+            "indice_rotacion": 0.29,
+            "liquidez": 1.09,
+            "participes": 3856,
+            "patrimonio": 198135483,
+            "periodo": "2022T4",
+            "posiciones": [
+                {
+                    "cantidad": 55508321.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005370306",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|2,10|2026-07-15",
+                    "porcentaje": 28.02
+                },
+                {
+                    "cantidad": 53608637.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005454241",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|2,76|2026-08-01",
+                    "porcentaje": 27.06
+                },
+                {
+                    "cantidad": 49189971.0,
+                    "desde": "2022T3",
+                    "isin": "IT0004735152",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|3,10|2026-09-15",
+                    "porcentaje": 24.83
+                },
+                {
+                    "cantidad": 26251705.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005437147",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|0,00|2026-04-01",
+                    "porcentaje": 13.25
+                },
+                {
+                    "cantidad": 1483813.0,
+                    "desde": "2022T3",
+                    "isin": "IT0001086567",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|7,25|2026-11-01",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 93305.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005170839",
+                    "moneda": "euro",
+                    "nombre": "BONO|ITALIA|1,60|2026-06-01",
+                    "porcentaje": 0.05
+                }
+            ],
+            "rentabilidad": 2.31
+        },
+        {
+            "gastos": 0.0,
+            "indice_rotacion": 4.46,
+            "liquidez": 1.94,
+            "participes": 3858,
+            "patrimonio": 193707000,
+            "periodo": "2022T3",
+            "posiciones": [
+                {
+                    "cantidad": 1492000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0001086567",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|7,250000000|2026-11-01|",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 47820000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0004735152",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|3,100000000|2026-09-15|",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 94000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005170839",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|1,600000000|2026-06-01|",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 54448000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005370306",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|2,100000000|2026-07-15|",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 26364000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005437147",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|1,0E-8|2026-04-01|",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 53804000.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005454241",
+                    "moneda": "euro",
+                    "nombre": "DEUDA|ITALIA|1E-9|2026-08-01|",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5644,
     "id_cnmv_depositaria": 240,
     "id_cnmv_gestora": 121,

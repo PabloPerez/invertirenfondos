@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|DEUDA ESTADO IRLANDA|5,50|2017-10-18
+title: BONOS|EIRE|5.5|2017-10-18
 isin: IE00B8DLLB38
 ---

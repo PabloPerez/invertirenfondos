@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|DAIMLERCHRYSLER AG|2,63|2019-04-02
+title: BONOS|DAIMLER AG|2.625|2019-04-02
 isin: DE000A1MLXN3
 ---

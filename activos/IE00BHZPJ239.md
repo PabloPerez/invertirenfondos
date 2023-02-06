@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES MSCI EM ESG
+title: ETF|ISHARES ETFS|IR
 isin: IE00BHZPJ239
 ---

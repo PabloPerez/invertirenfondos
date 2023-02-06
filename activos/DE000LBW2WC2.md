@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|LANDESBANK BADEN-WÜ|03,750|2014-02-12
+title: Obligaciones|LB BADEN-WUERTTENBERG     4280|3,7
 isin: DE000LBW2WC2
 ---

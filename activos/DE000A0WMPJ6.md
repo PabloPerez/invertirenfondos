@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AIXTRON SE
+title: ACCIONES|AIXTRON
 isin: DE000A0WMPJ6
 ---

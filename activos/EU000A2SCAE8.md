@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|EUROPEAN FINANC STAB|2,38|2028-04-11
+isin: EU000A2SCAE8
+---

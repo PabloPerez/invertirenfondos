@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|HENDERSON GLOBAL INVESTORS LTD
+title: I.I.C.|NEW STAR OEIC -
 isin: GB00B1CKQF12
 ---

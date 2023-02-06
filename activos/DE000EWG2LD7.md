@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|BOERSE STUTTGART SEC
+title: PARTICIPACIONES|EUWAX GOLD II ETC
 isin: DE000EWG2LD7
 ---

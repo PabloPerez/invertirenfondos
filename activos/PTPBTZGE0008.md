@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: LETRA REP PORTUGAL 0 230710
+title: LETRAS|ESTADO PORTUGUES|0,638|2010-07-23
 isin: PTPBTZGE0008
 ---

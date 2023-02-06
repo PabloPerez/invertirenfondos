@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|VERITAS FUNDS
+title: PARTICIPACIONES|VERITAS
 isin: IE00BGV1VQ60
 ---

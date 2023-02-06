@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|NAVIGATOR CO SA
+title: Ac.Navigator Co Sa|the
 isin: PTPTI0AM0006
 ---

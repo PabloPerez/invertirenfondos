@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|VENATORS MATERIALS PLC
+title: Acciones|VENATOR MATERIALS PLC
 isin: GB00BF3ZNS54
 ---
