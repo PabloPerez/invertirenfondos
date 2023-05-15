@@ -4,6 +4,337 @@
     "historico_periodos": [
         {
             "gastos": 0.0,
+            "indice_rotacion": 0.18,
+            "liquidez": 3.0,
+            "participes": 0,
+            "patrimonio": 0,
+            "periodo": "2023T1",
+            "posiciones": [
+                {
+                    "cantidad": 300000.0,
+                    "desde": "2023T1",
+                    "isin": "ES0000012B62",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|2,60|2023-04-03",
+                    "porcentaje": 10.51
+                },
+                {
+                    "cantidad": 224306.0,
+                    "desde": "2023T1",
+                    "isin": "US91282CDM01",
+                    "moneda": "EUR",
+                    "nombre": "R.|ESTADO USA |0,500|2023-11-30",
+                    "porcentaje": 7.86
+                },
+                {
+                    "cantidad": 197530.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02309083",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,509|2023-09-08",
+                    "porcentaje": 6.92
+                },
+                {
+                    "cantidad": 197008.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02310065",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,568|2023-10-06",
+                    "porcentaje": 6.9
+                },
+                {
+                    "cantidad": 196452.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02311105",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,553|2023-11-10",
+                    "porcentaje": 6.89
+                },
+                {
+                    "cantidad": 196002.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02312087",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,562|2023-12-08",
+                    "porcentaje": 6.87
+                },
+                {
+                    "cantidad": 124024.0,
+                    "desde": "2022T4",
+                    "isin": "GB00BF0HZ991",
+                    "moneda": "EUR",
+                    "nombre": "R.|UK TREASURY|0,750|2023-07-22",
+                    "porcentaje": 4.35
+                },
+                {
+                    "cantidad": 111607.0,
+                    "desde": "2022T4",
+                    "isin": "ES0157638018",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|GVC GAESCO 300 PLACE",
+                    "porcentaje": 3.91
+                },
+                {
+                    "cantidad": 110855.0,
+                    "desde": "2022T4",
+                    "isin": "LU1144806145",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|PARETURN GVCGAE",
+                    "porcentaje": 3.89
+                },
+                {
+                    "cantidad": 99276.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02307079",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,283|2023-07-07",
+                    "porcentaje": 3.48
+                },
+                {
+                    "cantidad": 98984.0,
+                    "desde": "2022T4",
+                    "isin": "ES0L02308119",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,454|2023-08-11",
+                    "porcentaje": 3.47
+                },
+                {
+                    "cantidad": 97576.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02402094",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,170|2024-02-09",
+                    "porcentaje": 3.42
+                },
+                {
+                    "cantidad": 90522.0,
+                    "desde": "2022T4",
+                    "isin": "US91282CCU36",
+                    "moneda": "EUR",
+                    "nombre": "R.|ESTADO USA |0,125|2023-08-31",
+                    "porcentaje": 3.17
+                },
+                {
+                    "cantidad": 89712.0,
+                    "desde": "2022T4",
+                    "isin": "US91282CAW10",
+                    "moneda": "EUR",
+                    "nombre": "R.|ESTADO USA |0,250|2023-11-15",
+                    "porcentaje": 3.14
+                },
+                {
+                    "cantidad": 89362.0,
+                    "desde": "2022T4",
+                    "isin": "US91282CBA80",
+                    "moneda": "EUR",
+                    "nombre": "R.|ESTADO USA |0,125|2023-12-15",
+                    "porcentaje": 3.13
+                },
+                {
+                    "cantidad": 86950.0,
+                    "desde": "2022T4",
+                    "isin": "IE00B3ZW0K18",
+                    "moneda": "EUR",
+                    "nombre": "ETF|ISHARES S&P 500",
+                    "porcentaje": 3.05
+                },
+                {
+                    "cantidad": 42220.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000121014",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|LVMH",
+                    "porcentaje": 1.48
+                },
+                {
+                    "cantidad": 30900.0,
+                    "desde": "2022T4",
+                    "isin": "ES0148396007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INDITEX",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 29970.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000120404",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ACCOR",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 27700.0,
+                    "desde": "2022T4",
+                    "isin": "US2546871060",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES| WALT DISNEY",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 26627.0,
+                    "desde": "2022T4",
+                    "isin": "CH0023405456",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DUFRY AG",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 26470.0,
+                    "desde": "2022T4",
+                    "isin": "FR0006174348",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BUREAU VERITAS",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 22487.0,
+                    "desde": "2022T4",
+                    "isin": "CH0038863350",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NESTLE",
+                    "porcentaje": 0.79
+                },
+                {
+                    "cantidad": 21545.0,
+                    "desde": "2022T4",
+                    "isin": "DE0005552004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE POST",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 18368.0,
+                    "desde": "2022T4",
+                    "isin": "IE0004906560",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERRY GROUP",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 18005.0,
+                    "desde": "2022T4",
+                    "isin": "GB0000456144",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ANTOFAGASTA PLC",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 16836.0,
+                    "desde": "2022T4",
+                    "isin": "NL0000009538",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KONINKLIJKE PHI",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 15960.0,
+                    "desde": "2022T4",
+                    "isin": "DE0008404005",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALLIANZ",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 15858.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000125486",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VINCI",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 15597.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000045072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CREDIT AGRICOLE",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 15420.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000120073",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AIR LIQUIDE",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 15368.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000121972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SCHNEIDER ELEC.",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 15368.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000125338",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CAP GEMINI",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 13161.0,
+                    "desde": "2022T4",
+                    "isin": "CH0012032048",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ROCHE HOLDING",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 12900.0,
+                    "desde": "2022T4",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHE RUECK",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 12674.0,
+                    "desde": "2022T4",
+                    "isin": "CH0012005267",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NOVARTIS",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 12564.0,
+                    "desde": "2022T4",
+                    "isin": "DE0007664039",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOLKSWAGEN",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 12348.0,
+                    "desde": "2022T4",
+                    "isin": "GB0002374006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DIAGEO",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 11042.0,
+                    "desde": "2022T4",
+                    "isin": "FR0000131104",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BNP",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 10593.0,
+                    "desde": "2022T4",
+                    "isin": "SE0017486897",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ATLAS COPCO AB",
+                    "porcentaje": 0.37
+                }
+            ],
+            "rentabilidad": 3.16
+        },
+        {
+            "gastos": 0.0,
             "indice_rotacion": 0.0,
             "liquidez": 37.46,
             "participes": 0,

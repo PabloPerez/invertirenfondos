@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|INVESCO PANEU STR EQ
+title: PARTICIPACIONES|Invesco STOXX Europe
 isin: IE00B5MTYK77
 ---
