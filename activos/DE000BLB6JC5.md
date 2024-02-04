@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|BAYERISCHE LANDESBANK|0,75|2028-01-19
+isin: DE000BLB6JC5
+---

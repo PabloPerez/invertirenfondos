@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|SPDR MSCI WORLD UCIT
+title: PARTICIPACIONES|SPDR MSCI World UCIT
 isin: IE00BFY0GT14
 ---

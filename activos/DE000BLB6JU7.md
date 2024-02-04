@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|BAYERISCHE LANDESBAN|3,75|2029-02-07
+isin: DE000BLB6JU7
+---

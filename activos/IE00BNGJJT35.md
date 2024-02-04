@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Invesco MSCI USA
+title: Participaciones|INVESCO ASSET MANAGEMENT
 isin: IE00BNGJJT35
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SPIRAX-SARCO ENGINEE
+title: Acciones|SPIRAX-SARCO ENGINEERING PLC
 isin: GB00BWFGQN14
 ---

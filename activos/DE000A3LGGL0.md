@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|MERCEDES-BENZ INTERN|3,400|2025-04-13
+isin: DE000A3LGGL0
+---

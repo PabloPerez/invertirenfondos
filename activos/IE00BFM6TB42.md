@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETN|BLACKROCK IE
+title: PARTICIPACIONES|iShares Global Corp
 isin: IE00BFM6TB42
 ---

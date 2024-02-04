@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares MSCI China U
+title: PARTICIPACIONES|ISHMSCICHINA
 isin: IE00BJ5JPG56
 ---

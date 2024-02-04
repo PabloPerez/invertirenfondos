@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISH USD TREASURY BOND 20 YR
+title: PARTICIPACIONES|BLACKROCK ASSET MAN IRELAND
 isin: IE00BD8PGZ49
 ---

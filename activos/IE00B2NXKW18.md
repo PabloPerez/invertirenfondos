@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SEILERN INVEST. MNGMENT LTD
+title: PARTICIPACIONES|Seilern Stryx World
 isin: IE00B2NXKW18
 ---

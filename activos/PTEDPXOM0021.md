@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|ENERGIAS DE PORTUGAL|1,500|2026-12-14
+title: BONOS|EDP - ENERGIAS DE PO|1,500|2082-03-14
 isin: PTEDPXOM0021
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JUPITER FINANCIAL CO
+isin: IE00BFYVC072
+---

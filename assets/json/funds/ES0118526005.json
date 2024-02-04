@@ -1,7 +1,653 @@
 {
-    "auditora": "Deloitte",
+    "auditora": "Deloitte, S.L.",
     "fecha_registro": "07/06/2019",
     "historico_periodos": [
+        {
+            "gastos": 0.07,
+            "indice_rotacion": 0.5,
+            "liquidez": 3.88,
+            "participes": 340986,
+            "patrimonio": 2335239833,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 188492713.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012L29",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|2,800|2026-05-31",
+                    "porcentaje": 8.07
+                },
+                {
+                    "cantidad": 170822981.0,
+                    "desde": "2023T2",
+                    "isin": "FR0013508470",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|2026-02-25",
+                    "porcentaje": 7.32
+                },
+                {
+                    "cantidad": 147904347.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014007TY9",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|2025-02-25",
+                    "porcentaje": 6.33
+                },
+                {
+                    "cantidad": 120917023.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005419848",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,500|2026-02-01",
+                    "porcentaje": 5.18
+                },
+                {
+                    "cantidad": 112666666.0,
+                    "desde": "2023T2",
+                    "isin": "ES00000128H5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|1,300|2026-10-31",
+                    "porcentaje": 4.82
+                },
+                {
+                    "cantidad": 107051659.0,
+                    "desde": "2022T4",
+                    "isin": "DE0001141828",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|1,947|2025-10-10",
+                    "porcentaje": 4.58
+                },
+                {
+                    "cantidad": 106086362.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001102390",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2026-02-15",
+                    "porcentaje": 4.54
+                },
+                {
+                    "cantidad": 101156191.0,
+                    "desde": "2022T4",
+                    "isin": "FR0012938116",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|1,000|2025-11-25",
+                    "porcentaje": 4.33
+                },
+                {
+                    "cantidad": 100227148.0,
+                    "desde": "2023T2",
+                    "isin": "FR0013131877",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|0,500|2026-05-25",
+                    "porcentaje": 4.29
+                },
+                {
+                    "cantidad": 88999284.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012F43",
+                    "moneda": "EUR",
+                    "nombre": "REPO|SPAIN GOVERNMENT BO|3,77|2024-01-02",
+                    "porcentaje": 3.81
+                },
+                {
+                    "cantidad": 87032236.0,
+                    "desde": "2022T3",
+                    "isin": "FI4000006176",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND|4,000|2025-07-04",
+                    "porcentaje": 3.73
+                },
+                {
+                    "cantidad": 77906836.0,
+                    "desde": "2023T4",
+                    "isin": "FR0013200813",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|0,250|2026-11-25",
+                    "porcentaje": 3.34
+                },
+                {
+                    "cantidad": 72629665.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005474330",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,780|2024-12-15",
+                    "porcentaje": 3.11
+                },
+                {
+                    "cantidad": 66378446.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005386245",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,350|2025-02-01",
+                    "porcentaje": 2.84
+                },
+                {
+                    "cantidad": 64637490.0,
+                    "desde": "2023T4",
+                    "isin": "DE0001102408",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|BUNDESREPUBLIK DEUTS|2026-08-15",
+                    "porcentaje": 2.77
+                },
+                {
+                    "cantidad": 62557604.0,
+                    "desde": "2022T1",
+                    "isin": "DE0001102374",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2025-02-15",
+                    "porcentaje": 2.68
+                },
+                {
+                    "cantidad": 59460243.0,
+                    "desde": "2022T3",
+                    "isin": "AT0000A2QRW0",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF AUSTRIA|2025-04-20",
+                    "porcentaje": 2.55
+                },
+                {
+                    "cantidad": 56492593.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005514473",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,500|2026-01-15",
+                    "porcentaje": 2.42
+                },
+                {
+                    "cantidad": 52773380.0,
+                    "desde": "2023T4",
+                    "isin": "FR001400FYQ4",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRENCH REPUBLIC GOVE|2,500|2026-09-24",
+                    "porcentaje": 2.26
+                },
+                {
+                    "cantidad": 31857952.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|4,650|2025-07-30",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 30539332.0,
+                    "desde": "2022T2",
+                    "isin": "IE00B4TV0D44",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|IRELAND GOVERNMENT B|5,400|2025-03-13",
+                    "porcentaje": 1.31
+                },
+                {
+                    "cantidad": 28892464.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001141836",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|2,422|2026-04-10",
+                    "porcentaje": 1.24
+                },
+                {
+                    "cantidad": 27754549.0,
+                    "desde": "2023T4",
+                    "isin": "NL0011819040",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|NETHERLANDS GOVERNME|0,500|2026-07-15",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 26683976.0,
+                    "desde": "2022T2",
+                    "isin": "SK4000017158",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SLOVAKIA GOVERNMENT|0,250|2025-05-14",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 26391897.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012G91",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|3,076|2026-01-31",
+                    "porcentaje": 1.13
+                },
+                {
+                    "cantidad": 24756003.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005437147",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,396|2026-04-01",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 23787950.0,
+                    "desde": "2023T4",
+                    "isin": "FI4000511449",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND GOVERNMENT B|2026-09-15",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 21807466.0,
+                    "desde": "2023T2",
+                    "isin": "FI4000197959",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND|0,500|2026-04-15",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 21007306.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005345183",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,500|2025-11-15",
+                    "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 18888459.0,
+                    "desde": "2023T4",
+                    "isin": "DE0001141844",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|BUNDESOBLIGATION|2026-10-09",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 17333834.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005493298",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,200|2025-08-15",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 11558859.0,
+                    "desde": "2023T2",
+                    "isin": "NL0015000QL2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|NETHERLANDS GOVERNME|2026-01-15",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 10953004.0,
+                    "desde": "2023T2",
+                    "isin": "AT0000A0DXC2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF AUSTRIA|4,850|2026-03-15",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 9890454.0,
+                    "desde": "2023T4",
+                    "isin": "AT0000A1K9C8",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF AUSTRIA|0,750|2026-10-20",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 8819778.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BV8C9418",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|IRELAND GOVERNMENT B|1,000|2026-05-15",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 8233636.0,
+                    "desde": "2023T2",
+                    "isin": "BE0000324336",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|KINGDOM OF BELGIUM G|4,500|2026-03-28",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 7354061.0,
+                    "desde": "2023T4",
+                    "isin": "AT0000A308C5",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REPUBLIC OF AUSTRIA|2,000|2026-07-15",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 7032046.0,
+                    "desde": "2022T3",
+                    "isin": "NL0011220108",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|NETHERLANDS GOVERNME|0,250|2025-07-15",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 5814339.0,
+                    "desde": "2023T4",
+                    "isin": "IT0005556011",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY BUONI POLIENNA|3,850|2026-09-15",
+                    "porcentaje": 0.25
+                }
+            ],
+            "rentabilidad": 2.4
+        },
+        {
+            "gastos": 0.07,
+            "indice_rotacion": 0.57,
+            "liquidez": 6.32,
+            "participes": 375234,
+            "patrimonio": 2316717930,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 167884082.0,
+                    "desde": "2023T2",
+                    "isin": "FR0013508470",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,010|2026-02-25",
+                    "porcentaje": 7.25
+                },
+                {
+                    "cantidad": 145552473.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014007TY9",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,088|2025-02-25",
+                    "porcentaje": 6.28
+                },
+                {
+                    "cantidad": 125163641.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005419848",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,500|2026-02-01",
+                    "porcentaje": 5.4
+                },
+                {
+                    "cantidad": 120430823.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012L29",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|2,800|2026-05-31",
+                    "porcentaje": 5.2
+                },
+                {
+                    "cantidad": 111191524.0,
+                    "desde": "2021T3",
+                    "isin": "DE0001102366",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|1,000|2024-08-15",
+                    "porcentaje": 4.8
+                },
+                {
+                    "cantidad": 105232332.0,
+                    "desde": "2022T4",
+                    "isin": "DE0001141828",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|1,947|2025-10-10",
+                    "porcentaje": 4.54
+                },
+                {
+                    "cantidad": 104596418.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001102390",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2026-02-15",
+                    "porcentaje": 4.51
+                },
+                {
+                    "cantidad": 104583174.0,
+                    "desde": "2022T4",
+                    "isin": "FR0012938116",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,000|2025-11-25",
+                    "porcentaje": 4.51
+                },
+                {
+                    "cantidad": 95810175.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005474330",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,780|2024-12-15",
+                    "porcentaje": 4.14
+                },
+                {
+                    "cantidad": 93070595.0,
+                    "desde": "2023T2",
+                    "isin": "FR0013131877",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,500|2026-05-25",
+                    "porcentaje": 4.02
+                },
+                {
+                    "cantidad": 85563699.0,
+                    "desde": "2022T3",
+                    "isin": "FI4000006176",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND|4,000|2025-07-04",
+                    "porcentaje": 3.69
+                },
+                {
+                    "cantidad": 83074420.0,
+                    "desde": "2021T3",
+                    "isin": "ES0000012E85",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,250|2024-07-30",
+                    "porcentaje": 3.59
+                },
+                {
+                    "cantidad": 75467408.0,
+                    "desde": "2021T4",
+                    "isin": "FR0011962398",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,750|2024-11-25",
+                    "porcentaje": 3.26
+                },
+                {
+                    "cantidad": 70993385.0,
+                    "desde": "2023T2",
+                    "isin": "ES00000128H5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|TESORO PUBLICO|3,43|2023-07-03",
+                    "porcentaje": 3.06
+                },
+                {
+                    "cantidad": 61346563.0,
+                    "desde": "2022T1",
+                    "isin": "DE0001102374",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2025-02-15",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 59775909.0,
+                    "desde": "2021T3",
+                    "isin": "AT0000A28KX7",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|AUSTRIA|-0,302|2024-07-15",
+                    "porcentaje": 2.58
+                },
+                {
+                    "cantidad": 58955122.0,
+                    "desde": "2021T4",
+                    "isin": "FI4000391529",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND|0,200|2024-09-15",
+                    "porcentaje": 2.54
+                },
+                {
+                    "cantidad": 58708858.0,
+                    "desde": "2022T3",
+                    "isin": "AT0000A2QRW0",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|AUSTRIA|2,170|2025-04-20",
+                    "porcentaje": 2.53
+                },
+                {
+                    "cantidad": 55788954.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005386245",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,350|2025-02-01",
+                    "porcentaje": 2.41
+                },
+                {
+                    "cantidad": 55286670.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005514473",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,500|2026-01-15",
+                    "porcentaje": 2.39
+                },
+                {
+                    "cantidad": 30088685.0,
+                    "desde": "2022T2",
+                    "isin": "IE00B4TV0D44",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|EIRE|5,400|2025-03-13",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 26859794.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005345183",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,500|2025-11-15",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 26300598.0,
+                    "desde": "2022T2",
+                    "isin": "SK4000017158",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REP ESLOVACA|0,250|2025-05-14",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 25988384.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012G91",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|3,076|2026-01-31",
+                    "porcentaje": 1.12
+                },
+                {
+                    "cantidad": 24691356.0,
+                    "desde": "2022T3",
+                    "isin": "IT0005493298",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,200|2025-08-15",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 24190339.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005437147",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,396|2026-04-01",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 23149650.0,
+                    "desde": "2021T4",
+                    "isin": "DE0001141802",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|1,678|2024-10-18",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 22040250.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001141836",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|2,422|2026-04-10",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 21437818.0,
+                    "desde": "2023T2",
+                    "isin": "FI4000197959",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FINLAND|0,500|2026-04-15",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 17016313.0,
+                    "desde": "2021T2",
+                    "isin": "IT0005367492",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,750|2024-07-01",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 11388460.0,
+                    "desde": "2023T2",
+                    "isin": "NL0015000QL2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|HOLLAND|2,724|2026-01-15",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 10777458.0,
+                    "desde": "2023T2",
+                    "isin": "AT0000A0DXC2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|AUSTRIA|4,850|2026-03-15",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 10809191.0,
+                    "desde": "2021T3",
+                    "isin": "NL0010733424",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|HOLLAND|2,000|2024-07-15",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 9322898.0,
+                    "desde": "2022T3",
+                    "isin": "DE0001104883",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,200|2024-06-14",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 8661573.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BV8C9418",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|EIRE|1,000|2026-05-15",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 8092541.0,
+                    "desde": "2023T2",
+                    "isin": "BE0000324336",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|BELGIUM|4,500|2026-03-28",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 6912134.0,
+                    "desde": "2022T3",
+                    "isin": "NL0011220108",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|HOLLAND|0,250|2025-07-15",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 5735180.0,
+                    "desde": "2021T3",
+                    "isin": "IT0005452989",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ITALY|-0,175|2024-08-15",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 5628448.0,
+                    "desde": "2022T4",
+                    "isin": "SK4000017398",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|REP ESLOVACA|2,559|2024-06-17",
+                    "porcentaje": 0.24
+                }
+            ],
+            "rentabilidad": -0.49
+        },
         {
             "gastos": 0.07,
             "indice_rotacion": 0.56,

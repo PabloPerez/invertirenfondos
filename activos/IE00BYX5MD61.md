@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|FIDELITY-MSCI EURO IN-PA
+isin: IE00BYX5MD61
+---

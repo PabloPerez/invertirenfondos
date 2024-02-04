@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETN|ISHARES ETFS|IR
+title: PARTICIPACIONES|ISHARES CORE EUR0 GOVT B
 isin: IE00B4WXJJ64
 ---

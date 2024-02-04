@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SDIG LN iShares USD Short Duration Cor
+title: PARTICIPACIONES|iShares USD Short Du
 isin: IE00BYXYYP94
 ---

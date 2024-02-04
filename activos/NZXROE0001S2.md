@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Xero LTD
+title: ACCIONES|XERO LTD
 isin: NZXROE0001S2
 ---

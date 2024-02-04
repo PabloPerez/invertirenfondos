@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|INVESCO PANEU STR EQ
+title: Acciones|INVESCO
 isin: IE00B5MTWD60
 ---

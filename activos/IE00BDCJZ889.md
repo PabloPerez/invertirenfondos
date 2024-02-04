@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNUMEHA ID BNY Mellon Global Funds PLC-Bn
+title: PARTICIPACIONES|BNY US MUNI INFRA DBT EU
 isin: IE00BDCJZ889
 ---

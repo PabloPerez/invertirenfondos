@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Ishares US Aerospace
+title: PARTICIPACIONES|ISHARES MSCI US AGG
 isin: IE00BYXYYM63
 ---

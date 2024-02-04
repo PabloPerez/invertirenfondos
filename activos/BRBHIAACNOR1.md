@@ -1,0 +1,5 @@
+---
+layout: asset
+title: ACCIONES|GRUPO CASAS BAHIA SA(BHIA3 BZ)
+isin: BRBHIAACNOR1
+---

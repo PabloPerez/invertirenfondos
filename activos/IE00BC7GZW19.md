@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF SPDR Energy Sele
+title: PARTICIPACIONES|SSGA FUNDS MANAGEMEN
 isin: IE00BC7GZW19
 ---

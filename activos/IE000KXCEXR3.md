@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|AMUNDI S AND P 500 ESG
+isin: IE000KXCEXR3
+---

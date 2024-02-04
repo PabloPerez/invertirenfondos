@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|COLCHESTER-LCL MKT-E
+isin: IE00BQZJ1B15
+---

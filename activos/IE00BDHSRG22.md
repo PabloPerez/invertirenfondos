@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|GUINNESS ASIAN EQUIT
+isin: IE00BDHSRG22
+---

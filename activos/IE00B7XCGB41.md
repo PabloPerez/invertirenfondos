@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|NEUBERGER BERMAN US
+title: Participaciones|NEUBERGER BERMAN EUROPE LTD
 isin: IE00B7XCGB41
 ---

@@ -3,6 +3,124 @@
     "fecha_registro": "21/05/2018",
     "historico_periodos": [
         {
+            "gastos": 0.36,
+            "indice_rotacion": 0.0,
+            "liquidez": 11.59,
+            "participes": 215,
+            "patrimonio": 2782786,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 985688.0,
+                    "desde": "2020T1",
+                    "isin": "FR0010429068",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|LYXOR INTL ASSET",
+                    "porcentaje": 16.33
+                },
+                {
+                    "cantidad": 982950.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B4L5YC18",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BLACKROCK ASSET",
+                    "porcentaje": 16.29
+                },
+                {
+                    "cantidad": 957550.0,
+                    "desde": "2021T2",
+                    "isin": "IE00B3DWVS88",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|INVESCO ASSET MANAGE",
+                    "porcentaje": 15.87
+                },
+                {
+                    "cantidad": 949320.0,
+                    "desde": "2020T1",
+                    "isin": "IE00BTJRMP35",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|XTRACKERS",
+                    "porcentaje": 15.73
+                },
+                {
+                    "cantidad": 927666.0,
+                    "desde": "2018T2",
+                    "isin": "LU1681045370",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI INVESTMENT",
+                    "porcentaje": 15.37
+                },
+                {
+                    "cantidad": 500011.0,
+                    "desde": "2023T4",
+                    "isin": "ES0L02412069",
+                    "moneda": "euro",
+                    "nombre": "REPO|BKT|3,85|2024-01-02",
+                    "porcentaje": 8.29
+                }
+            ],
+            "rentabilidad": 3.71
+        },
+        {
+            "gastos": 0.34,
+            "indice_rotacion": 0.16,
+            "liquidez": 17.7,
+            "participes": 233,
+            "patrimonio": 3156100,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 1302778.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B4L5YC18",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|BLACKROCK ASSET",
+                    "porcentaje": 16.98
+                },
+                {
+                    "cantidad": 1255938.0,
+                    "desde": "2018T2",
+                    "isin": "LU1681045370",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|AMUNDI INVESTMENT",
+                    "porcentaje": 16.37
+                },
+                {
+                    "cantidad": 1232213.0,
+                    "desde": "2020T1",
+                    "isin": "FR0010429068",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|LYXOR INTL ASSET",
+                    "porcentaje": 16.06
+                },
+                {
+                    "cantidad": 1226950.0,
+                    "desde": "2020T1",
+                    "isin": "IE00BTJRMP35",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|XTRACKERS",
+                    "porcentaje": 15.99
+                },
+                {
+                    "cantidad": 934780.0,
+                    "desde": "2021T2",
+                    "isin": "IE00B3DWVS88",
+                    "moneda": "euro",
+                    "nombre": "PARTICIPACIONES|INVESCO ASSET MANAGE",
+                    "porcentaje": 12.19
+                },
+                {
+                    "cantidad": 304066.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012I08",
+                    "moneda": "euro",
+                    "nombre": "REPO|BKT|3,43|2023-07-03",
+                    "porcentaje": 3.96
+                }
+            ],
+            "rentabilidad": 0.22
+        },
+        {
             "gastos": 0.33,
             "indice_rotacion": 0.31,
             "liquidez": 17.8,
@@ -857,7 +975,7 @@
     "id_cnmv_gestora": 55,
     "isin": "ES0113571006",
     "nif": "V88007976",
-    "nombre": "BANKINTER INDICE EMERGENTES, FI CLASE R",
+    "nombre": "BANKINTER EMERGENTES, FI CLASE R",
     "nombre_depositaria": "BANKINTER, S.A.",
     "nombre_gestora": "BANKINTER GESTION DE ACTIVOS, S.A., S.G.I.I.C."
 }

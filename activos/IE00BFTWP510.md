@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|SSGA FUNDS MENT INC
+title: PARTICIPACIONES|SPDR EURO STOXX LOW VOL
 isin: IE00BFTWP510
 ---

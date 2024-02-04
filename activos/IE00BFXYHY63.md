@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES USD TREASURY BOND 3-7
+title: PARTICIPACIONES|iShares USD Treasury
 isin: IE00BFXYHY63
 ---

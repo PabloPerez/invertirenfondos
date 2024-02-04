@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|HAMBURG COMMERCIAL B|0,350|2024-01-08
+isin: DE000HCB0AX8
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|HOLLYWOOD BOWL
+title: Acciones|HOLLYWOOD BOWL GROUP PLC
 isin: GB00BD0NVK62
 ---

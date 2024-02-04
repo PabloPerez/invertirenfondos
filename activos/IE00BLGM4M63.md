@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|BCKRCK FDS I
+title: FONDO|BLACKROCK GLB IMPACT
 isin: IE00BLGM4M63
 ---

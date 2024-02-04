@@ -3,6 +3,35 @@
     "fecha_registro": "13/12/2019",
     "historico_periodos": [
         {
+            "gastos": 0.03,
+            "indice_rotacion": 0.18,
+            "liquidez": 1.24,
+            "participes": 33,
+            "patrimonio": 73522,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 72500.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012F76",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO INVERSIS, S.A.|3,75|2024-01-02",
+                    "porcentaje": 98.61
+                }
+            ],
+            "rentabilidad": 1.12
+        },
+        {
+            "gastos": 0.64,
+            "indice_rotacion": 0.0,
+            "liquidez": 100.57,
+            "participes": 52,
+            "patrimonio": 319287,
+            "periodo": "2023T2",
+            "posiciones": [],
+            "rentabilidad": 0.34
+        },
+        {
             "gastos": 0.62,
             "indice_rotacion": 0.0,
             "liquidez": 100.77,
@@ -586,11 +615,11 @@
         }
     ],
     "id_cnmv": 4975,
-    "id_cnmv_depositaria": 238,
+    "id_cnmv_depositaria": 211,
     "id_cnmv_gestora": 237,
     "isin": "ES0131462097",
     "nif": "V04833703",
     "nombre": "GESTION BOUTIQUE V MULTIESTRATEGIA INVERSION CLASE R",
-    "nombre_depositaria": "CACEIS BANK SPAIN S.A.",
+    "nombre_depositaria": "BANCO INVERSIS, S.A.",
     "nombre_gestora": "ANDBANK WEALTH MANAGEMENT, SGIIC, S.A.U."
 }

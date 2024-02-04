@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|GUINNESS GLOBAL EQ INC-YEUR
+title: Participaciones|PIMCO GLOBAL FUNDS
 isin: IE00BVYPNZ31
 ---

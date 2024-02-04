@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|CEDULAS HIPOTECARIAS UNICREDI|0,50|2027-02-23
+isin: DE000HV2AYU9
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|WELLINGTON MANAG.
+isin: IE000TLCKN59
+---

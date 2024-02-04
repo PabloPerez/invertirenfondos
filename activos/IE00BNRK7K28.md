@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|KBI GLOB SUSTAINABLE INF
+isin: IE00BNRK7K28
+---

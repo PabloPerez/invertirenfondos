@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|PACNOSOEMEQ
+isin: IE00BFFF4D54
+---

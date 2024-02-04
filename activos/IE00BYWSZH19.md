@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SEI GMF LIQ ALT FUND P E
+title: PARTICIPACIONES|SLAHEWP ID Equity
 isin: IE00BYWSZH19
 ---

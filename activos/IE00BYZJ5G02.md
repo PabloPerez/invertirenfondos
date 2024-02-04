@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|MONTLAKE DUNN WMA IN EUN
+title: PARTICIPACIONES|MontLake UCITS Platf
 isin: IE00BYZJ5G02
 ---

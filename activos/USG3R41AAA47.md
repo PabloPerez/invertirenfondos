@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|ENDEAVOUR MINING PLC|5,00|2024-10-14
+isin: USG3R41AAA47
+---

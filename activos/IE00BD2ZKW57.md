@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PRINCIPAL GLOBAL INVESTORS LTD
+title: PARTICIPACIONES|Principal Global Inv
 isin: IE00BD2ZKW57
 ---

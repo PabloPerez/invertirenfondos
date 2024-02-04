@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|FREQUENTIS
+title: ACCIONES|Frequentis AG
 isin: ATFREQUENT09
 ---

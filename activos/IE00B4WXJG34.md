@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES EURO
+title: Participaciones|BLACK ROCK INC
 isin: IE00B4WXJG34
 ---

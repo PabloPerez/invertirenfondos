@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|WISDOMTREE ARTIFICIA
+title: Participaciones|WISDOMTREE EUROPE LIMITED
 isin: IE00BDVPNG13
 ---

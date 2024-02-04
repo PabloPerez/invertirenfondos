@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PIMCO GIS-CAPITAL SEC -
+title: IIC PIMCO GIS Low Duration Global Investment Grade
 isin: IE00BJTCNZ54
 ---

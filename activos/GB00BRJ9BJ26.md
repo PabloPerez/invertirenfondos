@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|FEVERTREE DRINKS PLC
+title: ACCIONES|Fevertree Drinks PLC
 isin: GB00BRJ9BJ26
 ---

@@ -1,7 +1,102 @@
 {
     "auditora": "-",
     "fecha_registro": "21/04/2023",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 0.15,
+            "indice_rotacion": 1.12,
+            "liquidez": 0.48,
+            "participes": 6402,
+            "patrimonio": 228700781,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 67317464.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000127Z9",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,95|2026-04-30",
+                    "porcentaje": 29.43
+                },
+                {
+                    "cantidad": 66694855.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012L29",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|2,80|2026-05-31",
+                    "porcentaje": 29.16
+                },
+                {
+                    "cantidad": 41953069.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000101263",
+                    "moneda": "euro",
+                    "nombre": "BONO|C.A. MADRID|4,30|2026-09-15",
+                    "porcentaje": 18.34
+                },
+                {
+                    "cantidad": 23952373.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012718",
+                    "moneda": "euro",
+                    "nombre": "STRIP|D.ESTADO ESPAÑOL|3,11|2026-07-30",
+                    "porcentaje": 10.47
+                },
+                {
+                    "cantidad": 16377436.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000123C7",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|5,90|2026-07-30",
+                    "porcentaje": 7.16
+                },
+                {
+                    "cantidad": 6906310.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000127T2",
+                    "moneda": "euro",
+                    "nombre": "STRIP|D.ESTADO ESPAÑOL|3,14|2026-07-30",
+                    "porcentaje": 3.02
+                },
+                {
+                    "cantidad": 1200000.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012I24",
+                    "moneda": "euro",
+                    "nombre": "REPO|LABORAL KUTXA|3,93|2024-01-02",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 191715.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000128H5",
+                    "moneda": "euro",
+                    "nombre": "BONO|D.ESTADO ESPAÑOL|1,30|2026-10-31",
+                    "porcentaje": 0.08
+                }
+            ],
+            "rentabilidad": 2.77
+        },
+        {
+            "gastos": 0.04,
+            "indice_rotacion": 0.0,
+            "liquidez": 1.34,
+            "participes": 6489,
+            "patrimonio": 226271359,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 223000000.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012E69",
+                    "moneda": "euro",
+                    "nombre": "REPO|LABORAL KUTXA|3,42|2023-07-03",
+                    "porcentaje": 98.55
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5758,
     "id_cnmv_depositaria": 237,
     "id_cnmv_gestora": 161,

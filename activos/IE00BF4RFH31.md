@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BLACKROCK INC
+title: ETF.ISHARES MSCI WORLD SMALL CAP
 isin: IE00BF4RFH31
 ---

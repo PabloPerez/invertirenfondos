@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|DEUTSCHE BANK AG ETF
+title: ETF|XTRACKERS MSCI USA U
 isin: IE00BJ0KDR00
 ---

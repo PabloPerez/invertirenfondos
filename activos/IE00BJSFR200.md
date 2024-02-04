@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES GLOBAL HIGH YIEL
+title: Participaciones|ISHARES GLOBAL HIGH YIELD CORP
 isin: IE00BJSFR200
 ---

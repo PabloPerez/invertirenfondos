@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|BANCO SANTANDER, S.A|0,875|2024-04-25
+title: OBLIGACION|BANCO SANTANDER TOTTA S|0,88|2024-04-25
 isin: PTBSRIOE0024
 ---

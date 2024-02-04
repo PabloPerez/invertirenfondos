@@ -1,7 +1,621 @@
 {
-    "auditora": "Deloitte",
+    "auditora": "Deloitte, S.L.",
     "fecha_registro": "12/01/2018",
     "historico_periodos": [
+        {
+            "gastos": 0.09,
+            "indice_rotacion": 0.2,
+            "liquidez": 2.03,
+            "participes": 96878,
+            "patrimonio": 107788701,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 6842383.0,
+                    "desde": "2018T1",
+                    "isin": "FR0011008705",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,850|2027-07-25",
+                    "porcentaje": 6.35
+                },
+                {
+                    "cantidad": 5087839.0,
+                    "desde": "2018T1",
+                    "isin": "DE0001030567",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2026-04-15",
+                    "porcentaje": 4.72
+                },
+                {
+                    "cantidad": 4886242.0,
+                    "desde": "2018T2",
+                    "isin": "DE0001030559",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2030-04-15",
+                    "porcentaje": 4.53
+                },
+                {
+                    "cantidad": 4651548.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000188799",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|3,150|2032-07-25",
+                    "porcentaje": 4.32
+                },
+                {
+                    "cantidad": 4373924.0,
+                    "desde": "2018T2",
+                    "isin": "ES00000127C8",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|1,000|2030-11-30",
+                    "porcentaje": 4.06
+                },
+                {
+                    "cantidad": 4367052.0,
+                    "desde": "2018T1",
+                    "isin": "FR0011982776",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,700|2030-07-25",
+                    "porcentaje": 4.05
+                },
+                {
+                    "cantidad": 4332131.0,
+                    "desde": "2018T1",
+                    "isin": "FR0010447367",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,800|2040-07-25",
+                    "porcentaje": 4.02
+                },
+                {
+                    "cantidad": 4183114.0,
+                    "desde": "2019T2",
+                    "isin": "ES0000012C12",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,700|2033-11-30",
+                    "porcentaje": 3.88
+                },
+                {
+                    "cantidad": 4080263.0,
+                    "desde": "2018T1",
+                    "isin": "IT0003745541",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,350|2035-09-15",
+                    "porcentaje": 3.79
+                },
+                {
+                    "cantidad": 4035405.0,
+                    "desde": "2018T2",
+                    "isin": "ES00000128S2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,650|2027-11-30",
+                    "porcentaje": 3.74
+                },
+                {
+                    "cantidad": 3864786.0,
+                    "desde": "2018T2",
+                    "isin": "IT0004545890",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,550|2041-09-15",
+                    "porcentaje": 3.59
+                },
+                {
+                    "cantidad": 3848394.0,
+                    "desde": "2018T2",
+                    "isin": "IT0005246134",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,300|2028-05-15",
+                    "porcentaje": 3.57
+                },
+                {
+                    "cantidad": 3603782.0,
+                    "desde": "2019T4",
+                    "isin": "FR0013410552",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2029-03-01",
+                    "porcentaje": 3.34
+                },
+                {
+                    "cantidad": 3317279.0,
+                    "desde": "2018T2",
+                    "isin": "FR0013238268",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2028-03-01",
+                    "porcentaje": 3.08
+                },
+                {
+                    "cantidad": 3296233.0,
+                    "desde": "2018T2",
+                    "isin": "DE0001030575",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2046-04-15",
+                    "porcentaje": 3.06
+                },
+                {
+                    "cantidad": 3279712.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000186413",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|3,400|2029-07-25",
+                    "porcentaje": 3.04
+                },
+                {
+                    "cantidad": 3276430.0,
+                    "desde": "2018T2",
+                    "isin": "FR0012558310",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2025-03-01",
+                    "porcentaje": 3.04
+                },
+                {
+                    "cantidad": 3276262.0,
+                    "desde": "2019T4",
+                    "isin": "IT0005387052",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,400|2030-05-15",
+                    "porcentaje": 3.04
+                },
+                {
+                    "cantidad": 3240193.0,
+                    "desde": "2018T1",
+                    "isin": "IT0004735152",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,100|2026-09-15",
+                    "porcentaje": 3.01
+                },
+                {
+                    "cantidad": 3230403.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005482994",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,100|2033-05-15",
+                    "porcentaje": 3.0
+                },
+                {
+                    "cantidad": 3163801.0,
+                    "desde": "2018T2",
+                    "isin": "FR0013209871",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2047-07-25",
+                    "porcentaje": 2.94
+                },
+                {
+                    "cantidad": 3025593.0,
+                    "desde": "2018T2",
+                    "isin": "IT0005138828",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,250|2032-09-15",
+                    "porcentaje": 2.81
+                },
+                {
+                    "cantidad": 2633258.0,
+                    "desde": "2019T2",
+                    "isin": "FR0013327491",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2036-07-25",
+                    "porcentaje": 2.44
+                },
+                {
+                    "cantidad": 2523567.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013519253",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2026-03-01",
+                    "porcentaje": 2.34
+                },
+                {
+                    "cantidad": 2452226.0,
+                    "desde": "2021T1",
+                    "isin": "FR0014001N38",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2031-07-25",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 2356907.0,
+                    "desde": "2021T1",
+                    "isin": "DE0001030583",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2033-04-15",
+                    "porcentaje": 2.19
+                },
+                {
+                    "cantidad": 2137393.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005415416",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,650|2026-05-15",
+                    "porcentaje": 1.98
+                },
+                {
+                    "cantidad": 1634340.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013524014",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2036-03-01",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 1328221.0,
+                    "desde": "2021T2",
+                    "isin": "FR0014003N51",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2032-03-01",
+                    "porcentaje": 1.23
+                },
+                {
+                    "cantidad": 1316556.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005543803",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,500|2029-05-15",
+                    "porcentaje": 1.22
+                },
+                {
+                    "cantidad": 1239389.0,
+                    "desde": "2022T3",
+                    "isin": "FR001400AQH0",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2038-07-25",
+                    "porcentaje": 1.15
+                },
+                {
+                    "cantidad": 1178252.0,
+                    "desde": "2022T1",
+                    "isin": "FR0014008181",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2053-07-25",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 930524.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005436701",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,150|2051-05-15",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 806128.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005547812",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,400|2039-05-15",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 490097.0,
+                    "desde": "2023T4",
+                    "isin": "ES0000012M69",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|SPAIN GOVERNMENT INF|2,050|2039-11-30",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 489380.0,
+                    "desde": "2023T4",
+                    "isin": "FR001400JI88",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|FRENCH REPUBLIC GOVE|0,600|2034-07-25",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 363465.0,
+                    "desde": "2023T4",
+                    "isin": "FR001400IKW5",
+                    "moneda": "EUR",
+                    "nombre": "BONOS|FRENCH REPUBLIC GOVE|0,550|2039-03-01",
+                    "porcentaje": 0.34
+                }
+            ],
+            "rentabilidad": 5.07
+        },
+        {
+            "gastos": 0.09,
+            "indice_rotacion": 0.06,
+            "liquidez": 1.69,
+            "participes": 104061,
+            "patrimonio": 71564709,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 4100245.0,
+                    "desde": "2018T1",
+                    "isin": "FR0011008705",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,850|2027-07-25",
+                    "porcentaje": 5.73
+                },
+                {
+                    "cantidad": 3682649.0,
+                    "desde": "2018T2",
+                    "isin": "DE0001030559",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,500|2030-04-15",
+                    "porcentaje": 5.15
+                },
+                {
+                    "cantidad": 3170762.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000188799",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|3,150|2032-07-25",
+                    "porcentaje": 4.43
+                },
+                {
+                    "cantidad": 3014432.0,
+                    "desde": "2018T1",
+                    "isin": "FR0011427848",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,250|2024-07-25",
+                    "porcentaje": 4.21
+                },
+                {
+                    "cantidad": 2894896.0,
+                    "desde": "2018T1",
+                    "isin": "DE0001030567",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2026-04-15",
+                    "porcentaje": 4.05
+                },
+                {
+                    "cantidad": 2858716.0,
+                    "desde": "2018T1",
+                    "isin": "FR0010447367",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|1,800|2040-07-25",
+                    "porcentaje": 3.99
+                },
+                {
+                    "cantidad": 2740843.0,
+                    "desde": "2018T1",
+                    "isin": "FR0011982776",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,700|2030-07-25",
+                    "porcentaje": 3.83
+                },
+                {
+                    "cantidad": 2659722.0,
+                    "desde": "2018T2",
+                    "isin": "ES00000127C8",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|1,000|2030-11-30",
+                    "porcentaje": 3.72
+                },
+                {
+                    "cantidad": 2578817.0,
+                    "desde": "2019T2",
+                    "isin": "ES0000012C12",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,700|2033-11-30",
+                    "porcentaje": 3.6
+                },
+                {
+                    "cantidad": 2543740.0,
+                    "desde": "2018T1",
+                    "isin": "IT0003745541",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,350|2035-09-15",
+                    "porcentaje": 3.55
+                },
+                {
+                    "cantidad": 2538569.0,
+                    "desde": "2018T2",
+                    "isin": "IT0004545890",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,550|2041-09-15",
+                    "porcentaje": 3.55
+                },
+                {
+                    "cantidad": 2397142.0,
+                    "desde": "2018T2",
+                    "isin": "IT0005246134",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,300|2028-05-15",
+                    "porcentaje": 3.35
+                },
+                {
+                    "cantidad": 2365377.0,
+                    "desde": "2018T1",
+                    "isin": "FR0000186413",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|3,400|2029-07-25",
+                    "porcentaje": 3.31
+                },
+                {
+                    "cantidad": 2318688.0,
+                    "desde": "2018T2",
+                    "isin": "DE0001030575",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2046-04-15",
+                    "porcentaje": 3.24
+                },
+                {
+                    "cantidad": 2312142.0,
+                    "desde": "2018T1",
+                    "isin": "IT0004735152",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|3,100|2026-09-15",
+                    "porcentaje": 3.23
+                },
+                {
+                    "cantidad": 2264210.0,
+                    "desde": "2018T2",
+                    "isin": "ES00000128S2",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|0,650|2027-11-30",
+                    "porcentaje": 3.16
+                },
+                {
+                    "cantidad": 2161387.0,
+                    "desde": "2018T1",
+                    "isin": "ES00000126A4",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|TESORO PUBLICO|1,800|2024-11-30",
+                    "porcentaje": 3.02
+                },
+                {
+                    "cantidad": 2135191.0,
+                    "desde": "2018T2",
+                    "isin": "IT0005138828",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,250|2032-09-15",
+                    "porcentaje": 2.98
+                },
+                {
+                    "cantidad": 2107622.0,
+                    "desde": "2018T2",
+                    "isin": "FR0012558310",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2025-03-01",
+                    "porcentaje": 2.95
+                },
+                {
+                    "cantidad": 2029631.0,
+                    "desde": "2018T1",
+                    "isin": "IT0005004426",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,350|2024-09-15",
+                    "porcentaje": 2.84
+                },
+                {
+                    "cantidad": 1904688.0,
+                    "desde": "2018T2",
+                    "isin": "FR0013238268",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2028-03-01",
+                    "porcentaje": 2.66
+                },
+                {
+                    "cantidad": 1845457.0,
+                    "desde": "2018T2",
+                    "isin": "FR0013209871",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2047-07-25",
+                    "porcentaje": 2.58
+                },
+                {
+                    "cantidad": 1828640.0,
+                    "desde": "2019T2",
+                    "isin": "FR0013327491",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2036-07-25",
+                    "porcentaje": 2.56
+                },
+                {
+                    "cantidad": 1778852.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013519253",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2026-03-01",
+                    "porcentaje": 2.49
+                },
+                {
+                    "cantidad": 1732748.0,
+                    "desde": "2019T4",
+                    "isin": "IT0005387052",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,400|2030-05-15",
+                    "porcentaje": 2.42
+                },
+                {
+                    "cantidad": 1709575.0,
+                    "desde": "2019T4",
+                    "isin": "FR0013410552",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2029-03-01",
+                    "porcentaje": 2.39
+                },
+                {
+                    "cantidad": 1665873.0,
+                    "desde": "2022T1",
+                    "isin": "IT0005482994",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,100|2033-05-15",
+                    "porcentaje": 2.33
+                },
+                {
+                    "cantidad": 1532757.0,
+                    "desde": "2021T1",
+                    "isin": "FR0014001N38",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2031-07-25",
+                    "porcentaje": 2.14
+                },
+                {
+                    "cantidad": 1395616.0,
+                    "desde": "2020T3",
+                    "isin": "IT0005415416",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,650|2026-05-15",
+                    "porcentaje": 1.95
+                },
+                {
+                    "cantidad": 1087183.0,
+                    "desde": "2020T3",
+                    "isin": "FR0013524014",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2036-03-01",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 1019346.0,
+                    "desde": "2021T1",
+                    "isin": "DE0001030583",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|DEUTSCHLAND|0,100|2033-04-15",
+                    "porcentaje": 1.42
+                },
+                {
+                    "cantidad": 818497.0,
+                    "desde": "2021T2",
+                    "isin": "FR0014003N51",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2032-03-01",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 751715.0,
+                    "desde": "2021T1",
+                    "isin": "IT0005436701",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|0,150|2051-05-15",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 623463.0,
+                    "desde": "2022T3",
+                    "isin": "FR001400AQH0",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2038-07-25",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 509253.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005547812",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|2,400|2039-05-15",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 497415.0,
+                    "desde": "2022T1",
+                    "isin": "FR0014008181",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|FRECH TREASURY|0,100|2053-07-25",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 380109.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005543803",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY|1,500|2029-05-15",
+                    "porcentaje": 0.53
+                }
+            ],
+            "rentabilidad": 0.45
+        },
         {
             "gastos": 0.09,
             "indice_rotacion": 0.15,

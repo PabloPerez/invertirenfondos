@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|LAND NORDRHEIN-WESTFALEN|3,04|2029-01-15
+isin: DE000NRW0MK0
+---

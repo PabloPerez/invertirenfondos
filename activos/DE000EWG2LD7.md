@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|EUWAX GOLD II ETC
+title: PARTICIPACIONES|Boerse Stuttgart Sec
 isin: DE000EWG2LD7
 ---

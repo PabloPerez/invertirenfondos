@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|EUROPEAN FINANC STAB|3,00|2028-12-15
+isin: EU000A2SCAH1
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|PARKMEAD GROUP PLC|THE
+title: ACCIONES|Parkmead Group PLC|T
 isin: GB00BGCYZL73
 ---

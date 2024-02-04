@@ -1,7 +1,605 @@
 {
-    "auditora": "PricewaterhouseCoopers Auditores SL",
+    "auditora": "PwC",
     "fecha_registro": "16/02/2018",
     "historico_periodos": [
+        {
+            "gastos": 0.45,
+            "indice_rotacion": 0.4,
+            "liquidez": 5.42,
+            "participes": 235,
+            "patrimonio": 4272809,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 1228175.0,
+                    "desde": "2013T2",
+                    "isin": "ES0113900J37",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BSCH",
+                    "porcentaje": 9.32
+                },
+                {
+                    "cantidad": 890250.0,
+                    "desde": "2012T2",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "Acciones|IBERDROLA SA",
+                    "porcentaje": 6.76
+                },
+                {
+                    "cantidad": 807000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0173516115",
+                    "moneda": "euro",
+                    "nombre": "Acciones|REPSOL YPF SA",
+                    "porcentaje": 6.12
+                },
+                {
+                    "cantidad": 797685.0,
+                    "desde": "2022T1",
+                    "isin": "ES0173093024",
+                    "moneda": "euro",
+                    "nombre": "Acciones|RED ELECTRICA",
+                    "porcentaje": 6.05
+                },
+                {
+                    "cantidad": 775320.0,
+                    "desde": "2018T4",
+                    "isin": "ES0130670112",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ENDESA SA",
+                    "porcentaje": 5.88
+                },
+                {
+                    "cantidad": 709740.0,
+                    "desde": "2014T3",
+                    "isin": "ES0148396007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|INDITEX",
+                    "porcentaje": 5.39
+                },
+                {
+                    "cantidad": 640000.0,
+                    "desde": "2023T2",
+                    "isin": "PTZON0AM0006",
+                    "moneda": "euro",
+                    "nombre": "Acciones|REDES ENERGETICAS NACIONALES",
+                    "porcentaje": 4.86
+                },
+                {
+                    "cantidad": 575820.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113211835",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BBVA",
+                    "porcentaje": 4.37
+                },
+                {
+                    "cantidad": 525300.0,
+                    "desde": "2023T2",
+                    "isin": "ES0116920333",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CATALANA OCCIDENTE",
+                    "porcentaje": 3.99
+                },
+                {
+                    "cantidad": 519040.0,
+                    "desde": "2013T1",
+                    "isin": "ES0109067019",
+                    "moneda": "euro",
+                    "nombre": "Acciones|AMADEUS",
+                    "porcentaje": 3.94
+                },
+                {
+                    "cantidad": 450000.0,
+                    "desde": "2014T2",
+                    "isin": "ES0105022000",
+                    "moneda": "euro",
+                    "nombre": "Acciones|APPLUS SERVICES SA",
+                    "porcentaje": 3.42
+                },
+                {
+                    "cantidad": 447120.0,
+                    "desde": "2016T2",
+                    "isin": "ES0140609019",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CAIXABANK",
+                    "porcentaje": 3.39
+                },
+                {
+                    "cantidad": 421400.0,
+                    "desde": "2023T2",
+                    "isin": "GB00BDCPN049",
+                    "moneda": "euro",
+                    "nombre": "Acciones|COCA-COLA ENTERPRISES",
+                    "porcentaje": 3.2
+                },
+                {
+                    "cantidad": 385800.0,
+                    "desde": "2022T4",
+                    "isin": "ES0105630315",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CIE AUTOMOTIVE SA",
+                    "porcentaje": 2.93
+                },
+                {
+                    "cantidad": 385125.0,
+                    "desde": "2019T2",
+                    "isin": "LU1598757687",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ARCELOR",
+                    "porcentaje": 2.92
+                },
+                {
+                    "cantidad": 384100.0,
+                    "desde": "2023T2",
+                    "isin": "ES0178165017",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TECNICAS REUNIDAS",
+                    "porcentaje": 2.91
+                },
+                {
+                    "cantidad": 367200.0,
+                    "desde": "2014T3",
+                    "isin": "ES0105027009",
+                    "moneda": "euro",
+                    "nombre": "Acciones|LOGISTA",
+                    "porcentaje": 2.79
+                },
+                {
+                    "cantidad": 347760.0,
+                    "desde": "2023T2",
+                    "isin": "ES0113679I37",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BANKINTER SA",
+                    "porcentaje": 2.64
+                },
+                {
+                    "cantidad": 321600.0,
+                    "desde": "2022T4",
+                    "isin": "ES0184262212",
+                    "moneda": "euro",
+                    "nombre": "Acciones|VISCOFAN",
+                    "porcentaje": 2.44
+                },
+                {
+                    "cantidad": 282720.0,
+                    "desde": "2013T1",
+                    "isin": "ES0178430E18",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TELEFONICA SA",
+                    "porcentaje": 2.15
+                },
+                {
+                    "cantidad": 268800.0,
+                    "desde": "2023T2",
+                    "isin": "ES0105130001",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GLOBAL DOMINION",
+                    "porcentaje": 2.04
+                },
+                {
+                    "cantidad": 262000.0,
+                    "desde": "2023T4",
+                    "isin": "ES0139140174",
+                    "moneda": "euro",
+                    "nombre": "Acciones|INMOBILIARIA COLONIAL",
+                    "porcentaje": 1.99
+                },
+                {
+                    "cantidad": 240960.0,
+                    "desde": "2016T4",
+                    "isin": "ES0167050915",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ACS ACTIVIDADES CON. Y SERV",
+                    "porcentaje": 1.83
+                },
+                {
+                    "cantidad": 210480.0,
+                    "desde": "2023T4",
+                    "isin": "ES0105223004",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GESTAMP",
+                    "porcentaje": 1.6
+                },
+                {
+                    "cantidad": 110000.0,
+                    "desde": "2023T2",
+                    "isin": "ES0126775032",
+                    "moneda": "euro",
+                    "nombre": "Acciones|DIA",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T2",
+                    "isin": "ES00000121G2",
+                    "moneda": "euro",
+                    "nombre": "REPO|SINGULAR_B|3,150|2023-07-03",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T2",
+                    "isin": "ES0117160111",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ALBA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113860A34",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BANCO SABADELL",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T2",
+                    "isin": "ES0105066007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CELLNEX TELECOM SAU",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T2",
+                    "isin": "ES0617160918",
+                    "moneda": "euro",
+                    "nombre": "Derechos|ALBA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T2",
+                    "isin": "ES0122060314",
+                    "moneda": "euro",
+                    "nombre": "Acciones|FCC",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0171996087",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GRIFOLS",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 4.0,
+                    "desde": "2014T3",
+                    "isin": "PTBES0AM0007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ESPIRITO SANTO",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 2.0
+        },
+        {
+            "gastos": 0.43,
+            "indice_rotacion": 1.02,
+            "liquidez": 3.15,
+            "participes": 168,
+            "patrimonio": 3367729,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 846250.0,
+                    "desde": "2013T2",
+                    "isin": "ES0113900J37",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BSCH",
+                    "porcentaje": 8.43
+                },
+                {
+                    "cantidad": 733150.0,
+                    "desde": "2009T2",
+                    "isin": "ES0173516115",
+                    "moneda": "euro",
+                    "nombre": "Acciones|REPSOL YPF SA",
+                    "porcentaje": 7.3
+                },
+                {
+                    "cantidad": 730788.0,
+                    "desde": "2022T1",
+                    "isin": "ES0173093024",
+                    "moneda": "euro",
+                    "nombre": "Acciones|RED ELECTRICA",
+                    "porcentaje": 7.28
+                },
+                {
+                    "cantidad": 589500.0,
+                    "desde": "2018T4",
+                    "isin": "ES0130670112",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ENDESA SA",
+                    "porcentaje": 5.87
+                },
+                {
+                    "cantidad": 569800.0,
+                    "desde": "2023T2",
+                    "isin": "PTZON0AM0006",
+                    "moneda": "euro",
+                    "nombre": "Acciones|REDES ENERGETICAS NACIONALES",
+                    "porcentaje": 5.68
+                },
+                {
+                    "cantidad": 506700.0,
+                    "desde": "2023T2",
+                    "isin": "ES0113679I37",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BANKINTER SA",
+                    "porcentaje": 5.05
+                },
+                {
+                    "cantidad": 450400.0,
+                    "desde": "2023T2",
+                    "isin": "ES0116920333",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CATALANA OCCIDENTE",
+                    "porcentaje": 4.49
+                },
+                {
+                    "cantidad": 447950.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113860A34",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BANCO SABADELL",
+                    "porcentaje": 4.46
+                },
+                {
+                    "cantidad": 398880.0,
+                    "desde": "2019T2",
+                    "isin": "LU1598757687",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ARCELOR",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 357433.0,
+                    "desde": "2023T2",
+                    "isin": "ES0178165017",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TECNICAS REUNIDAS",
+                    "porcentaje": 3.56
+                },
+                {
+                    "cantidad": 354600.0,
+                    "desde": "2014T3",
+                    "isin": "ES0148396007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|INDITEX",
+                    "porcentaje": 3.53
+                },
+                {
+                    "cantidad": 336000.0,
+                    "desde": "2022T4",
+                    "isin": "ES0105630315",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CIE AUTOMOTIVE SA",
+                    "porcentaje": 3.35
+                },
+                {
+                    "cantidad": 335410.0,
+                    "desde": "2014T2",
+                    "isin": "ES0105022000",
+                    "moneda": "euro",
+                    "nombre": "Acciones|APPLUS SERVICES SA",
+                    "porcentaje": 3.34
+                },
+                {
+                    "cantidad": 322893.0,
+                    "desde": "2022T4",
+                    "isin": "ES0184262212",
+                    "moneda": "euro",
+                    "nombre": "Acciones|VISCOFAN",
+                    "porcentaje": 3.22
+                },
+                {
+                    "cantidad": 307320.0,
+                    "desde": "2022T2",
+                    "isin": "ES0122060314",
+                    "moneda": "euro",
+                    "nombre": "Acciones|FCC",
+                    "porcentaje": 3.06
+                },
+                {
+                    "cantidad": 306680.0,
+                    "desde": "2013T1",
+                    "isin": "ES0109067019",
+                    "moneda": "euro",
+                    "nombre": "Acciones|AMADEUS",
+                    "porcentaje": 3.05
+                },
+                {
+                    "cantidad": 298300.0,
+                    "desde": "2023T2",
+                    "isin": "ES0105130001",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GLOBAL DOMINION",
+                    "porcentaje": 2.97
+                },
+                {
+                    "cantidad": 292200.0,
+                    "desde": "2023T2",
+                    "isin": "ES0117160111",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ALBA",
+                    "porcentaje": 2.91
+                },
+                {
+                    "cantidad": 277082.0,
+                    "desde": "2014T3",
+                    "isin": "ES0105027009",
+                    "moneda": "euro",
+                    "nombre": "Acciones|LOGISTA",
+                    "porcentaje": 2.76
+                },
+                {
+                    "cantidad": 265500.0,
+                    "desde": "2023T2",
+                    "isin": "GB00BDCPN049",
+                    "moneda": "euro",
+                    "nombre": "Acciones|COCA-COLA ENTERPRISES",
+                    "porcentaje": 2.64
+                },
+                {
+                    "cantidad": 193020.0,
+                    "desde": "2016T4",
+                    "isin": "ES0167050915",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ACS ACTIVIDADES CON. Y SERV",
+                    "porcentaje": 1.92
+                },
+                {
+                    "cantidad": 183241.0,
+                    "desde": "2012T2",
+                    "isin": "ES0144580Y14",
+                    "moneda": "euro",
+                    "nombre": "Acciones|IBERDROLA SA",
+                    "porcentaje": 1.83
+                },
+                {
+                    "cantidad": 110970.0,
+                    "desde": "2015T2",
+                    "isin": "ES0105066007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CELLNEX TELECOM SAU",
+                    "porcentaje": 1.11
+                },
+                {
+                    "cantidad": 105660.0,
+                    "desde": "2021T1",
+                    "isin": "ES0171996087",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GRIFOLS",
+                    "porcentaje": 1.05
+                },
+                {
+                    "cantidad": 78557.0,
+                    "desde": "2023T2",
+                    "isin": "ES0126775032",
+                    "moneda": "euro",
+                    "nombre": "Acciones|DIA",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 68000.0,
+                    "desde": "2023T2",
+                    "isin": "ES00000121G2",
+                    "moneda": "euro",
+                    "nombre": "REPO|SINGULAR_B|3,150|2023-07-03",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 6300.0,
+                    "desde": "2023T2",
+                    "isin": "ES0617160918",
+                    "moneda": "euro",
+                    "nombre": "Derechos|ALBA",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T3",
+                    "isin": "ES00000124W3",
+                    "moneda": "euro",
+                    "nombre": "REPO|SINGULAR_B|1,750|2023-01-02",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2012T3",
+                    "isin": "ES0132105018",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ACERINOX",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T3",
+                    "isin": "ES0113211835",
+                    "moneda": "euro",
+                    "nombre": "Acciones|BBVA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2016T2",
+                    "isin": "ES0140609019",
+                    "moneda": "euro",
+                    "nombre": "Acciones|CAIXABANK",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2010T4",
+                    "isin": "ES0112501012",
+                    "moneda": "euro",
+                    "nombre": "Acciones|EBRO PULEVA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T3",
+                    "isin": "ES0130960018",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ENAGAS",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2009T2",
+                    "isin": "ES0118900010",
+                    "moneda": "euro",
+                    "nombre": "Acciones|FERROVIAL SA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T4",
+                    "isin": "ES0137650018",
+                    "moneda": "euro",
+                    "nombre": "Acciones|FLUIDRA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T4",
+                    "isin": "ES0157261019",
+                    "moneda": "euro",
+                    "nombre": "Acciones|LABORATORIOS FARMACEU ROVI SA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2013T1",
+                    "isin": "ES0178430E18",
+                    "moneda": "euro",
+                    "nombre": "Acciones|TELEFONICA SA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T1",
+                    "isin": "PTGAL0AM0009",
+                    "moneda": "euro",
+                    "nombre": "Acciones|GALP ENERGIA",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 4.0,
+                    "desde": "2014T3",
+                    "isin": "PTBES0AM0007",
+                    "moneda": "euro",
+                    "nombre": "Acciones|ESPIRITO SANTO",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 4.97
+        },
         {
             "gastos": 0.45,
             "indice_rotacion": 0.44,
@@ -22421,7 +23019,7 @@
     "id_cnmv_gestora": 185,
     "isin": "ES0180943039",
     "nif": "V83997593",
-    "nombre": "SWM ESPAÑA GESTION ACTIVA,FI CLASE P",
+    "nombre": "SWM ESPAÑA GESTION ACTIVA,FI CLASE A",
     "nombre_depositaria": "SINGULAR BANK, S.A.",
     "nombre_gestora": "SINGULAR ASSET MANAGEMENT, SGIIC, S.A."
 }

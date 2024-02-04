@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|CAKE BOX HOLDINGS PLC
+title: ACCIONES|CAKE BOX HOLDINGS LTD
 isin: GB00BDZWB751
 ---

@@ -1,7 +1,65 @@
 {
     "auditora": "-",
     "fecha_registro": "05/05/2023",
-    "historico_periodos": [],
+    "historico_periodos": [
+        {
+            "gastos": 0.3,
+            "indice_rotacion": 0.06,
+            "liquidez": 4.62,
+            "participes": 2,
+            "patrimonio": 4772048,
+            "periodo": "2023T4",
+            "posiciones": [
+                {
+                    "cantidad": 6050235.0,
+                    "desde": "2023T2",
+                    "isin": "LU1569897116",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|PARETURN GVC GA",
+                    "porcentaje": 95.42
+                }
+            ],
+            "rentabilidad": 7.3
+        },
+        {
+            "gastos": 0.07,
+            "indice_rotacion": 0.0,
+            "liquidez": 13.98,
+            "participes": 2,
+            "patrimonio": 3381005,
+            "periodo": "2023T3",
+            "posiciones": [
+                {
+                    "cantidad": 4046960.0,
+                    "desde": "2023T2",
+                    "isin": "LU1569897116",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|PARETURN GVC GA",
+                    "porcentaje": 86.06
+                }
+            ],
+            "rentabilidad": -4.14
+        },
+        {
+            "gastos": 0.08,
+            "indice_rotacion": 0.0,
+            "liquidez": 13.38,
+            "participes": 2,
+            "patrimonio": 2972358,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 3747708.0,
+                    "desde": "2023T2",
+                    "isin": "LU1569897116",
+                    "moneda": "EUR",
+                    "nombre": "I.I.C.|PARETURN GVC GA",
+                    "porcentaje": 86.65
+                }
+            ],
+            "rentabilidad": null
+        }
+    ],
     "id_cnmv": 5760,
     "id_cnmv_depositaria": 240,
     "id_cnmv_gestora": 29,

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|DWS INVESTMENT
+title: PARTICIPACIONES|DWS Aktien Strategie
 isin: DE000DWS2SH0
 ---

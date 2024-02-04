@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PASSIM STRUCTURED FUNDS PLC
+title: Participaciones|JP MORGAN MANSART MAN LTD
 isin: IE00BMDNRM06
 ---

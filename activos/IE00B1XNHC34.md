@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares Global
+title: Participaciones|BLACKROCK LUXEMBURGO SA
 isin: IE00B1XNHC34
 ---

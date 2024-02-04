@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|ISHARES USD TIPS UCI
+title: Participaciones|ISHARES
 isin: IE00BDZVH966
 ---

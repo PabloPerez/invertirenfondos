@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|DWS INVESTMENT
+title: FONDO|DWS SMART INDUSTRIAL
 isin: DE000DWS2MA8
 ---

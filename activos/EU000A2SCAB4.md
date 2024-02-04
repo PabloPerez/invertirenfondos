@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|EUROPEAN FINANC STAB|0,88|2028-09-05
+title: OB.EFSF AVAL EST 0,875% VT.05|09|2028
 isin: EU000A2SCAB4
 ---

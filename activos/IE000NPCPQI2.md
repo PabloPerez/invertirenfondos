@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PART.ATLAS GBL INFRASTRUCT-CEUNHD
+isin: IE000NPCPQI2
+---

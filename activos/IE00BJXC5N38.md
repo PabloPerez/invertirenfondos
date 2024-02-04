@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|ID_BB_59857494
+title: FONDO|LAZARD RATHMORE ALTE
 isin: IE00BJXC5N38
 ---

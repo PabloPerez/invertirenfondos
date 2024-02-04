@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|AMUNDI INVESTMENT
+isin: IE00B4QKTF93
+---

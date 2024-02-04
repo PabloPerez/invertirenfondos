@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|HSBC MSCI WORLD UCIT
+isin: IE000QMIHY81
+---

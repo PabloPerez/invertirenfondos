@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES EURO ULTRASH
+isin: IE000RHYOR04
+---

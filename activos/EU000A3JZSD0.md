@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|EUROPEAN STABILITY M|3,871|2024-05-23
+isin: EU000A3JZSD0
+---

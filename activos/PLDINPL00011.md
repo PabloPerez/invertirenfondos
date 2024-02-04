@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|MARKET DINO
+title: ACCIONES|DINO POLSKA SA
 isin: PLDINPL00011
 ---
