@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JANUS H GB LIFE SCIENCE
+isin: IE00BFRSYJ83
+---

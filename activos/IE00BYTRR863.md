@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BLACKROCK
+title: PARTICIPACIONES|ETF SPDR WORLD ENERG
 isin: IE00BYTRR863
 ---

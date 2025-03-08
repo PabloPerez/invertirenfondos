@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF SPDR MSCI WORLD
+isin: IE00BYTRRG40
+---

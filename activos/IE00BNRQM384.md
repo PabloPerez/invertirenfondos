@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Invesco Nasdaq-100 S
+title: Acciones|INVESCO
 isin: IE00BNRQM384
 ---

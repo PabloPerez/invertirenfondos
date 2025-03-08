@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF SPDR WORLD CON D
+isin: IE00BYTRR640
+---

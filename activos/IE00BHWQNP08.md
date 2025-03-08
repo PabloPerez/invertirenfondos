@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Comgest Growth EurIA
+title: Participaciones|COMGEST AM LIMITED
 isin: IE00BHWQNP08
 ---

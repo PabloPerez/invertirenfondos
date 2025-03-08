@@ -1,0 +1,5 @@
+---
+layout: asset
+title: IIC ISHARES EDGE MSCI WORLD MINIMUM VOLATILITY UCI
+isin: IE00BYXPXL17
+---

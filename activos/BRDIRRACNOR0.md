@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|DIRECIONAL ENGENHARIA S,A
+title: AC.DIRECIONAL ENGENHARIA (BRL)
 isin: BRDIRRACNOR0
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|SOVEREIGN IN RIGHT O|4,250|2036-05-15
+isin: NZGOVDT536C9
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|SPDR S&P U.S. HEALTH
+title: Acciones|SPDR
 isin: IE00BWBXM617
 ---

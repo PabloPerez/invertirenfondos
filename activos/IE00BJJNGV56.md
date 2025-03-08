@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Man Multi-StrategyS3
+title: PARTICIPACIONES|Man Glg Event Drven
 isin: IE00BJJNGV56
 ---

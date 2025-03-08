@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES MSCI JAPAN E
+title: PARTICIPACIONES|ISH MSCI JPN ESG EHN
 isin: IE00BHZPJ452
 ---

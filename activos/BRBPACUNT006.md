@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BANCO BTG PACTUAL SA
+title: AC.BANCO BTG PACTUAL S|A (BRL)
 isin: BRBPACUNT006
 ---

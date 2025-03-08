@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|TRATON FINANCE LUX|0,13|2024-11-10
+title: Bonos|TRATON FINANCE LUXEM|0,125|2024-10-10
 isin: DE000A3KYMA6
 ---

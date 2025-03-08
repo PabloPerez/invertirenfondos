@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|UBS ETF MSCI ACWI H.EUR(
+isin: IE00BWT3KS11
+---

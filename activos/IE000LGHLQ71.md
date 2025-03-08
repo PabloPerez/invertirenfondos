@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|INVESCO ASSET MANAGE
+isin: IE000LGHLQ71
+---

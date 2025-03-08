@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PAGARE|GRUPO VISABEIRA SA|5,46|2025-02-14
+isin: PTG1VMJM0142
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|WEG SA
+title: AC.WEG SA (BRL)
 isin: BRWEGEACNOR0
 ---

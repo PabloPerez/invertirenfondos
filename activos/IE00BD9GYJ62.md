@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|NB BERMAN EURO BD-EU
+isin: IE00BD9GYJ62
+---

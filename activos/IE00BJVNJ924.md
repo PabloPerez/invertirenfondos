@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|LYXOR NEWCITS IRL PL
+title: FONDO|AMUNDI | WNT DIVERSI
 isin: IE00BJVNJ924
 ---

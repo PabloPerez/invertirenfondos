@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF SPDR WORLD MATER
+isin: IE00BYTRRF33
+---

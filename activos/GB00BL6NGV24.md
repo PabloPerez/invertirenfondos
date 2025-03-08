@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|DR.MARTENS
+title: ACCIONES|BARRATT REDROW PLC
 isin: GB00BL6NGV24
 ---

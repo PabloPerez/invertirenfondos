@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones Cimpress PLC
+title: ACCIONES|Cimpress Plc
 isin: IE00BKYC3F77
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Fidelity S&P Inds PA
+title: Participaciones|FIDELITY FUNDS
 isin: IE00BYX5MS15
 ---

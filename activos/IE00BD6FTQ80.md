@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Invesco Bloomberg Co
+title: PARTICIPACIONES|SOURCE BLOOMBERG COMMODI
 isin: IE00BD6FTQ80
 ---

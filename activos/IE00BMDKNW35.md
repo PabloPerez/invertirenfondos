@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|VanEck Digital Asset
+title: Acciones|VANECK VECTORS
 isin: IE00BMDKNW35
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|INVESCO NASDA100 ACC
+isin: IE00BFZXGZ54
+---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|MERGLOHIGHY
+isin: IE00BK6SRR32
+---

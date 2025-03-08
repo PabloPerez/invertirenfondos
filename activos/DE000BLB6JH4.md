@@ -1,0 +1,5 @@
+---
+layout: asset
+title: OBLIGACION|BAYERISCHE LANDESBANK|0,75|2029-02-05
+isin: DE000BLB6JH4
+---

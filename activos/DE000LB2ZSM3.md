@@ -1,0 +1,5 @@
+---
+layout: asset
+title: CÉDULAS|LANDESBANK BADEN-WUE|0,125|2029-07-24
+isin: DE000LB2ZSM3
+---

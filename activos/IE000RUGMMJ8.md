@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JANUS HNDSON GBL LIFE SC
+isin: IE000RUGMMJ8
+---

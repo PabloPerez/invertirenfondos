@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|T ROWE PRICE ASIAN EQ IA
+isin: IE00BMTVJB19
+---

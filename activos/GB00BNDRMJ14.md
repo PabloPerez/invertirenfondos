@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ALPHAWAVE IP GROUP PLC-WI
+title: ACCIONES|ALPHAWAVE IP GROUP
 isin: GB00BNDRMJ14
 ---

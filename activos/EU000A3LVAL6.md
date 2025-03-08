@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONOS|EUROPEAN INVESTMENT|2,750|2029-07-17
+isin: EU000A3LVAL6
+---

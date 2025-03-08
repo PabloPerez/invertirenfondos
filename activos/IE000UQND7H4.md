@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF HSBC MSCI WLD EU
+isin: IE000UQND7H4
+---

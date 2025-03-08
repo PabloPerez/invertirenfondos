@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Fidelity MSCI Wld I
+title: PARTICIPACIONES|FIDELITY-MSCI WLD ID
 isin: IE00BYX5NX33
 ---

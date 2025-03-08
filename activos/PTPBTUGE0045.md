@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|PORTUGUESE REPUBLIC|3,929|2024-07-19
+isin: PTPBTUGE0045
+---

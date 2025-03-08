@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR MSCI World Cons
+title: PARTICIPACIONES|ETF SPDR WORLD CON S
 isin: IE00BYTRR756
 ---

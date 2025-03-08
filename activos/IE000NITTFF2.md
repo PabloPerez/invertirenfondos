@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES RUSSELL 1000
+isin: IE000NITTFF2
+---

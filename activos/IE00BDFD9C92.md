@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BLACKROCK ADVANTAGE EUROPE
+isin: IE00BDFD9C92
+---

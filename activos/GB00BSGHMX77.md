@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PAGARE|UK TREASURY BILL GBP|5,27|2024-10-21
+isin: GB00BSGHMX77
+---

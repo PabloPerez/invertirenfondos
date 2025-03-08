@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PART.GLG ALPHA SELECT AL-IL-HEUR
+title: PART.MAN ALPHA SELECT ALTERNATIVE-IL-H
 isin: IE00B3LJVG97
 ---

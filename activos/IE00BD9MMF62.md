@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF JPM Eur Ultsht I
+title: PARTICIPACIONES|JPM EUR ULTRA SHORT INCO
 isin: IE00BD9MMF62
 ---

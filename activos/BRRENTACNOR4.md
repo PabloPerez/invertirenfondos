@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|LOCALIZA RENT A CAR SA
+title: AC.LOCALIZA RENT A CAR (BRL)
 isin: BRRENTACNOR4
 ---

@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|REPUBLICA DE PORTUGAL|3,54|2025-01-17
+isin: PTPBTAGE0064
+---

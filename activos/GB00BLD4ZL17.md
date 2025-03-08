@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ETF COINSHARES PHYSI
+isin: GB00BLD4ZL17
+---

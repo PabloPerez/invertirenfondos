@@ -1,0 +1,5 @@
+---
+layout: asset
+title: RENTA FIJA|EURO STABILITY MECHA|3,22|2025-03-20
+isin: EU000A3JZSY6
+---

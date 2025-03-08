@@ -1,0 +1,5 @@
+---
+layout: asset
+title: LETRAS|EUROPEAN STABILITY M|2025-01-09
+isin: EU000A4DMKU0
+---

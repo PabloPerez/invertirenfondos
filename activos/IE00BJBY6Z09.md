@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|IRONSHIELD CREDIT FUND I
+isin: IE00BJBY6Z09
+---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|LAZARD GLOBAL LISTED INF
+title: Participaciones|LAZARD FRERES GESTION
 isin: IE00BJMXJ138
 ---

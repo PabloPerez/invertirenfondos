@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|ISHARES DEVELOPED WL
+isin: IE00BFG1TM61
+---

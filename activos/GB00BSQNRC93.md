@@ -1,0 +1,5 @@
+---
+layout: asset
+title: DEUDA|UNITED KINGDOM OF GR|4,375|2028-03-07
+isin: GB00BSQNRC93
+---

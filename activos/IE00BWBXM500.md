@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR S&P U.S. Financ
+title: Acciones|SPDR
 isin: IE00BWBXM500
 ---

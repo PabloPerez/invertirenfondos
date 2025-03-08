@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares S&P 500
+title: Participaciones|BLACK ROCK INTERNATIONAL
 isin: IE00BYXPSP02
 ---

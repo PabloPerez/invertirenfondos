@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Prin Gl Fin UN EM FI
+title: PARTICIPACIONES|PGIF FINISTERRE UNCONSTR
 isin: IE00BKDW9G15
 ---

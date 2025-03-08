@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|VANGUARD GROUP (IRELAND) LTD
+title: PARTICIPACIONES|VANGUARD FTSE 100 UCITS
 isin: IE00BFMXYP42
 ---

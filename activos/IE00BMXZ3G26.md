@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|BRUMMER MULTI-STR
+isin: IE00BMXZ3G26
+---

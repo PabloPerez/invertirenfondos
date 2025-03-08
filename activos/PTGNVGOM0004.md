@@ -1,0 +1,5 @@
+---
+layout: asset
+title: BONO|GREENVOLT ENERGIAS|5,20|2027-11-18
+isin: PTGNVGOM0004
+---

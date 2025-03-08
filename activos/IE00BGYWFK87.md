@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF FTSE250
+title: FONDOS|VANGUARD USD CORPORA
 isin: IE00BGYWFK87
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|Repsol Internac.|6,95|2027-07-21
+title: OB.YPF SA 6,95% VT.21|07|2027 (USD)
 isin: USP989MJBL47
 ---

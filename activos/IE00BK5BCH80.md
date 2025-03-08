@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|L&G CLEAN ENERGY UCI
+isin: IE00BK5BCH80
+---

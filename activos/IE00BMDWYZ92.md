@@ -1,0 +1,5 @@
+---
+layout: asset
+title: PARTICIPACIONES|JPM CARB TRANS GLOB
+isin: IE00BMDWYZ92
+---

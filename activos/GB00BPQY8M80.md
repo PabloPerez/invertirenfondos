@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|AVIVA PLC
+title: Acciones|AVIVA
 isin: GB00BPQY8M80
 ---
