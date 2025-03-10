@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|BANCO ESPIRITO SANTO|5,88|2015-11-09
+title: RENTA FIJA|NOVO BANCO SA|5,88|2015-11-09
 isin: PTBESWOM0013
 ---

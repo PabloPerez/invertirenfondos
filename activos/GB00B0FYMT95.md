@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|HELICAL PLC
+title: ACCIONES|HELICAL BAR PLC
 isin: GB00B0FYMT95
 ---

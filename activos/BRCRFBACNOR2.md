@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ATACADAO SA
+title: AC.ATACADAO SA (BRL)
 isin: BRCRFBACNOR2
 ---

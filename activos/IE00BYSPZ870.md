@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MPMF FUND MANAGEMENT
+title: PARTICIPACIONES|MPMF FUND MANAGEMENT IRELAND
 isin: IE00BYSPZ870
 ---

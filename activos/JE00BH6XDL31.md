@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|XLMEDIA
+title: Acciones|XLMEDIA PLC
 isin: JE00BH6XDL31
 ---

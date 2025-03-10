@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|WISDOMTREE EUROPE LIMITED
+title: PARTICIPACIONES|WT ART INTELLIGE-USD
 isin: IE00BDVPNG13
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|XTRACKERS LUXEMBOURG
+title: PARTICIPACIONES|LYXOR | CHEN CREDIT FD-I
 isin: IE00BWFRBY02
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|NVCR US Novocure Ltd
+title: ACCIONES|Novocure Ltd
 isin: JE00BYSS4X48
 ---

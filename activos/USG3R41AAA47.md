@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|ENDEAVOUR MINING PLC|5,00|2024-10-14
+title: Bonos|ENDEAVOUR MINING COR|2,500|2026-10-14
 isin: USG3R41AAA47
 ---

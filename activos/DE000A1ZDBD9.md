@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|UNICREDIT BANK I|2.20|2019-03-27
+title: RENTA FIJA|Unicred Bank Ireland|2,10|2019-03-27
 isin: DE000A1ZDBD9
 ---

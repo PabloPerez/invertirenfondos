@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares USD Treasury
+title: Participaciones|BLACKROCK ASSET MANAGEMENT
 isin: IE00BGSF1X88
 ---

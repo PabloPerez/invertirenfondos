@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pimco GIS Global Bon
+title: PARTICIPACIONES|PIMCO GIS Global Bond ESG Fund
 isin: IE00BYXVX196
 ---

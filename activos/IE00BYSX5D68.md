@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Vanguard-SRI Eur IGB
+title: PARTICIPACIONES|VANGUARD GROUP
 isin: IE00BYSX5D68
 ---

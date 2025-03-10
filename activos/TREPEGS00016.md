@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|PEGASUS HAVA TASIMAC
+title: AC.PEGASUS HAVA TASIMACILIGI AS (TRY)
 isin: TREPEGS00016
 ---

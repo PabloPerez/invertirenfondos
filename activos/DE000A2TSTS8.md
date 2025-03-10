@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: KFW 0,00% 040724
+title: BONO|KFW|3,81|2024-07-04
 isin: DE000A2TSTS8
 ---

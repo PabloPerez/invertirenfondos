@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|ISHARES CHINA CNY BO
+title: ETF.ISHARES CHINA CNY BOND-USD D (USD)
 isin: IE00BYPC1H27
 ---

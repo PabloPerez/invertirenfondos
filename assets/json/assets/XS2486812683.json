@@ -3,10 +3,36 @@
         {
             "fondos": [
                 {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2024T2"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 9062662.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356040",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
+                    "isin": "ES0174356008",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
                     "porcentaje": 2.67
                 },
                 {
@@ -19,8 +45,8 @@
                 {
                     "cantidad": 9062662.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356057",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
+                    "isin": "ES0174356024",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
                     "porcentaje": 2.67
                 },
                 {
@@ -33,16 +59,37 @@
                 {
                     "cantidad": 9062662.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356024",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
+                    "isin": "ES0174356040",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
                     "porcentaje": 2.67
                 },
                 {
                     "cantidad": 9062662.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356008",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
+                    "isin": "ES0174356057",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
                     "porcentaje": 2.67
+                },
+                {
+                    "cantidad": 9924591.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 9924591.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 9924591.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.72
                 },
                 {
                     "cantidad": 9924591.0,
@@ -61,9 +108,16 @@
                 {
                     "cantidad": 9924591.0,
                     "desde": "2023T4",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 2804982.0,
+                    "desde": "2022T3",
+                    "isin": "ES0107943005",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "porcentaje": 0.68
                 },
                 {
                     "cantidad": 2804982.0,
@@ -75,36 +129,29 @@
                 {
                     "cantidad": 2804982.0,
                     "desde": "2022T3",
-                    "isin": "ES0107943005",
-                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "isin": "ES0107943013",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE CARTERA",
                     "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 32624009.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 32624009.0,
-                    "desde": "2022T4",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
-                    "porcentaje": 0.33
-                },
-                {
-                    "cantidad": 32624009.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.33
                 },
                 {
                     "cantidad": 32624009.0,
                     "desde": "2022T2",
                     "isin": "ES0138045002",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 32624009.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 32624009.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.33
                 },
                 {
@@ -117,15 +164,22 @@
                 {
                     "cantidad": 32624009.0,
                     "desde": "2022T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 32624009.0,
+                    "desde": "2022T2",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 32624009.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "desde": "2022T4",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.33
                 }
             ],
@@ -136,8 +190,8 @@
                 {
                     "cantidad": 10066483.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356040",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
+                    "isin": "ES0174356008",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
                     "porcentaje": 2.84
                 },
                 {
@@ -150,8 +204,8 @@
                 {
                     "cantidad": 10066483.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356057",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
+                    "isin": "ES0174356024",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
                     "porcentaje": 2.84
                 },
                 {
@@ -164,16 +218,23 @@
                 {
                     "cantidad": 10066483.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356024",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
+                    "isin": "ES0174356040",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
                     "porcentaje": 2.84
                 },
                 {
                     "cantidad": 10066483.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356008",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
+                    "isin": "ES0174356057",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
                     "porcentaje": 2.84
+                },
+                {
+                    "cantidad": 2808043.0,
+                    "desde": "2022T3",
+                    "isin": "ES0107943005",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 2808043.0,
@@ -185,15 +246,15 @@
                 {
                     "cantidad": 2808043.0,
                     "desde": "2022T3",
-                    "isin": "ES0107943005",
-                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "isin": "ES0107943013",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE CARTERA",
                     "porcentaje": 0.85
                 },
                 {
                     "cantidad": 200894.0,
                     "desde": "2023T2",
-                    "isin": "ES0137979037",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI PREMIUM",
+                    "isin": "ES0137979003",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI ESTÁNDAR",
                     "porcentaje": 0.56
                 },
                 {
@@ -207,35 +268,28 @@
                     "cantidad": 200894.0,
                     "desde": "2023T2",
                     "isin": "ES0137979029",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI CARTERA",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI SIN RETRO",
                     "porcentaje": 0.56
                 },
                 {
                     "cantidad": 200894.0,
                     "desde": "2023T2",
-                    "isin": "ES0137979003",
-                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI ESTÁNDAR",
+                    "isin": "ES0137979037",
+                    "nombre": "CAIXABANK RENTA FIJA CORPORATIVA DURACION CUBIERTA, FI PREMIUM",
                     "porcentaje": 0.56
                 },
                 {
-                    "cantidad": 30202881.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
+                    "cantidad": 401620.0,
+                    "desde": "2023T2",
+                    "isin": "ES0114887005",
+                    "nombre": "CAJA INGENIEROS FONDTESORO CORTO PLAZO, FI I",
                     "porcentaje": 0.45
                 },
                 {
-                    "cantidad": 30202881.0,
-                    "desde": "2022T4",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 30202881.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
+                    "cantidad": 401620.0,
+                    "desde": "2023T2",
+                    "isin": "ES0114887039",
+                    "nombre": "CAJA INGENIEROS FONDTESORO CORTO PLAZO, FI A",
                     "porcentaje": 0.45
                 },
                 {
@@ -248,15 +302,29 @@
                 {
                     "cantidad": 30202881.0,
                     "desde": "2022T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 30202881.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 30202881.0,
+                    "desde": "2022T2",
                     "isin": "ES0138045036",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
                     "porcentaje": 0.45
                 },
                 {
-                    "cantidad": 401620.0,
-                    "desde": "2023T2",
-                    "isin": "ES0114887005",
-                    "nombre": "CAJA INGENIEROS FONDTESORO CORTO PLAZO, FI I",
+                    "cantidad": 30202881.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
                     "porcentaje": 0.45
                 },
                 {
@@ -268,16 +336,9 @@
                 },
                 {
                     "cantidad": 30202881.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 401620.0,
-                    "desde": "2023T2",
-                    "isin": "ES0114887039",
-                    "nombre": "CAJA INGENIEROS FONDTESORO CORTO PLAZO, FI A",
+                    "desde": "2022T4",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.45
                 }
             ],
@@ -288,8 +349,8 @@
                 {
                     "cantidad": 10064097.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356040",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
+                    "isin": "ES0174356008",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
                     "porcentaje": 2.46
                 },
                 {
@@ -302,8 +363,8 @@
                 {
                     "cantidad": 10064097.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356057",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
+                    "isin": "ES0174356024",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
                     "porcentaje": 2.46
                 },
                 {
@@ -316,22 +377,57 @@
                 {
                     "cantidad": 10064097.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356024",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
+                    "isin": "ES0174356040",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
                     "porcentaje": 2.46
                 },
                 {
                     "cantidad": 10064097.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356008",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
+                    "isin": "ES0174356057",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
                     "porcentaje": 2.46
+                },
+                {
+                    "cantidad": 30192975.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 30192975.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.6
                 },
                 {
                     "cantidad": 30192975.0,
                     "desde": "2022T2",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 30192975.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 30192975.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 30192975.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045051",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.6
                 },
                 {
@@ -342,39 +438,11 @@
                     "porcentaje": 0.6
                 },
                 {
-                    "cantidad": 30192975.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 30192975.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 30192975.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 30192975.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045051",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 30192975.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.6
+                    "cantidad": 2813286.0,
+                    "desde": "2022T3",
+                    "isin": "ES0107943005",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "porcentaje": 0.55
                 },
                 {
                     "cantidad": 2813286.0,
@@ -386,8 +454,8 @@
                 {
                     "cantidad": 2813286.0,
                     "desde": "2022T3",
-                    "isin": "ES0107943005",
-                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "isin": "ES0107943013",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE CARTERA",
                     "porcentaje": 0.55
                 }
             ],
@@ -398,8 +466,8 @@
                 {
                     "cantidad": 10053647.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356040",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
+                    "isin": "ES0174356008",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
                     "porcentaje": 2.01
                 },
                 {
@@ -412,8 +480,8 @@
                 {
                     "cantidad": 10053647.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356057",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
+                    "isin": "ES0174356024",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
                     "porcentaje": 2.01
                 },
                 {
@@ -426,16 +494,30 @@
                 {
                     "cantidad": 10053647.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356024",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
+                    "isin": "ES0174356040",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
                     "porcentaje": 2.01
                 },
                 {
                     "cantidad": 10053647.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356008",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
+                    "isin": "ES0174356057",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
                     "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 26150546.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 26150546.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.65
                 },
                 {
                     "cantidad": 26150546.0,
@@ -447,22 +529,15 @@
                 {
                     "cantidad": 26150546.0,
                     "desde": "2022T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.65
-                },
-                {
-                    "cantidad": 26150546.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.65
-                },
-                {
-                    "cantidad": 26150546.0,
-                    "desde": "2022T2",
                     "isin": "ES0138045036",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 26150546.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
                     "porcentaje": 0.65
                 },
                 {
@@ -473,24 +548,17 @@
                     "porcentaje": 0.65
                 },
                 {
-                    "cantidad": 26150546.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.65
+                    "cantidad": 2813868.0,
+                    "desde": "2022T3",
+                    "isin": "ES0107943005",
+                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
+                    "porcentaje": 0.56
                 },
                 {
                     "cantidad": 2813868.0,
                     "desde": "2022T3",
                     "isin": "ES0107943013",
                     "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE CARTERA",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 2813868.0,
-                    "desde": "2022T3",
-                    "isin": "ES0107943005",
-                    "nombre": "SANTANDER RENTA FIJA FLOTANTE, FI CLASE A",
                     "porcentaje": 0.56
                 }
             ],
@@ -501,8 +569,8 @@
                 {
                     "cantidad": 10065268.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356040",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
+                    "isin": "ES0174356008",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
                     "porcentaje": 1.92
                 },
                 {
@@ -515,8 +583,8 @@
                 {
                     "cantidad": 10065268.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356057",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
+                    "isin": "ES0174356024",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
                     "porcentaje": 1.92
                 },
                 {
@@ -529,29 +597,29 @@
                 {
                     "cantidad": 10065268.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356024",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. EMPRESA",
+                    "isin": "ES0174356040",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PREMIER",
                     "porcentaje": 1.92
                 },
                 {
                     "cantidad": 10065268.0,
                     "desde": "2022T2",
-                    "isin": "ES0174356008",
-                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. BASE",
+                    "isin": "ES0174356057",
+                    "nombre": "SABADELL BONOS FLOTANTES EURO, F.I. PYME",
                     "porcentaje": 1.92
-                },
-                {
-                    "cantidad": 4025699.0,
-                    "desde": "2022T2",
-                    "isin": "ES0112899010",
-                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
-                    "porcentaje": 0.87
                 },
                 {
                     "cantidad": 4025699.0,
                     "desde": "2022T2",
                     "isin": "ES0112899002",
                     "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.87
+                },
+                {
+                    "cantidad": 4025699.0,
+                    "desde": "2022T2",
+                    "isin": "ES0112899010",
+                    "nombre": "CAIXABANK RENTA FIJA EURO CP, FI CLASE CARTERA",
                     "porcentaje": 0.87
                 },
                 {
@@ -564,22 +632,22 @@
                 {
                     "cantidad": 26168380.0,
                     "desde": "2022T2",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.65
-                },
-                {
-                    "cantidad": 26168380.0,
-                    "desde": "2022T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.65
-                },
-                {
-                    "cantidad": 26168380.0,
-                    "desde": "2022T2",
                     "isin": "ES0138045002",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 26168380.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 26168380.0,
+                    "desde": "2022T2",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.65
                 },
                 {
@@ -592,15 +660,15 @@
                 {
                     "cantidad": 26168380.0,
                     "desde": "2022T2",
-                    "isin": "ES0138045051",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
                     "porcentaje": 0.65
                 },
                 {
                     "cantidad": 26168380.0,
                     "desde": "2022T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "isin": "ES0138045051",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.65
                 }
             ],
@@ -608,5 +676,5 @@
         }
     ],
     "isin": "XS2486812683",
-    "nombre": "BONOS|VOLVO TREASURY|3,480|2024-05-31"
+    "nombre": "RFIJA|VOLVO TREASURY A|4.71|2024-05-31"
 }

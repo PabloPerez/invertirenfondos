@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|EVONIK INDUSTRIES AG|1,062|2022-11
+title: RFIJA|EVONIK INDUSTRIE|2.12|2077-07-07
 isin: DE000A2GSFF1
 ---

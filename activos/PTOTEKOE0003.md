@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|GOBIERNO PORTUGUES|5,000|2012-06-15
+title: RFIJA|TESORO DE PORTUG|5.00|2012-06-15
 isin: PTOTEKOE0003
 ---

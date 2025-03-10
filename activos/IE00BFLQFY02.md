@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BNY Mellon Global Japan Small Cap Equity
+title: PARTICIPACIONES|BNY MELLON GLOBAL SH
 isin: IE00BFLQFY02
 ---

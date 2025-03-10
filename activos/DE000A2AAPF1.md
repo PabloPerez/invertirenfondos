@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Thyssenkrupp 2,75% 080321
+title: BONO|THYSSENKRUPP AG|2,75|2021-03-08
 isin: DE000A2AAPF1
 ---

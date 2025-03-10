@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|FORTERRA PLC
+title: ACCIONES|FORTERRA PLC
 isin: GB00BYYW3C20
 ---

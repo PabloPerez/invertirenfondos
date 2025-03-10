@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Greenvolt-Energias Renovaveis
+title: Acciones|COFINA
 isin: PTGNV0AM0001
 ---

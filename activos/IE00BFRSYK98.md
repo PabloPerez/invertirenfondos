@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|JANUS HENDERSON INVESTORS(IRE)
+title: PARTICIPACIONES|JANUS INTERNATIONAL
 isin: IE00BFRSYK98
 ---

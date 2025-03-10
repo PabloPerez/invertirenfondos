@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES CORE GLOBAL AGGREGATE
+title: ETN|ISHARES ETFS|IR
 isin: IE00BDBRDM35
 ---

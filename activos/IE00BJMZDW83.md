@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|DALATA HOTEL GR
+title: Acciones|DALATA HOTEL GROUP PLC
 isin: IE00BJMZDW83
 ---

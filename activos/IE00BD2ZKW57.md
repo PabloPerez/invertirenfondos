@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Principal Global Inv
+title: PARTICIPACIONES|PRINCIPAL GLOBAL INVEST. -FINISTER
 isin: IE00BD2ZKW57
 ---

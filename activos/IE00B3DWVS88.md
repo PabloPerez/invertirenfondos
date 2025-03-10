@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Invesco MSCI Emergin
+title: PARTICIPACIONES|INVESCO ASSET MANAGE
 isin: IE00B3DWVS88
 ---

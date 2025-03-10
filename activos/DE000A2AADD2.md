@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|INNOGY SE
+title: ACCIONES|Innogy Holdings
 isin: DE000A2AADD2
 ---

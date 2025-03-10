@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES S AND P LISTED P
+title: Participaciones|BLACKROCK LUXEMBURGO SA
 isin: IE00B1TXHL60
 ---

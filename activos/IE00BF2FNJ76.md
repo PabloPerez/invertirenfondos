@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Invesco US Treasury
+title: PARTICIPACIONES|ETF INVESCO US TRES
 isin: IE00BF2FNJ76
 ---

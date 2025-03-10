@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|STABILUS GMBH
+title: Acciones|STABILUS SE
 isin: DE000STAB1L8
 ---

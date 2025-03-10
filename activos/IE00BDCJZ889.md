@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNY US MUNI INFRA DBT EU
+title: FONDO|BNY MELLON GLB PLCBN
 isin: IE00BDCJZ889
 ---

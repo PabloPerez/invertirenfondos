@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR MSCI EUROPE HEALTH
+title: Acciones|SPDR
 isin: IE00BKWQ0H23
 ---

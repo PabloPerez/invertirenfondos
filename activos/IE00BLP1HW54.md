@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.AON PLC (USD) 
+title: ACCIONES|Aon Corporation
 isin: IE00BLP1HW54
 ---

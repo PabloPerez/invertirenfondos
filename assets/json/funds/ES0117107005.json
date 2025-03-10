@@ -4,6 +4,748 @@
     "historico_periodos": [
         {
             "gastos": 0.15,
+            "indice_rotacion": 0.35,
+            "liquidez": 9.33,
+            "participes": 61,
+            "patrimonio": 15991898,
+            "periodo": "2024T4",
+            "posiciones": [
+                {
+                    "cantidad": 10260187.0,
+                    "desde": "2024T2",
+                    "isin": "ES0000012L29",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SPAIN GOVERNMENT|2.80|2026-05-31",
+                    "porcentaje": 9.75
+                },
+                {
+                    "cantidad": 8246164.0,
+                    "desde": "2022T4",
+                    "isin": "LU1078767826",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SCHRODER ISF EURO CORPOR",
+                    "porcentaje": 7.84
+                },
+                {
+                    "cantidad": 7509211.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005484552",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|ITALY BUONI ORDI|1.10|2027-04-01",
+                    "porcentaje": 7.14
+                },
+                {
+                    "cantidad": 6519089.0,
+                    "desde": "2022T2",
+                    "isin": "LU2334141400",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES| PICTET   USD SHORT MID",
+                    "porcentaje": 6.2
+                },
+                {
+                    "cantidad": 5160598.0,
+                    "desde": "2022T2",
+                    "isin": "LU0360478795",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MORGAN STANLEY SICAV SHO",
+                    "porcentaje": 4.91
+                },
+                {
+                    "cantidad": 5079339.0,
+                    "desde": "2023T2",
+                    "isin": "IE0007471471",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD INVESTMENT SERI",
+                    "porcentaje": 4.83
+                },
+                {
+                    "cantidad": 4981582.0,
+                    "desde": "2024T4",
+                    "isin": "US91282CEW73",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|3.25|2027-06-30",
+                    "porcentaje": 4.74
+                },
+                {
+                    "cantidad": 4628824.0,
+                    "desde": "2023T4",
+                    "isin": "LU1727359835",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPM US SHORT DURATION BO",
+                    "porcentaje": 4.4
+                },
+                {
+                    "cantidad": 4082602.0,
+                    "desde": "2024T2",
+                    "isin": "LU1881796145",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|M AND G LUX INVESTMENT F",
+                    "porcentaje": 3.88
+                },
+                {
+                    "cantidad": 3910121.0,
+                    "desde": "2023T4",
+                    "isin": "LU2386637925",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FRANKLIN EURO SHORT DURA",
+                    "porcentaje": 3.72
+                },
+                {
+                    "cantidad": 3298898.0,
+                    "desde": "2024T2",
+                    "isin": "LU0955863922",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|INVESCO EURO CORPORATE B",
+                    "porcentaje": 3.14
+                },
+                {
+                    "cantidad": 3272113.0,
+                    "desde": "2022T2",
+                    "isin": "LU0992631217",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CARMIGNAC PF CAPITAL PLU",
+                    "porcentaje": 3.11
+                },
+                {
+                    "cantidad": 3046896.0,
+                    "desde": "2024T2",
+                    "isin": "US91282CHE49",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|3.62|2028-05-31",
+                    "porcentaje": 2.9
+                },
+                {
+                    "cantidad": 3047168.0,
+                    "desde": "2022T2",
+                    "isin": "US91282CED92",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|1.75|2025-03-15",
+                    "porcentaje": 2.9
+                },
+                {
+                    "cantidad": 2507217.0,
+                    "desde": "2024T2",
+                    "isin": "IE00BKDW9G15",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|PGIF FINISTERRE UNCONSTR",
+                    "porcentaje": 2.38
+                },
+                {
+                    "cantidad": 2386483.0,
+                    "desde": "2023T2",
+                    "isin": "ES0165237019",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MUTUAFONDO FI   L",
+                    "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 1645461.0,
+                    "desde": "2024T2",
+                    "isin": "LU0628638032",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SICAV ODDO BHF EURO CRED",
+                    "porcentaje": 1.56
+                },
+                {
+                    "cantidad": 1394736.0,
+                    "desde": "2022T2",
+                    "isin": "FR0010251744",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LYXOR ETF IBEX 35 (EUR)",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 1385145.0,
+                    "desde": "2022T2",
+                    "isin": "IE00B579F325",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SOURCE PHYSICAL MARKETS GOLD",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 1339889.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BLNMYC90",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X TRACKERS S AND P 50",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 1143122.0,
+                    "desde": "2024T4",
+                    "isin": "LU1731866494",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|GOLDMAN SACHS EMERGING M",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 1028600.0,
+                    "desde": "2023T2",
+                    "isin": "LU0415416444",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VONTOBEL - BELVISTA COMM",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 987002.0,
+                    "desde": "2024T2",
+                    "isin": "LU1737526100",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|T ROWE PRICE US SMALLER",
+                    "porcentaje": 0.94
+                },
+                {
+                    "cantidad": 797333.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B81TMV64",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ALGEBRIS UCITS FUNDS PLC",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 715171.0,
+                    "desde": "2024T4",
+                    "isin": "IE00B60SWX25",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|INVESCO EURO STOXX 50 UC",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 701440.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B5BMR087",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES CORE S AND P 500",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 692722.0,
+                    "desde": "2024T2",
+                    "isin": "LU0328475792",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS MSCI EUROP",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 699085.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B3VTL690",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|NOMURA FDS IRELAND JAPAN",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 682984.0,
+                    "desde": "2023T2",
+                    "isin": "LU0992628858",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CARMIGNAC PF GDE EUROPE",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 595991.0,
+                    "desde": "2022T4",
+                    "isin": "LU1129205529",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ABERDGL CASEFH2",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 528580.0,
+                    "desde": "2022T2",
+                    "isin": "LU0966752916",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JANUS HENDERSON  UNITED",
+                    "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 346355.0,
+                    "desde": "2024T2",
+                    "isin": "LU0274211480",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS DAX ETF AC",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 315016.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BF1T7090",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BROWN ADVISORY US SUSTAI",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 293332.0,
+                    "desde": "2022T2",
+                    "isin": "IE00BYQG5606",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BAILLIE GIFFORD WW LT GL",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 222600.0,
+                    "desde": "2024T4",
+                    "isin": "IE00BFMXVQ44",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD FTSE 250 UCITS",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 201716.0,
+                    "desde": "2024T4",
+                    "isin": "LU1951450755",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPM KOREA EQUITY I (EUR)",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 170997.0,
+                    "desde": "2022T4",
+                    "isin": "IE00BYPC7T68",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|UTI INDIA DYNAMIC EQUITY",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 139867.0,
+                    "desde": "2024T2",
+                    "isin": "NL0015001FS8",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FERROVIAL SA",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 102085.0,
+                    "desde": "2024T4",
+                    "isin": "US02079K1079",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ALPHABET INC",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 83747.0,
+                    "desde": "2024T4",
+                    "isin": "ES0173516115",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|REPSOL SA",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 82713.0,
+                    "desde": "2024T2",
+                    "isin": "DE0007037129",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RWE AG",
+                    "porcentaje": 0.08
+                }
+            ],
+            "rentabilidad": 0.14
+        },
+        {
+            "gastos": 0.23,
+            "indice_rotacion": 0.54,
+            "liquidez": 4.84,
+            "participes": 42,
+            "patrimonio": 11763955,
+            "periodo": "2024T2",
+            "posiciones": [
+                {
+                    "cantidad": 10138124.0,
+                    "desde": "2024T2",
+                    "isin": "ES0000012L29",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|SPAIN GOVERNMENT|2.80|2026-05-31",
+                    "porcentaje": 10.59
+                },
+                {
+                    "cantidad": 6630573.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BDCJZ889",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BNY US MUNI INFRA DBT EU",
+                    "porcentaje": 6.93
+                },
+                {
+                    "cantidad": 5800187.0,
+                    "desde": "2022T4",
+                    "isin": "LU1078767826",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SCHRODER ISF EURO CORPOR",
+                    "porcentaje": 6.06
+                },
+                {
+                    "cantidad": 5550879.0,
+                    "desde": "2023T4",
+                    "isin": "LU1727359835",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JPM US SHORT DURATION BO",
+                    "porcentaje": 5.8
+                },
+                {
+                    "cantidad": 5557252.0,
+                    "desde": "2022T2",
+                    "isin": "LU2334141400",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES| PICTET   USD SHORT MID",
+                    "porcentaje": 5.8
+                },
+                {
+                    "cantidad": 4535602.0,
+                    "desde": "2024T2",
+                    "isin": "US91282CDN83",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|1.00|2024-12-15",
+                    "porcentaje": 4.74
+                },
+                {
+                    "cantidad": 4437030.0,
+                    "desde": "2022T2",
+                    "isin": "LU0360478795",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MORGAN STANLEY SICAV SHO",
+                    "porcentaje": 4.63
+                },
+                {
+                    "cantidad": 4426201.0,
+                    "desde": "2023T2",
+                    "isin": "IE0007471471",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD INVESTMENT SERI",
+                    "porcentaje": 4.62
+                },
+                {
+                    "cantidad": 4200300.0,
+                    "desde": "2023T2",
+                    "isin": "LU0335987698",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|EURIZON EASYFUND BD EUR",
+                    "porcentaje": 4.39
+                },
+                {
+                    "cantidad": 3896085.0,
+                    "desde": "2022T2",
+                    "isin": "US91282CED92",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|1.75|2025-03-15",
+                    "porcentaje": 4.07
+                },
+                {
+                    "cantidad": 3680952.0,
+                    "desde": "2024T2",
+                    "isin": "LU1881796145",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|M AND G LUX INVESTMENT F",
+                    "porcentaje": 3.84
+                },
+                {
+                    "cantidad": 3355159.0,
+                    "desde": "2023T4",
+                    "isin": "LU2386637925",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|FRANKLIN EURO SHORT DURA",
+                    "porcentaje": 3.5
+                },
+                {
+                    "cantidad": 2934278.0,
+                    "desde": "2024T2",
+                    "isin": "US91282CHE49",
+                    "moneda": "EUR",
+                    "nombre": "RFIJA|UNITED STATES TR|3.62|2028-05-31",
+                    "porcentaje": 3.06
+                },
+                {
+                    "cantidad": 2889944.0,
+                    "desde": "2024T2",
+                    "isin": "LU0955863922",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|INVESCO EURO CORPORATE B",
+                    "porcentaje": 3.02
+                },
+                {
+                    "cantidad": 2846850.0,
+                    "desde": "2022T2",
+                    "isin": "LU0992631217",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CARMIGNAC PF CAPITAL PLU",
+                    "porcentaje": 2.97
+                },
+                {
+                    "cantidad": 2303753.0,
+                    "desde": "2023T2",
+                    "isin": "ES0165237019",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MUTUAFONDO FI   L",
+                    "porcentaje": 2.41
+                },
+                {
+                    "cantidad": 2091337.0,
+                    "desde": "2024T2",
+                    "isin": "IE00BKDW9G15",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|PGIF FINISTERRE UNCONSTR",
+                    "porcentaje": 2.18
+                },
+                {
+                    "cantidad": 2082045.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B81TMV64",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ALGEBRIS UCITS FUNDS PLC",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 1256072.0,
+                    "desde": "2022T2",
+                    "isin": "IE00B579F325",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SOURCE PHYSICAL MARKETS",
+                    "porcentaje": 1.31
+                },
+                {
+                    "cantidad": 1020668.0,
+                    "desde": "2024T2",
+                    "isin": "LU0628638032",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|SICAV ODDO BHF EURO CRED",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 962094.0,
+                    "desde": "2023T2",
+                    "isin": "LU0415416444",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VONTOBEL - BELVISTA COMM",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 940290.0,
+                    "desde": "2022T2",
+                    "isin": "FR0010251744",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|LYXOR ETF IBEX 35 (EUR)",
+                    "porcentaje": 0.98
+                },
+                {
+                    "cantidad": 815853.0,
+                    "desde": "2024T2",
+                    "isin": "LU0328475792",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS MSCI EUROP",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 729064.0,
+                    "desde": "2024T2",
+                    "isin": "LU0380865021",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS EURO STOXX",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 682667.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B3VTL690",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|NOMURA FDS IRELAND JAPAN",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 661363.0,
+                    "desde": "2023T2",
+                    "isin": "LU0992628858",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|CARMIGNAC PF GDE EUROPE",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 524517.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BLNMYC90",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X TRACKERS S AND P 50",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 517103.0,
+                    "desde": "2022T4",
+                    "isin": "LU1129205529",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ABERDGL CASEFH2",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 498411.0,
+                    "desde": "2022T2",
+                    "isin": "LU0966752916",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|JANUS HENDERSON  UNITED",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 410679.0,
+                    "desde": "2024T2",
+                    "isin": "IE00B5BMR087",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES CORE S AND P 500",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 351783.0,
+                    "desde": "2023T4",
+                    "isin": "IE00B43HR379",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES S AND P 500 USD",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 324966.0,
+                    "desde": "2024T2",
+                    "isin": "LU1737526100",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|T ROWE PRICE US SMALLER",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 319413.0,
+                    "desde": "2024T2",
+                    "isin": "LU0274211480",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|DB X-TRACKERS DAX ETF AC",
+                    "porcentaje": 0.33
+                },
+                {
+                    "cantidad": 302039.0,
+                    "desde": "2023T2",
+                    "isin": "IE00BF1T7090",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BROWN ADVISORY US SUSTAI",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 268354.0,
+                    "desde": "2023T2",
+                    "isin": "LU0360483019",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|MORGAN STANLEY GLOBAL BR",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 237784.0,
+                    "desde": "2024T2",
+                    "isin": "LU0821169231",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ROBECO EMERGING CONSERVA",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 234304.0,
+                    "desde": "2022T2",
+                    "isin": "IE00B0M63516",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI BRAZIL ETF",
+                    "porcentaje": 0.24
+                },
+                {
+                    "cantidad": 224261.0,
+                    "desde": "2024T2",
+                    "isin": "IE00BFMXYP42",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|VANGUARD FTSE 100 UCITS",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 218391.0,
+                    "desde": "2022T2",
+                    "isin": "IE00BYQG5606",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|BAILLIE GIFFORD WW LT GL",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 221951.0,
+                    "desde": "2022T4",
+                    "isin": "IE00BYPC7T68",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|UTI INDIA DYNAMIC EQUITY",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 196479.0,
+                    "desde": "2024T2",
+                    "isin": "LU1665237456",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|M AND G LUX INVESTMENT F",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 142044.0,
+                    "desde": "2023T2",
+                    "isin": "IE00B5WHFQ43",
+                    "moneda": "EUR",
+                    "nombre": "PARTICIPACIONES|ISHARES MSCI MEXICO CAPP",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 123393.0,
+                    "desde": "2024T2",
+                    "isin": "NL0015001FS8",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|FERROVIAL SA",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 111913.0,
+                    "desde": "2022T2",
+                    "isin": "ES0148396007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|INDITEX SA",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 99310.0,
+                    "desde": "2022T2",
+                    "isin": "ES0105066007",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CELLNEX TELECOM SAU",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 91665.0,
+                    "desde": "2024T2",
+                    "isin": "DE0007037129",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|RWE AG",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 93308.0,
+                    "desde": "2024T2",
+                    "isin": "US86800U1043",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SUPER MICRO COMPUTER INC",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 87430.0,
+                    "desde": "2023T4",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA SA",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 79631.0,
+                    "desde": "2023T4",
+                    "isin": "ES0105563003",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORPORACION ACCIONA ENERGIAS RE",
+                    "porcentaje": 0.08
+                }
+            ],
+            "rentabilidad": 0.41
+        },
+        {
+            "gastos": 0.15,
             "indice_rotacion": 0.4,
             "liquidez": 8.4,
             "participes": 40,

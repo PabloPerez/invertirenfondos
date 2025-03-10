@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OBLIGACIONES|Reino Unido|5|2018-03-07
+title: BN.REINO UNIDO 05.00 070318
 isin: GB00B1VWPC84
 ---

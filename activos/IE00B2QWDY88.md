@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF IShares Dev Mkt
+title: PARTICIPACIONES|BLACKROCK ASSET
 isin: IE00B2QWDY88
 ---

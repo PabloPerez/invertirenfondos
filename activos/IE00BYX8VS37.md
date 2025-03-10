@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Newcapital USSCG EUR I ACC
+title: PARTICIPACIONES|New Capital US Small
 isin: IE00BYX8VS37
 ---

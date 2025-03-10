@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|GAM FUND MANAGEMENT
+title: PARTICIPACIONES|GAM FUND
 isin: IE00BQSBX418
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares CORE
+title: ETF|ISHARES ETFS|IR
 isin: IE00BKM4GZ66
 ---

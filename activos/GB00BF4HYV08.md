@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|GEORGIA CAPITAL PLC
+title: ACCIONES|Georgia Capital PLC
 isin: GB00BF4HYV08
 ---

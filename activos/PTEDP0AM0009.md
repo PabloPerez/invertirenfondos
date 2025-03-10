@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|EDP - ENERGIAS DE PO
+title: ACCIONES|ENERGIAS DE PORTUGAL
 isin: PTEDP0AM0009
 ---

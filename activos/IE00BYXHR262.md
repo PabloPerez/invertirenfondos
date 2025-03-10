@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|MUZINICH & CO LTD
+title: IIC Muzinich Enhancedyield S-T HEUR Acc H
 isin: IE00BYXHR262
 ---

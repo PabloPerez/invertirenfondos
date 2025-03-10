@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BRF SA
+title: AC.BRF-BRASIL FOODS SA(BRL)
 isin: BRBRFSACNOR8
 ---

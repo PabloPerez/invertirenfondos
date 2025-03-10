@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BKG LN Berkeley Group Holdings PLC
+title: Acciones|BERKELEY GROUP HOLDINGS PLC
 isin: GB00BLJNXL82
 ---

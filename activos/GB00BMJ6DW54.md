@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|INFORMA PLC
+title: ACCIONES|INFORMA PLC
 isin: GB00BMJ6DW54
 ---

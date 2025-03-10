@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|AKO CAPITAL LLP
+title: FONDO|AKO UCITS ICAV AKO G
 isin: IE00BYXDVR74
 ---

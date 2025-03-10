@@ -4,13 +4,6 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0174305005",
-                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2015T1",
                     "isin": "ES0126535006",
                     "nombre": "RURAL RENTA FIJA 1, FI CLASE CARTERA",
@@ -28,6 +21,13 @@
                     "desde": "2016T1",
                     "isin": "ES0165143019",
                     "nombre": "MUTUAFONDO DINERO, FI Clase D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2014T2",
+                    "isin": "ES0174305005",
+                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -88,15 +88,8 @@
                     "cantidad": 214289.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.36
-                },
-                {
-                    "cantidad": 1499591.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
-                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 1499591.0,
@@ -106,11 +99,11 @@
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 999224.0,
-                    "desde": "2015T4",
-                    "isin": "ES0112744026",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.11
+                    "cantidad": 1499591.0,
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 999224.0,
@@ -122,15 +115,22 @@
                 {
                     "cantidad": 999224.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744034",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
+                    "isin": "ES0112744018",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 999224.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744018",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
+                    "isin": "ES0112744026",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 999224.0,
+                    "desde": "2015T4",
+                    "isin": "ES0112744034",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
                     "porcentaje": 0.11
                 },
                 {
@@ -141,17 +141,17 @@
                     "porcentaje": 0.08
                 },
                 {
-                    "cantidad": 292090.0,
-                    "desde": "2014T1",
-                    "isin": "ES0145822005",
-                    "nombre": "SANTANDER CONFIANZA, FI CLASE A1",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 1017576.0,
                     "desde": "2015T1",
                     "isin": "ES0105931036",
                     "nombre": "SANTANDER RENTA FIJA AHORRO, FI CLASE I",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 292090.0,
+                    "desde": "2014T1",
+                    "isin": "ES0145822005",
+                    "nombre": "SANTANDER CONFIANZA, FI CLASE A1",
                     "porcentaje": 0.08
                 },
                 {
@@ -212,21 +212,21 @@
                     "cantidad": 214436.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.35
-                },
-                {
-                    "cantidad": 1504446.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
-                    "porcentaje": 0.21
                 },
                 {
                     "cantidad": 1504446.0,
                     "desde": "2013T4",
                     "isin": "ES0112793007",
                     "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 1504446.0,
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.21
                 },
                 {
@@ -246,13 +246,6 @@
                 {
                     "cantidad": 1000635.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744026",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 1000635.0,
-                    "desde": "2015T4",
                     "isin": "ES0112744000",
                     "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.11
@@ -260,15 +253,22 @@
                 {
                     "cantidad": 1000635.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744034",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
+                    "isin": "ES0112744018",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 1000635.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744018",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
+                    "isin": "ES0112744026",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 1000635.0,
+                    "desde": "2015T4",
+                    "isin": "ES0112744034",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
                     "porcentaje": 0.11
                 },
                 {
@@ -327,23 +327,23 @@
                 },
                 {
                     "cantidad": 1508780.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
-                    "porcentaje": 0.38
-                },
-                {
-                    "cantidad": 1508780.0,
                     "desde": "2013T4",
                     "isin": "ES0112793007",
                     "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 0.38
                 },
                 {
+                    "cantidad": 1508780.0,
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "porcentaje": 0.38
+                },
+                {
                     "cantidad": 214520.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.34
                 },
                 {
@@ -363,13 +363,6 @@
                 {
                     "cantidad": 1001731.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744026",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 1001731.0,
-                    "desde": "2015T4",
                     "isin": "ES0112744000",
                     "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.11
@@ -377,15 +370,22 @@
                 {
                     "cantidad": 1001731.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744034",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
+                    "isin": "ES0112744018",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 1001731.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744018",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
+                    "isin": "ES0112744026",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 1001731.0,
+                    "desde": "2015T4",
+                    "isin": "ES0112744034",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
                     "porcentaje": 0.11
                 },
                 {
@@ -430,16 +430,16 @@
                 },
                 {
                     "cantidad": 1507830.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "desde": "2013T4",
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 0.64
                 },
                 {
                     "cantidad": 1507830.0,
-                    "desde": "2013T4",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.64
                 },
                 {
@@ -460,15 +460,8 @@
                     "cantidad": 213865.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.35
-                },
-                {
-                    "cantidad": 999273.0,
-                    "desde": "2015T4",
-                    "isin": "ES0112744026",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 999273.0,
@@ -480,15 +473,22 @@
                 {
                     "cantidad": 999273.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744034",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
+                    "isin": "ES0112744018",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
                     "porcentaje": 0.11
                 },
                 {
                     "cantidad": 999273.0,
                     "desde": "2015T4",
-                    "isin": "ES0112744018",
-                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE B",
+                    "isin": "ES0112744026",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 999273.0,
+                    "desde": "2015T4",
+                    "isin": "ES0112744034",
+                    "nombre": "SANTANDER DEUDA CORTO PLAZO, FI CLASE I",
                     "porcentaje": 0.11
                 },
                 {
@@ -507,16 +507,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2014T2",
-                    "isin": "ES0174305005",
-                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
+                    "desde": "2015T1",
+                    "isin": "ES0126535006",
+                    "nombre": "RURAL RENTA FIJA 1, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0126535006",
-                    "nombre": "RURAL RENTA FIJA 1, FI CLASE CARTERA",
+                    "desde": "2014T2",
+                    "isin": "ES0174305005",
+                    "nombre": "RURAL AHORRO PLUS, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -547,16 +547,16 @@
                 },
                 {
                     "cantidad": 1533490.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "desde": "2013T4",
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 1533490.0,
-                    "desde": "2013T4",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.72
                 },
                 {
@@ -577,7 +577,7 @@
                     "cantidad": 216943.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.38
                 },
                 {
@@ -622,16 +622,16 @@
                 },
                 {
                     "cantidad": 1536309.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "desde": "2013T4",
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 0.9
                 },
                 {
                     "cantidad": 1536309.0,
-                    "desde": "2013T4",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
                     "porcentaje": 0.9
                 },
                 {
@@ -645,7 +645,7 @@
                     "cantidad": 216804.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.38
                 },
                 {
@@ -669,16 +669,16 @@
             "fondos": [
                 {
                     "cantidad": 1549815.0,
-                    "desde": "2015T1",
-                    "isin": "ES0112793031",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
+                    "desde": "2013T4",
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 1.56
                 },
                 {
                     "cantidad": 1549815.0,
-                    "desde": "2013T4",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "desde": "2015T1",
+                    "isin": "ES0112793031",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE I PLUS",
                     "porcentaje": 1.56
                 },
                 {
@@ -706,7 +706,7 @@
                     "cantidad": 218181.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.38
                 },
                 {
@@ -753,7 +753,7 @@
                     "cantidad": 216908.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.37
                 },
                 {
@@ -793,7 +793,7 @@
                     "cantidad": 106757.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.18
                 },
                 {
@@ -826,7 +826,7 @@
                     "cantidad": 106337.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.18
                 },
                 {
@@ -852,7 +852,7 @@
                     "cantidad": 105335.0,
                     "desde": "2014T1",
                     "isin": "ES0178172039",
-                    "nombre": "OPENBANK AHORRO, FI",
+                    "nombre": "FONDO AHORRO, FI",
                     "porcentaje": 0.18
                 },
                 {
@@ -879,5 +879,5 @@
         }
     ],
     "isin": "ES0001351354",
-    "nombre": "Junta Castilla y Leon 3,5% 051216"
+    "nombre": "RFIJA|JUNTA DE CASTILL|3.50|2016-12-05"
 }

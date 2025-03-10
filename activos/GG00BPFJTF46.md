@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|CERTIFICADO PERSHING SQUARE
+title: Acciones|PERSHING SQUARE HOLDINGS LTD
 isin: GG00BPFJTF46
 ---

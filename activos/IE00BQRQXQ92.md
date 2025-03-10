@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|TYCO
+title: ACCIONES|TYCO INTERNATIONAL LTD
 isin: IE00BQRQXQ92
 ---

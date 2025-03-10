@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.AKBANK TAS (TRY)
+title: ACCIONES|AKBANK
 isin: TRAAKBNK91N6
 ---

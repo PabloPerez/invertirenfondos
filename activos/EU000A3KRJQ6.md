@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|CEE|3,12|2029-07-04
+title: RFIJA|EUROPEAN UNION|0.00|2029-07-04
 isin: EU000A3KRJQ6
 ---

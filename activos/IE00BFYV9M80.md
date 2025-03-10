@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GUINNESS ASSET
+title: FONDO|GUINNESS PLC SUST EN
 isin: IE00BFYV9M80
 ---

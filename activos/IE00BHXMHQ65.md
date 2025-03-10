@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|UBS Irl ETF plc - S&
+title: PARTICIPACIONES|UBSETF S&P 500 E
 isin: IE00BHXMHQ65
 ---

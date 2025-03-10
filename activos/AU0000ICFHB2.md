@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS ICO 5,50 VTO.11|10|12 (AUD)
+title: OBLIGACION|ICO|5,50|2012-10-11
 isin: AU0000ICFHB2
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares EUR Govt Bon
+title: Participaciones|ISHARES EUR GOVT 3-7Y ACC
 isin: IE00B3VTML14
 ---

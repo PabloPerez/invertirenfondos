@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares Edge MSCI Wo
+title: IIC ETF iShares - MSCI World Minimum Volatility UC
 isin: IE00B8FHGS14
 ---

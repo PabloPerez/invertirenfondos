@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares USD Floating
+title: Participaciones|ISHARES USD FLOATING RATE BOND|
 isin: IE00BDFGJ627
 ---

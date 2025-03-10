@@ -3,6 +3,39 @@
         {
             "fondos": [
                 {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0111166031",
+                    "nombre": "ATL CAPITAL CORTO PLAZO, FI A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0111166049",
+                    "nombre": "ATL CAPITAL CORTO PLAZO, FI L",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2024T2"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 1516233.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "porcentaje": 1.41
+                },
+                {
+                    "cantidad": 1516233.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "porcentaje": 1.41
+                },
+                {
                     "cantidad": 1516233.0,
                     "desde": "2018T3",
                     "isin": "ES0115532030",
@@ -12,8 +45,8 @@
                 {
                     "cantidad": 1516233.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.41
                 },
                 {
@@ -52,13 +85,6 @@
                     "porcentaje": 0.47
                 },
                 {
-                    "cantidad": 3063066.0,
-                    "desde": "2021T4",
-                    "isin": "ES0147102000",
-                    "nombre": "IBERCAJA PLUS, FI CLASE C",
-                    "porcentaje": 0.42
-                },
-                {
                     "cantidad": 2552556.0,
                     "desde": "2021T4",
                     "isin": "ES0146791001",
@@ -75,8 +101,15 @@
                 {
                     "cantidad": 3063066.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102000",
+                    "nombre": "IBERCAJA PLUS, FI CLASE C",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 3063066.0,
+                    "desde": "2021T4",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.42
                 },
                 {
@@ -89,36 +122,29 @@
                 {
                     "cantidad": 3063066.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 26672983.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 26672983.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
-                    "porcentaje": 0.27
-                },
-                {
-                    "cantidad": 26672983.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.27
                 },
                 {
                     "cantidad": 26672983.0,
                     "desde": "2023T2",
                     "isin": "ES0138045002",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 26672983.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 26672983.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.27
                 },
                 {
@@ -131,6 +157,13 @@
                 {
                     "cantidad": 26672983.0,
                     "desde": "2023T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 26672983.0,
+                    "desde": "2023T2",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.27
@@ -138,29 +171,43 @@
                 {
                     "cantidad": 26672983.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.27
                 },
                 {
                     "cantidad": 6539799.0,
                     "desde": "2023T2",
-                    "isin": "ES0174742017",
-                    "nombre": "SANTANDER DEFENSIVO GENERA, FI CLASE A",
+                    "isin": "ES0174742009",
+                    "nombre": "SANTANDER GESTION DINAMICA PRUDENTE, FI CLASE R",
                     "porcentaje": 0.18
                 },
                 {
                     "cantidad": 6539799.0,
                     "desde": "2023T2",
-                    "isin": "ES0174742009",
-                    "nombre": "SANTANDER DEFENSIVO GENERA, FI CLASE R",
+                    "isin": "ES0174742017",
+                    "nombre": "SANTANDER GESTION DINAMICA PRUDENTE, FI CLASE A",
                     "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 2441535.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 2441535.0,
                     "desde": "2023T4",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 2441535.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.13
                 },
                 {
@@ -173,22 +220,8 @@
                 {
                     "cantidad": 2441535.0,
                     "desde": "2023T4",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 2441535.0,
-                    "desde": "2023T4",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
-                    "porcentaje": 0.13
-                },
-                {
-                    "cantidad": 2441535.0,
-                    "desde": "2023T4",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.13
                 }
             ],
@@ -199,8 +232,8 @@
                 {
                     "cantidad": 1492946.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.67
                 },
                 {
@@ -208,6 +241,20 @@
                     "desde": "2018T3",
                     "isin": "ES0115532006",
                     "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 1492946.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 1492946.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.67
                 },
                 {
@@ -248,8 +295,8 @@
                 {
                     "cantidad": 2999862.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.3
                 },
                 {
@@ -262,50 +309,43 @@
                 {
                     "cantidad": 2999862.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.3
                 },
                 {
                     "cantidad": 6520883.0,
                     "desde": "2023T2",
-                    "isin": "ES0174742017",
-                    "nombre": "SANTANDER DEFENSIVO GENERA, FI CLASE A",
+                    "isin": "ES0174742009",
+                    "nombre": "SANTANDER GESTION DINAMICA PRUDENTE, FI CLASE R",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 6520883.0,
                     "desde": "2023T2",
-                    "isin": "ES0174742009",
-                    "nombre": "SANTANDER DEFENSIVO GENERA, FI CLASE R",
+                    "isin": "ES0174742017",
+                    "nombre": "SANTANDER GESTION DINAMICA PRUDENTE, FI CLASE A",
                     "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 6257606.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 6257606.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 6257606.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 6257606.0,
                     "desde": "2023T2",
                     "isin": "ES0138045002",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 6257606.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 6257606.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.09
                 },
                 {
@@ -318,6 +358,13 @@
                 {
                     "cantidad": 6257606.0,
                     "desde": "2023T2",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 6257606.0,
+                    "desde": "2023T2",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.09
@@ -325,8 +372,8 @@
                 {
                     "cantidad": 6257606.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.09
                 }
             ],
@@ -337,8 +384,8 @@
                 {
                     "cantidad": 1483434.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.57
                 },
                 {
@@ -346,6 +393,20 @@
                     "desde": "2018T3",
                     "isin": "ES0115532006",
                     "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 1483434.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 1483434.0,
+                    "desde": "2018T3",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.57
                 },
                 {
@@ -386,8 +447,8 @@
                 {
                     "cantidad": 2965720.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.25
                 },
                 {
@@ -400,15 +461,15 @@
                 {
                     "cantidad": 2965720.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.25
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2022T2",
                     "isin": "ES0174013005",
-                    "nombre": "CREAND INSTITUCIONAL, FI CLASE A",
+                    "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE I",
                     "porcentaje": 0.0
                 }
             ],
@@ -419,15 +480,15 @@
                 {
                     "cantidad": 1469541.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.46
                 },
                 {
                     "cantidad": 1469541.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.46
                 },
                 {
@@ -448,7 +509,7 @@
                     "cantidad": 96586.0,
                     "desde": "2022T2",
                     "isin": "ES0174013005",
-                    "nombre": "CREAND INSTITUCIONAL, FI CLASE A",
+                    "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE I",
                     "porcentaje": 0.35
                 },
                 {
@@ -475,8 +536,8 @@
                 {
                     "cantidad": 2929062.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.23
                 },
                 {
@@ -489,8 +550,8 @@
                 {
                     "cantidad": 2929062.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.23
                 }
             ],
@@ -501,15 +562,15 @@
                 {
                     "cantidad": 1486440.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.38
                 },
                 {
                     "cantidad": 1486440.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.38
                 },
                 {
@@ -523,21 +584,21 @@
                     "cantidad": 6852318.0,
                     "desde": "2022T2",
                     "isin": "ES0147045001",
-                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2024, FI CLASE A",
+                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2026, FI CLASE A",
                     "porcentaje": 0.73
                 },
                 {
                     "cantidad": 6852318.0,
                     "desde": "2022T2",
                     "isin": "ES0147045027",
-                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2024, FI CLASE B",
+                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2026, FI CLASE B",
                     "porcentaje": 0.73
                 },
                 {
                     "cantidad": 6852318.0,
                     "desde": "2022T2",
                     "isin": "ES0147045035",
-                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2024, FI CLASE C",
+                    "nombre": "IBERCAJA DEUDA CORPORATIVA 2026, FI CLASE C",
                     "porcentaje": 0.73
                 },
                 {
@@ -551,7 +612,7 @@
                     "cantidad": 97840.0,
                     "desde": "2022T2",
                     "isin": "ES0174013005",
-                    "nombre": "CREAND INSTITUCIONAL, FI CLASE A",
+                    "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE I",
                     "porcentaje": 0.35
                 },
                 {
@@ -578,8 +639,8 @@
                 {
                     "cantidad": 2956674.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.23
                 },
                 {
@@ -592,8 +653,8 @@
                 {
                     "cantidad": 2956674.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.23
                 }
             ],
@@ -604,15 +665,15 @@
                 {
                     "cantidad": 1538870.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.29
                 },
                 {
                     "cantidad": 1538870.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.29
                 },
                 {
@@ -639,8 +700,8 @@
                 {
                     "cantidad": 3053221.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.24
                 },
                 {
@@ -653,8 +714,8 @@
                 {
                     "cantidad": 3053221.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.24
                 },
                 {
@@ -679,15 +740,15 @@
                 {
                     "cantidad": 1560715.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.2
                 },
                 {
                     "cantidad": 1560715.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.2
                 },
                 {
@@ -696,13 +757,6 @@
                     "isin": "ES0114618038",
                     "nombre": "BESTINVER PATRIMONIO, FI",
                     "porcentaje": 0.41
-                },
-                {
-                    "cantidad": 3088932.0,
-                    "desde": "2021T4",
-                    "isin": "ES0147102000",
-                    "nombre": "IBERCAJA PLUS, FI CLASE C",
-                    "porcentaje": 0.23
                 },
                 {
                     "cantidad": 2574110.0,
@@ -721,8 +775,15 @@
                 {
                     "cantidad": 3088932.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102000",
+                    "nombre": "IBERCAJA PLUS, FI CLASE C",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 3088932.0,
+                    "desde": "2021T4",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.23
                 },
                 {
@@ -735,8 +796,8 @@
                 {
                     "cantidad": 3088932.0,
                     "desde": "2021T4",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.23
                 }
             ],
@@ -747,15 +808,15 @@
                 {
                     "cantidad": 1570577.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.2
                 },
                 {
                     "cantidad": 1570577.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.2
                 },
                 {
@@ -773,15 +834,15 @@
                 {
                     "cantidad": 1573078.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.22
                 },
                 {
                     "cantidad": 1573078.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.22
                 },
                 {
@@ -799,15 +860,15 @@
                 {
                     "cantidad": 1572753.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.24
                 },
                 {
                     "cantidad": 1572753.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.24
                 },
                 {
@@ -825,15 +886,15 @@
                 {
                     "cantidad": 1584412.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.31
                 },
                 {
                     "cantidad": 1584412.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.31
                 }
             ],
@@ -844,15 +905,15 @@
                 {
                     "cantidad": 1578771.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.27
                 },
                 {
                     "cantidad": 1578771.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.27
                 }
             ],
@@ -863,15 +924,15 @@
                 {
                     "cantidad": 1550197.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.53
                 },
                 {
                     "cantidad": 1550197.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.53
                 }
             ],
@@ -882,15 +943,15 @@
                 {
                     "cantidad": 1501395.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.56
                 },
                 {
                     "cantidad": 1501395.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.56
                 }
             ],
@@ -901,15 +962,15 @@
                 {
                     "cantidad": 1573245.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.59
                 },
                 {
                     "cantidad": 1573245.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.59
                 }
             ],
@@ -920,15 +981,15 @@
                 {
                     "cantidad": 1586908.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.62
                 },
                 {
                     "cantidad": 1586908.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.62
                 }
             ],
@@ -939,15 +1000,15 @@
                 {
                     "cantidad": 1586740.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.85
                 },
                 {
                     "cantidad": 1586740.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.85
                 }
             ],
@@ -958,15 +1019,15 @@
                 {
                     "cantidad": 1556855.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 2.05
                 },
                 {
                     "cantidad": 1556855.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 2.05
                 }
             ],
@@ -977,15 +1038,15 @@
                 {
                     "cantidad": 1500997.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 2.06
                 },
                 {
                     "cantidad": 1500997.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 2.06
                 }
             ],
@@ -996,15 +1057,15 @@
                 {
                     "cantidad": 1532324.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 1.97
                 },
                 {
                     "cantidad": 1532324.0,
                     "desde": "2018T3",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 1.97
                 }
             ],
@@ -1084,5 +1145,5 @@
         }
     ],
     "isin": "XS1395010397",
-    "nombre": "RENTA FIJA|MONDI PLC|1,50|2024-04-15"
+    "nombre": "Bonos|MONDI FINANCE PLC|1,500|2024-04-15"
 }

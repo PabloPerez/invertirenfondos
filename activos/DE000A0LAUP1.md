@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Cropenergies AG
+title: ACCIONES|CORPENERGIES
 isin: DE000A0LAUP1
 ---

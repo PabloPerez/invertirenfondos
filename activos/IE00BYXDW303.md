@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BLACKSTONE DIVERSIFIED MS-A
+title: OTRAS|BLACKSTONE DIVERSIFI
 isin: IE00BYXDW303
 ---

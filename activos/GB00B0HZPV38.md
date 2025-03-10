@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|KAZAKHMYS PLC
+title: Acciones|KAZ MINERALS PLC
 isin: GB00B0HZPV38
 ---

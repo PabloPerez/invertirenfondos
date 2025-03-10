@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BLACKROCK ASSET MANAGEMENT
+title: PARTICIPACIONES|ISHARES SUSTAINABLE EURO
 isin: IE00BYZTVT56
 ---

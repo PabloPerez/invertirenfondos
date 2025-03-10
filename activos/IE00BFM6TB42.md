@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares Global Corp
+title: ETN|ISHARES GLOBAL CORP
 isin: IE00BFM6TB42
 ---

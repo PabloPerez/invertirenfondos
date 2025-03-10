@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Schroders PLC
+title: ACCIONES|SCHRODERS PLC
 isin: GB00BP9LHF23
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|OBLIGA.|NRW.BANK|0,911|2031-07-28
+title: RFIJA|NRW BANK|0.00|2031-07-28
 isin: DE000NWB0AN7
 ---

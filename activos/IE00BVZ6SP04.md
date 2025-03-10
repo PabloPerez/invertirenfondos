@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETN|PIMCO FIXED INC
+title: PARTICIPACIONES|Pimco Euro S|M
 isin: IE00BVZ6SP04
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF DB X-Trackers
+title: ETF|XTRACKERS RUSSELL 20
 isin: IE00BJZ2DD79
 ---

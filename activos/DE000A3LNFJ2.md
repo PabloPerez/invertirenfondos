@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO.TRATON FINANCE LUX %VAR VT.18|09|25
+title: RFIJA|TRATON FINANCE L|3.81|2025-09-18
 isin: DE000A3LNFJ2
 ---

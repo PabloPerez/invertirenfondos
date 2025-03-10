@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|hGears AG
+title: Acciones|HGEARS AG
 isin: DE000A3CMGN3
 ---

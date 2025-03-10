@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|VIH1 GR
+title: ACCIONES|VIB VERMOEGEN A
 isin: DE000A2YPDD0
 ---

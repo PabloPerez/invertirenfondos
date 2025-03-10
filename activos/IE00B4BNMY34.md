@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Accenture Ltd A
+title: ACCIONES|ACCENTURE PLC
 isin: IE00B4BNMY34
 ---

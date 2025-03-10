@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Aksa Akrilik Kimya S
+title: AC.AKSA AKRILIK KIMYA SANAYII (TRY)
 isin: TRAAKSAW91E1
 ---

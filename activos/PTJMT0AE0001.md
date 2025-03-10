@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|JERONIMO M
+title: ACCIONES|JERONIMO MARTINS
 isin: PTJMT0AE0001
 ---

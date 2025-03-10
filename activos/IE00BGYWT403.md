@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Vang USDCPBD Eur
+title: PARTICIPACIONES|VANGEURCORPB
 isin: IE00BGYWT403
 ---

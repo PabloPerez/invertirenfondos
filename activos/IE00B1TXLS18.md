@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES UK PROPERTY
+title: PARTICIPACIONES|ETF Ishares UK Porpe
 isin: IE00B1TXLS18
 ---

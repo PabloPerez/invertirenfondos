@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Sturza Funds PLC
+title: FONDO|EI STURDZA
 isin: IE00B7TRTL43
 ---

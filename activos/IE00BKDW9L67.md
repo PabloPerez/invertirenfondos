@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|PRINCIPAL FCIAL GLOBAL
+title: PARTICIPACIONES|PRINCIPAL
 isin: IE00BKDW9L67
 ---

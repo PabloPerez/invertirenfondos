@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|THE JUPITER GLOBAL FUND
+title: PARTICIPACIONES|MERIAN GLOBAL INVESTORS UK LTD
 isin: IE00BYVJRD56
 ---

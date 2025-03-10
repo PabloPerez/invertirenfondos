@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BLACKROCK IRELAN
+title: ETF|ISHARES MSCI WORLD E
 isin: IE00BFNM3J75
 ---

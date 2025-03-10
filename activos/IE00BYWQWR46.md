@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF VanEck Vectors M
+title: PARTICIPACIONES|VANEK VEKTORS
 isin: IE00BYWQWR46
 ---

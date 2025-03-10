@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES CORE EUR0 GOVT B
+title: ETN|ISHARES CORE EUR GOV
 isin: IE00B4WXJJ64
 ---

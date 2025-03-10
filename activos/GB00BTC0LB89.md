@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|DFS FURNITURE PLC (GBP)
+title: Acciones|DFS FURNITURE PLC
 isin: GB00BTC0LB89
 ---

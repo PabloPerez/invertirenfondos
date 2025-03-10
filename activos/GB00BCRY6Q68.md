@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Derechos|BARCLAYS BANK
+title: DERECHOS|BARCLAYS
 isin: GB00BCRY6Q68
 ---

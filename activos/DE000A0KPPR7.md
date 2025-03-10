@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|NABALTEC AG (NTG GY)
+title: ACCIONES|Nabalte
 isin: DE000A0KPPR7
 ---

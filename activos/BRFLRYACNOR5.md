@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.FLEURY SA (BRL)
+title: ACCIONES|FLEURY SA
 isin: BRFLRYACNOR5
 ---

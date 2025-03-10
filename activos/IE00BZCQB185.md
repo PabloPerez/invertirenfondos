@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares MSCI India U
+title: Participaciones|ISHARES
 isin: IE00BZCQB185
 ---

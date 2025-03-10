@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|INVESCO MANAGEMENT
+title: ETN|INVESCO EMEA IR
 isin: IE00BFZPF322
 ---

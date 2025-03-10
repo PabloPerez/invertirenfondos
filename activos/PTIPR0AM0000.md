@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Impresa SGPS SA
+title: Acciones|IMPRESA
 isin: PTIPR0AM0000
 ---

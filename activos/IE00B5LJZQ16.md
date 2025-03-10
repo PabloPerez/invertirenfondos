@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|HSBC MSCI RUSSIA
+title: Participaciones|HSBC HOLDINGS PLC
 isin: IE00B5LJZQ16
 ---

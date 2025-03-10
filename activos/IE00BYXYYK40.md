@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares JPM USD
+title: ETF|ISHARES J.P. MORGAN
 isin: IE00BYXYYK40
 ---

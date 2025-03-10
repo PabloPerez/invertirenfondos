@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|FUNDROCK MANAGEMENT CO SA
+title: PARTICIPACIONES|VERITAS FUNDS
 isin: IE00BGV1VQ60
 ---

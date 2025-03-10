@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares S&P Fina
+title: Acciones|ISHARES
 isin: IE00B4JNQZ49
 ---

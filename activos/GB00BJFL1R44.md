@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROLLS-ROYCE HOLD
+title: ACCIONES|ROLLS - ROYCE PLC
 isin: GB00BJFL1R44
 ---

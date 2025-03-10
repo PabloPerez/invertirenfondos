@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.TURKIYE IS BANKASI (TRY)
+title: ACCIONES|TURKIYE IS
 isin: TRAISCTR91N2
 ---

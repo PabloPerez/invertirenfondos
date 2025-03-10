@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Wellington Emerging
+title: PARTICIPACIONES|WELLINGTON EM DEVE
 isin: IE00BY7RRW28
 ---

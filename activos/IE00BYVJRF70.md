@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Merian Global Investors Series
+title: PARTICIPACIONES|JUPITER ASSET MANAGE
 isin: IE00BYVJRF70
 ---

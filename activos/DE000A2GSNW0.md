@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: KFW 0,375% 230425
+title: EMISIONES|KREDITANSTALT FUER W|0,375|2025-04-23
 isin: DE000A2GSNW0
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos!OB.DO TES M.PRAZO(PORTUGAL) 14!5,450!2013
+title: BONOS|PORTUGAL|5.45|2013-09-23
 isin: PTOTEGOE0009
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|LM GLOBAL FUNDS
+title: PARTICIPACIONES|LM GLOBAL FUNDS
 isin: IE00BZ1CSN85
 ---

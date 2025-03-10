@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|ESTADO NEW ZEALAND|3,000|2021-05-15
+title: DEUDA|NEW ZEALAND|6,000|2021-05-15
 isin: NZGOVD0521C2
 ---

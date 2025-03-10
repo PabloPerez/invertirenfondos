@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNY Mellon Global Funds PLC-Bn
+title: Participaciones|MELLON GLOBAL FUNDS
 isin: IE00BK0VJT49
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.TAM SA (BRL)
+title: TAM SA-PREF-BRL-
 isin: BRTAMMACNPR2
 ---

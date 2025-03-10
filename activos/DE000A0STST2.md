@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: TOM TAILOR  HOLDING AG
+title: ACCIONES|TOM TAILOR HOLDING AG
 isin: DE000A0STST2
 ---

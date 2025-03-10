@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares USD Treasury
+title: PARTICIPACIONES| ETF ISHARES USD TRE
 isin: IE00BFXYHY63
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Legg Mason Global Funds PLC -
+title: PARTICIPACIONES|Lm-Cap
 isin: IE00BD2MLH84
 ---

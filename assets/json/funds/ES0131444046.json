@@ -4,6 +4,100 @@
     "historico_periodos": [
         {
             "gastos": 0.53,
+            "indice_rotacion": 0.1,
+            "liquidez": -2.43,
+            "participes": 32,
+            "patrimonio": 434535,
+            "periodo": "2024T4",
+            "posiciones": [
+                {
+                    "cantidad": 116037.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000122E5",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|DEUDA ESTADO ESPAÑOL|4,65|2025-07-01",
+                    "porcentaje": 26.7
+                },
+                {
+                    "cantidad": 110760.0,
+                    "desde": "2024T4",
+                    "isin": "ES0L02502075",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO INVERSIS, S.A.|2,75|2025-01-02",
+                    "porcentaje": 25.49
+                },
+                {
+                    "cantidad": 110299.0,
+                    "desde": "2023T4",
+                    "isin": "IT0005557084",
+                    "moneda": "euro",
+                    "nombre": "BONO|BUONI POLIENNALI DEL|3,60|2025-09-29",
+                    "porcentaje": 25.38
+                },
+                {
+                    "cantidad": 105104.0,
+                    "desde": "2023T4",
+                    "isin": "FR0014007TY9",
+                    "moneda": "euro",
+                    "nombre": "BONO|FRANCE (GOVT OF)|3,51|2025-02-25",
+                    "porcentaje": 24.19
+                }
+            ],
+            "rentabilidad": 0.25
+        },
+        {
+            "gastos": 0.51,
+            "indice_rotacion": 0.05,
+            "liquidez": 1.11,
+            "participes": 36,
+            "patrimonio": 494696,
+            "periodo": "2024T2",
+            "posiciones": [
+                {
+                    "cantidad": 114133.0,
+                    "desde": "2023T4",
+                    "isin": "ES00000122E5",
+                    "moneda": "euro",
+                    "nombre": "RENTA FIJA|DEUDA ESTADO ESPAÑOL|4,65|2025-07-01",
+                    "porcentaje": 23.07
+                },
+                {
+                    "cantidad": 109877.0,
+                    "desde": "2023T4",
+                    "isin": "DE000BU22023",
+                    "moneda": "euro",
+                    "nombre": "BONO|BUNDESSCHATZANWEISUN|3,10|2025-09-18",
+                    "porcentaje": 22.21
+                },
+                {
+                    "cantidad": 109758.0,
+                    "desde": "2023T4",
+                    "isin": "IT0005557084",
+                    "moneda": "euro",
+                    "nombre": "BONO|BUONI POLIENNALI DEL|3,60|2025-09-29",
+                    "porcentaje": 22.19
+                },
+                {
+                    "cantidad": 105000.0,
+                    "desde": "2023T4",
+                    "isin": "FR0014007TY9",
+                    "moneda": "euro",
+                    "nombre": "BONO|FRANCE (GOVT OF)|3,51|2025-02-25",
+                    "porcentaje": 21.23
+                },
+                {
+                    "cantidad": 40300.0,
+                    "desde": "2024T2",
+                    "isin": "ES0L02506068",
+                    "moneda": "euro",
+                    "nombre": "REPO|BANCO INVERSIS, S.A.|3,50|2024-07-01",
+                    "porcentaje": 8.15
+                }
+            ],
+            "rentabilidad": 0.21
+        },
+        {
+            "gastos": 0.53,
             "indice_rotacion": 0.48,
             "liquidez": 1.09,
             "participes": 38,

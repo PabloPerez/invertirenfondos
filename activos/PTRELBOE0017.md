@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|REDES ENERGETICAS NACIONAIS|4,125|
+title: RFIJA|REN   REDES ENER|4.12|2018-01-31
 isin: PTRELBOE0017
 ---

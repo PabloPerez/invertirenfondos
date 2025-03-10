@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF GCVE IM Equity
+title: PARTICIPACIONES|SPDR TR GL CONVERTIBLE B
 isin: IE00BDT6FP91
 ---

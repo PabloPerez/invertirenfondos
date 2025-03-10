@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DERECHOS|Greenvolt-Energias R
+title: Derechos|COFINA
 isin: PTGNV0AMS000
 ---

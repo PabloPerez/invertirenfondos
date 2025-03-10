@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR S&P US Energy S
+title: Acciones|SPDR
 isin: IE00BWBXM492
 ---

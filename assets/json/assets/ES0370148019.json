@@ -36,13 +36,6 @@
                     "porcentaje": 1.82
                 },
                 {
-                    "cantidad": 3705936.0,
-                    "desde": "2017T3",
-                    "isin": "ES0138591039",
-                    "nombre": "KUTXABANK RENTA FIJA CORTO, FI",
-                    "porcentaje": 1.24
-                },
-                {
                     "cantidad": 15882583.0,
                     "desde": "2017T3",
                     "isin": "ES0125627002",
@@ -50,17 +43,24 @@
                     "porcentaje": 1.24
                 },
                 {
-                    "cantidad": 4339956.0,
-                    "desde": "2017T4",
-                    "isin": "ES0114276035",
-                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
-                    "porcentaje": 0.38
+                    "cantidad": 3705936.0,
+                    "desde": "2017T3",
+                    "isin": "ES0138591039",
+                    "nombre": "KUTXABANK RENTA FIJA CORTO, FI",
+                    "porcentaje": 1.24
                 },
                 {
                     "cantidad": 4339956.0,
                     "desde": "2017T3",
                     "isin": "ES0114276001",
                     "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 4339956.0,
+                    "desde": "2017T4",
+                    "isin": "ES0114276035",
+                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
                     "porcentaje": 0.38
                 },
                 {
@@ -112,16 +112,16 @@
                 },
                 {
                     "cantidad": 4338570.0,
-                    "desde": "2017T4",
-                    "isin": "ES0114276035",
-                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
+                    "desde": "2017T3",
+                    "isin": "ES0114276001",
+                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
                     "porcentaje": 0.37
                 },
                 {
                     "cantidad": 4338570.0,
-                    "desde": "2017T3",
-                    "isin": "ES0114276001",
-                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
+                    "desde": "2017T4",
+                    "isin": "ES0114276035",
+                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
                     "porcentaje": 0.37
                 },
                 {
@@ -166,16 +166,16 @@
                 },
                 {
                     "cantidad": 4340488.0,
-                    "desde": "2017T4",
-                    "isin": "ES0114276035",
-                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
+                    "desde": "2017T3",
+                    "isin": "ES0114276001",
+                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
                     "porcentaje": 0.36
                 },
                 {
                     "cantidad": 4340488.0,
-                    "desde": "2017T3",
-                    "isin": "ES0114276001",
-                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
+                    "desde": "2017T4",
+                    "isin": "ES0114276035",
+                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
                     "porcentaje": 0.36
                 },
                 {
@@ -220,16 +220,16 @@
                 },
                 {
                     "cantidad": 4340707.0,
-                    "desde": "2017T4",
-                    "isin": "ES0114276035",
-                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
+                    "desde": "2017T3",
+                    "isin": "ES0114276001",
+                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
                     "porcentaje": 0.36
                 },
                 {
                     "cantidad": 4340707.0,
-                    "desde": "2017T3",
-                    "isin": "ES0114276001",
-                    "nombre": "KUTXABANK BONO, FI CLASE CARTERA",
+                    "desde": "2017T4",
+                    "isin": "ES0114276035",
+                    "nombre": "KUTXABANK BONO, FI CLASE ESTANDAR",
                     "porcentaje": 0.36
                 },
                 {
@@ -652,15 +652,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0114547039",
-                    "nombre": "TREA CAJAMAR PATRIMONIO FI",
+                    "isin": "ES0109226037",
+                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0109226037",
-                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
+                    "isin": "ES0114547039",
+                    "nombre": "TREA CAJAMAR PATRIMONIO FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -748,15 +748,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0114547039",
-                    "nombre": "TREA CAJAMAR PATRIMONIO FI",
+                    "isin": "ES0109226037",
+                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
-                    "isin": "ES0109226037",
-                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
+                    "isin": "ES0114547039",
+                    "nombre": "TREA CAJAMAR PATRIMONIO FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -844,29 +844,22 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2013T3",
+                    "isin": "ES0131367007",
+                    "nombre": "MUTUAFONDO MIXTO FLEXIBLE, FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2013T3",
                     "isin": "ES0165237001",
                     "nombre": "MUTUAFONDO, FI CLASE D",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2013T4",
-                    "isin": "ES0182631004",
-                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2013T3",
-                    "isin": "ES0131367007",
-                    "nombre": "MUTUAFONDO MIXTO FLEXIBLE, FI",
+                    "isin": "ES0165237035",
+                    "nombre": "MUTUAFONDO, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
@@ -878,9 +871,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2013T3",
-                    "isin": "ES0165237035",
-                    "nombre": "MUTUAFONDO, FI CLASE A",
+                    "desde": "2011T1",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2013T4",
+                    "isin": "ES0182631004",
+                    "nombre": "POLAR RENTA FIJA,FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -931,17 +931,17 @@
                     "porcentaje": 1.54
                 },
                 {
-                    "cantidad": 2691118.0,
-                    "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "cantidad": 1352098.0,
+                    "desde": "2014T1",
+                    "isin": "ES0124143001",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
                     "porcentaje": 1.37
                 },
                 {
                     "cantidad": 1352098.0,
                     "desde": "2014T1",
-                    "isin": "ES0124143001",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE A",
+                    "isin": "ES0124143019",
+                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
                     "porcentaje": 1.37
                 },
                 {
@@ -952,10 +952,10 @@
                     "porcentaje": 1.37
                 },
                 {
-                    "cantidad": 1352098.0,
-                    "desde": "2014T1",
-                    "isin": "ES0124143019",
-                    "nombre": "MUTUAFONDO BONOS FINANCIEROS, FI CLASE D",
+                    "cantidad": 2691118.0,
+                    "desde": "2011T1",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 1.37
                 },
                 {
@@ -1050,15 +1050,15 @@
                 {
                     "cantidad": 2578207.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 1.54
                 },
                 {
                     "cantidad": 2578207.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 1.54
                 },
                 {
@@ -1195,15 +1195,15 @@
                 {
                     "cantidad": 1636445.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 1.09
                 },
                 {
                     "cantidad": 1636445.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 1.09
                 },
                 {
@@ -1298,15 +1298,15 @@
                 {
                     "cantidad": 1583048.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.99
                 },
                 {
                     "cantidad": 1583048.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.99
                 },
                 {
@@ -1366,29 +1366,29 @@
                 {
                     "cantidad": 692088.0,
                     "desde": "2013T1",
-                    "isin": "ES0170138038",
-                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
-                    "porcentaje": 1.01
-                },
-                {
-                    "cantidad": 692088.0,
-                    "desde": "2013T1",
                     "isin": "ES0170138004",
                     "nombre": "SANTALUCIA RENTA FIJA, FI CLASE A",
                     "porcentaje": 1.01
                 },
                 {
-                    "cantidad": 1598448.0,
-                    "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
-                    "porcentaje": 0.97
+                    "cantidad": 692088.0,
+                    "desde": "2013T1",
+                    "isin": "ES0170138038",
+                    "nombre": "SANTALUCIA RENTA FIJA, FI CLASE B",
+                    "porcentaje": 1.01
                 },
                 {
                     "cantidad": 1598448.0,
                     "desde": "2011T1",
                     "isin": "ES0165240005",
                     "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 1598448.0,
+                    "desde": "2011T1",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.97
                 }
             ],
@@ -1399,15 +1399,15 @@
                 {
                     "cantidad": 1492999.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.87
                 },
                 {
                     "cantidad": 1492999.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.87
                 }
             ],
@@ -1418,15 +1418,15 @@
                 {
                     "cantidad": 1296371.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.79
                 },
                 {
                     "cantidad": 1296371.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.79
                 }
             ],
@@ -1437,15 +1437,15 @@
                 {
                     "cantidad": 1309617.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.83
                 },
                 {
                     "cantidad": 1309617.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.83
                 }
             ],
@@ -1456,15 +1456,15 @@
                 {
                     "cantidad": 1406091.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.86
                 },
                 {
                     "cantidad": 1406091.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.86
                 }
             ],
@@ -1475,15 +1475,15 @@
                 {
                     "cantidad": 1330084.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 1.02
                 },
                 {
                     "cantidad": 1330084.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 1.02
                 }
             ],
@@ -1494,15 +1494,15 @@
                 {
                     "cantidad": 1380693.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.89
                 },
                 {
                     "cantidad": 1380693.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.89
                 }
             ],
@@ -1513,15 +1513,15 @@
                 {
                     "cantidad": 1397373.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.9
                 },
                 {
                     "cantidad": 1397373.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.9
                 }
             ],
@@ -1532,15 +1532,15 @@
                 {
                     "cantidad": 1422242.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240039",
-                    "nombre": "MUTUAFONDO LP, FI CLASE A",
+                    "isin": "ES0165240005",
+                    "nombre": "MUTUAFONDO LP, FI CLASE D",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 1422242.0,
                     "desde": "2011T1",
-                    "isin": "ES0165240005",
-                    "nombre": "MUTUAFONDO LP, FI CLASE D",
+                    "isin": "ES0165240039",
+                    "nombre": "MUTUAFONDO LP, FI CLASE A",
                     "porcentaje": 0.82
                 }
             ],
@@ -1548,5 +1548,5 @@
         }
     ],
     "isin": "ES0370148019",
-    "nombre": "Bonos|CEDULA CAJAS|4,750|2018-12-04"
+    "nombre": "TITULIZACION|AYT CC. V|04.75|2018-12-04"
 }

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROLLS-ROYCE HOD
+title: Acciones|ROLLS ROYCE
 isin: GB00BYSVPQ32
 ---

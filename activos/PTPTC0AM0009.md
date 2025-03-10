@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|PORTUGAL TELECO
+title: ACCIONES|PORTUGALTELECOM
 isin: PTPTC0AM0009
 ---

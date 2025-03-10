@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNY US Muni Infra D
+title: PARTICIPACIONES|MELLON GLOBAL MG
 isin: IE00BDCJZ442
 ---

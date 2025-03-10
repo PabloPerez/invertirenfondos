@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.TALKTALK TELECOM GROUP (GBP)
+title: ACCIONES|TALKTALK TELECOM
 isin: GB00B4YCDF59
 ---

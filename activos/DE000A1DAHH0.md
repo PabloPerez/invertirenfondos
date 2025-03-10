@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BRENNTAG SE
+title: Acciones|BAYER
 isin: DE000A1DAHH0
 ---

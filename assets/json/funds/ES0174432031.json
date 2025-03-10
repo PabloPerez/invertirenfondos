@@ -1,7 +1,781 @@
 {
-    "auditora": "KPMG",
+    "auditora": "ERNST & YOUNG, S.L.",
     "fecha_registro": "05/02/2021",
     "historico_periodos": [
+        {
+            "gastos": 0.32,
+            "indice_rotacion": 0.0,
+            "liquidez": 1.38,
+            "participes": 5,
+            "patrimonio": 145709,
+            "periodo": "2024T4",
+            "posiciones": [
+                {
+                    "cantidad": 3365965.0,
+                    "desde": "2022T1",
+                    "isin": "LU1434528672",
+                    "moneda": "euro",
+                    "nombre": "Candriam Sustainable Equity World ICEUR",
+                    "porcentaje": 3.98
+                },
+                {
+                    "cantidad": 3360933.0,
+                    "desde": "2021T1",
+                    "isin": "LU0248041781",
+                    "moneda": "euro",
+                    "nombre": "JPM AMERICA EQUITY \"I\" (USD)",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 3353932.0,
+                    "desde": "2022T3",
+                    "isin": "LU0512952267",
+                    "moneda": "euro",
+                    "nombre": "JPM Global Research Enhanced Index Eq C",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 3353580.0,
+                    "desde": "2021T1",
+                    "isin": "LU0226954369",
+                    "moneda": "euro",
+                    "nombre": "Robeco Usd Premium Equities I USD",
+                    "porcentaje": 3.97
+                },
+                {
+                    "cantidad": 3282901.0,
+                    "desde": "2021T1",
+                    "isin": "LU0717821077",
+                    "moneda": "euro",
+                    "nombre": "ROBECO GLOBAL CONSUME \"I\" (EUR)",
+                    "porcentaje": 3.88
+                },
+                {
+                    "cantidad": 3270825.0,
+                    "desde": "2021T4",
+                    "isin": "IE0031575503",
+                    "moneda": "euro",
+                    "nombre": "Brandes US Value Fund I Eur",
+                    "porcentaje": 3.87
+                },
+                {
+                    "cantidad": 3267149.0,
+                    "desde": "2022T1",
+                    "isin": "LU1883855675",
+                    "moneda": "euro",
+                    "nombre": "Amundi Pioneer US Equity Growth I2USDC",
+                    "porcentaje": 3.86
+                },
+                {
+                    "cantidad": 3235059.0,
+                    "desde": "2021T1",
+                    "isin": "LU0278092605",
+                    "moneda": "euro",
+                    "nombre": "Vontobel Fund Us Equity I",
+                    "porcentaje": 3.83
+                },
+                {
+                    "cantidad": 2983673.0,
+                    "desde": "2022T2",
+                    "isin": "AT0000A23A38",
+                    "moneda": "euro",
+                    "nombre": "Erste Responsible Stock Global EI01VTA",
+                    "porcentaje": 3.53
+                },
+                {
+                    "cantidad": 2956285.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B5ST2S55",
+                    "moneda": "euro",
+                    "nombre": "Seilern Stryx World Growth IN USD",
+                    "porcentaje": 3.5
+                },
+                {
+                    "cantidad": 2895272.0,
+                    "desde": "2021T1",
+                    "isin": "LU0360482987",
+                    "moneda": "euro",
+                    "nombre": "GLOBAL BRANDS \"Z\" ACC",
+                    "porcentaje": 3.42
+                },
+                {
+                    "cantidad": 2757982.0,
+                    "desde": "2021T4",
+                    "isin": "LU0191250769",
+                    "moneda": "euro",
+                    "nombre": "Goldman Sachs Global Sustainable ICEE",
+                    "porcentaje": 3.26
+                },
+                {
+                    "cantidad": 2490836.0,
+                    "desde": "2021T1",
+                    "isin": "LU0891843558",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro High Yield V",
+                    "porcentaje": 2.95
+                },
+                {
+                    "cantidad": 2367362.0,
+                    "desde": "2023T2",
+                    "isin": "IE00B96G6Y08",
+                    "moneda": "euro",
+                    "nombre": "MUZINICH EUROPEYIELD \"H\" (EURHDG) ACC",
+                    "porcentaje": 2.8
+                },
+                {
+                    "cantidad": 2241465.0,
+                    "desde": "2024T4",
+                    "isin": "LU0674140123",
+                    "moneda": "euro",
+                    "nombre": "Robeco BP US Select Opportunities EQIUSD",
+                    "porcentaje": 2.65
+                },
+                {
+                    "cantidad": 2099898.0,
+                    "desde": "2021T1",
+                    "isin": "LU0156671504",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro Shrot Term I C",
+                    "porcentaje": 2.48
+                },
+                {
+                    "cantidad": 2078184.0,
+                    "desde": "2021T1",
+                    "isin": "LU1819949246",
+                    "moneda": "euro",
+                    "nombre": "BNP Paribas Sustainable ENHAN BOND 12M",
+                    "porcentaje": 2.46
+                },
+                {
+                    "cantidad": 2058758.0,
+                    "desde": "2021T1",
+                    "isin": "LU0658025209",
+                    "moneda": "euro",
+                    "nombre": "Axa Im FIIS Eur Sh Duration HY A EUR",
+                    "porcentaje": 2.43
+                },
+                {
+                    "cantidad": 2042600.0,
+                    "desde": "2021T2",
+                    "isin": "LU0325598752",
+                    "moneda": "euro",
+                    "nombre": "BNP Paribas Enhanced Bond 6M",
+                    "porcentaje": 2.42
+                },
+                {
+                    "cantidad": 1953986.0,
+                    "desde": "2022T4",
+                    "isin": "DE000A3MP7J5",
+                    "moneda": "euro",
+                    "nombre": "KFW 0,125% 300625",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 1891920.0,
+                    "desde": "2022T4",
+                    "isin": "FR0014007TY9",
+                    "moneda": "euro",
+                    "nombre": "France Govt of 0% 250225",
+                    "porcentaje": 2.24
+                },
+                {
+                    "cantidad": 1884461.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012K38",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado 0,00% 310525",
+                    "porcentaje": 2.23
+                },
+                {
+                    "cantidad": 1878686.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001102390",
+                    "moneda": "euro",
+                    "nombre": "Bundesrepublik Deutschland 0,5% 150226",
+                    "porcentaje": 2.22
+                },
+                {
+                    "cantidad": 1714068.0,
+                    "desde": "2021T2",
+                    "isin": "FI0008812011",
+                    "moneda": "euro",
+                    "nombre": "EVLI NORDIC CORPORATE \"IB\" (EURHDG)",
+                    "porcentaje": 2.03
+                },
+                {
+                    "cantidad": 1700040.0,
+                    "desde": "2021T1",
+                    "isin": "LU0866838575",
+                    "moneda": "euro",
+                    "nombre": "Alken European Opportunities EU1 EUR",
+                    "porcentaje": 2.01
+                },
+                {
+                    "cantidad": 1642602.0,
+                    "desde": "2023T4",
+                    "isin": "FI4000233242",
+                    "moneda": "euro",
+                    "nombre": "Evli Short Corporate \"IB\" (EURHDG)",
+                    "porcentaje": 1.94
+                },
+                {
+                    "cantidad": 1618714.0,
+                    "desde": "2021T1",
+                    "isin": "LU0113258742",
+                    "moneda": "euro",
+                    "nombre": "Schroder Isf Euro Corporate Bond \"C\"",
+                    "porcentaje": 1.91
+                },
+                {
+                    "cantidad": 1538829.0,
+                    "desde": "2021T4",
+                    "isin": "LU0360478795",
+                    "moneda": "euro",
+                    "nombre": "SHORT MATURITY EURO BOND \"Z\" ACC",
+                    "porcentaje": 1.82
+                },
+                {
+                    "cantidad": 1526242.0,
+                    "desde": "2023T2",
+                    "isin": "LU0248044025",
+                    "moneda": "euro",
+                    "nombre": "JPMorgan Funds Emerging Markets Equity",
+                    "porcentaje": 1.8
+                },
+                {
+                    "cantidad": 1495753.0,
+                    "desde": "2021T1",
+                    "isin": "LU0248049412",
+                    "moneda": "euro",
+                    "nombre": "JPMORGAN FUNDS STRATEGIC VALUE I AC",
+                    "porcentaje": 1.77
+                },
+                {
+                    "cantidad": 1489329.0,
+                    "desde": "2021T1",
+                    "isin": "LU1883315480",
+                    "moneda": "euro",
+                    "nombre": "Amundi EUR Equity Value",
+                    "porcentaje": 1.76
+                },
+                {
+                    "cantidad": 1403683.0,
+                    "desde": "2021T1",
+                    "isin": "LU0886779783",
+                    "moneda": "euro",
+                    "nombre": "Aberdeen Gl Emmkt Equity G2 USD",
+                    "porcentaje": 1.66
+                },
+                {
+                    "cantidad": 1324899.0,
+                    "desde": "2021T1",
+                    "isin": "LU0256881128",
+                    "moneda": "euro",
+                    "nombre": "Allianz Europe Equity Growth IT EUR",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 1268779.0,
+                    "desde": "2021T1",
+                    "isin": "LU0726357444",
+                    "moneda": "euro",
+                    "nombre": "PICTET EUR SHORT TERM HIGH YIELD \"I\"",
+                    "porcentaje": 1.5
+                },
+                {
+                    "cantidad": 1005267.0,
+                    "desde": "2021T1",
+                    "isin": "ES0147622031",
+                    "moneda": "euro",
+                    "nombre": "Bestinver Bolsa FI",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 1000397.0,
+                    "desde": "2021T1",
+                    "isin": "LU0231474593",
+                    "moneda": "euro",
+                    "nombre": "Aberdeen Global Japanese Equity I2 JPY",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 899751.0,
+                    "desde": "2021T1",
+                    "isin": "LU0496368654",
+                    "moneda": "euro",
+                    "nombre": "Franklin Gold&Pre Met Investmen I ACCUSD",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 882276.0,
+                    "desde": "2024T4",
+                    "isin": "ES0112763000",
+                    "moneda": "euro",
+                    "nombre": "Bestinver Norteamerica FI EU",
+                    "porcentaje": 1.04
+                },
+                {
+                    "cantidad": 839476.0,
+                    "desde": "2021T1",
+                    "isin": "LU0106252546",
+                    "moneda": "euro",
+                    "nombre": "SCHRODER ISF EMERGING MARKETS \"C\"",
+                    "porcentaje": 0.99
+                },
+                {
+                    "cantidad": 556237.0,
+                    "desde": "2021T1",
+                    "isin": "LU0085167236",
+                    "moneda": "euro",
+                    "nombre": "Union Investment Unidynamic Europa-A",
+                    "porcentaje": 0.66
+                },
+                {
+                    "cantidad": 553325.0,
+                    "desde": "2021T1",
+                    "isin": "LU0136786182",
+                    "moneda": "euro",
+                    "nombre": "Union Investment Unieurorenta Corp-C",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012C12",
+                    "moneda": "euro",
+                    "nombre": "Repo Bono del Estado 0,7% Inflaci 301133",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "ES0114638036",
+                    "moneda": "euro",
+                    "nombre": "Bestinver Internacional FI",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "FI4000210620",
+                    "moneda": "euro",
+                    "nombre": "Evli Europe IB Eur",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T2",
+                    "isin": "LU0219424487",
+                    "moneda": "euro",
+                    "nombre": "MFS Meridian European Value \"I1\" (EUR)",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 2.69
+        },
+        {
+            "gastos": 0.31,
+            "indice_rotacion": 0.0,
+            "liquidez": 0.77,
+            "participes": 13,
+            "patrimonio": 195426,
+            "periodo": "2024T2",
+            "posiciones": [
+                {
+                    "cantidad": 3646888.0,
+                    "desde": "2022T1",
+                    "isin": "LU1434528672",
+                    "moneda": "euro",
+                    "nombre": "Candriam Sustainable Equity World ICEUR",
+                    "porcentaje": 4.09
+                },
+                {
+                    "cantidad": 3519970.0,
+                    "desde": "2021T1",
+                    "isin": "LU0717821077",
+                    "moneda": "euro",
+                    "nombre": "ROBECO GLOBAL CONSUME \"I\" (EUR)",
+                    "porcentaje": 3.95
+                },
+                {
+                    "cantidad": 3388794.0,
+                    "desde": "2022T1",
+                    "isin": "LU1883855675",
+                    "moneda": "euro",
+                    "nombre": "Amundi Pioneer US Equity Growth I2USDC",
+                    "porcentaje": 3.8
+                },
+                {
+                    "cantidad": 3380945.0,
+                    "desde": "2021T1",
+                    "isin": "IE00B5ST2S55",
+                    "moneda": "euro",
+                    "nombre": "Seilern Stryx World Growth IN USD",
+                    "porcentaje": 3.79
+                },
+                {
+                    "cantidad": 3296566.0,
+                    "desde": "2021T1",
+                    "isin": "LU0226954369",
+                    "moneda": "euro",
+                    "nombre": "Robeco Usd Premium Equities I USD",
+                    "porcentaje": 3.7
+                },
+                {
+                    "cantidad": 3279663.0,
+                    "desde": "2022T3",
+                    "isin": "LU0512952267",
+                    "moneda": "euro",
+                    "nombre": "JPM Global Research Enhanced Index Eq C",
+                    "porcentaje": 3.68
+                },
+                {
+                    "cantidad": 3189050.0,
+                    "desde": "2021T1",
+                    "isin": "LU0248041781",
+                    "moneda": "euro",
+                    "nombre": "JPM AMERICA EQUITY \"I\" (USD)",
+                    "porcentaje": 3.58
+                },
+                {
+                    "cantidad": 3011091.0,
+                    "desde": "2021T1",
+                    "isin": "LU0278092605",
+                    "moneda": "euro",
+                    "nombre": "Vontobel Fund Us Equity I",
+                    "porcentaje": 3.38
+                },
+                {
+                    "cantidad": 2968359.0,
+                    "desde": "2021T4",
+                    "isin": "IE0031575503",
+                    "moneda": "euro",
+                    "nombre": "Brandes US Value Fund I Eur",
+                    "porcentaje": 3.33
+                },
+                {
+                    "cantidad": 2874100.0,
+                    "desde": "2023T2",
+                    "isin": "ES0000012C12",
+                    "moneda": "euro",
+                    "nombre": "Repo Bono del Estado 0,7% Inflaci 301133",
+                    "porcentaje": 3.22
+                },
+                {
+                    "cantidad": 2852185.0,
+                    "desde": "2022T2",
+                    "isin": "AT0000A23A38",
+                    "moneda": "euro",
+                    "nombre": "Erste Responsible Stock Global EI01VTA",
+                    "porcentaje": 3.2
+                },
+                {
+                    "cantidad": 2685048.0,
+                    "desde": "2021T4",
+                    "isin": "LU0191250769",
+                    "moneda": "euro",
+                    "nombre": "Goldman Sachs Global Sustainable ICEE",
+                    "porcentaje": 3.01
+                },
+                {
+                    "cantidad": 2641363.0,
+                    "desde": "2021T1",
+                    "isin": "LU0360482987",
+                    "moneda": "euro",
+                    "nombre": "GLOBAL BRANDS \"Z\" ACC",
+                    "porcentaje": 2.96
+                },
+                {
+                    "cantidad": 2516496.0,
+                    "desde": "2021T1",
+                    "isin": "FI4000210620",
+                    "moneda": "euro",
+                    "nombre": "Evli Europe IB Eur",
+                    "porcentaje": 2.82
+                },
+                {
+                    "cantidad": 2369997.0,
+                    "desde": "2021T1",
+                    "isin": "LU0891843558",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro High Yield V",
+                    "porcentaje": 2.66
+                },
+                {
+                    "cantidad": 2296555.0,
+                    "desde": "2021T1",
+                    "isin": "LU0156671504",
+                    "moneda": "euro",
+                    "nombre": "Candriam Bonds Euro Shrot Term I C",
+                    "porcentaje": 2.57
+                },
+                {
+                    "cantidad": 2251564.0,
+                    "desde": "2023T2",
+                    "isin": "IE00B96G6Y08",
+                    "moneda": "euro",
+                    "nombre": "MUZINICH EUROPEYIELD \"H\" (EURHDG) ACC",
+                    "porcentaje": 2.52
+                },
+                {
+                    "cantidad": 2151492.0,
+                    "desde": "2021T1",
+                    "isin": "LU0886779783",
+                    "moneda": "euro",
+                    "nombre": "Aberdeen Gl Emmkt Equity G2 USD",
+                    "porcentaje": 2.41
+                },
+                {
+                    "cantidad": 2029451.0,
+                    "desde": "2021T1",
+                    "isin": "LU1819949246",
+                    "moneda": "euro",
+                    "nombre": "BNP Paribas Sustainable ENHAN BOND 12M",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 1995958.0,
+                    "desde": "2021T2",
+                    "isin": "LU0325598752",
+                    "moneda": "euro",
+                    "nombre": "BNP Paribas Enhanced Bond 6M",
+                    "porcentaje": 2.24
+                },
+                {
+                    "cantidad": 1992740.0,
+                    "desde": "2021T1",
+                    "isin": "LU0658025209",
+                    "moneda": "euro",
+                    "nombre": "Axa Im FIIS Eur Sh Duration HY A EUR",
+                    "porcentaje": 2.23
+                },
+                {
+                    "cantidad": 1937781.0,
+                    "desde": "2022T4",
+                    "isin": "DE000A3MP7J5",
+                    "moneda": "euro",
+                    "nombre": "KFW 0,125% 300625",
+                    "porcentaje": 2.17
+                },
+                {
+                    "cantidad": 1879700.0,
+                    "desde": "2022T4",
+                    "isin": "FR0014007TY9",
+                    "moneda": "euro",
+                    "nombre": "France Govt of 0% 250225",
+                    "porcentaje": 2.11
+                },
+                {
+                    "cantidad": 1866844.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012K38",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado 0,00% 310525",
+                    "porcentaje": 2.09
+                },
+                {
+                    "cantidad": 1863929.0,
+                    "desde": "2023T2",
+                    "isin": "DE0001102390",
+                    "moneda": "euro",
+                    "nombre": "Bundesrepublik Deutschland 0,5% 150226",
+                    "porcentaje": 2.09
+                },
+                {
+                    "cantidad": 1783036.0,
+                    "desde": "2021T1",
+                    "isin": "LU1883315480",
+                    "moneda": "euro",
+                    "nombre": "Amundi EUR Equity Value",
+                    "porcentaje": 2.0
+                },
+                {
+                    "cantidad": 1733357.0,
+                    "desde": "2021T1",
+                    "isin": "LU0256881128",
+                    "moneda": "euro",
+                    "nombre": "Allianz Europe Equity Growth IT EUR",
+                    "porcentaje": 1.94
+                },
+                {
+                    "cantidad": 1647117.0,
+                    "desde": "2021T2",
+                    "isin": "FI0008812011",
+                    "moneda": "euro",
+                    "nombre": "EVLI NORDIC CORPORATE \"IB\" (EURHDG)",
+                    "porcentaje": 1.85
+                },
+                {
+                    "cantidad": 1583827.0,
+                    "desde": "2021T1",
+                    "isin": "LU0866838575",
+                    "moneda": "euro",
+                    "nombre": "Alken European Opportunities EU1 EUR",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 1584123.0,
+                    "desde": "2023T4",
+                    "isin": "FI4000233242",
+                    "moneda": "euro",
+                    "nombre": "Evli Short Corporate \"IB\" (EURHDG)",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 1553946.0,
+                    "desde": "2021T1",
+                    "isin": "LU0113258742",
+                    "moneda": "euro",
+                    "nombre": "Schroder Isf Euro Corporate Bond \"C\"",
+                    "porcentaje": 1.74
+                },
+                {
+                    "cantidad": 1542747.0,
+                    "desde": "2023T2",
+                    "isin": "LU0219424487",
+                    "moneda": "euro",
+                    "nombre": "MFS Meridian European Value \"I1\" (EUR)",
+                    "porcentaje": 1.73
+                },
+                {
+                    "cantidad": 1512115.0,
+                    "desde": "2023T2",
+                    "isin": "LU0248044025",
+                    "moneda": "euro",
+                    "nombre": "JPMorgan Funds Emerging Markets Equity",
+                    "porcentaje": 1.7
+                },
+                {
+                    "cantidad": 1494142.0,
+                    "desde": "2021T4",
+                    "isin": "LU0360478795",
+                    "moneda": "euro",
+                    "nombre": "SHORT MATURITY EURO BOND \"Z\" ACC",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 1446630.0,
+                    "desde": "2021T1",
+                    "isin": "LU0248049412",
+                    "moneda": "euro",
+                    "nombre": "JPMORGAN FUNDS STRATEGIC VALUE I AC",
+                    "porcentaje": 1.62
+                },
+                {
+                    "cantidad": 1225616.0,
+                    "desde": "2021T1",
+                    "isin": "LU0726357444",
+                    "moneda": "euro",
+                    "nombre": "PICTET EUR SHORT TERM HIGH YIELD \"I\"",
+                    "porcentaje": 1.37
+                },
+                {
+                    "cantidad": 952470.0,
+                    "desde": "2021T1",
+                    "isin": "ES0147622031",
+                    "moneda": "euro",
+                    "nombre": "Bestinver Bolsa FI",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 957670.0,
+                    "desde": "2021T1",
+                    "isin": "LU0231474593",
+                    "moneda": "euro",
+                    "nombre": "Aberdeen Global Japanese Equity I2 JPY",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 851798.0,
+                    "desde": "2021T1",
+                    "isin": "ES0114638036",
+                    "moneda": "euro",
+                    "nombre": "Bestinver Internacional FI",
+                    "porcentaje": 0.95
+                },
+                {
+                    "cantidad": 829126.0,
+                    "desde": "2021T1",
+                    "isin": "LU0496368654",
+                    "moneda": "euro",
+                    "nombre": "Franklin Gold&Pre Met Investmen I ACCUSD",
+                    "porcentaje": 0.93
+                },
+                {
+                    "cantidad": 824530.0,
+                    "desde": "2021T1",
+                    "isin": "LU0106252546",
+                    "moneda": "euro",
+                    "nombre": "SCHRODER ISF EMERGING MARKETS \"C\"",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 595805.0,
+                    "desde": "2021T1",
+                    "isin": "LU0085167236",
+                    "moneda": "euro",
+                    "nombre": "Union Investment Unidynamic Europa-A",
+                    "porcentaje": 0.67
+                },
+                {
+                    "cantidad": 531716.0,
+                    "desde": "2021T1",
+                    "isin": "LU0136786182",
+                    "moneda": "euro",
+                    "nombre": "Union Investment Unieurorenta Corp-C",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012K38",
+                    "moneda": "euro",
+                    "nombre": "Bono del Estado 0,00% 310525",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T4",
+                    "isin": "FR0014007TY9",
+                    "moneda": "euro",
+                    "nombre": "France Govt of 0% 250225",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T4",
+                    "isin": "DE000A3MP7J5",
+                    "moneda": "euro",
+                    "nombre": "KFW 0,125% 300625",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005499311",
+                    "moneda": "euro",
+                    "nombre": "Buoni Poliennali Tesoro 1,75% 300524",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "LU0106235459",
+                    "moneda": "euro",
+                    "nombre": "SCHRODER ISF EURO EQUITY \"C\"",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T1",
+                    "isin": "LU0278085062",
+                    "moneda": "euro",
+                    "nombre": "Vontobel Fund European Equity I",
+                    "porcentaje": 0.0
+                }
+            ],
+            "rentabilidad": 1.16
+        },
         {
             "gastos": 0.32,
             "indice_rotacion": 0.0,

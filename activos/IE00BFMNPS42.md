@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|X MSCI USA ESG
+title: PARTICIPACIONES|XTRACKERS MSCI USA E
 isin: IE00BFMNPS42
 ---

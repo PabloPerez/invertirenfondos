@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|B. ESPIRITO S.
+title: ACCION|B.ESPIR.ST
 isin: PTBES0AM0007
 ---

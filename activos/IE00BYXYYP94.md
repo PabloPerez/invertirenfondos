@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares USD Short Du
+title: ETF|ISHARES USD SHORT DU
 isin: IE00BYXYYP94
 ---

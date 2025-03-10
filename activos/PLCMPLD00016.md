@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SYGNITY SA
+title: ACCIONES|Sygnity SA
 isin: PLCMPLD00016
 ---

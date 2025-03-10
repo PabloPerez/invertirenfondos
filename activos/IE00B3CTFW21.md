@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GAM STAR CONT EUROPEAN E
+title: PARTICIPACIONES|GamStar-ContEur
 isin: IE00B3CTFW21
 ---

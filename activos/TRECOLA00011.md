@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.COCA-COLA ICECEK AS (TRY)
+title: AC.COCA-COLA ICECEK (TRY)
 isin: TRECOLA00011
 ---

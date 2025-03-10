@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ASTON MARTIN LAG GLB
+title: ACCIONES|ASTON MARTIN LAGONDA
 isin: GB00BFXZC448
 ---

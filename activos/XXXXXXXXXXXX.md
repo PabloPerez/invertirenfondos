@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Resto Renta Variable Exterior
+title: Bonos|RESTO RENTA FIJA EXTERIOR
 isin: XXXXXXXXXXXX
 ---

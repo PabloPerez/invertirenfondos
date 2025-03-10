@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Xtrackers Future Mob
+title: PARTICIPACIONES|XTRACKERS FUTURE
 isin: IE00BGV5VR99
 ---

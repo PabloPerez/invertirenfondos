@@ -4,6 +4,124 @@
     "historico_periodos": [
         {
             "gastos": 0.07,
+            "indice_rotacion": 0.05,
+            "liquidez": 1.79,
+            "participes": 61,
+            "patrimonio": 10048844,
+            "periodo": "2024T4",
+            "posiciones": [
+                {
+                    "cantidad": 455545097.0,
+                    "desde": "2022T4",
+                    "isin": "IT0004513641",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY BUONI POLIENNA|5,000|2025-03-01",
+                    "porcentaje": 25.9
+                },
+                {
+                    "cantidad": 434728644.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000126Z1",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|1,600|2025-04-30",
+                    "porcentaje": 24.71
+                },
+                {
+                    "cantidad": 250985094.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005327306",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY BUONI POLIENNA|1,450|2025-05-15",
+                    "porcentaje": 14.27
+                },
+                {
+                    "cantidad": 199733357.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000127E4",
+                    "moneda": "EUR",
+                    "nombre": "BON./OBL.|SPAIN GOVERNMENT BON|2025-04-30",
+                    "porcentaje": 11.35
+                },
+                {
+                    "cantidad": 188234061.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012F92",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|2025-01-31",
+                    "porcentaje": 10.7
+                },
+                {
+                    "cantidad": 156767245.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012K38",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|2025-05-31",
+                    "porcentaje": 8.91
+                }
+            ],
+            "rentabilidad": 0.75
+        },
+        {
+            "gastos": 0.07,
+            "indice_rotacion": 0.01,
+            "liquidez": 1.74,
+            "participes": 67,
+            "patrimonio": 11990569,
+            "periodo": "2024T2",
+            "posiciones": [
+                {
+                    "cantidad": 442090934.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000126Z1",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|1,600|2025-04-30",
+                    "porcentaje": 24.5
+                },
+                {
+                    "cantidad": 413971258.0,
+                    "desde": "2022T4",
+                    "isin": "IT0004513641",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY BUONI POLIENNA|5,000|2025-03-01",
+                    "porcentaje": 22.94
+                },
+                {
+                    "cantidad": 315423339.0,
+                    "desde": "2022T4",
+                    "isin": "IT0005327306",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|ITALY BUONI POLIENNA|1,450|2025-05-15",
+                    "porcentaje": 17.48
+                },
+                {
+                    "cantidad": 198222516.0,
+                    "desde": "2022T4",
+                    "isin": "ES00000127E4",
+                    "moneda": "EUR",
+                    "nombre": "BON./OBL.|SPAIN GOVERNMENT BON|2025-04-30",
+                    "porcentaje": 10.99
+                },
+                {
+                    "cantidad": 187039949.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012F92",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|2025-01-31",
+                    "porcentaje": 10.37
+                },
+                {
+                    "cantidad": 182631654.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000012K38",
+                    "moneda": "EUR",
+                    "nombre": "DEUDA|SPAIN GOVERNMENT BON|2025-05-31",
+                    "porcentaje": 10.12
+                }
+            ],
+            "rentabilidad": 0.7
+        },
+        {
+            "gastos": 0.07,
             "indice_rotacion": 0.0,
             "liquidez": 1.32,
             "participes": 78,
@@ -195,7 +313,7 @@
     "id_cnmv_gestora": 15,
     "isin": "ES0113233003",
     "nif": "V72517659",
-    "nombre": "CAIXABANK DEUDA PUBLICA ESPAÑA ITALIA 2025 3, FI CARTERA",
+    "nombre": "CAIXABANK DEUDA PUBLICA ESPAÑA ITALIA 2025 3, FI SIN RETRO",
     "nombre_depositaria": "CECABANK, S.A.",
     "nombre_gestora": "CAIXABANK ASSET MANAGEMENT SGIIC, S.A."
 }

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|TECHNIPFMC
+title: Acciones|TECHNIPFMC PLC
 isin: GB00BDSFG982
 ---

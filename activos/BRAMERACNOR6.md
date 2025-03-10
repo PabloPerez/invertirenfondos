@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.AMERICANAS SA (BRL)
+title: ACCIONES|Americanas SA
 isin: BRAMERACNOR6
 ---

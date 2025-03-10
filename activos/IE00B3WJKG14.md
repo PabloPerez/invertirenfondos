@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF. Ishares
+title: PARTICIPACIONES|ISHARES S AND P 500 USD
 isin: IE00B3WJKG14
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|HSBC HANG SENG TECH UCITS ETF
+title: PARTICIPACIONES|HSBC HANG SENG TECH
 isin: IE00BMWXKN31
 ---

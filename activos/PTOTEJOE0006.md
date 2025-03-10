@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|OB.DO TES M.PRAZO(PORTUGAL) 14|5,1
+title: BONO|DEUDA PORTUGAL|5,15|2011-06-15
 isin: PTOTEJOE0006
 ---

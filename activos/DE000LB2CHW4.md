@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO.LB BADEN - WUERT 0,375% VT.24|05|2024
+title: BONO|LB BADEN WUERTTEMBER|0,38|2024-05-24
 isin: DE000LB2CHW4
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|CHARLEMAGNE CAPITAL UK LTD
+title: PARTICIPACIONES|MAGNA NEW FRONTIERS
 isin: IE00BFTW8Z27
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|WPP
+title: ACCIONES|WPP PLC
 isin: JE00B3DMTY01
 ---

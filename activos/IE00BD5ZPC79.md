@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|ID_BB_26398935
+title: FONDO|TRELIGGA PLC
 isin: IE00BD5ZPC79
 ---

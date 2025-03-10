@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: DERECHOS|VOLKSWAGEN
+title: DERECHO|VOLKSWAGEN
 isin: DE000A1DAKV5
 ---

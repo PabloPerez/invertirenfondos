@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|BANCO COMERCIAL PORT|8,50|2024-10-25
+title: Bonos|BANCO COM.PORTUGUESE|8,500|2024-10-25
 isin: PTBCPBOM0062
 ---

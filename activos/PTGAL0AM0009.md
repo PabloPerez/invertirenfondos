@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|GALP
+title: ACCIONES|GALP ENERGIA
 isin: PTGAL0AM0009
 ---

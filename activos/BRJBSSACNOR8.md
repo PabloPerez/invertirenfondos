@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|JBS SA
+title: AC.JBS SA (BRL)
 isin: BRJBSSACNOR8
 ---

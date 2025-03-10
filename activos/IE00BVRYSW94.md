@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|CYGNUS UTILITIES INFRASTRUCTUR
+title: PARTICIPACIONES|Cygnus Util Inf Ren
 isin: IE00BVRYSW94
 ---

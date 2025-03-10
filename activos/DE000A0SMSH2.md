@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MUTARES AG
+title: Acciones|MUTARES AG
 isin: DE000A0SMSH2
 ---

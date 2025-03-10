@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|VANGUARD GLBL STK-B INV EUR
+title: PARTICIPACIONES|Vanguard FTSE All-Wo
 isin: IE00B8GKDB10
 ---

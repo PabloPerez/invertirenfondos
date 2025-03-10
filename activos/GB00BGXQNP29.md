@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.PHOENIX GROUP HOLDINGS (GBP)
+title: ACCIONES|PHOENIX GROUP HOLDINGS PLC
 isin: GB00BGXQNP29
 ---

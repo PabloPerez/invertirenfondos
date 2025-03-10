@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ISHARES EUR CORP BOND BBB-BB
+title: PARTICIPACIONES|ISHARES EU CORP BON
 isin: IE00BSKRK281
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|ARTEMIS FUND MANAGERS LTD
+title: PARTICIPACIONES|Artemis Pan-Eur
 isin: GB00BMMV4H91
 ---

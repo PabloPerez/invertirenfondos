@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Pacific Capital UCIT
+title: PARTICIPACIONES|PACIFIC G10 MACRO RA
 isin: IE00BM8QTP12
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|CRL CREDITO AGRICOLA|8,375|2026-07-04
+title: BONO|CRL CREDITO AGRICOLA|8,38|2026-07-04
 isin: PTCCCMOM0006
 ---

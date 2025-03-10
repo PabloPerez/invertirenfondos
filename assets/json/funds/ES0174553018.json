@@ -1,7 +1,149 @@
 {
-    "auditora": "-",
+    "auditora": "ERNST & YOUNG",
     "fecha_registro": "20/01/2023",
     "historico_periodos": [
+        {
+            "gastos": 0.19,
+            "indice_rotacion": 2.63,
+            "liquidez": 3.82,
+            "participes": 673,
+            "patrimonio": 14360893,
+            "periodo": "2024T4",
+            "posiciones": [
+                {
+                    "cantidad": 4416752.0,
+                    "desde": "2024T4",
+                    "isin": "IT0004889033",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|4,75|2028-09-01",
+                    "porcentaje": 26.42
+                },
+                {
+                    "cantidad": 4306998.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005340929",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|DEUDA PUBLICA ITALIA|2,80|2028-12-01",
+                    "porcentaje": 25.77
+                },
+                {
+                    "cantidad": 4269025.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005566408",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|4,10|2029-02-01",
+                    "porcentaje": 25.54
+                },
+                {
+                    "cantidad": 1872589.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005548315",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|3,80|2028-08-01",
+                    "porcentaje": 11.2
+                },
+                {
+                    "cantidad": 556232.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005445306",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|0,50|2028-07-15",
+                    "porcentaje": 3.33
+                },
+                {
+                    "cantidad": 513030.0,
+                    "desde": "2024T4",
+                    "isin": "IT0005521981",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|3,40|2028-04-01",
+                    "porcentaje": 3.07
+                }
+            ],
+            "rentabilidad": 0.72
+        },
+        {
+            "gastos": 0.15,
+            "indice_rotacion": 0.2,
+            "liquidez": 3.25,
+            "participes": 902,
+            "patrimonio": 26798369,
+            "periodo": "2024T2",
+            "posiciones": [
+                {
+                    "cantidad": 10546709.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005367492",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|DEUDA PUBLICA ITALIA|1,75|2024-07-01",
+                    "porcentaje": 28.71
+                },
+                {
+                    "cantidad": 10182991.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005452989",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|0,00|2024-08-15",
+                    "porcentaje": 27.72
+                },
+                {
+                    "cantidad": 10104582.0,
+                    "desde": "2023T2",
+                    "isin": "IT0005001547",
+                    "moneda": "euro",
+                    "nombre": "OBLIGACION|DEUDA PUBLICA ITALIA|3,75|2024-09-01",
+                    "porcentaje": 27.5
+                },
+                {
+                    "cantidad": 2389584.0,
+                    "desde": "2024T2",
+                    "isin": "IT0005559817",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|2024-08-14",
+                    "porcentaje": 6.5
+                },
+                {
+                    "cantidad": 992114.0,
+                    "desde": "2024T2",
+                    "isin": "ES0L02409065",
+                    "moneda": "euro",
+                    "nombre": "LETRA|DEUDA ESTADO ESPAÑA|3,50|2024-09-06",
+                    "porcentaje": 2.7
+                },
+                {
+                    "cantidad": 298698.0,
+                    "desde": "2024T2",
+                    "isin": "IT0005559817",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|2024-08-14",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 99903.0,
+                    "desde": "2024T2",
+                    "isin": "IT0005555963",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|2024-07-12",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 99704.0,
+                    "desde": "2024T2",
+                    "isin": "IT0005581506",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|2024-07-31",
+                    "porcentaje": 0.27
+                },
+                {
+                    "cantidad": 99704.0,
+                    "desde": "2024T2",
+                    "isin": "IT0005581506",
+                    "moneda": "euro",
+                    "nombre": "BONO|DEUDA PUBLICA ITALIA|2024-07-31",
+                    "porcentaje": 0.27
+                }
+            ],
+            "rentabilidad": 0.79
+        },
         {
             "gastos": 0.16,
             "indice_rotacion": 0.0,
@@ -122,11 +264,11 @@
         }
     ],
     "id_cnmv": 5720,
-    "id_cnmv_depositaria": 240,
+    "id_cnmv_depositaria": 236,
     "id_cnmv_gestora": 225,
     "isin": "ES0174553018",
     "nif": "V72919160",
-    "nombre": "SANTALUCIA RENTA FIJA 2024, FI CLASE B",
-    "nombre_depositaria": "BNP PARIBAS S.A., SUCURSAL EN ESPAÑA",
+    "nombre": "SANTALUCIA RENTA FIJA 2028, FI CLASE B",
+    "nombre_depositaria": "CECABANK, S.A.",
     "nombre_gestora": "SANTA LUCIA ASSET MANAGEMENT, SGIIC, S.A."
 }

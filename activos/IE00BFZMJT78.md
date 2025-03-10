@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Neuberger Berman Ult
+title: IIC Neuberger Berman ULTR I (EUR)
 isin: IE00BFZMJT78
 ---

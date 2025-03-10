@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDO|MUZINICH
+title: FONDO|MUZINICH EMERGINGMKT
 isin: IE00BFNXVS58
 ---

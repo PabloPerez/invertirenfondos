@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Ryman Healthcare Ltd
+title: Acciones|RYMAN HEALTHCARE LTD
 isin: NZRYME0001S4
 ---

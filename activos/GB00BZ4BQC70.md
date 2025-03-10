@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|JOHNSON MATTHEY PLC
+title: ACCIONES|JOHNSON MATTHEY
 isin: GB00BZ4BQC70
 ---

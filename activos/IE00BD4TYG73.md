@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|UBS ETF MSCI USA H.
+title: Acciones|UBS
 isin: IE00BD4TYG73
 ---

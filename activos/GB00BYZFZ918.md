@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SOPHOS GROUP PL
+title: SOPHOS GROUP PLC
 isin: GB00BYZFZ918
 ---

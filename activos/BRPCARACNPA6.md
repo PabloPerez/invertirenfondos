@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.CIA BRASILEIRA DE DISTRIBUCAO (BRL)
+title: CIA BRASILEIRA DISTR PAO ACUCA
 isin: BRPCARACNPA6
 ---

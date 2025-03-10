@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares Edge MSCI Europe Size
+title: PARTICIPACIONES|Ishares Edge MSCI EV
 isin: IE00BQN1KC32
 ---

@@ -3,6 +3,32 @@
         {
             "fondos": [
                 {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.0
+                }
+            ],
+            "periodo": "2024T2"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 1909372.0,
                     "desde": "2020T2",
                     "isin": "ES0138812039",
@@ -40,6 +66,27 @@
                 {
                     "cantidad": 3984176.0,
                     "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 3984176.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 3984176.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 3984176.0,
+                    "desde": "2023T4",
                     "isin": "ES0165142011",
                     "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
                     "porcentaje": 0.29
@@ -54,9 +101,16 @@
                 {
                     "cantidad": 3984176.0,
                     "desde": "2023T4",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 300575.0,
+                    "desde": "2020T2",
+                    "isin": "ES0138478039",
+                    "nombre": "GCO MIXTO, FI",
+                    "porcentaje": 0.18
                 },
                 {
                     "cantidad": 300575.0,
@@ -75,8 +129,8 @@
                 {
                     "cantidad": 2035324.0,
                     "desde": "2022T2",
-                    "isin": "ES0164586028",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "isin": "ES0164586002",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE B",
                     "porcentaje": 0.12
                 },
                 {
@@ -89,6 +143,20 @@
                 {
                     "cantidad": 2035324.0,
                     "desde": "2022T2",
+                    "isin": "ES0164586028",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 2035324.0,
+                    "desde": "2022T2",
+                    "isin": "ES0164586036",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 2035324.0,
+                    "desde": "2022T2",
                     "isin": "ES0164586036",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
                     "porcentaje": 0.12
@@ -96,29 +164,22 @@
                 {
                     "cantidad": 7892371.0,
                     "desde": "2023T4",
-                    "isin": "ES0138045028",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 7892371.0,
-                    "desde": "2023T4",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 7892371.0,
-                    "desde": "2023T4",
-                    "isin": "ES0138045044",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI CARTERA",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 7892371.0,
-                    "desde": "2023T4",
                     "isin": "ES0138045002",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 7892371.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 7892371.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138045028",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.08
                 },
                 {
@@ -131,6 +192,13 @@
                 {
                     "cantidad": 7892371.0,
                     "desde": "2023T4",
+                    "isin": "ES0138045044",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI SIN RETRO",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 7892371.0,
+                    "desde": "2023T4",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.08
@@ -138,8 +206,8 @@
                 {
                     "cantidad": 7892371.0,
                     "desde": "2023T4",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.08
                 },
                 {
@@ -204,17 +272,17 @@
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 1468023.0,
-                    "desde": "2023T2",
-                    "isin": "ES0174403040",
-                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
-                    "porcentaje": 0.14
+                    "cantidad": 297083.0,
+                    "desde": "2020T2",
+                    "isin": "ES0138478039",
+                    "nombre": "GCO MIXTO, FI",
+                    "porcentaje": 0.17
                 },
                 {
                     "cantidad": 1468023.0,
                     "desde": "2023T2",
-                    "isin": "ES0174403057",
-                    "nombre": "SABADELL INTERES EURO, FI PYME",
+                    "isin": "ES0174403008",
+                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
                     "porcentaje": 0.14
                 },
                 {
@@ -241,8 +309,15 @@
                 {
                     "cantidad": 1468023.0,
                     "desde": "2023T2",
-                    "isin": "ES0174403008",
-                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
+                    "isin": "ES0174403040",
+                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 1468023.0,
+                    "desde": "2023T2",
+                    "isin": "ES0174403057",
+                    "nombre": "SABADELL INTERES EURO, FI PYME",
                     "porcentaje": 0.14
                 },
                 {
@@ -255,8 +330,8 @@
                 {
                     "cantidad": 1999270.0,
                     "desde": "2022T2",
-                    "isin": "ES0164586028",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "isin": "ES0164586002",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE B",
                     "porcentaje": 0.13
                 },
                 {
@@ -264,6 +339,20 @@
                     "desde": "2022T2",
                     "isin": "ES0164586010",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE A",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 1999270.0,
+                    "desde": "2022T2",
+                    "isin": "ES0164586028",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 1999270.0,
+                    "desde": "2022T2",
+                    "isin": "ES0164586036",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
                     "porcentaje": 0.13
                 },
                 {
@@ -302,15 +391,15 @@
                 {
                     "cantidad": 7874454.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.48
                 },
                 {
                     "cantidad": 7874454.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.48
                 },
                 {
@@ -319,6 +408,20 @@
                     "isin": "ES0138478039",
                     "nombre": "GCO MIXTO, FI",
                     "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 296515.0,
+                    "desde": "2020T2",
+                    "isin": "ES0138478039",
+                    "nombre": "GCO MIXTO, FI",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 991446.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113258000",
+                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 991446.0,
@@ -335,13 +438,6 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 991446.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113258000",
-                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 1982892.0,
                     "desde": "2022T2",
                     "isin": "ES0164586002",
@@ -351,8 +447,8 @@
                 {
                     "cantidad": 1982892.0,
                     "desde": "2022T2",
-                    "isin": "ES0164586028",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "isin": "ES0164586002",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE B",
                     "porcentaje": 0.13
                 },
                 {
@@ -365,6 +461,13 @@
                 {
                     "cantidad": 1982892.0,
                     "desde": "2022T2",
+                    "isin": "ES0164586028",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 1982892.0,
+                    "desde": "2022T2",
                     "isin": "ES0164586036",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
                     "porcentaje": 0.13
@@ -372,8 +475,15 @@
                 {
                     "cantidad": 1982892.0,
                     "desde": "2022T2",
-                    "isin": "ES0115087027",
-                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
+                    "isin": "ES0164586036",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 1982892.0,
+                    "desde": "2022T2",
+                    "isin": "ES0115087001",
+                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE B",
                     "porcentaje": 0.12
                 },
                 {
@@ -388,6 +498,13 @@
                     "desde": "2022T2",
                     "isin": "ES0115087019",
                     "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE A",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 1982892.0,
+                    "desde": "2022T2",
+                    "isin": "ES0115087027",
+                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
                     "porcentaje": 0.12
                 },
                 {
@@ -426,15 +543,15 @@
                 {
                     "cantidad": 7817331.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.49
                 },
                 {
                     "cantidad": 7817331.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.49
                 },
                 {
@@ -443,6 +560,13 @@
                     "isin": "ES0138478039",
                     "nombre": "GCO MIXTO, FI",
                     "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 984569.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113258000",
+                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 984569.0,
@@ -459,24 +583,10 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 984569.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113258000",
-                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 1969139.0,
                     "desde": "2022T2",
                     "isin": "ES0164586002",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE B",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 1969139.0,
-                    "desde": "2022T2",
-                    "isin": "ES0164586028",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 0.15
                 },
                 {
@@ -489,16 +599,16 @@
                 {
                     "cantidad": 1969139.0,
                     "desde": "2022T2",
-                    "isin": "ES0164586036",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "isin": "ES0164586028",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 0.15
                 },
                 {
                     "cantidad": 1969139.0,
                     "desde": "2022T2",
-                    "isin": "ES0115087027",
-                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
-                    "porcentaje": 0.12
+                    "isin": "ES0164586036",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 1969139.0,
@@ -512,6 +622,13 @@
                     "desde": "2022T2",
                     "isin": "ES0115087019",
                     "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE A",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 1969139.0,
+                    "desde": "2022T2",
+                    "isin": "ES0115087027",
+                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
                     "porcentaje": 0.12
                 },
                 {
@@ -550,15 +667,15 @@
                 {
                     "cantidad": 7945266.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.5
                 },
                 {
                     "cantidad": 7945266.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.5
                 },
                 {
@@ -567,6 +684,13 @@
                     "isin": "ES0138478039",
                     "nombre": "GCO MIXTO, FI",
                     "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 1002477.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113258000",
+                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 1002477.0,
@@ -583,24 +707,10 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 1002477.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113258000",
-                    "nombre": "BANKINTER PREMIUM DEFENSIVO, FI CLASE B",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 2004954.0,
                     "desde": "2022T2",
                     "isin": "ES0164586002",
                     "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE B",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 2004954.0,
-                    "desde": "2022T2",
-                    "isin": "ES0164586028",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 0.15
                 },
                 {
@@ -613,16 +723,16 @@
                 {
                     "cantidad": 2004954.0,
                     "desde": "2022T2",
-                    "isin": "ES0164586036",
-                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "isin": "ES0164586028",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE D",
                     "porcentaje": 0.15
                 },
                 {
                     "cantidad": 2004954.0,
                     "desde": "2022T2",
-                    "isin": "ES0115087027",
-                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
-                    "porcentaje": 0.13
+                    "isin": "ES0164586036",
+                    "nombre": "BANKINTER PREMIUM MODERADO, FI CLASE R",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 2004954.0,
@@ -636,6 +746,13 @@
                     "desde": "2022T2",
                     "isin": "ES0115087019",
                     "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE A",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 2004954.0,
+                    "desde": "2022T2",
+                    "isin": "ES0115087027",
+                    "nombre": "BANKINTER PREMIUM CONSERVADOR, FI CLASE D",
                     "porcentaje": 0.13
                 },
                 {
@@ -681,15 +798,15 @@
                 {
                     "cantidad": 8073038.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.52
                 },
                 {
                     "cantidad": 8073038.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.52
                 }
             ],
@@ -728,22 +845,22 @@
                 {
                     "cantidad": 8173520.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 8173520.0,
-                    "desde": "2021T1",
                     "isin": "ES0138986007",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.51
                 },
                 {
+                    "cantidad": 8173520.0,
+                    "desde": "2021T1",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.51
+                },
+                {
                     "cantidad": 938908.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.1
                 },
                 {
@@ -756,8 +873,8 @@
                 {
                     "cantidad": 938908.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.1
                 }
             ],
@@ -796,22 +913,22 @@
                 {
                     "cantidad": 8190853.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 8190853.0,
-                    "desde": "2021T1",
                     "isin": "ES0138986007",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.51
                 },
                 {
+                    "cantidad": 8190853.0,
+                    "desde": "2021T1",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.51
+                },
+                {
                     "cantidad": 944478.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.11
                 },
                 {
@@ -824,8 +941,8 @@
                 {
                     "cantidad": 944478.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.11
                 }
             ],
@@ -864,22 +981,22 @@
                 {
                     "cantidad": 8177524.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 8177524.0,
-                    "desde": "2021T1",
                     "isin": "ES0138986007",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.52
                 },
                 {
+                    "cantidad": 8177524.0,
+                    "desde": "2021T1",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.52
+                },
+                {
                     "cantidad": 946473.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.11
                 },
                 {
@@ -892,8 +1009,8 @@
                 {
                     "cantidad": 946473.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.11
                 }
             ],
@@ -932,22 +1049,22 @@
                 {
                     "cantidad": 8176267.0,
                     "desde": "2021T1",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 8176267.0,
-                    "desde": "2021T1",
                     "isin": "ES0138986007",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.52
                 },
                 {
+                    "cantidad": 8176267.0,
+                    "desde": "2021T1",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.52
+                },
+                {
                     "cantidad": 949820.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.13
                 },
                 {
@@ -960,8 +1077,8 @@
                 {
                     "cantidad": 949820.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.13
                 }
             ],
@@ -1000,8 +1117,8 @@
                 {
                     "cantidad": 953583.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.15
                 },
                 {
@@ -1014,8 +1131,8 @@
                 {
                     "cantidad": 953583.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.15
                 }
             ],
@@ -1061,8 +1178,8 @@
                 {
                     "cantidad": 949891.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.16
                 },
                 {
@@ -1075,8 +1192,8 @@
                 {
                     "cantidad": 949891.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.16
                 }
             ],
@@ -1115,8 +1232,8 @@
                 {
                     "cantidad": 942884.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.16
                 },
                 {
@@ -1129,8 +1246,8 @@
                 {
                     "cantidad": 942884.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.16
                 }
             ],
@@ -1148,8 +1265,8 @@
                 {
                     "cantidad": 908182.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164039",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
+                    "isin": "ES0175164005",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
                     "porcentaje": 0.17
                 },
                 {
@@ -1162,8 +1279,8 @@
                 {
                     "cantidad": 908182.0,
                     "desde": "2020T1",
-                    "isin": "ES0175164005",
-                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE M",
+                    "isin": "ES0175164039",
+                    "nombre": "SANTANDER RENTA FIJA PRIVADA, FI CLASE A",
                     "porcentaje": 0.17
                 }
             ],

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF. Ishares
+title: Participaciones|BLACK ROCK INC
 isin: IE00BYXYYJ35
 ---

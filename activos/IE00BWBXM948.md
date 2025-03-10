@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|SPDR S&P U.S. TECHNO
+title: PARTICIPACIONES|SPDR S&P US TECH
 isin: IE00BWBXM948
 ---

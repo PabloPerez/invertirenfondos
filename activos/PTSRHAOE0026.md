@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|SPRHI SA|3,00|2019-04-27
+title: BONOS|SPRHI SA|3,000|2019-04-27
 isin: PTSRHAOE0026
 ---

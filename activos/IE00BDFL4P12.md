@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares Diver Co
+title: Acciones|ISHARES
 isin: IE00BDFL4P12
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|KAMES EQUITY MARKET NEUT
+title: I.I.C.|KAMES EQT MRK N
 isin: IE00BQQFCW69
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BNY MELLON GLOBAL MANGEMENT LT
+title: PARTICIPACIONES|BNY Mellon Global Sh
 isin: IE00BD5CVC03
 ---

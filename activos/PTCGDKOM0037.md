@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|CAIXA GERAL DE DEPOS|5,750|2028-06
+title: RFIJA|CAIXA GERAL DE D|5.75|2028-06-28
 isin: PTCGDKOM0037
 ---

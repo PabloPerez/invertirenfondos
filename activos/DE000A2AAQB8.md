@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|MTU AERO ENGINES|0.12|2023-05-17
+title: Obligaciones|MTU AERO ENGINES HOL|0,125|2023-05
 isin: DE000A2AAQB8
 ---

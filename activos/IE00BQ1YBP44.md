@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|COMGEST GROWTH JAPAN I JPY
+title: PARTICIPACIONES|COMGRJA ID Comgest Growth PLC - Comgest G
 isin: IE00BQ1YBP44
 ---

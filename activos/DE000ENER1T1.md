@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SIEMENS
+title: ACCIONES|SIEMENS ENERGY AG(ENR GY)
 isin: DE000ENER1T1
 ---

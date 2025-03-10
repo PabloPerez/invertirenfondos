@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|JO HAMBRO CAPITAL MANAGEMENT
+title: PARTICIPACIONES|WAVERTON EUROPEAN
 isin: IE00B1RMYY77
 ---

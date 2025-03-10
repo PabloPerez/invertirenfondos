@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PART.GAM STAR-CHINA EQ-INS AC (USD)
+title: Participaciones|GAM FUND MANGEMENT
 isin: IE00B3CTFQ60
 ---

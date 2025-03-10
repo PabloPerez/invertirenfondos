@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|IBSTOCK PLC MANUF
+title: Acciones|IBSTOCK PLC
 isin: GB00BYXJC278
 ---

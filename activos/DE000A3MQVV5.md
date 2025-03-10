@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: KFW 1,25% 300627
+title: RFIJA|KFW|1.25|2027-06-30
 isin: DE000A3MQVV5
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|LIONTRUST GLOBAL FUN
+title: Participaciones|LIONTRUST INVESTMENT PARTNERS
 isin: IE00BL6VHG89
 ---

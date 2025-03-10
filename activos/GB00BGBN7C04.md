@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SSP GROUP PLC
+title: Acciones|SSP GROUP PLC
 isin: GB00BGBN7C04
 ---

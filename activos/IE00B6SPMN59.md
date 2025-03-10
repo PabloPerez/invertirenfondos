@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES S&P 500 MINIMUM
+title: ETF|ISHARES ETFS|IR
 isin: IE00B6SPMN59
 ---

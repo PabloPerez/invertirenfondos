@@ -3,67 +3,546 @@
         {
             "fondos": [
                 {
-                    "cantidad": 307556.0,
+                    "cantidad": 102771.0,
+                    "desde": "2024T4",
+                    "isin": "ES0180948004",
+                    "nombre": "SWM RENTA FIJA OBJETIVO 2026, FI CLASE Z",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 102771.0,
+                    "desde": "2024T4",
+                    "isin": "ES0180948038",
+                    "nombre": "SWM RENTA FIJA OBJETIVO 2026, FI CLASE A",
+                    "porcentaje": 2.28
+                },
+                {
+                    "cantidad": 9668399.0,
+                    "desde": "2024T4",
+                    "isin": "ES0145826006",
+                    "nombre": "SANTANDER PB TARGET 2026 5, FI CLASE A",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 9668399.0,
+                    "desde": "2024T4",
+                    "isin": "ES0145826014",
+                    "nombre": "SANTANDER PB TARGET 2026 5, FI CLASE D",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 13666976.0,
+                    "desde": "2024T2",
+                    "isin": "ES0176108001",
+                    "nombre": "SANTANDER PB TARGET 2026 3, FI CLASE A",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 13666976.0,
+                    "desde": "2024T2",
+                    "isin": "ES0176108019",
+                    "nombre": "SANTANDER PB TARGET 2026 3, FI CLASE D",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 102668.0,
+                    "desde": "2024T2",
+                    "isin": "ES0142538000",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase B",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 102668.0,
+                    "desde": "2024T2",
+                    "isin": "ES0142538034",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
+                    "porcentaje": 1.36
+                },
+                {
+                    "cantidad": 307706.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288007",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase B",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 307706.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288015",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase I",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 307706.0,
                     "desde": "2023T4",
                     "isin": "ES0113288023",
-                    "nombre": "CS PREMIUM MODERADO, FI CLASE X",
+                    "nombre": "UBS PREMIUM MODERADO, FI CLASE X",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 307706.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288031",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 2052859.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547001",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase A",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 2052859.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547019",
+                    "nombre": "UBS DURACIÓN 0-2, FI CLASE C",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 2052859.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547035",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase B",
+                    "porcentaje": 1.02
+                },
+                {
+                    "cantidad": 3601324.0,
+                    "desde": "2024T2",
+                    "isin": "ES0138636008",
+                    "nombre": "SABADELL HORIZONTE 11 2026, FI",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 615407.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214000",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase A",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 615407.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214034",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase B",
+                    "porcentaje": 0.92
+                },
+                {
+                    "cantidad": 1438236.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 1438236.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.7
+                },
+                {
+                    "cantidad": 205228.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083005",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE CARTERA",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 205228.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083013",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE PLUS",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 205228.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083039",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE A",
+                    "porcentaje": 0.62
+                },
+                {
+                    "cantidad": 307669.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115664007",
+                    "nombre": "CAIXABANK MIXTO RENTA FIJA 10, FI",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 12632650.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 12632650.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 6111326.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 6111326.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 6111326.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 205142.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138812039",
+                    "nombre": "GCO AHORRO, FI",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 1640888.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665004",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI SIN RETRO",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 1640888.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665012",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI ESTÁNDAR",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 1640888.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665020",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PLUS",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 1640888.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665038",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PREMIUM",
+                    "porcentaje": 0.22
+                }
+            ],
+            "periodo": "2024T4"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 101597.0,
+                    "desde": "2024T2",
+                    "isin": "ES0142538000",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase B",
+                    "porcentaje": 1.69
+                },
+                {
+                    "cantidad": 101597.0,
+                    "desde": "2024T2",
+                    "isin": "ES0142538034",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
+                    "porcentaje": 1.69
+                },
+                {
+                    "cantidad": 13493377.0,
+                    "desde": "2024T2",
+                    "isin": "ES0176108001",
+                    "nombre": "SANTANDER PB TARGET 2026 3, FI CLASE A",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 13493377.0,
+                    "desde": "2024T2",
+                    "isin": "ES0176108019",
+                    "nombre": "SANTANDER PB TARGET 2026 3, FI CLASE D",
+                    "porcentaje": 1.51
+                },
+                {
+                    "cantidad": 304729.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288007",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase B",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 304729.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288015",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase I",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 304729.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288023",
+                    "nombre": "UBS PREMIUM MODERADO, FI CLASE X",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 304729.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288031",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
+                    "porcentaje": 1.28
+                },
+                {
+                    "cantidad": 2033826.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547001",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase A",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 2033826.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547019",
+                    "nombre": "UBS DURACIÓN 0-2, FI CLASE C",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 2033826.0,
+                    "desde": "2023T4",
+                    "isin": "ES0126547035",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase B",
+                    "porcentaje": 1.19
+                },
+                {
+                    "cantidad": 609442.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214000",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase A",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 609442.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214034",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase B",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 3555795.0,
+                    "desde": "2024T2",
+                    "isin": "ES0138636008",
+                    "nombre": "SABADELL HORIZONTE 11 2026, FI",
+                    "porcentaje": 0.97
+                },
+                {
+                    "cantidad": 203111.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083005",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE CARTERA",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 203111.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083013",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE PLUS",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 203111.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083039",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE A",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 304624.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115664007",
+                    "nombre": "CAIXABANK MIXTO RENTA FIJA 10, FI",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 7410561.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 7410561.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 710615.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 710615.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.38
+                },
+                {
+                    "cantidad": 5441739.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 5441739.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 5441739.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 203062.0,
+                    "desde": "2023T4",
+                    "isin": "ES0138812039",
+                    "nombre": "GCO AHORRO, FI",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 1624645.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665004",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI SIN RETRO",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 1624645.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665012",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI ESTÁNDAR",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 1624645.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665020",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PLUS",
+                    "porcentaje": 0.26
+                },
+                {
+                    "cantidad": 1624645.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665038",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PREMIUM",
+                    "porcentaje": 0.26
+                }
+            ],
+            "periodo": "2024T2"
+        },
+        {
+            "fondos": [
+                {
+                    "cantidad": 307556.0,
+                    "desde": "2023T4",
+                    "isin": "ES0113288007",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase B",
                     "porcentaje": 1.63
                 },
                 {
                     "cantidad": 307556.0,
                     "desde": "2023T4",
                     "isin": "ES0113288015",
-                    "nombre": "CS PREMIUM MODERADO, FI Clase I",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase I",
                     "porcentaje": 1.63
                 },
                 {
                     "cantidad": 307556.0,
                     "desde": "2023T4",
-                    "isin": "ES0113288007",
-                    "nombre": "CS PREMIUM MODERADO, FI Clase B",
+                    "isin": "ES0113288023",
+                    "nombre": "UBS PREMIUM MODERADO, FI CLASE X",
                     "porcentaje": 1.63
                 },
                 {
                     "cantidad": 307556.0,
                     "desde": "2023T4",
                     "isin": "ES0113288031",
-                    "nombre": "CS PREMIUM MODERADO, FI Clase A",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
                     "porcentaje": 1.63
                 },
                 {
                     "cantidad": 615105.0,
                     "desde": "2023T4",
-                    "isin": "ES0132214034",
-                    "nombre": "CS PREMIUM EQUILIBRADO, FI Clase B",
+                    "isin": "ES0132214000",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase A",
                     "porcentaje": 1.32
                 },
                 {
                     "cantidad": 615105.0,
                     "desde": "2023T4",
                     "isin": "ES0132214000",
-                    "nombre": "CS PREMIUM EQUILIBRADO, FI Clase A",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase A",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 615105.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214034",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase B",
+                    "porcentaje": 1.32
+                },
+                {
+                    "cantidad": 615105.0,
+                    "desde": "2023T4",
+                    "isin": "ES0132214034",
+                    "nombre": "UBS PREMIUM EQUILIBRADO, FI Clase B",
                     "porcentaje": 1.32
                 },
                 {
                     "cantidad": 1025174.0,
                     "desde": "2023T4",
                     "isin": "ES0126547001",
-                    "nombre": "CS DURACION 0-2, FI Clase A",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase A",
                     "porcentaje": 0.9
                 },
                 {
                     "cantidad": 1025174.0,
                     "desde": "2023T4",
                     "isin": "ES0126547019",
-                    "nombre": "CS DURACION 0-2, FI CLASE C",
+                    "nombre": "UBS DURACIÓN 0-2, FI CLASE C",
                     "porcentaje": 0.9
                 },
                 {
                     "cantidad": 1025174.0,
                     "desde": "2023T4",
                     "isin": "ES0126547035",
-                    "nombre": "CS DURACION 0-2, FI Clase B",
+                    "nombre": "UBS DURACIÓN 0-2, FI Clase B",
                     "porcentaje": 0.9
+                },
+                {
+                    "cantidad": 205045.0,
+                    "desde": "2023T4",
+                    "isin": "ES0136083005",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE CARTERA",
+                    "porcentaje": 0.84
                 },
                 {
                     "cantidad": 205045.0,
@@ -87,11 +566,11 @@
                     "porcentaje": 0.84
                 },
                 {
-                    "cantidad": 1435286.0,
+                    "cantidad": 205045.0,
                     "desde": "2023T4",
-                    "isin": "ES0145458016",
-                    "nombre": "CAIXABANK ITER, FI PLATINUM",
-                    "porcentaje": 0.64
+                    "isin": "ES0136083039",
+                    "nombre": "ARQUIA BANCA RF EURO, FI CLASE A",
+                    "porcentaje": 0.84
                 },
                 {
                     "cantidad": 1435286.0,
@@ -103,8 +582,15 @@
                 {
                     "cantidad": 1435286.0,
                     "desde": "2023T4",
+                    "isin": "ES0145458016",
+                    "nombre": "CAIXABANK ITER, FI PLATINUM",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1435286.0,
+                    "desde": "2023T4",
                     "isin": "ES0145458024",
-                    "nombre": "CAIXABANK ITER, FI CARTERA",
+                    "nombre": "CAIXABANK ITER, FI SIN RETRO",
                     "porcentaje": 0.64
                 },
                 {
@@ -113,6 +599,27 @@
                     "isin": "ES0115664007",
                     "nombre": "CAIXABANK MIXTO RENTA FIJA 10, FI",
                     "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 5377267.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 5377267.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142003",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "porcentaje": 0.39
+                },
+                {
+                    "cantidad": 5377267.0,
+                    "desde": "2023T4",
+                    "isin": "ES0165142011",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE L",
+                    "porcentaje": 0.39
                 },
                 {
                     "cantidad": 5377267.0,
@@ -131,16 +638,9 @@
                 {
                     "cantidad": 5377267.0,
                     "desde": "2023T4",
-                    "isin": "ES0165142003",
-                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE D",
+                    "isin": "ES0165142037",
+                    "nombre": "MUTUAFONDO CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 7484250.0,
-                    "desde": "2023T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
-                    "porcentaje": 0.36
                 },
                 {
                     "cantidad": 7484250.0,
@@ -150,17 +650,17 @@
                     "porcentaje": 0.36
                 },
                 {
-                    "cantidad": 1640326.0,
+                    "cantidad": 7484250.0,
                     "desde": "2023T4",
-                    "isin": "ES0115665038",
-                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PREMIUM",
-                    "porcentaje": 0.35
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.36
                 },
                 {
-                    "cantidad": 717672.0,
+                    "cantidad": 1640326.0,
                     "desde": "2023T4",
-                    "isin": "ES0176938019",
-                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "isin": "ES0115665004",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI SIN RETRO",
                     "porcentaje": 0.35
                 },
                 {
@@ -173,8 +673,15 @@
                 {
                     "cantidad": 1640326.0,
                     "desde": "2023T4",
-                    "isin": "ES0115665004",
-                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI CARTERA",
+                    "isin": "ES0115665020",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PLUS",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 1640326.0,
+                    "desde": "2023T4",
+                    "isin": "ES0115665038",
+                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PREMIUM",
                     "porcentaje": 0.35
                 },
                 {
@@ -185,10 +692,24 @@
                     "porcentaje": 0.35
                 },
                 {
-                    "cantidad": 1640326.0,
+                    "cantidad": 717672.0,
                     "desde": "2023T4",
-                    "isin": "ES0115665020",
-                    "nombre": "CAIXABANK RENTA FIJA CORTO PLAZO, FI PLUS",
+                    "isin": "ES0176938001",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE A",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 717672.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 717672.0,
+                    "desde": "2023T4",
+                    "isin": "ES0176938019",
+                    "nombre": "SANTANDER EUROCREDITO, FI CLASE CARTERA",
                     "porcentaje": 0.35
                 },
                 {
@@ -203,5 +724,5 @@
         }
     ],
     "isin": "XS2697483118",
-    "nombre": "RENTA FIJA|ING GROEP|4,13|2026-10-02"
+    "nombre": "BONOS|ING GROEP N.V.|4,125|2026-10-02"
 }

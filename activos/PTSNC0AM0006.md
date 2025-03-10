@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SONAE
+title: Acciones|SONAE SGPS
 isin: PTSNC0AM0006
 ---

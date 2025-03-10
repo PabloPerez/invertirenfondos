@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|M&G INVESTMENTS
+title: PARTICIPACIONES|M Y G OPTIMAL INCOME FD
 isin: GB00B1VMCY93
 ---
