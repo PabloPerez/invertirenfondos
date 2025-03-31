@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo invertir en Argentina
-description: "Estadísticas de rentabilidad, partícipes y patrimonio del último trimestre de 2024"
+description: "Instrumentos para invertir en Argentina desde España"
 related_image: ./assets/images/argentina.png
 comments: true
 ---
