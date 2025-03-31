@@ -16,7 +16,7 @@ El oro sigue siendo uno de los activos más valorados para proteger tu patrimoni
 
 Los ETCs son productos financieros similares a un ETF que replican el precio del oro y se negocian en bolsa, ofreciendo una forma práctica de invertir sin necesidad de poseer el metal físicamente. A continuación, te presentamos los más destacados disponibles en España:
 
-#### ETCs sin apalancamiento
+#### ETCs sin apalancamientoº1
 - **iShares Physical Gold ETC (SGLN)**  
   - **Comisión (TER)**: 0,12% anual.  
   - **Divisa**: USD, EUR (PPFB).  
@@ -106,15 +106,15 @@ Invertir en oro físico significa comprar lingotes o monedas de oro de inversió
 Puedes comparar el precio del oro físico en distintas plataformas a través del comparador [La Veta de Oro](https://www.lavetadeoro.com/)
 
 
-| **Aspecto**        | **Lingotes**                              | **Monedas**                              |
-|--------------------|-------------------------------------------|------------------------------------------|
+| **Aspecto**        | **Lingotes**                             | **Monedas**                              |
+|:-------------------|:-----------------------------------------|:-----------------------------------------|
 | **Prima**         | Más baja (1%-5% sobre el precio spot).   | Más alta (3%-10%), por el diseño y acuñación. |
 | **Liquidez**      | Menor, especialmente en lingotes grandes (1 kg). | Mayor, las monedas de 1 onza son fáciles de vender. |
 | **Almacenamiento**| Más compactos, ideales para grandes cantidades. | Ocupan más espacio, pero son más manejables. |
 | **Coste inicial** | Más económicos por onza en lingotes grandes. | Más caros por onza debido a la prima. |
 | **Uso en crisis** | Difíciles de fraccionar (lingotes grandes). | Fáciles de usar como medio de intercambio. |
 
-
+   
 **Conclusión**:  
 - **Lingotes** son mejores para inversores que buscan almacenar grandes cantidades de oro a largo plazo, ya que tienen primas más bajas y ocupan menos espacio. Un lingote de 1 kg puede costar unos 90.000 euros (a precios de marzo 2025), pero venderlo puede ser complicado.  
 - **Monedas** son ideales para inversores minoristas o quienes quieran flexibilidad. Una moneda de 1 onza (como un Krugerrand) cuesta algo menos de 3.000 euros, es más líquida y fácil de usar en transacciones pequeñas.
