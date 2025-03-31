@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Cómo invertir en oro: ETCs, oro físico, criptomonedas y más
+title: Cómo invertir en oro
 description: "Cómo invertir en oro: ETCs, oro físico, criptomonedas y más desde España"
 related_image: ./assets/images/oro.png
 comments: true
 ---
 
-# Cómo invertir en oro: ETCs, oro físico, criptomonedas y más opciones
+## Cómo invertir en oro: ETCs, oro físico, criptomonedas y más opciones
 
 El oro sigue siendo uno de los activos más valorados para proteger tu patrimonio, especialmente en tiempos de incertidumbre económica. Si estás pensando en invertir en oro, ¡sigue leyendo para descubrir qué opción se adapta mejor a tus necesidades!
 
 ---
 
-## 1. ETCs de oro: Inversión financiera sin complicaciones
+### ETCs de oro: Inversión financiera sin complicaciones
 
 Los ETCs son productos financieros similares a un ETF que replican el precio del oro y se negocian en bolsa, ofreciendo una forma práctica de invertir sin necesidad de poseer el metal físicamente. A continuación, te presentamos los más destacados disponibles en España:
 
-### ETCs sin apalancamiento
+#### ETCs sin apalancamiento
 - **iShares Physical Gold ETC (SGLN)**  
   - **Comisión (TER)**: 0,12% anual.  
   - **Divisa**: USD, EUR (PPFB).  
@@ -57,7 +57,7 @@ Los ETCs son productos financieros similares a un ETF que replican el precio del
   - **Dónde comprarlo**: DEGIRO, Interactive Brokers.
   - **Más información**: [Ficha en justETF](https://www.justetf.com/en/etf-profile.html?isin=CH0047533523)
 
-### ETCs apalancados (para estrategias a corto plazo)
+#### ETCs apalancados (para estrategias a corto plazo)
 Los ETCs apalancados amplifican los movimientos diarios del precio del oro (2x o 3x), pero son más arriesgados y están pensados para operaciones a corto plazo debido al rebalanceo diario.
 
 - **WisdomTree Gold 2x Daily Leveraged (4RT8)**  
@@ -90,11 +90,11 @@ Los ETCs apalancados amplifican los movimientos diarios del precio del oro (2x o
 
 ---
 
-## 2. Oro físico: Lingotes y monedas para una inversión tangible
+### Oro físico: Lingotes y monedas para una inversión tangible
 
 Invertir en oro físico significa comprar lingotes o monedas de oro de inversión, que están exentos de IVA en España si cumplen ciertos requisitos de pureza (mínimo 99,5% para lingotes y 90% para monedas). Vamos a comparar ambas opciones y analizar las monedas según sus medidas de seguridad.
 
-### Dónde comprar oro físico en España
+#### Dónde comprar oro físico en España
 - **Andorrano Joyería**: Una opción consolidada, con tiendas físicas y online.  
 - **Ciode**: Especialistas en metales preciosos, con buena reputación.  
 - **Degussa**: Tiendas en Madrid y Barcelona, muy fiables.  
@@ -102,23 +102,24 @@ Invertir en oro físico significa comprar lingotes o monedas de oro de inversió
 - **CMC Metales Preciosos**: Otra alternativa sólida para lingotes y monedas, de las más baratas.  
 - **Casa de la Moneda (FNMT)**: Vende monedas de oro como las del lince ibérico, aunque suelen ser más caras por su valor numismático.
 
-### Comparar precios de oro físico en España
+#### Comparar precios de oro físico en España
 Puedes comparar el precio del oro físico en distintas plataformas a través del comparador [La Veta de Oro](https://www.lavetadeoro.com/)
 
-### Comparación entre lingotes y monedas
-| **Aspecto**         | **Lingotes**                              | **Monedas**                              |
-|---------------------|-------------------------------------------|------------------------------------------|
-| **Prima**           | Más baja (1%-5% sobre el precio spot).   | Más alta (3%-10%), por el diseño y acuñación. |
-| **Liquidez**        | Menor, especialmente en lingotes grandes (1 kg). | Mayor, las monedas de 1 onza son fáciles de vender. |
-| **Almacenamiento**  | Más compactos, ideales para grandes cantidades. | Ocupan más espacio, pero son más manejables. |
-| **Coste inicial**   | Más económicos por onza en lingotes grandes. | Más caros por onza debido a la prima. |
-| **Uso en crisis**   | Difíciles de fraccionar (lingotes grandes). | Fáciles de usar como medio de intercambio. |
+
+| **Aspecto**        | **Lingotes**                              | **Monedas**                              |
+|--------------------|-------------------------------------------|------------------------------------------|
+| **Prima**         | Más baja (1%-5% sobre el precio spot).   | Más alta (3%-10%), por el diseño y acuñación. |
+| **Liquidez**      | Menor, especialmente en lingotes grandes (1 kg). | Mayor, las monedas de 1 onza son fáciles de vender. |
+| **Almacenamiento**| Más compactos, ideales para grandes cantidades. | Ocupan más espacio, pero son más manejables. |
+| **Coste inicial** | Más económicos por onza en lingotes grandes. | Más caros por onza debido a la prima. |
+| **Uso en crisis** | Difíciles de fraccionar (lingotes grandes). | Fáciles de usar como medio de intercambio. |
+
 
 **Conclusión**:  
 - **Lingotes** son mejores para inversores que buscan almacenar grandes cantidades de oro a largo plazo, ya que tienen primas más bajas y ocupan menos espacio. Un lingote de 1 kg puede costar unos 90.000 euros (a precios de marzo 2025), pero venderlo puede ser complicado.  
 - **Monedas** son ideales para inversores minoristas o quienes quieran flexibilidad. Una moneda de 1 onza (como un Krugerrand) cuesta algo menos de 3.000 euros, es más líquida y fácil de usar en transacciones pequeñas.
 
-### Monedas de oro: Medidas de seguridad y mejores opciones
+#### Monedas de oro: Medidas de seguridad y mejores opciones
 Las monedas de oro de inversión incorporan medidas de seguridad para evitar falsificaciones, un riesgo real en el mercado. A mayor número de medidas, más difícil es falsificarlas, pero también pueden ser más caras.
 
 - **Krugerrand (Sudáfrica)**  
@@ -168,7 +169,7 @@ Las monedas de oro de inversión incorporan medidas de seguridad para evitar fal
 
 ---
 
-## 3. Plataformas como BullionVault: Oro físico sin complicaciones de almacenamiento
+### Plataformas como BullionVault: Oro físico sin complicaciones de almacenamiento
 
 Plataformas como **BullionVault** o **Coininvest** te permiten comprar oro físico que se almacena en bóvedas seguras, combinando las ventajas del oro físico con la facilidad de operar online.  
 - **Cómo funcionan**: Compras oro físico que se guarda en bóvedas (Suiza, Londres, Nueva York, Singapur). Puedes venderlo online en cualquier momento.  
@@ -184,7 +185,7 @@ Plataformas como **BullionVault** o **Coininvest** te permiten comprar oro físi
 
 ---
 
-## 4. Criptomonedas respaldadas por oro: Una opción moderna
+### Criptomonedas respaldadas por oro: Una opción moderna
 
 Las criptomonedas respaldadas por oro combinan la tecnología blockchain con el valor del oro físico. Una de las más conocidas es:  
 - **PAX Gold (PAXG)**  
@@ -202,31 +203,31 @@ Las criptomonedas respaldadas por oro combinan la tecnología blockchain con el 
 
 ---
 
-## 5. Ventajas y desventajas: ¿Qué método es el mejor para ti?
+### Ventajas y desventajas: ¿Qué método es el mejor para ti?
 
-### ETCs sin apalancamiento  
+#### ETCs sin apalancamiento  
 **Ventajas**: Fáciles de operar, líquidos, costes bajos, sin preocupaciones de almacenamiento.  
 **Desventajas**: Riesgo de contraparte, riesgo divisa (si están en USD), no posees el oro físicamente.
 
-### ETCs apalancados  
+#### ETCs apalancados  
 **Ventajas**: Amplifican las subidas del oro, ideales para especulación a corto plazo.  
 **Desventajas**: Muy volátiles, pierden valor a largo plazo, mayor riesgo de contraparte.
 
-### Oro físico (lingotes y monedas)  
+#### Oro físico (lingotes y monedas)  
 **Ventajas**: Propiedad directa, exento de IVA y tributación a largo plazo, ideal para crisis extremas.  
 **Desventajas**: Costes de almacenamiento, riesgo de robo, menor liquidez, primas al comprar.
 
-### Plataformas como BullionVault  
+#### Plataformas como BullionVault  
 **Ventajas**: Combina la propiedad de oro físico con la facilidad de operar online, buena liquidez.  
 **Desventajas**: Costes de almacenamiento, riesgo de contraparte, no lo tienes en tus manos.
 
-### Criptomonedas respaldadas por oro  
+#### Criptomonedas respaldadas por oro  
 **Ventajas**: Fáciles de comprar, fraccionables, combinan tecnología y oro.  
 **Desventajas**: Riesgo de contraparte, volatilidad del mercado cripto, no tienes el oro físicamente.
 
 ---
 
-## Conclusión: ¿Cómo deberías invertir en oro?
+### Conclusión: ¿Cómo deberías invertir en oro?
 
 - **Si buscas facilidad y liquidez**: Un ETC físico como **iShares Physical Gold (SGLN)** es ideal. Para evitar el riesgo divisa, opta por una versión en euros o, si lo prefieres, en francos suizos.  
 - **Si prefieres especulación a corto plazo**: Los ETCs apalancados como **WisdomTree Gold 3x** pueden ser útiles, pero con precaución.  
