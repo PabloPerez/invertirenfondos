@@ -16,7 +16,7 @@ El oro sigue siendo uno de los activos más valorados para proteger tu patrimoni
 
 Los ETCs son productos financieros similares a un ETF que replican el precio del oro y se negocian en bolsa, ofreciendo una forma práctica de invertir sin necesidad de poseer el metal físicamente. A continuación, te presentamos los más destacados disponibles en España:
 
-#### ETCs sin apalancamientoº1
+#### ETCs sin apalancamiento
 - **iShares Physical Gold ETC (SGLN)**  
   - **Comisión (TER)**: 0,12% anual.  
   - **Divisa**: USD, EUR (PPFB).  
@@ -105,6 +105,7 @@ Invertir en oro físico significa comprar lingotes o monedas de oro de inversió
 #### Comparar precios de oro físico en España
 Puedes comparar el precio del oro físico en distintas plataformas a través del comparador [La Veta de Oro](https://www.lavetadeoro.com/)
 
+#### ¿Monedas o lingotes?
 
 | **Aspecto**        | **Lingotes**                             | **Monedas**                              |
 |:-------------------|:-----------------------------------------|:-----------------------------------------|
@@ -115,7 +116,7 @@ Puedes comparar el precio del oro físico en distintas plataformas a través del
 | **Uso en crisis** | Difíciles de fraccionar (lingotes grandes). | Fáciles de usar como medio de intercambio. |
 
    
-**Conclusión**:  
+##### *Conclusión**:  
 - **Lingotes** son mejores para inversores que buscan almacenar grandes cantidades de oro a largo plazo, ya que tienen primas más bajas y ocupan menos espacio. Un lingote de 1 kg puede costar unos 90.000 euros (a precios de marzo 2025), pero venderlo puede ser complicado.  
 - **Monedas** son ideales para inversores minoristas o quienes quieran flexibilidad. Una moneda de 1 onza (como un Krugerrand) cuesta algo menos de 3.000 euros, es más líquida y fácil de usar en transacciones pequeñas.
 
