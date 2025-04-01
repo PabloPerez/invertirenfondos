@@ -116,7 +116,7 @@ Puedes comparar el precio del oro físico en distintas plataformas a través del
 | **Uso en crisis** | Difíciles de fraccionar (lingotes grandes). | Fáciles de usar como medio de intercambio. |
 
    
-##### *Conclusión**:  
+##### **Conclusión**:  
 - **Lingotes** son mejores para inversores que buscan almacenar grandes cantidades de oro a largo plazo, ya que tienen primas más bajas y ocupan menos espacio. Un lingote de 1 kg puede costar unos 90.000 euros (a precios de marzo 2025), pero venderlo puede ser complicado.  
 - **Monedas** son ideales para inversores minoristas o quienes quieran flexibilidad. Una moneda de 1 onza (como un Krugerrand) cuesta algo menos de 3.000 euros, es más líquida y fácil de usar en transacciones pequeñas.
 
