@@ -38,11 +38,13 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     fundYTDtd.innerHTML = `${fundYTD.toFixed(2)}%`
     let fundPricetd = document.createElement('td');
     fundPricetd.innerHTML = `${fundPrice.toFixed(2)} €`
+    fundPricetd.classList.add("pricetd")
     let fundAssetstd = document.createElement('td');
     fundAssetstd.innerHTML = `${fundAssets.toLocaleString()} €`
+    fundAssetstd.classList.add("assetstd")
     let fundParticipantstd = document.createElement('td');
     fundParticipantstd.innerHTML = fundParticipants.toLocaleString()
-
+    fundParticipantstd.classList.add("participanttd")
     tr.addEventListener("click", function() {
         window.location.href = `./fondos/${fundIsin}.html`
     })

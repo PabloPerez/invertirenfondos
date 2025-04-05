@@ -57,7 +57,8 @@ td {
 
 #quarter-details-table,
 #top-assets-table,
-#top-participants-table {
+#top-participants-table
+#daily-data-funds-table {
   max-width: 1200px;
   margin-bottom: 50px;
   margin-left: auto;
@@ -143,7 +144,13 @@ body {
   .isincolumn,
   .isintd,
   .amounttd,
-  .amountcolumn {
+  .amountcolumn,
+  .pricecolumn,
+  .pricetd,
+  .assetscolumn,
+  .assetstd,
+  .participantcolumn,
+  .participanttd {
     display: none;
   }
   #footer {
