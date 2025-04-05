@@ -277,5 +277,14 @@ const COMMUNITY_FUNDS = {
     "ytd": -9.96,
     "patrimonio": 49844945.58,
     "participes": 4010
+  },
+  "LU0690374615": {
+    "nombre": "FUNDSMITH EQUITY R EUR ACC",
+    "fecha": "04/04/2025",
+    "valor_liquidativo": 53.8441,
+    "variacion": -2.44,
+    "ytd": -10.69,
+    "patrimonio": 7643546438,
+    "participes": 0
   }
 };
