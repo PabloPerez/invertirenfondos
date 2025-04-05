@@ -31,6 +31,9 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     let fundNametd = document.createElement('td');
     fundNametd.innerText = fundName
     let fundDatetd = document.createElement('td');
+    // replace date format from DD/MM/YYYY to DD/MM/YY
+    let dateParts = fundDate.split("/");
+    fundDate = `${dateParts[0]}/${dateParts[1]}/${dateParts[2].slice(-2)}`;
     fundDatetd.innerHTML = fundDate
     let fundLasttd = document.createElement('td');
     fundLasttd.innerHTML = `${fundLast.toFixed(2)}%`
