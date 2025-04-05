@@ -24,11 +24,6 @@ function sortByKey(array, key) {
         return ((x > y) ? -1 : ((x < y) ? 1 : 0));
     });
 }
-    
-
-function resetTable() {
-    document.querySelector('#fund-table tbody').innerHTML = '';
-}
 
 async function addFundToTable(selector, fundIsin, fundName, fundGestora, amount) {
     tableBody = document.querySelector(selector)
