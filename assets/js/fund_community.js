@@ -46,7 +46,8 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     fundAssetstd.innerHTML = `${fundAssets.toLocaleString()}€`
     fundAssetstd.classList.add("assetstd")
     let fundParticipantstd = document.createElement('td');
-    fundParticipantstd.innerHTML = fundParticipants.toLocaleString()
+    // if participants is 0, show '-'
+    fundParticipantstd.innerHTML = fundParticipants == 0 ? '-' : `${fundParticipants.toLocaleString()}`
     fundParticipantstd.classList.add("participanttd")
     if (fundIsin.startsWith("ES")) {
         tr.addEventListener("click", function() {
