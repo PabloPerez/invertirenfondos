@@ -25,22 +25,22 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     tableBody = document.querySelector(selector)
     let tr = document.createElement('tr');
 
-    let isintd = document.createElement('td');
-    isintd.classList.add("isintd")
-    isintd.innerText = fundIsin;
+    // let isintd = document.createElement('td');
+    // isintd.classList.add("isintd")
+    // isintd.innerText = fundIsin;
     let fundNametd = document.createElement('td');
     fundNametd.innerText = fundName
     let fundDatetd = document.createElement('td');
-    fundDatetd.innerHTML = fundDatetd
+    fundDatetd.innerHTML = fundDate
     let fundLasttd = document.createElement('td');
     fundLasttd.innerHTML = `${fundLast.toFixed(2)}%`
     let fundYTDtd = document.createElement('td');
     fundYTDtd.innerHTML = `${fundYTD.toFixed(2)}%`
     let fundPricetd = document.createElement('td');
-    fundPricetd.innerHTML = `${fundPrice.toFixed(2)} €`
+    fundPricetd.innerHTML = `${fundPrice.toFixed(2)}`
     fundPricetd.classList.add("pricetd")
     let fundAssetstd = document.createElement('td');
-    fundAssetstd.innerHTML = `${fundAssets.toLocaleString()} €`
+    fundAssetstd.innerHTML = `${fundAssets.toLocaleString()}€`
     fundAssetstd.classList.add("assetstd")
     let fundParticipantstd = document.createElement('td');
     fundParticipantstd.innerHTML = fundParticipants.toLocaleString()
@@ -49,7 +49,7 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
         window.location.href = `./fondos/${fundIsin}.html`
     })
 
-    tr.appendChild(isintd);
+    // tr.appendChild(isintd);
     tr.appendChild(fundNametd);
     tr.appendChild(fundDatetd);
     tr.appendChild(fundLasttd);
