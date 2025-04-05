@@ -45,9 +45,11 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     let fundParticipantstd = document.createElement('td');
     fundParticipantstd.innerHTML = fundParticipants.toLocaleString()
     fundParticipantstd.classList.add("participanttd")
-    tr.addEventListener("click", function() {
-        window.location.href = `./fondos/${fundIsin}.html`
-    })
+    if (fundIsin.startsWith("ES")) {
+        tr.addEventListener("click", function() {
+            window.location.href = `./fondos/${fundIsin}.html`
+        })    
+    }
 
     // tr.appendChild(isintd);
     tr.appendChild(fundNametd);
