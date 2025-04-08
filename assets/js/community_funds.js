@@ -262,12 +262,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0112231016": {
     "nombre": "AVANTAGE FUND, B",
-    "fecha": "03/04/2025",
-    "valor_liquidativo": 23.73942,
+    "fecha": "04/04/2025",
+    "valor_liquidativo": 23.7394,
     "variacion": -3.83,
     "ytd": -8.42,
-    "patrimonio": 97475267,
-    "participes": 0
+    "patrimonio": 65413600.59,
+    "participes": 2949
   },
   "ES0141116030": {
     "nombre": "HAMCO GLOBAL VALUE FUND CLASE R, FI",
@@ -280,7 +280,7 @@ const COMMUNITY_FUNDS = {
   },
   "LU0690374615": {
     "nombre": "FUNDSMITH EQUITY R EUR ACC",
-    "fecha": "04/04/2025",
+    "fecha": "07/04/2025",
     "valor_liquidativo": 51.2174,
     "variacion": -4.88,
     "ytd": -15.05,
