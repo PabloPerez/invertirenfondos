@@ -55,19 +55,19 @@ const COMMUNITY_FUNDS = {
   },
   "ES0119199034": {
     "nombre": "COBAS INTERNACIONAL, FI CLASE A",
-    "fecha": "04/04/2025",
-    "valor_liquidativo": 114.18092,
-    "variacion": -5.76,
-    "ytd": -9.03,
+    "fecha": "07/04/2025",
+    "valor_liquidativo": 111.30426,
+    "variacion": -2.52,
+    "ytd": -11.32,
     "patrimonio": 448598286,
     "participes": 0
   },
   "ES0113728036": {
     "nombre": "COBAS GRANDES COMPAÑIAS, FI CLASE A",
-    "fecha": "04/04/2025",
-    "valor_liquidativo": 110.36508,
-    "variacion": -4.85,
-    "ytd": -7.7,
+    "fecha": "07/04/2025",
+    "valor_liquidativo": 107.37974,
+    "variacion": -2.7,
+    "ytd": -10.2,
     "patrimonio": 16079390,
     "participes": 0
   },
