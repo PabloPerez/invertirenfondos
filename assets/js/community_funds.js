@@ -1,129 +1,129 @@
 const COMMUNITY_FUNDS = {
   "ES0114673033": {
     "nombre": "BESTINFOND, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 257.0668,
-    "variacion": -0.82,
-    "ytd": -8.62,
-    "patrimonio": 1397407166.0,
-    "participes": 20344
+    "fecha": "18/04/2025",
+    "valor_liquidativo": 256.78393,
+    "variacion": -0.11,
+    "ytd": -8.72,
+    "patrimonio": 1397407166,
+    "participes": 0
   },
   "ES0112611001": {
     "nombre": "AZVALOR INTERNACIONAL, FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 211.1502,
-    "variacion": 0.81,
-    "ytd": -10.21,
-    "patrimonio": 1821686470.57,
-    "participes": 16748
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 209.71398,
+    "variacion": -0.68,
+    "ytd": -10.83,
+    "patrimonio": 1821686471,
+    "participes": 0
   },
   "ES0112609005": {
     "nombre": "AZVALOR BLUE CHIPS, FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 164.2476,
-    "variacion": 0.63,
-    "ytd": -13.04,
-    "patrimonio": 58883518.92,
-    "participes": 656
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 163.25882,
+    "variacion": -0.6,
+    "ytd": -13.57,
+    "patrimonio": 58883519,
+    "participes": 0
   },
   "ES0112616000": {
     "nombre": "AZVALOR IBERIA, FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 157.1538,
-    "variacion": 1.8,
-    "ytd": 5.42,
-    "patrimonio": 64091758.64,
-    "participes": 1379
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 157.17108,
+    "variacion": 0.01,
+    "ytd": 5.43,
+    "patrimonio": 64091759,
+    "participes": 0
   },
   "ES0112602000": {
     "nombre": "AZVALOR MANAGERS, FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 152.7004,
-    "variacion": 0.55,
-    "ytd": -10.82,
-    "patrimonio": 105574594.45,
-    "participes": 1709
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 152.14564,
+    "variacion": -0.36,
+    "ytd": -11.14,
+    "patrimonio": 105574594,
+    "participes": 0
   },
   "ES0175902008": {
     "nombre": "SIGMA INTERNACIONAL, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 14.8123,
-    "variacion": -1.27,
-    "ytd": 1.51,
-    "patrimonio": 42090825.93,
-    "participes": 1567
+    "fecha": "18/04/2025",
+    "valor_liquidativo": 14.9231,
+    "variacion": 0.75,
+    "ytd": 2.27,
+    "patrimonio": 52867802,
+    "participes": 0
   },
   "ES0119199034": {
     "nombre": "COBAS INTERNACIONAL, FI CLASE A",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 116.4081,
-    "variacion": 1.35,
-    "ytd": -7.26,
-    "patrimonio": 441210488.48,
-    "participes": 4792
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 116.34151,
+    "variacion": -0.06,
+    "ytd": -7.31,
+    "patrimonio": 448598286,
+    "participes": 0
   },
   "ES0113728036": {
     "nombre": "COBAS GRANDES COMPAÑIAS, FI CLASE A",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 110.7325,
-    "variacion": 1.51,
-    "ytd": -7.4,
-    "patrimonio": 15792803.82,
-    "participes": 598
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 110.40763,
+    "variacion": -0.29,
+    "ytd": -7.67,
+    "patrimonio": 16079390,
+    "participes": 0
   },
   "ES0124037039": {
     "nombre": "COBAS SELECCION, FI CLASE A",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 118.224,
-    "variacion": 1.5,
-    "ytd": -5.11,
-    "patrimonio": 662978450.92,
-    "participes": 7838
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 118.19064,
+    "variacion": -0.03,
+    "ytd": -5.14,
+    "patrimonio": 711994823,
+    "participes": 0
   },
   "ES0119184036": {
     "nombre": "COBAS IBERIA, FI CLASE A",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 125.3494,
-    "variacion": 2.14,
-    "ytd": 8.45,
-    "patrimonio": 38684654.44,
-    "participes": 1139
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 126.14701,
+    "variacion": 0.64,
+    "ytd": 9.14,
+    "patrimonio": 34288452,
+    "participes": 0
   },
   "ES0159259011": {
     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 199.4265,
-    "variacion": -0.09,
-    "ytd": -1.9,
-    "patrimonio": 258006532.62,
-    "participes": 5855
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 199.60676,
+    "variacion": 0.09,
+    "ytd": -1.81,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159201013": {
     "nombre": "MAGALLANES IBERIAN EQUITY FI CLASE M",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 215.4768,
-    "variacion": 0.32,
-    "ytd": 10.74,
-    "patrimonio": 37732045.02,
-    "participes": 1407
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 216.54403,
+    "variacion": 0.5,
+    "ytd": 11.29,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159202011": {
     "nombre": "MAGALLANES MICROCAPS EUROPE, FI CLASE B",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 144.8504,
-    "variacion": 0.1,
-    "ytd": 3.03,
-    "patrimonio": 83156778.51,
-    "participes": 1731
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 144.67546,
+    "variacion": -0.12,
+    "ytd": 2.91,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0146309002": {
     "nombre": "HOROS VALUE INTERNACIONAL,FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 157.8002,
-    "variacion": 0.89,
-    "ytd": -2.47,
-    "patrimonio": 136081835.62,
-    "participes": 5033
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 157.50339,
+    "variacion": -0.19,
+    "ytd": -2.65,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0156572002": {
     "nombre": "MYINVESTOR CARTERA PERMANENTE, FI",
@@ -181,12 +181,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0182769002": {
     "nombre": "VALENTUM, FI CLASE E",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 20.4814,
-    "variacion": -0.36,
-    "ytd": -1.96,
-    "patrimonio": 81549388.24,
-    "participes": 1708
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 20.44602,
+    "variacion": -0.17,
+    "ytd": -2.13,
+    "patrimonio": 465968,
+    "participes": 0
   },
   "ES0131444111": {
     "nombre": "GESTION BOUTIQUE VII AZAGALA",
