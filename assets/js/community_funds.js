@@ -127,57 +127,57 @@ const COMMUNITY_FUNDS = {
   },
   "ES0156572002": {
     "nombre": "MYINVESTOR CARTERA PERMANENTE, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 101.5672,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 101.56717,
     "variacion": 0.51,
     "ytd": 1.42,
-    "patrimonio": 63105361.52,
-    "participes": 4272
+    "patrimonio": 63105362,
+    "participes": 0
   },
   "ES0110407097": {
     "nombre": "GESTION BOUTIQUE VI BAELO PATRIMONIO",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 141.5007,
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 141.50072,
     "variacion": 0.32,
     "ytd": -1.19,
-    "patrimonio": 76701337.31,
-    "participes": 4572
+    "patrimonio": 76701337,
+    "participes": 0
   },
   "ES0173985005": {
     "nombre": "RIVER PATRIMONIO, FI",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 129.7781,
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 129.77811,
     "variacion": 0.87,
     "ytd": -8.59,
-    "patrimonio": 16761885.56,
-    "participes": 785
+    "patrimonio": 16761886,
+    "participes": 0
   },
   "ES0147897005": {
     "nombre": "IMPASSIVE WEALTH, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 138.9826,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 138.98257,
     "variacion": -0.22,
     "ytd": -4.53,
-    "patrimonio": 18992095.21,
-    "participes": 553
+    "patrimonio": 18992095,
+    "participes": 0
   },
   "ES0131445076": {
     "nombre": "GESTION BOUTIQUE VIII ADARVE ALTEA",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 137.5709,
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 137.57094,
     "variacion": 0.79,
     "ytd": -7.74,
-    "patrimonio": 11357723.83,
-    "participes": 690
+    "patrimonio": 11357724,
+    "participes": 0
   },
   "ES0165243009": {
     "nombre": "MYINVESTOR VALUE, FI CLASE A",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 0.9871,
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 0.98711,
     "variacion": 1.23,
     "ytd": -4.12,
-    "patrimonio": 13757844.88,
-    "participes": 1068
+    "patrimonio": 15165088,
+    "participes": 0
   },
   "ES0182769002": {
     "nombre": "VALENTUM, FI CLASE E",
@@ -190,12 +190,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0131444111": {
     "nombre": "GESTION BOUTIQUE VII AZAGALA",
-    "fecha": "15/04/2025",
-    "valor_liquidativo": 12.4666,
+    "fecha": "16/04/2025",
+    "valor_liquidativo": 12.46656,
     "variacion": 0.85,
     "ytd": -5.72,
-    "patrimonio": 7236935.54,
-    "participes": 651
+    "patrimonio": 7236936,
+    "participes": 0
   },
   "ES0173311103": {
     "nombre": "RENTA 4 MULTIGESTION NUMANTIA PATRIMONIO GLOBAL",
@@ -244,12 +244,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0180782007": {
     "nombre": "TRUE CAPITAL FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 14.1444,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 14.14438,
     "variacion": -2.09,
     "ytd": -7.85,
-    "patrimonio": 5190021.37,
-    "participes": 721
+    "patrimonio": 5190021,
+    "participes": 0
   },
   "ES0173311079": {
     "nombre": "RENTA 4 MULTIGESTION ANDROMEDA VALUE CAPITAL",
@@ -271,12 +271,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0141116030": {
     "nombre": "HAMCO GLOBAL VALUE FUND CLASE R, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 214.5811,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 214.58114,
     "variacion": -0.26,
     "ytd": -12.15,
-    "patrimonio": 48577747.44,
-    "participes": 4067
+    "patrimonio": 49444434,
+    "participes": 0
   },
   "LU0690374615": {
     "nombre": "FUNDSMITH EQUITY R EUR ACC",
