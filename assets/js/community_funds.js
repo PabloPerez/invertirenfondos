@@ -118,10 +118,10 @@ const COMMUNITY_FUNDS = {
   },
   "ES0146309002": {
     "nombre": "HOROS VALUE INTERNACIONAL,FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 157.50339,
-    "variacion": -0.19,
-    "ytd": -2.65,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 159.02492,
+    "variacion": 0.97,
+    "ytd": -1.71,
     "patrimonio": null,
     "participes": 0
   },
