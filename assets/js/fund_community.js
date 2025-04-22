@@ -12,6 +12,21 @@ function populateTable() {
     fundsByVariacion.forEach(fund => {
         addFundToTable('#daily-data-funds-table tbody', fund.isin, fund.nombre, fund.fecha, fund.variacion, fund.ytd, fund.valor_liquidativo, fund.patrimonio, fund.participes)
     })
+
+    // Add event listeners to table headers for sorting
+    document.querySelectorAll('#daily-data-funds-table th').forEach((header, index) => {
+        header.addEventListener('click', () => {
+            const keyMap = ['nombre', 'fecha', 'variacion', 'ytd', 'valor_liquidativo', 'patrimonio', 'participes'];
+            const key = keyMap[index];
+            const sortedFunds = sortByKey(funds, key);
+            const tableBody = document.querySelector('#daily-data-funds-table tbody');
+            tableBody.innerHTML = ''; // Clear existing rows
+            sortedFunds.forEach(fund => {
+                addFundToTable('#daily-data-funds-table tbody', fund.isin, fund.nombre, fund.fecha, fund.variacion, fund.ytd, fund.valor_liquidativo, fund.patrimonio, fund.participes);
+            });
+        });
+    });
+    
 }
 
 function sortByKey(array, key) {
@@ -50,19 +65,6 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     fundParticipantstd.innerHTML = fundParticipants == 0 ? '-' : `${fundParticipants.toLocaleString()}`
     fundParticipantstd.classList.add("participanttd");
 
-    // Add event listeners to table headers for sorting
-    document.querySelectorAll('#daily-data-funds-table th').forEach((header, index) => {
-        header.addEventListener('click', () => {
-            const keyMap = ['nombre', 'fecha', 'variacion', 'ytd', 'valor_liquidativo', 'patrimonio', 'participes'];
-            const key = keyMap[index];
-            const sortedFunds = sortByKey(funds, key);
-            const tableBody = document.querySelector('#daily-data-funds-table tbody');
-            tableBody.innerHTML = ''; // Clear existing rows
-            sortedFunds.forEach(fund => {
-                addFundToTable('#daily-data-funds-table tbody', fund.isin, fund.nombre, fund.fecha, fund.variacion, fund.ytd, fund.valor_liquidativo, fund.patrimonio, fund.participes);
-            });
-        });
-    });
     if (fundIsin.startsWith("ES")) {
         tr.addEventListener("click", function() {
             window.location.href = `./fondos/${fundIsin}.html`
