@@ -43,7 +43,7 @@ async function addFundToTable(selector, fundIsin, fundName, fundDate, fundLast, 
     fundPricetd.innerHTML = `${fundPrice.toFixed(2)}`
     fundPricetd.classList.add("pricetd")
     let fundAssetstd = document.createElement('td');
-    fundAssetstd.innerHTML = `${fundAssets.toLocaleString()}€`
+    fundAssetstd.innerHTML = fundAssets === null ? '-' : `${fundAssets.toLocaleString()}€`
     fundAssetstd.classList.add("assetstd")
     let fundParticipantstd = document.createElement('td');
     // if participants is 0, show '-'
