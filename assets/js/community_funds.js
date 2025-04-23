@@ -136,21 +136,21 @@ const COMMUNITY_FUNDS = {
   },
   "ES0110407097": {
     "nombre": "GESTION BOUTIQUE VI BAELO PATRIMONIO",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 140.7669,
-    "variacion": -0.52,
-    "ytd": -1.7,
-    "patrimonio": 76313193.64,
-    "participes": 4574
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 141.20518,
+    "variacion": 0.31,
+    "ytd": -1.4,
+    "patrimonio": 76313194,
+    "participes": 0
   },
   "ES0173985005": {
     "nombre": "RIVER PATRIMONIO, FI",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 129.0782,
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 128.38485,
     "variacion": -0.54,
-    "ytd": -9.08,
-    "patrimonio": 16650419.63,
-    "participes": 783
+    "ytd": -9.57,
+    "patrimonio": 16650420,
+    "participes": 0
   },
   "ES0147897005": {
     "nombre": "IMPASSIVE WEALTH, FI",
@@ -163,21 +163,21 @@ const COMMUNITY_FUNDS = {
   },
   "ES0131445076": {
     "nombre": "GESTION BOUTIQUE VIII ADARVE ALTEA",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 136.5131,
-    "variacion": -0.77,
-    "ytd": -8.45,
-    "patrimonio": 11275530.3,
-    "participes": 690
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 137.20325,
+    "variacion": 0.51,
+    "ytd": -7.99,
+    "patrimonio": 11275530,
+    "participes": 0
   },
   "ES0165243009": {
     "nombre": "MYINVESTOR VALUE, FI CLASE A",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 0.9884,
-    "variacion": 0.13,
-    "ytd": -3.99,
-    "patrimonio": 13775417.14,
-    "participes": 1067
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 0.99319,
+    "variacion": 0.49,
+    "ytd": -3.53,
+    "patrimonio": 15165088,
+    "participes": 0
   },
   "ES0182769002": {
     "nombre": "VALENTUM, FI CLASE E",
@@ -190,12 +190,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0131444111": {
     "nombre": "GESTION BOUTIQUE VII AZAGALA",
-    "fecha": "16/04/2025",
-    "valor_liquidativo": 12.4364,
-    "variacion": -0.24,
-    "ytd": -5.95,
-    "patrimonio": 7724535.43,
-    "participes": 653
+    "fecha": "17/04/2025",
+    "valor_liquidativo": 12.49382,
+    "variacion": 0.46,
+    "ytd": -5.52,
+    "patrimonio": 7724535,
+    "participes": 0
   },
   "ES0173311103": {
     "nombre": "RENTA 4 MULTIGESTION NUMANTIA PATRIMONIO GLOBAL",
