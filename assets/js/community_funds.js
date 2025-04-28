@@ -1,12 +1,12 @@
 const COMMUNITY_FUNDS = {
   "ES0114673033": {
     "nombre": "BESTINFOND, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 266.6048,
-    "variacion": 1.29,
-    "ytd": -5.23,
-    "patrimonio": 1451329511.3,
-    "participes": 20344
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 268.40878,
+    "variacion": 0.68,
+    "ytd": -4.59,
+    "patrimonio": 1451176297,
+    "participes": 0
   },
   "ES0112611001": {
     "nombre": "AZVALOR INTERNACIONAL, FI",
@@ -91,39 +91,39 @@ const COMMUNITY_FUNDS = {
   },
   "ES0159259011": {
     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 207.881,
-    "variacion": 0.39,
-    "ytd": 2.26,
-    "patrimonio": 269453525.08,
-    "participes": 5864
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 209.5517,
+    "variacion": 0.8,
+    "ytd": 3.08,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159201013": {
     "nombre": "MAGALLANES IBERIAN EQUITY FI CLASE M",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 221.3452,
-    "variacion": 0.16,
-    "ytd": 13.75,
-    "patrimonio": 38934628.85,
-    "participes": 1413
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 224.47218,
+    "variacion": 1.41,
+    "ytd": 15.36,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159202011": {
     "nombre": "MAGALLANES MICROCAPS EUROPE, FI CLASE B",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 147.7601,
-    "variacion": 0.53,
-    "ytd": 5.1,
-    "patrimonio": 84820782.41,
-    "participes": 1733
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 149.30401,
+    "variacion": 1.04,
+    "ytd": 6.2,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0146309002": {
     "nombre": "HOROS VALUE INTERNACIONAL,FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 162.4267,
-    "variacion": 0.5,
-    "ytd": 0.39,
-    "patrimonio": 141736971.87,
-    "participes": 5099
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 163.36349,
+    "variacion": 0.58,
+    "ytd": 0.97,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0156572002": {
     "nombre": "MYINVESTOR CARTERA PERMANENTE, FI",
@@ -181,12 +181,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0182769002": {
     "nombre": "VALENTUM, FI CLASE E",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 21.1526,
-    "variacion": 0.85,
-    "ytd": 1.25,
-    "patrimonio": 84325623.23,
-    "participes": 1704
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 21.17709,
+    "variacion": 0.12,
+    "ytd": 1.37,
+    "patrimonio": 465968,
+    "participes": 0
   },
   "ES0131444111": {
     "nombre": "GESTION BOUTIQUE VII AZAGALA",
@@ -199,12 +199,12 @@ const COMMUNITY_FUNDS = {
   },
   "ES0173311103": {
     "nombre": "RENTA 4 MULTIGESTION NUMANTIA PATRIMONIO GLOBAL",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 20.3199,
-    "variacion": 2.73,
-    "ytd": -16.21,
-    "patrimonio": 153912882.08,
-    "participes": 12953
+    "fecha": "24/04/2025",
+    "valor_liquidativo": 20.57129,
+    "variacion": 1.24,
+    "ytd": -15.17,
+    "patrimonio": 153912882,
+    "participes": 0
   },
   "ES0107696066": {
     "nombre": "ALCALA MULTIGESTION CORNAMUSA",
@@ -217,30 +217,30 @@ const COMMUNITY_FUNDS = {
   },
   "ES0179555026": {
     "nombre": "TRUE VALUE SMALL CAPS, FI CLASE C",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 17.0364,
-    "variacion": -0.07,
-    "ytd": -3.57,
-    "patrimonio": 40105553.85,
-    "participes": 4463
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 17.04843,
+    "variacion": 0.07,
+    "ytd": -3.5,
+    "patrimonio": 58677794,
+    "participes": 0
   },
   "ES0180792006": {
     "nombre": "TRUE VALUE, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 19.5878,
-    "variacion": 0.41,
-    "ytd": -4.43,
-    "patrimonio": 72610628.63,
-    "participes": 5814
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 19.59854,
+    "variacion": 0.06,
+    "ytd": -4.37,
+    "patrimonio": 72610629,
+    "participes": 0
   },
   "ES0180783013": {
     "nombre": "TRUE VALUE COMPOUNDERS, FI CLASE B",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 6.951,
-    "variacion": 0.87,
-    "ytd": -2.18,
-    "patrimonio": 30513346.98,
-    "participes": 3441
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 6.92063,
+    "variacion": -0.44,
+    "ytd": -2.61,
+    "patrimonio": 30513347,
+    "participes": 0
   },
   "ES0180782007": {
     "nombre": "TRUE CAPITAL FI",
@@ -253,21 +253,21 @@ const COMMUNITY_FUNDS = {
   },
   "ES0173311079": {
     "nombre": "RENTA 4 MULTIGESTION ANDROMEDA VALUE CAPITAL",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 12.1542,
-    "variacion": -0.05,
+    "fecha": "24/04/2025",
+    "valor_liquidativo": 12.15386,
+    "variacion": 0,
     "ytd": -16.24,
-    "patrimonio": 16793951.96,
-    "participes": 1239
+    "patrimonio": 16793952,
+    "participes": 0
   },
   "ES0112231016": {
     "nombre": "AVANTAGE FUND, B",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 25.1628,
-    "variacion": 0.85,
-    "ytd": -2.93,
-    "patrimonio": 70632376.7,
-    "participes": 2995
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 25.10392,
+    "variacion": -0.23,
+    "ytd": -3.16,
+    "patrimonio": 95218065,
+    "participes": 0
   },
   "ES0141116030": {
     "nombre": "HAMCO GLOBAL VALUE FUND CLASE R, FI",
@@ -280,11 +280,11 @@ const COMMUNITY_FUNDS = {
   },
   "LU0690374615": {
     "nombre": "FUNDSMITH EQUITY R EUR ACC",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 53.67,
-    "variacion": 1.32,
-    "ytd": -10.98,
-    "patrimonio": 6932843045,
+    "fecha": "28/04/2025",
+    "valor_liquidativo": 53.7648,
+    "variacion": 0.18,
+    "ytd": -10.83,
+    "patrimonio": 7021602177,
     "participes": 0
   }
 };
