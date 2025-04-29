@@ -55,39 +55,39 @@ const COMMUNITY_FUNDS = {
   },
   "ES0119199034": {
     "nombre": "COBAS INTERNACIONAL, FI CLASE A",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 120.7942,
-    "variacion": 0.81,
-    "ytd": -3.76,
-    "patrimonio": 459684496.77,
-    "participes": 4822
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 122.1936,
+    "variacion": 1.16,
+    "ytd": -2.65,
+    "patrimonio": 448598286,
+    "participes": 0
   },
   "ES0113728036": {
     "nombre": "COBAS GRANDES COMPAÑIAS, FI CLASE A",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 115.9018,
-    "variacion": 1.09,
-    "ytd": -3.07,
-    "patrimonio": 16483594.26,
-    "participes": 600
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 116.72444,
+    "variacion": 0.71,
+    "ytd": -2.39,
+    "patrimonio": 16079390,
+    "participes": 0
   },
   "ES0124037039": {
     "nombre": "COBAS SELECCION, FI CLASE A",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 122.6233,
-    "variacion": 0.79,
-    "ytd": -1.58,
-    "patrimonio": 690166332.5,
-    "participes": 7884
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 123.93137,
+    "variacion": 1.07,
+    "ytd": -0.53,
+    "patrimonio": 711994823,
+    "participes": 0
   },
   "ES0119184036": {
     "nombre": "COBAS IBERIA, FI CLASE A",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 129.449,
-    "variacion": 0.53,
-    "ytd": 11.99,
-    "patrimonio": 40441810.16,
-    "participes": 1148
+    "fecha": "25/04/2025",
+    "valor_liquidativo": 130.1678,
+    "variacion": 0.56,
+    "ytd": 12.61,
+    "patrimonio": 34288452,
+    "participes": 0
   },
   "ES0159259011": {
     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
