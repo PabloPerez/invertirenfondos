@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|STATE ST ETFS I
+title: PARTICIPACIONES|ETF ZPRG GY Equity
 isin: IE00B9CQXS71
 ---

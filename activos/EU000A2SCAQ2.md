@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|EUROPEAN FINANCI|2.50|2027-12-15
+title: BO.EFSF AVAL EST 2,5% VT.15|12|2027
 isin: EU000A2SCAQ2
 ---

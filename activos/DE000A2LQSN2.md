@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: EMISIONES|KREDITANSTALT FUER W|0,750|2029-01-15
+title: KFW 0,75% 150129
 isin: DE000A2LQSN2
 ---

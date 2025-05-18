@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|ESTADO U.K.|0,50|2022-07-22
+title: United Kingdom Gilt 0,5% 220722
 isin: GB00BD0PCK97
 ---

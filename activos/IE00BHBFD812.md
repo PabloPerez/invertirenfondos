@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC Legg Mason Western Asset Macro Opportunities
+title: Participaciones|LEGG MASON
 isin: IE00BHBFD812
 ---

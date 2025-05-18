@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|M&G INVESTMENT FUNDS
+title: PARTICIPACIONES M G GLOBAL EMERGING MKT-AA=
 isin: GB00B3FFXZ60
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ISHARES S&P SMALL CAP 600 (XETRA)
+title: ETF|ISHARES S&P SMC
 isin: IE00B2QWCY14
 ---

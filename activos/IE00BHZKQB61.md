@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PIMCO GLOBAL LOW DUR
+title: PARTICIPACIONES|PimcoGlobal Low
 isin: IE00BHZKQB61
 ---

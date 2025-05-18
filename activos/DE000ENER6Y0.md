@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SIEMENS ENERGY
+title: AC.SIEMENS ENERGY AG
 isin: DE000ENER6Y0
 ---

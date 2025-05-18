@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones| INFRA DEVELP UCITS
+title: PARTICIPACIONES|Global XUS Infrastru
 isin: IE00BLCHJ534
 ---

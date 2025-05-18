@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES MSCI JAPAN SRI U
+title: ETF|ISHARES IV PUBLIC LI
 isin: IE00BYX8XC17
 ---

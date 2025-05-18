@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.BANCO DO BRASIL SA (BRL)
+title: ACCIONES|BANCO DO BRASIL SA
 isin: BRBBASACNOR3
 ---

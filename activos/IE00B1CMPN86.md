@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|AER LINGUS GROUP PLC
+title: AER LINGUS GROUP
 isin: IE00B1CMPN86
 ---

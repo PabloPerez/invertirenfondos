@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|VANGUARD
+title: ETF|VANGUARD S&P 500 UCI
 isin: IE00BFMXXD54
 ---

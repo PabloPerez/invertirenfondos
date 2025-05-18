@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|PORTUGAL OBRIGAC|3.62|2054-06-12
+title: OB.PORTUGAL 3,625% VT.12|06|2054
 isin: PTOTE3OE0025
 ---

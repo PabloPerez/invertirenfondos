@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares MSCI World CHF Hedged
+title: PARTICIPACIONES|ETF ISHARES MSCI WOR
 isin: IE00B8BVCK12
 ---

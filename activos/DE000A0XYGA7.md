@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|TECHNOTRANS
+title: ACCIONES|TECHNOTRANS
 isin: DE000A0XYGA7
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Netia
+title: Acciones|NETIA
 isin: PLNETIA00014
 ---

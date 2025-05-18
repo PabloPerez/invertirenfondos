@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: OB.DB CAPTL FUNDG XI 9,5% PERP(CALL3|15)
+title: DB CAP FNDG XI 31|03|2015 perpetua
 isin: DE000A1ALVC5
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|MERCEDES BENZ GR|0.00|2024-02-08
+title: Cupón Cero|MERCEDES-BENZ INTL F|100,000|2024-02
 isin: DE000A2YNZV0
 ---

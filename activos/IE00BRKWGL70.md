@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC Invesco S&P 500 EUR HDG ACC
+title: PARTICIPACIONES|INVESCO ASSET MANAGE
 isin: IE00BRKWGL70
 ---

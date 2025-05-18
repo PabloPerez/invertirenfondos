@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Amundi ETF S&P  Glob
+title: Participaciones|AMUNDI
 isin: IE000PMX0MW6
 ---

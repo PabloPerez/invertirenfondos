@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Ishares USD Tips
+title: Participaciones|ISHARES
 isin: IE00BDZVH966
 ---

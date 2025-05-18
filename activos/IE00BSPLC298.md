@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR MSCI Europe Small Cap Val
+title: PARTICIPACIONES|SPDR MSCI Europe
 isin: IE00BSPLC298
 ---

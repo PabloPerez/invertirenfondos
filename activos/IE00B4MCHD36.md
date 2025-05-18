@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BLACKROCK IRELAN
+title: PARTICIPACIONES|ETF. Ishares
 isin: IE00B4MCHD36
 ---

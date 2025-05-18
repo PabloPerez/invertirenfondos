@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|VOLTA ELECTRICITY|4,17|2017-02-16
+title: Obligaciones|TAGUS SA|0,347|2017-02-16
 isin: PTTGUNOM0018
 ---

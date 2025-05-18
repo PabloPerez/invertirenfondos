@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GUINNESS GLOBAL ENERGY X
+title: Participaciones|GUINNES ASSET MANAGEMENT
 isin: IE00BFMGVR44
 ---

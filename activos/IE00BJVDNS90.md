@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|LEGG MASON FUND
+title: Participaciones|FRANKLIN TEMPLETON INT SER IRE
 isin: IE00BJVDNS90
 ---

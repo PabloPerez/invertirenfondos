@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Bertrandt AG
+title: ACCIONES|NANOGATE AG
 isin: DE000A0JKHC9
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|INTERCONTINENTAL HOTEL GROU
+title: AC.INTERCONTINENTAL HOTELS GR PLC (GBP) 
 isin: GB00BHJYC057
 ---

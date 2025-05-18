@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|AUTO PARTNER
+title: ACCIONES|AUTO PARTNER SA(APR PW)
 isin: PLATPRT00018
 ---

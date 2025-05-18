@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|LEGG MASON GLOBAL FUNDS
+title: PARTICIPACIONES|LEGG MASON INVESTMEN
 isin: IE00BD4GTY16
 ---

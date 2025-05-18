@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PINNACLE ICAV
+title: Participaciones|PINNACLE ICAV
 isin: IE00BYPF2X45
 ---

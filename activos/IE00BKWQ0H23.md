@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: PARTICIPACIONES|SSGA SPDR ETFS
 isin: IE00BKWQ0H23
 ---

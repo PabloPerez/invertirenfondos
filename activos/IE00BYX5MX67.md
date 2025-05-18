@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|FIDELITY S&P500 INDE
+title: PARTICIPACIONES|Fidelity S&P 500 Ind
 isin: IE00BYX5MX67
 ---

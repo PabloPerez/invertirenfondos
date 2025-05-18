@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Comgest Growth PLC -
+title: PARTICIPACIONES|COMGEST ASSET MANAGEMENT INTER
 isin: IE00BYYLQ421
 ---

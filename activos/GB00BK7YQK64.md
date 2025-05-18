@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|HAMMERSON PLC
+title: ACCIONES|HAMMERSON PLC
 isin: GB00BK7YQK64
 ---

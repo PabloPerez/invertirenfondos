@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Cupón Cero|ESTADO PORTUGUES|100,000|2016-07-22
+title: RFIJA|PORTUGAL TREASUR|0.00|2016-07-22
 isin: PTPBTVGE0028
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BN.BANCO COMERC PORTUGUES FL 2
+title: BONO|B.COMERCIAL PORTUGUE|1,41|2010-05-28
 isin: PTBCV1OM0008
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|INDEXCHANGE INVESTMENT AG
+title: Participaciones|BLACKROCK
 isin: IE00BP3QZB59
 ---

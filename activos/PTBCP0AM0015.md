@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BANCO COMERCIAL PORTUGUES SA
+title: Ac.Banco Comercial Portugues R
 isin: PTBCP0AM0015
 ---

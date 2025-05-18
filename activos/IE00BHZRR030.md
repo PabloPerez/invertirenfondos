@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|FRK FTSE KOREA UCTIS (FL
+title: PARTICIPACIONES|Franklin FTSE Korea
 isin: IE00BHZRR030
 ---

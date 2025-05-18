@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|ENERGIAS DE PORTUGAL|1,500|2026-12-14
+title: RFIJA|EDP   ENERGIAS D|1.50|2082-03-14
 isin: PTEDPXOM0021
 ---

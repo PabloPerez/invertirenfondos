@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|THYSSEN KRUPP AG|0.00|2019-09-11
+title: PAGARE|THYSSENKRUPP AG|0,22|2019-09-11
 isin: DE000A2YYQQ6
 ---

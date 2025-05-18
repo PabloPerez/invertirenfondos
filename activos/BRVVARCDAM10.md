@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|GLOBEX UTILIDADES SA
+title: ACCIONES|GLOBEX UTILDADES
 isin: BRVVARCDAM10
 ---

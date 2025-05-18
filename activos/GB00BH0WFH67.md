@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Property Franchise G
+title: ACCIONES|PROPERTY FRANCHISE G
 isin: GB00BH0WFH67
 ---

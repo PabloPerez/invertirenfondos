@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC GLG - European Alpha Alternative-C
+title: PARTICIPACIONES|GLG Pure Alpha
 isin: IE00B3VHWQ03
 ---

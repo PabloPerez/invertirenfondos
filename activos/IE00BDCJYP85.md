@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|BNY Mellon Global Funds PLC-Bn
+title: PARTICIPACIONES|BNY US Muni Infra D
 isin: IE00BDCJYP85
 ---

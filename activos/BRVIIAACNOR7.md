@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|VIA VAREJO SA
+title: AC.VIA S|A (BRL)
 isin: BRVIIAACNOR7
 ---

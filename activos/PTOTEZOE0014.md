@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|OBRIGACOES DO TESOUR|3,50|2038-06-18
+title: OB.PORTUGAL 3,5% VT.18|06|2038
 isin: PTOTEZOE0014
 ---

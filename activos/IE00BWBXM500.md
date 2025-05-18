@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: PARTICIPACIONES|STATE STREET GLOBAL ADVISORS
 isin: IE00BWBXM500
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.ITAU UNIBANCO HOLDING SA (BRL)
+title: ACCIONES|ITAU UNIBANCO HOLDING SA
 isin: BRITUBACNPR1
 ---

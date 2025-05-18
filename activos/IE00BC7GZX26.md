@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SPDR Bloomberg 0-3 Y
+title: SPDR BBGBARC GLAG EUR HDG
 isin: IE00BC7GZX26
 ---

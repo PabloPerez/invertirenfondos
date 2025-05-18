@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ELEGANT HOTELS GROUP PLC
+title: ACCIONES|ELEGANT HOTELS GROUP PLC (GBP)
 isin: GB00BWXSNY91
 ---

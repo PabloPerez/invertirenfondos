@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.BANCO BRADESCO -PREF (BRL)
+title: ACCIONES|BANCO BRADESCO SA
 isin: BRBBDCACNPR8
 ---

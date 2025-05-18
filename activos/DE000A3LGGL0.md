@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|MERCEDES-BENZ INT FI|3,40|2025-04-13
+title: Mercedes-Benz Int Fince 3,40% 130425
 isin: DE000A3LGGL0
 ---

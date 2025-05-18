@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|SOLAWORLD AG
+title: ACCIONES|Solarworld AG
 isin: DE000A1YCMM2
 ---

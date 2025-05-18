@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|EI Sturdza-Strat Eur
+title: PARTICIPACIONES|LOFOTEN ASSET MANAGEMENT LTD
 isin: IE00B5VJPM77
 ---

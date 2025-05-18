@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|L&G ROBO GLOBAL
+title: Participaciones|ETF SECURITIES LTF
 isin: IE00BMW3QX54
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF WisdomTree AT1
+title: PARTICIPACIONES|ETF COBO IM Equity
 isin: IE00BFNNN236
 ---

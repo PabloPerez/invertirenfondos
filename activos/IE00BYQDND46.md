@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|PIMCO EUROPE LTD|LONDON
+title: Participaciones|PIMCO GLOBAL FUNDS
 isin: IE00BYQDND46
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Seilern International Funds PL
+title: PARTICIPACIONES|Seilern Internationa
 isin: IE00BKM3XV86
 ---

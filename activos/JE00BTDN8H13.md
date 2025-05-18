@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|APTIV PLC
+title: ACCIONES|APTIV PLC
 isin: JE00BTDN8H13
 ---

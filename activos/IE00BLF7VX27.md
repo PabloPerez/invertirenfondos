@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETN|SPDR BLOOMBERG SASB
+title: PARTICIPACIONES|SPDR
 isin: IE00BLF7VX27
 ---

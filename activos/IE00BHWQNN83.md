@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|COMGEST
+title: PARTICIPACIONES|COMGEST GROWTH
 isin: IE00BHWQNN83
 ---

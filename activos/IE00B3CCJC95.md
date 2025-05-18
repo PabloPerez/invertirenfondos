@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GUINNESS GLOBAL ENERGY F
+title: PARTICIPACIONES|Guinness Asset Management Fund
 isin: IE00B3CCJC95
 ---

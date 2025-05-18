@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SEMAPA SOCIEDADE DE INVESTIMEN
+title: Acciones|SEMAPA
 isin: PTSEM0AM0004
 ---

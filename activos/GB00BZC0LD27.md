@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROLLS ROYCE PLC
+title: ACCIONES|ROLLS-ROYCE HOLDINGS PLC
 isin: GB00BZC0LD27
 ---

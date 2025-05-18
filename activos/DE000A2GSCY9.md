@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONOS|DAIMLER AG|-.31|2019-07-03
+title: Bonos|DAIMLER INTL FIN FLO|0,032|2024-07-03
 isin: DE000A2GSCY9
 ---

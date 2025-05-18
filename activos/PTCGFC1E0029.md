@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|CAIXA GENERAL DEPOS|4,63|2012-06-28
+title: Bonos|CAIXA GERAL DE DEPOSITOS, S.A.|4,625|2012
 isin: PTCGFC1E0029
 ---

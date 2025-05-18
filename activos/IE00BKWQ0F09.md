@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: PARTICIPACIONES|ETF SPDR Europe Ener
 isin: IE00BKWQ0F09
 ---

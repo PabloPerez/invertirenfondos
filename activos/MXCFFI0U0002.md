@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|FIBRA MACQUARIE
+title: ACCIONES|FIBRA MACQUARIE MEXICO
 isin: MXCFFI0U0002
 ---

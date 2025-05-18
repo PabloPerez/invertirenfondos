@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROCKROSE ENERGY PLC
+title: Acciones|ROCKROSE ENERGY PLC
 isin: GB00BYNFCH09
 ---

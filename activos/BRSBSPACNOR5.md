@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.CIA SANEAMENTO BASICO DE SAO PA (BRL)
+title: ACCIONES|CIA DE SANEAMENTO BA
 isin: BRSBSPACNOR5
 ---

@@ -93,15 +93,15 @@
                 {
                     "cantidad": 402402.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 1.96
                 },
                 {
                     "cantidad": 402402.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 1.96
                 },
                 {
@@ -133,6 +133,13 @@
                     "porcentaje": 1.62
                 },
                 {
+                    "cantidad": 7496195.0,
+                    "desde": "2019T2",
+                    "isin": "ES0147644001",
+                    "nombre": "IBERCAJA TECNOLOGICO, FI CLASE B",
+                    "porcentaje": 1.49
+                },
+                {
                     "cantidad": 56615.0,
                     "desde": "2023T2",
                     "isin": "ES0137333003",
@@ -149,13 +156,6 @@
                 {
                     "cantidad": 7496195.0,
                     "desde": "2019T2",
-                    "isin": "ES0147644001",
-                    "nombre": "IBERCAJA TECNOLOGICO, FI CLASE B",
-                    "porcentaje": 1.49
-                },
-                {
-                    "cantidad": 7496195.0,
-                    "desde": "2019T2",
                     "isin": "ES0147644035",
                     "nombre": "IBERCAJA TECNOLOGICO, FI CLASE A",
                     "porcentaje": 1.49
@@ -166,13 +166,6 @@
                     "isin": "ES0102564038",
                     "nombre": "IBERCAJA SOSTENIBLE Y SOLIDARIO, FI",
                     "porcentaje": 0.96
-                },
-                {
-                    "cantidad": 164083.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 0.86
                 },
                 {
                     "cantidad": 164083.0,
@@ -193,6 +186,13 @@
                     "desde": "2020T1",
                     "isin": "ES0178487031",
                     "nombre": "TEMPERANTIA FI CLASE J",
+                    "porcentaje": 0.86
+                },
+                {
+                    "cantidad": 164083.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
                     "porcentaje": 0.86
                 },
                 {
@@ -226,6 +226,20 @@
                 {
                     "cantidad": 1038165.0,
                     "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 1038165.0,
+                    "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 1038165.0,
+                    "desde": "2021T4",
                     "isin": "ES0173321003",
                     "nombre": "RENTA 4 PEGASUS FI CLASE R",
                     "porcentaje": 0.56
@@ -235,20 +249,6 @@
                     "desde": "2021T4",
                     "isin": "ES0173321011",
                     "nombre": "RENTA 4 PEGASUS FI CLASE P",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 1038165.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 1038165.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
                     "porcentaje": 0.56
                 },
                 {
@@ -343,23 +343,58 @@
                 {
                     "cantidad": 1589055.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 1.68
-                },
-                {
-                    "cantidad": 1589055.0,
-                    "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 1.68
-                },
-                {
-                    "cantidad": 1589055.0,
-                    "desde": "2021T1",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 1589055.0,
+                    "desde": "2021T1",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 1589055.0,
+                    "desde": "2021T1",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 1.68
+                },
+                {
+                    "cantidad": 2458213.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141024",
+                    "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 2458213.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 2458213.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141032",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 2458213.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 2458213.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
+                    "porcentaje": 1.52
                 },
                 {
                     "cantidad": 368661.0,
@@ -373,20 +408,6 @@
                     "desde": "2021T1",
                     "isin": "ES0108612013",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE B",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 368661.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 368661.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 1.52
                 },
                 {
@@ -406,34 +427,6 @@
                 {
                     "cantidad": 2458213.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 2458213.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 2458213.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141024",
-                    "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 2458213.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141032",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 2458213.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141040",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE AR",
                     "porcentaje": 1.52
@@ -446,18 +439,18 @@
                     "porcentaje": 1.52
                 },
                 {
-                    "cantidad": 2458213.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "cantidad": 368661.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
                     "porcentaje": 1.52
                 },
                 {
-                    "cantidad": 178924.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.18
+                    "cantidad": 368661.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
+                    "porcentaje": 1.52
                 },
                 {
                     "cantidad": 178924.0,
@@ -478,6 +471,13 @@
                     "desde": "2020T1",
                     "isin": "ES0178487031",
                     "nombre": "TEMPERANTIA FI CLASE J",
+                    "porcentaje": 1.18
+                },
+                {
+                    "cantidad": 178924.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
                     "porcentaje": 1.18
                 },
                 {
@@ -504,15 +504,15 @@
                 {
                     "cantidad": 186559.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 0.84
                 },
                 {
                     "cantidad": 186559.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 0.84
                 },
                 {
@@ -539,6 +539,20 @@
                 {
                     "cantidad": 1132065.0,
                     "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 1132065.0,
+                    "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 1132065.0,
+                    "desde": "2021T4",
                     "isin": "ES0173321003",
                     "nombre": "RENTA 4 PEGASUS FI CLASE R",
                     "porcentaje": 0.58
@@ -548,20 +562,6 @@
                     "desde": "2021T4",
                     "isin": "ES0173321011",
                     "nombre": "RENTA 4 PEGASUS FI CLASE P",
-                    "porcentaje": 0.58
-                },
-                {
-                    "cantidad": 1132065.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
-                    "porcentaje": 0.58
-                },
-                {
-                    "cantidad": 1132065.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
                     "porcentaje": 0.58
                 },
                 {
@@ -684,13 +684,6 @@
                 {
                     "cantidad": 201895.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
-                    "porcentaje": 2.45
-                },
-                {
-                    "cantidad": 201895.0,
-                    "desde": "2021T1",
                     "isin": "ES0117106015",
                     "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
                     "porcentaje": 2.45
@@ -703,6 +696,13 @@
                     "porcentaje": 2.45
                 },
                 {
+                    "cantidad": 201895.0,
+                    "desde": "2021T1",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
+                    "porcentaje": 2.45
+                },
+                {
                     "cantidad": 2034000.0,
                     "desde": "2017T1",
                     "isin": "ES0130708037",
@@ -712,15 +712,15 @@
                 {
                     "cantidad": 1932300.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "isin": "ES0130705033",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 2.21
                 },
                 {
                     "cantidad": 1932300.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705033",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
                     "porcentaje": 2.21
                 },
                 {
@@ -736,13 +736,6 @@
                     "isin": "ES0147644035",
                     "nombre": "IBERCAJA TECNOLOGICO, FI CLASE A",
                     "porcentaje": 2.19
-                },
-                {
-                    "cantidad": 112724.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.33
                 },
                 {
                     "cantidad": 112724.0,
@@ -763,6 +756,13 @@
                     "desde": "2020T1",
                     "isin": "ES0178487031",
                     "nombre": "TEMPERANTIA FI CLASE J",
+                    "porcentaje": 1.33
+                },
+                {
+                    "cantidad": 112724.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
                     "porcentaje": 1.33
                 },
                 {
@@ -789,15 +789,15 @@
                 {
                     "cantidad": 207753.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 0.99
                 },
                 {
                     "cantidad": 207753.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 0.99
                 },
                 {
@@ -817,13 +817,6 @@
                 {
                     "cantidad": 1172072.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.77
-                },
-                {
-                    "cantidad": 1172072.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.77
@@ -831,8 +824,22 @@
                 {
                     "cantidad": 1172072.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 1172072.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 1172072.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.77
                 },
                 {
@@ -850,11 +857,11 @@
                     "porcentaje": 0.77
                 },
                 {
-                    "cantidad": 1172072.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 0.77
+                    "cantidad": 1260673.0,
+                    "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.62
                 },
                 {
                     "cantidad": 1260673.0,
@@ -868,13 +875,6 @@
                     "desde": "2021T4",
                     "isin": "ES0173321011",
                     "nombre": "RENTA 4 PEGASUS FI CLASE P",
-                    "porcentaje": 0.62
-                },
-                {
-                    "cantidad": 1260673.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
                     "porcentaje": 0.62
                 },
                 {
@@ -908,20 +908,6 @@
                 {
                     "cantidad": 80302.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 80302.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 80302.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.37
@@ -931,6 +917,20 @@
                     "desde": "2021T1",
                     "isin": "ES0108612062",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 80302.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 80302.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 0.37
                 },
                 {
@@ -948,17 +948,17 @@
                     "porcentaje": 0.06
                 },
                 {
-                    "cantidad": 82092.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.03
-                },
-                {
                     "cantidad": 27784.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
                     "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 82092.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
                     "porcentaje": 0.03
                 },
                 {
@@ -990,15 +990,15 @@
                 {
                     "cantidad": 2069730.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "isin": "ES0130705033",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 2.23
                 },
                 {
                     "cantidad": 2069730.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705033",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
                     "porcentaje": 2.23
                 },
                 {
@@ -1039,15 +1039,15 @@
                 {
                     "cantidad": 175591.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
+                    "isin": "ES0117106015",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
                     "porcentaje": 1.71
                 },
                 {
                     "cantidad": 175591.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106015",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 1.71
                 },
                 {
@@ -1056,13 +1056,6 @@
                     "isin": "ES0110407105",
                     "nombre": "GESTION BOUTIQUE VI GESTIVALUE CAPITAL CLASE A",
                     "porcentaje": 1.56
-                },
-                {
-                    "cantidad": 98038.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.13
                 },
                 {
                     "cantidad": 98038.0,
@@ -1086,17 +1079,24 @@
                     "porcentaje": 1.13
                 },
                 {
-                    "cantidad": 225512.0,
-                    "desde": "2022T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
-                    "porcentaje": 1.07
+                    "cantidad": 98038.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 1.13
                 },
                 {
                     "cantidad": 225512.0,
                     "desde": "2022T1",
                     "isin": "ES0114805031",
                     "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "porcentaje": 1.07
+                },
+                {
+                    "cantidad": 225512.0,
+                    "desde": "2022T1",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 1.07
                 },
                 {
@@ -1137,6 +1137,13 @@
                 {
                     "cantidad": 1367614.0,
                     "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1367614.0,
+                    "desde": "2021T4",
                     "isin": "ES0173321003",
                     "nombre": "RENTA 4 PEGASUS FI CLASE R",
                     "porcentaje": 0.64
@@ -1149,20 +1156,6 @@
                     "porcentaje": 0.64
                 },
                 {
-                    "cantidad": 1367614.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 1029947.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.63
-                },
-                {
                     "cantidad": 1029947.0,
                     "desde": "2019T2",
                     "isin": "ES0170141024",
@@ -1172,8 +1165,22 @@
                 {
                     "cantidad": 1029947.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 1029947.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 1029947.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.63
                 },
                 {
@@ -1188,13 +1195,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 1029947.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 0.63
                 },
                 {
@@ -1228,20 +1228,6 @@
                 {
                     "cantidad": 69840.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 69840.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 69840.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.3
@@ -1251,6 +1237,20 @@
                     "desde": "2021T1",
                     "isin": "ES0108612062",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 69840.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 69840.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 0.3
                 },
                 {
@@ -1275,13 +1275,6 @@
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 71397.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.02
-                },
-                {
                     "cantidad": 24165.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
@@ -1289,18 +1282,11 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2021T4",
-                    "isin": "ES0125776007",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2021T4",
-                    "isin": "ES0125776031",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase A",
-                    "porcentaje": 0.0
+                    "cantidad": 71397.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
+                    "porcentaje": 0.02
                 },
                 {
                     "cantidad": 0.0,
@@ -1319,6 +1305,13 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2021T4",
+                    "isin": "ES0145553006",
+                    "nombre": "DB MODERADO ESG,FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
                     "isin": "ES0139012035",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE B",
                     "porcentaje": 0.0
@@ -1326,8 +1319,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2021T4",
-                    "isin": "ES0145553006",
-                    "nombre": "DB MODERADO ESG,FI CLASE A",
+                    "isin": "ES0125776007",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2021T4",
+                    "isin": "ES0125776031",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase A",
                     "porcentaje": 0.0
                 },
                 {
@@ -1359,29 +1359,29 @@
                 {
                     "cantidad": 2823178.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 2.0
-                },
-                {
-                    "cantidad": 2823178.0,
-                    "desde": "2021T1",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 2.0
                 },
                 {
-                    "cantidad": 195964.0,
+                    "cantidad": 2823178.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
-                    "porcentaje": 1.67
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 2.0
                 },
                 {
                     "cantidad": 195964.0,
                     "desde": "2021T1",
                     "isin": "ES0117106015",
                     "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "porcentaje": 1.67
+                },
+                {
+                    "cantidad": 195964.0,
+                    "desde": "2021T1",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 1.67
                 },
                 {
@@ -1415,13 +1415,6 @@
                 {
                     "cantidad": 109413.0,
                     "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.12
-                },
-                {
-                    "cantidad": 109413.0,
-                    "desde": "2020T1",
                     "isin": "ES0178487015",
                     "nombre": "TEMPERANTIA FI CLASE I",
                     "porcentaje": 1.12
@@ -1441,6 +1434,13 @@
                     "porcentaje": 1.12
                 },
                 {
+                    "cantidad": 109413.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 1.12
+                },
+                {
                     "cantidad": 7674976.0,
                     "desde": "2019T2",
                     "isin": "ES0102564038",
@@ -1450,15 +1450,15 @@
                 {
                     "cantidad": 251677.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 0.97
                 },
                 {
                     "cantidad": 251677.0,
                     "desde": "2022T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 0.97
                 },
                 {
@@ -1492,13 +1492,6 @@
                 {
                     "cantidad": 1161570.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 1161570.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.64
@@ -1506,8 +1499,22 @@
                 {
                     "cantidad": 1161570.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1161570.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 1161570.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.64
                 },
                 {
@@ -1525,24 +1532,17 @@
                     "porcentaje": 0.64
                 },
                 {
-                    "cantidad": 1161570.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 0.64
+                    "cantidad": 78970.0,
+                    "desde": "2022T1",
+                    "isin": "ES0147104030",
+                    "nombre": "IBERCAJA FINANCIERO, FI CLASE A",
+                    "porcentaje": 0.59
                 },
                 {
                     "cantidad": 78970.0,
                     "desde": "2022T1",
                     "isin": "ES0147104006",
                     "nombre": "IBERCAJA FINANCIERO, FI CLASE B",
-                    "porcentaje": 0.59
-                },
-                {
-                    "cantidad": 78970.0,
-                    "desde": "2022T1",
-                    "isin": "ES0147104030",
-                    "nombre": "IBERCAJA FINANCIERO, FI CLASE A",
                     "porcentaje": 0.59
                 },
                 {
@@ -1562,15 +1562,15 @@
                 {
                     "cantidad": 2758699.0,
                     "desde": "2022T1",
-                    "isin": "ES0109360000",
-                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE B",
+                    "isin": "ES0109360018",
+                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE D",
                     "porcentaje": 0.41
                 },
                 {
                     "cantidad": 2758699.0,
                     "desde": "2022T1",
-                    "isin": "ES0109360018",
-                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE D",
+                    "isin": "ES0109360034",
+                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE A",
                     "porcentaje": 0.41
                 },
                 {
@@ -1583,9 +1583,16 @@
                 {
                     "cantidad": 2758699.0,
                     "desde": "2022T1",
-                    "isin": "ES0109360034",
-                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE A",
+                    "isin": "ES0109360000",
+                    "nombre": "SANTANDER DIVIDENDO EUROPA, FI CLASE B",
                     "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 934018.0,
+                    "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.37
                 },
                 {
                     "cantidad": 934018.0,
@@ -1599,13 +1606,6 @@
                     "desde": "2021T4",
                     "isin": "ES0173321011",
                     "nombre": "RENTA 4 PEGASUS FI CLASE P",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 934018.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
                     "porcentaje": 0.37
                 },
                 {
@@ -1625,20 +1625,6 @@
                 {
                     "cantidad": 77943.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 77943.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.3
-                },
-                {
-                    "cantidad": 77943.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.3
@@ -1648,6 +1634,20 @@
                     "desde": "2021T1",
                     "isin": "ES0108612062",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 77943.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 77943.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 0.3
                 },
                 {
@@ -1728,17 +1728,17 @@
                     "porcentaje": 0.04
                 },
                 {
-                    "cantidad": 77904.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.02
-                },
-                {
                     "cantidad": 26968.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
                     "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 77904.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
                     "porcentaje": 0.02
                 }
             ],
@@ -1763,29 +1763,29 @@
                 {
                     "cantidad": 3994315.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 2.21
-                },
-                {
-                    "cantidad": 3994315.0,
-                    "desde": "2021T1",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 2.21
                 },
                 {
-                    "cantidad": 243237.0,
+                    "cantidad": 3994315.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
-                    "porcentaje": 1.91
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 2.21
                 },
                 {
                     "cantidad": 243237.0,
                     "desde": "2021T1",
                     "isin": "ES0117106015",
                     "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "porcentaje": 1.91
+                },
+                {
+                    "cantidad": 243237.0,
+                    "desde": "2021T1",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 1.91
                 },
                 {
@@ -1833,13 +1833,6 @@
                 {
                     "cantidad": 135807.0,
                     "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.27
-                },
-                {
-                    "cantidad": 135807.0,
-                    "desde": "2020T1",
                     "isin": "ES0178487015",
                     "nombre": "TEMPERANTIA FI CLASE I",
                     "porcentaje": 1.27
@@ -1856,6 +1849,13 @@
                     "desde": "2020T1",
                     "isin": "ES0178487031",
                     "nombre": "TEMPERANTIA FI CLASE J",
+                    "porcentaje": 1.27
+                },
+                {
+                    "cantidad": 135807.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
                     "porcentaje": 1.27
                 },
                 {
@@ -1882,13 +1882,6 @@
                 {
                     "cantidad": 1527054.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.76
-                },
-                {
-                    "cantidad": 1527054.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.76
@@ -1896,8 +1889,22 @@
                 {
                     "cantidad": 1527054.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 1527054.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 1527054.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.76
                 },
                 {
@@ -1912,13 +1919,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 0.76
-                },
-                {
-                    "cantidad": 1527054.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 0.76
                 },
                 {
@@ -1945,6 +1945,13 @@
                 {
                     "cantidad": 1159332.0,
                     "desde": "2021T4",
+                    "isin": "ES0173321029",
+                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 1159332.0,
+                    "desde": "2021T4",
                     "isin": "ES0173321003",
                     "nombre": "RENTA 4 PEGASUS FI CLASE R",
                     "porcentaje": 0.42
@@ -1954,13 +1961,6 @@
                     "desde": "2021T4",
                     "isin": "ES0173321011",
                     "nombre": "RENTA 4 PEGASUS FI CLASE P",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 1159332.0,
-                    "desde": "2021T4",
-                    "isin": "ES0173321029",
-                    "nombre": "RENTA 4 PEGASUS FI CLASE I",
                     "porcentaje": 0.42
                 },
                 {
@@ -1980,6 +1980,20 @@
                 {
                     "cantidad": 97726.0,
                     "desde": "2021T1",
+                    "isin": "ES0108612054",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 97726.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612062",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 97726.0,
+                    "desde": "2021T1",
                     "isin": "ES0108612021",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
                     "porcentaje": 0.37
@@ -1992,18 +2006,11 @@
                     "porcentaje": 0.37
                 },
                 {
-                    "cantidad": 97726.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612054",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 97726.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612062",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
-                    "porcentaje": 0.37
+                    "cantidad": 49010.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138936036",
+                    "nombre": "FONDIBAS, FI",
+                    "porcentaje": 0.28
                 },
                 {
                     "cantidad": 553029.0,
@@ -2017,13 +2024,6 @@
                     "desde": "2021T4",
                     "isin": "ES0125776031",
                     "nombre": "DB CRECIMIENTO ESG,FI Clase A",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 49010.0,
-                    "desde": "2020T4",
-                    "isin": "ES0138936036",
-                    "nombre": "FONDIBAS, FI",
                     "porcentaje": 0.28
                 },
                 {
@@ -2062,6 +2062,20 @@
                     "porcentaje": 0.09
                 },
                 {
+                    "cantidad": 454666.0,
+                    "desde": "2021T3",
+                    "isin": "ES0145821031",
+                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE A",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 454666.0,
+                    "desde": "2021T3",
+                    "isin": "ES0145821007",
+                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE M",
+                    "porcentaje": 0.09
+                },
+                {
                     "cantidad": 216085.0,
                     "desde": "2021T4",
                     "isin": "ES0139012001",
@@ -2073,13 +2087,6 @@
                     "desde": "2021T4",
                     "isin": "ES0139012035",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 454666.0,
-                    "desde": "2021T3",
-                    "isin": "ES0145821007",
-                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE M",
                     "porcentaje": 0.09
                 },
                 {
@@ -2097,13 +2104,6 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 454666.0,
-                    "desde": "2021T3",
-                    "isin": "ES0145821031",
-                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE A",
-                    "porcentaje": 0.09
-                },
-                {
                     "cantidad": 130269.0,
                     "desde": "2020T3",
                     "isin": "ES0152743003",
@@ -2111,17 +2111,17 @@
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 96697.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.03
-                },
-                {
                     "cantidad": 33474.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
                     "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 96697.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
                     "porcentaje": 0.03
                 }
             ],
@@ -2146,29 +2146,29 @@
                 {
                     "cantidad": 5379815.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 3.05
-                },
-                {
-                    "cantidad": 5379815.0,
-                    "desde": "2021T1",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 3.05
                 },
                 {
-                    "cantidad": 327608.0,
+                    "cantidad": 5379815.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
-                    "porcentaje": 2.67
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 3.05
                 },
                 {
                     "cantidad": 327608.0,
                     "desde": "2021T1",
                     "isin": "ES0117106015",
                     "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "porcentaje": 2.67
+                },
+                {
+                    "cantidad": 327608.0,
+                    "desde": "2021T1",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 2.67
                 },
                 {
@@ -2216,23 +2216,16 @@
                 {
                     "cantidad": 518773.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
-                    "porcentaje": 1.32
-                },
-                {
-                    "cantidad": 518773.0,
-                    "desde": "2020T2",
                     "isin": "ES0114797030",
                     "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 1.32
                 },
                 {
-                    "cantidad": 643531.0,
+                    "cantidad": 518773.0,
                     "desde": "2020T2",
-                    "isin": "ES0114879002",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.13
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "porcentaje": 1.32
                 },
                 {
                     "cantidad": 643531.0,
@@ -2242,11 +2235,11 @@
                     "porcentaje": 1.13
                 },
                 {
-                    "cantidad": 2080239.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.06
+                    "cantidad": 643531.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114879002",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 1.13
                 },
                 {
                     "cantidad": 2080239.0,
@@ -2258,8 +2251,22 @@
                 {
                     "cantidad": 2080239.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 2080239.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 2080239.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.06
                 },
                 {
@@ -2275,20 +2282,6 @@
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
                     "porcentaje": 1.06
-                },
-                {
-                    "cantidad": 2080239.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 1.06
-                },
-                {
-                    "cantidad": 89246.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.03
                 },
                 {
                     "cantidad": 89246.0,
@@ -2309,6 +2302,13 @@
                     "desde": "2020T1",
                     "isin": "ES0178487031",
                     "nombre": "TEMPERANTIA FI CLASE J",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 89246.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
                     "porcentaje": 1.03
                 },
                 {
@@ -2342,15 +2342,15 @@
                 {
                     "cantidad": 388997.0,
                     "desde": "2021T3",
-                    "isin": "ES0170136024",
-                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
+                    "isin": "ES0170136032",
+                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE B",
                     "porcentaje": 0.6
                 },
                 {
                     "cantidad": 388997.0,
                     "desde": "2021T3",
-                    "isin": "ES0170136032",
-                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE B",
+                    "isin": "ES0170136024",
+                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
                     "porcentaje": 0.6
                 },
                 {
@@ -2370,20 +2370,6 @@
                 {
                     "cantidad": 131624.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 131624.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 131624.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.52
@@ -2393,6 +2379,20 @@
                     "desde": "2021T1",
                     "isin": "ES0108612062",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 131624.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 131624.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 0.52
                 },
                 {
@@ -2433,6 +2433,13 @@
                 {
                     "cantidad": 612375.0,
                     "desde": "2021T3",
+                    "isin": "ES0145821031",
+                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE A",
+                    "porcentaje": 0.12
+                },
+                {
+                    "cantidad": 612375.0,
+                    "desde": "2021T3",
                     "isin": "ES0145821007",
                     "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE M",
                     "porcentaje": 0.12
@@ -2452,13 +2459,6 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 612375.0,
-                    "desde": "2021T3",
-                    "isin": "ES0145821031",
-                    "nombre": "SANTANDER RESPONSABILIDAD SOLIDARIO, FI CLASE A",
-                    "porcentaje": 0.12
-                },
-                {
                     "cantidad": 384508.0,
                     "desde": "2020T4",
                     "isin": "ES0138828035",
@@ -2473,17 +2473,17 @@
                     "porcentaje": 0.07
                 },
                 {
-                    "cantidad": 130238.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.03
-                },
-                {
                     "cantidad": 45085.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
                     "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 130238.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
                     "porcentaje": 0.03
                 }
             ],
@@ -2508,29 +2508,29 @@
                 {
                     "cantidad": 5644210.0,
                     "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 3.17
-                },
-                {
-                    "cantidad": 5644210.0,
-                    "desde": "2021T1",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
                     "porcentaje": 3.17
                 },
                 {
-                    "cantidad": 391779.0,
+                    "cantidad": 5644210.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
-                    "porcentaje": 3.13
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 3.17
                 },
                 {
                     "cantidad": 391779.0,
                     "desde": "2021T1",
                     "isin": "ES0117106015",
                     "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "porcentaje": 3.13
+                },
+                {
+                    "cantidad": 391779.0,
+                    "desde": "2021T1",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 3.13
                 },
                 {
@@ -2578,15 +2578,15 @@
                 {
                     "cantidad": 620389.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "isin": "ES0114797030",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 1.99
                 },
                 {
                     "cantidad": 620389.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797030",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
                     "porcentaje": 1.99
                 },
                 {
@@ -2602,13 +2602,6 @@
                     "isin": "ES0140963010",
                     "nombre": "ALGAR GLOBAL FUND, FI CLASE I",
                     "porcentaje": 1.79
-                },
-                {
-                    "cantidad": 106727.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.41
                 },
                 {
                     "cantidad": 106727.0,
@@ -2632,11 +2625,11 @@
                     "porcentaje": 1.41
                 },
                 {
-                    "cantidad": 2479426.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.3
+                    "cantidad": 106727.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 1.41
                 },
                 {
                     "cantidad": 2479426.0,
@@ -2648,8 +2641,22 @@
                 {
                     "cantidad": 2479426.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 2479426.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.3
+                },
+                {
+                    "cantidad": 2479426.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.3
                 },
                 {
@@ -2667,24 +2674,17 @@
                     "porcentaje": 1.3
                 },
                 {
-                    "cantidad": 2479426.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 1.3
+                    "cantidad": 769586.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114879036",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE R",
+                    "porcentaje": 1.2
                 },
                 {
                     "cantidad": 769586.0,
                     "desde": "2020T2",
                     "isin": "ES0114879002",
                     "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.2
-                },
-                {
-                    "cantidad": 769586.0,
-                    "desde": "2020T2",
-                    "isin": "ES0114879036",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE R",
                     "porcentaje": 1.2
                 },
                 {
@@ -2704,13 +2704,6 @@
                 {
                     "cantidad": 275106.0,
                     "desde": "2020T3",
-                    "isin": "ES0165128002",
-                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 275106.0,
-                    "desde": "2020T3",
                     "isin": "ES0165128010",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE E",
                     "porcentaje": 1.0
@@ -2720,6 +2713,13 @@
                     "desde": "2020T3",
                     "isin": "ES0165128036",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE S",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 275106.0,
+                    "desde": "2020T3",
+                    "isin": "ES0165128002",
+                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
                     "porcentaje": 1.0
                 },
                 {
@@ -2767,15 +2767,15 @@
                 {
                     "cantidad": 55258.0,
                     "desde": "2021T1",
-                    "isin": "ES0147104006",
-                    "nombre": "IBERCAJA FINANCIERO, FI CLASE B",
+                    "isin": "ES0147104030",
+                    "nombre": "IBERCAJA FINANCIERO, FI CLASE A",
                     "porcentaje": 0.65
                 },
                 {
                     "cantidad": 55258.0,
                     "desde": "2021T1",
-                    "isin": "ES0147104030",
-                    "nombre": "IBERCAJA FINANCIERO, FI CLASE A",
+                    "isin": "ES0147104006",
+                    "nombre": "IBERCAJA FINANCIERO, FI CLASE B",
                     "porcentaje": 0.65
                 },
                 {
@@ -2795,20 +2795,6 @@
                 {
                     "cantidad": 156064.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 156064.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 156064.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.64
@@ -2818,6 +2804,20 @@
                     "desde": "2021T1",
                     "isin": "ES0108612062",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE BR",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 156064.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
+                    "porcentaje": 0.64
+                },
+                {
+                    "cantidad": 156064.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
                     "porcentaje": 0.64
                 },
                 {
@@ -2833,13 +2833,6 @@
                     "isin": "ES0147641031",
                     "nombre": "IBERCAJA BOLSA INTERNACIONAL, FI CLASE A",
                     "porcentaje": 0.54
-                },
-                {
-                    "cantidad": 37654.0,
-                    "desde": "2021T1",
-                    "isin": "ES0115411037",
-                    "nombre": "ABANCA RENTA VARIABLE EUROPA, FI",
-                    "porcentaje": 0.49
                 },
                 {
                     "cantidad": 190956.0,
@@ -2858,13 +2851,6 @@
                 {
                     "cantidad": 190956.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.49
-                },
-                {
-                    "cantidad": 190956.0,
-                    "desde": "2020T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.49
@@ -2872,15 +2858,29 @@
                 {
                     "cantidad": 190956.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.49
                 },
                 {
                     "cantidad": 190956.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 37654.0,
+                    "desde": "2021T1",
+                    "isin": "ES0115411037",
+                    "nombre": "ABANCA RENTA VARIABLE EUROPA, FI",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 190956.0,
+                    "desde": "2020T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.49
                 },
                 {
@@ -2954,13 +2954,6 @@
                     "porcentaje": 0.07
                 },
                 {
-                    "cantidad": 155749.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.04
-                },
-                {
                     "cantidad": 53916.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
@@ -2968,24 +2961,17 @@
                     "porcentaje": 0.04
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
-                    "porcentaje": 0.0
+                    "cantidad": 155749.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
+                    "porcentaje": 0.04
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0138666039",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
+                    "desde": "2020T2",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.0
                 },
                 {
@@ -3004,9 +2990,23 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2020T2",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "desde": "2020T1",
+                    "isin": "ES0138666039",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T1",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2020T1",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.0
                 }
             ],
@@ -3045,15 +3045,15 @@
                 {
                     "cantidad": 354557.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106007",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
+                    "isin": "ES0117106015",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
                     "porcentaje": 2.79
                 },
                 {
                     "cantidad": 354557.0,
                     "desde": "2021T1",
-                    "isin": "ES0117106015",
-                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE GD",
+                    "isin": "ES0117106007",
+                    "nombre": "SOLVENTIS EOS RV INTERNACIONAL, FI CLASE R",
                     "porcentaje": 2.79
                 },
                 {
@@ -3080,15 +3080,15 @@
                 {
                     "cantidad": 561447.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "isin": "ES0114797030",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 2.03
                 },
                 {
                     "cantidad": 561447.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797030",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
                     "porcentaje": 2.03
                 },
                 {
@@ -3115,13 +3115,6 @@
                 {
                     "cantidad": 76298.0,
                     "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.42
-                },
-                {
-                    "cantidad": 76298.0,
-                    "desde": "2020T1",
                     "isin": "ES0178487015",
                     "nombre": "TEMPERANTIA FI CLASE I",
                     "porcentaje": 1.42
@@ -3141,11 +3134,11 @@
                     "porcentaje": 1.42
                 },
                 {
-                    "cantidad": 2286080.0,
-                    "desde": "2021T1",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 1.39
+                    "cantidad": 76298.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 1.42
                 },
                 {
                     "cantidad": 2286080.0,
@@ -3155,11 +3148,11 @@
                     "porcentaje": 1.39
                 },
                 {
-                    "cantidad": 696469.0,
-                    "desde": "2020T2",
-                    "isin": "ES0114879002",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.29
+                    "cantidad": 2286080.0,
+                    "desde": "2021T1",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
+                    "porcentaje": 1.39
                 },
                 {
                     "cantidad": 696469.0,
@@ -3169,11 +3162,11 @@
                     "porcentaje": 1.29
                 },
                 {
-                    "cantidad": 2345447.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.26
+                    "cantidad": 696469.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114879002",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 1.29
                 },
                 {
                     "cantidad": 2345447.0,
@@ -3185,8 +3178,22 @@
                 {
                     "cantidad": 2345447.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 2345447.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.26
+                },
+                {
+                    "cantidad": 2345447.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.26
                 },
                 {
@@ -3201,13 +3208,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 1.26
-                },
-                {
-                    "cantidad": 2345447.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 1.26
                 },
                 {
@@ -3227,13 +3227,6 @@
                 {
                     "cantidad": 248968.0,
                     "desde": "2020T3",
-                    "isin": "ES0165128002",
-                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
-                    "porcentaje": 0.91
-                },
-                {
-                    "cantidad": 248968.0,
-                    "desde": "2020T3",
                     "isin": "ES0165128010",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE E",
                     "porcentaje": 0.91
@@ -3243,6 +3236,13 @@
                     "desde": "2020T3",
                     "isin": "ES0165128036",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE S",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 248968.0,
+                    "desde": "2020T3",
+                    "isin": "ES0165128002",
+                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
                     "porcentaje": 0.91
                 },
                 {
@@ -3267,10 +3267,10 @@
                     "porcentaje": 0.82
                 },
                 {
-                    "cantidad": 140451.0,
-                    "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "cantidad": 1231268.0,
+                    "desde": "2019T2",
+                    "isin": "ES0147146031",
+                    "nombre": "IBERCAJA FLEXIBLE EUROPA 10-40, FI",
                     "porcentaje": 0.71
                 },
                 {
@@ -3281,10 +3281,10 @@
                     "porcentaje": 0.71
                 },
                 {
-                    "cantidad": 1231268.0,
-                    "desde": "2019T2",
-                    "isin": "ES0147146031",
-                    "nombre": "IBERCAJA FLEXIBLE EUROPA 10-40, FI",
+                    "cantidad": 140451.0,
+                    "desde": "2020T1",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
                     "porcentaje": 0.71
                 },
                 {
@@ -3304,20 +3304,6 @@
                 {
                     "cantidad": 136450.0,
                     "desde": "2021T1",
-                    "isin": "ES0108612021",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 136450.0,
-                    "desde": "2021T1",
-                    "isin": "ES0108612047",
-                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 136450.0,
-                    "desde": "2021T1",
                     "isin": "ES0108612054",
                     "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE AR",
                     "porcentaje": 0.63
@@ -3330,10 +3316,10 @@
                     "porcentaje": 0.63
                 },
                 {
-                    "cantidad": 50008.0,
+                    "cantidad": 136450.0,
                     "desde": "2021T1",
-                    "isin": "ES0147104006",
-                    "nombre": "IBERCAJA FINANCIERO, FI CLASE B",
+                    "isin": "ES0108612021",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES, FI CLASE A",
                     "porcentaje": 0.63
                 },
                 {
@@ -3341,6 +3327,20 @@
                     "desde": "2021T1",
                     "isin": "ES0147104030",
                     "nombre": "IBERCAJA FINANCIERO, FI CLASE A",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 136450.0,
+                    "desde": "2021T1",
+                    "isin": "ES0108612047",
+                    "nombre": "SANTALUCIA EUROPA ACCIONES, FI CLASE CR",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 50008.0,
+                    "desde": "2021T1",
+                    "isin": "ES0147104006",
+                    "nombre": "IBERCAJA FINANCIERO, FI CLASE B",
                     "porcentaje": 0.63
                 },
                 {
@@ -3381,13 +3381,6 @@
                 {
                     "cantidad": 195888.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.49
-                },
-                {
-                    "cantidad": 195888.0,
-                    "desde": "2020T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.49
@@ -3395,15 +3388,22 @@
                 {
                     "cantidad": 195888.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.49
                 },
                 {
                     "cantidad": 195888.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 195888.0,
+                    "desde": "2020T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.49
                 },
                 {
@@ -3416,15 +3416,15 @@
                 {
                     "cantidad": 272472.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
+                    "isin": "ES0175858036",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
                     "porcentaje": 0.45
                 },
                 {
                     "cantidad": 272472.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858036",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.45
                 },
                 {
@@ -3458,15 +3458,15 @@
                 {
                     "cantidad": 17860.0,
                     "desde": "2020T2",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 0.28
                 },
                 {
                     "cantidad": 17860.0,
                     "desde": "2020T2",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 0.28
                 },
                 {
@@ -3526,13 +3526,6 @@
                     "porcentaje": 0.08
                 },
                 {
-                    "cantidad": 45936.0,
-                    "desde": "2021T1",
-                    "isin": "ES0140073018",
-                    "nombre": "ABANCA RENTA FIJA MIXTA, FI FUNDO MISTO OBRIGAÇÕES",
-                    "porcentaje": 0.07
-                },
-                {
                     "cantidad": 189888.0,
                     "desde": "2020T3",
                     "isin": "ES0152743003",
@@ -3540,17 +3533,24 @@
                     "porcentaje": 0.07
                 },
                 {
-                    "cantidad": 140951.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152739001",
-                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
-                    "porcentaje": 0.04
+                    "cantidad": 45936.0,
+                    "desde": "2021T1",
+                    "isin": "ES0140073018",
+                    "nombre": "ABANCA RENTA FIJA MIXTA, FI FUNDO MISTO OBRIGAÇÕES",
+                    "porcentaje": 0.07
                 },
                 {
                     "cantidad": 48794.0,
                     "desde": "2020T3",
                     "isin": "ES0152747004",
                     "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 140951.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152739001",
+                    "nombre": "ING DIRECT FONDO NARANJA MODERADO, FI",
                     "porcentaje": 0.04
                 },
                 {
@@ -3570,15 +3570,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2020T2",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2020T2",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -3631,23 +3631,16 @@
                 {
                     "cantidad": 591826.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
-                    "porcentaje": 2.56
-                },
-                {
-                    "cantidad": 591826.0,
-                    "desde": "2020T2",
                     "isin": "ES0114797030",
                     "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 2.56
                 },
                 {
-                    "cantidad": 123475.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 2.4
+                    "cantidad": 591826.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "porcentaje": 2.56
                 },
                 {
                     "cantidad": 123475.0,
@@ -3671,11 +3664,11 @@
                     "porcentaje": 2.4
                 },
                 {
-                    "cantidad": 365679.0,
-                    "desde": "2020T2",
-                    "isin": "ES0147496006",
-                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 2.07
+                    "cantidad": 123475.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 2.4
                 },
                 {
                     "cantidad": 365679.0,
@@ -3685,11 +3678,11 @@
                     "porcentaje": 2.07
                 },
                 {
-                    "cantidad": 71190.0,
+                    "cantidad": 365679.0,
                     "desde": "2020T2",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
-                    "porcentaje": 1.92
+                    "isin": "ES0147496006",
+                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 2.07
                 },
                 {
                     "cantidad": 71190.0,
@@ -3699,17 +3692,24 @@
                     "porcentaje": 1.92
                 },
                 {
-                    "cantidad": 646326.0,
+                    "cantidad": 71190.0,
                     "desde": "2020T2",
-                    "isin": "ES0114879002",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.89
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "porcentaje": 1.92
                 },
                 {
                     "cantidad": 646326.0,
                     "desde": "2020T2",
                     "isin": "ES0114879036",
                     "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE R",
+                    "porcentaje": 1.89
+                },
+                {
+                    "cantidad": 646326.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114879002",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
                     "porcentaje": 1.89
                 },
                 {
@@ -3729,13 +3729,6 @@
                 {
                     "cantidad": 2685050.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.53
-                },
-                {
-                    "cantidad": 2685050.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 1.53
@@ -3743,8 +3736,22 @@
                 {
                     "cantidad": 2685050.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.53
+                },
+                {
+                    "cantidad": 2685050.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.53
+                },
+                {
+                    "cantidad": 2685050.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.53
                 },
                 {
@@ -3759,13 +3766,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 1.53
-                },
-                {
-                    "cantidad": 2685050.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 1.53
                 },
                 {
@@ -3785,13 +3785,6 @@
                 {
                     "cantidad": 275664.0,
                     "desde": "2020T3",
-                    "isin": "ES0165128002",
-                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
-                    "porcentaje": 1.01
-                },
-                {
-                    "cantidad": 275664.0,
-                    "desde": "2020T3",
                     "isin": "ES0165128010",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE E",
                     "porcentaje": 1.01
@@ -3801,6 +3794,13 @@
                     "desde": "2020T3",
                     "isin": "ES0165128036",
                     "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE S",
+                    "porcentaje": 1.01
+                },
+                {
+                    "cantidad": 275664.0,
+                    "desde": "2020T3",
+                    "isin": "ES0165128002",
+                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
                     "porcentaje": 1.01
                 },
                 {
@@ -3820,29 +3820,29 @@
                 {
                     "cantidad": 155511.0,
                     "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 155511.0,
-                    "desde": "2020T1",
                     "isin": "ES0138666039",
                     "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
                     "porcentaje": 0.85
                 },
                 {
-                    "cantidad": 56003.0,
-                    "desde": "2020T2",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.76
+                    "cantidad": 155511.0,
+                    "desde": "2020T1",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 56003.0,
                     "desde": "2020T2",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 56003.0,
+                    "desde": "2020T2",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.76
                 },
                 {
@@ -3883,29 +3883,29 @@
                 {
                     "cantidad": 464713.0,
                     "desde": "2020T3",
-                    "isin": "ES0170136024",
-                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
-                    "porcentaje": 0.53
-                },
-                {
-                    "cantidad": 464713.0,
-                    "desde": "2020T3",
                     "isin": "ES0170136032",
                     "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE B",
                     "porcentaje": 0.53
                 },
                 {
-                    "cantidad": 301687.0,
-                    "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
-                    "porcentaje": 0.49
+                    "cantidad": 464713.0,
+                    "desde": "2020T3",
+                    "isin": "ES0170136024",
+                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
+                    "porcentaje": 0.53
                 },
                 {
                     "cantidad": 301687.0,
                     "desde": "2020T1",
                     "isin": "ES0175858036",
                     "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 301687.0,
+                    "desde": "2020T1",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.49
                 },
                 {
@@ -3925,13 +3925,6 @@
                 {
                     "cantidad": 216892.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 216892.0,
-                    "desde": "2020T4",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.48
@@ -3939,15 +3932,22 @@
                 {
                     "cantidad": 216892.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.48
                 },
                 {
                     "cantidad": 216892.0,
                     "desde": "2020T4",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 216892.0,
+                    "desde": "2020T4",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.48
                 },
                 {
@@ -4042,6 +4042,13 @@
                     "porcentaje": 0.03
                 },
                 {
+                    "cantidad": 22227.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152747004",
+                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.02
+                },
+                {
                     "cantidad": 71427.0,
                     "desde": "2020T3",
                     "isin": "ES0152739001",
@@ -4049,11 +4056,11 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 22227.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152747004",
-                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
-                    "porcentaje": 0.02
+                    "cantidad": 0.0,
+                    "desde": "2020T1",
+                    "isin": "ES0111011039",
+                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
+                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
@@ -4067,13 +4074,6 @@
                     "desde": "2020T1",
                     "isin": "ES0111011013",
                     "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE P",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2020T1",
-                    "isin": "ES0111011039",
-                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
                     "porcentaje": 0.0
                 }
             ],
@@ -4098,6 +4098,13 @@
                 {
                     "cantidad": 287492.0,
                     "desde": "2020T1",
+                    "isin": "ES0111011039",
+                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
+                    "porcentaje": 2.88
+                },
+                {
+                    "cantidad": 287492.0,
+                    "desde": "2020T1",
                     "isin": "ES0111011005",
                     "nombre": "LIBERBANK RENTA VARIABLE EURO, FI CLASE C",
                     "porcentaje": 2.88
@@ -4107,13 +4114,6 @@
                     "desde": "2020T1",
                     "isin": "ES0111011013",
                     "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE P",
-                    "porcentaje": 2.88
-                },
-                {
-                    "cantidad": 287492.0,
-                    "desde": "2020T1",
-                    "isin": "ES0111011039",
-                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
                     "porcentaje": 2.88
                 },
                 {
@@ -4129,13 +4129,6 @@
                     "isin": "ES0146758018",
                     "nombre": "IBERCAJA MEGATRENDS, FI CLASE B",
                     "porcentaje": 2.81
-                },
-                {
-                    "cantidad": 103287.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 2.21
                 },
                 {
                     "cantidad": 103287.0,
@@ -4159,11 +4152,11 @@
                     "porcentaje": 2.21
                 },
                 {
-                    "cantidad": 3128825.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.82
+                    "cantidad": 103287.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 2.21
                 },
                 {
                     "cantidad": 3128825.0,
@@ -4175,8 +4168,22 @@
                 {
                     "cantidad": 3128825.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.82
+                },
+                {
+                    "cantidad": 3128825.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.82
+                },
+                {
+                    "cantidad": 3128825.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.82
                 },
                 {
@@ -4191,13 +4198,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 1.82
-                },
-                {
-                    "cantidad": 3128825.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 1.82
                 },
                 {
@@ -4231,29 +4231,29 @@
                 {
                     "cantidad": 329564.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
-                    "porcentaje": 1.53
-                },
-                {
-                    "cantidad": 329564.0,
-                    "desde": "2020T2",
                     "isin": "ES0114797030",
                     "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 1.53
                 },
                 {
-                    "cantidad": 240231.0,
+                    "cantidad": 329564.0,
                     "desde": "2020T2",
-                    "isin": "ES0147496006",
-                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.4
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "porcentaje": 1.53
                 },
                 {
                     "cantidad": 240231.0,
                     "desde": "2020T2",
                     "isin": "ES0147496030",
                     "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE A",
+                    "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 240231.0,
+                    "desde": "2020T2",
+                    "isin": "ES0147496006",
+                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
                     "porcentaje": 1.4
                 },
                 {
@@ -4266,23 +4266,16 @@
                 {
                     "cantidad": 280480.0,
                     "desde": "2020T2",
-                    "isin": "ES0114879002",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 0.98
-                },
-                {
-                    "cantidad": 280480.0,
-                    "desde": "2020T2",
                     "isin": "ES0114879036",
                     "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE R",
                     "porcentaje": 0.98
                 },
                 {
-                    "cantidad": 31554.0,
+                    "cantidad": 280480.0,
                     "desde": "2020T2",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
-                    "porcentaje": 0.95
+                    "isin": "ES0114879002",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 0.98
                 },
                 {
                     "cantidad": 31554.0,
@@ -4292,11 +4285,11 @@
                     "porcentaje": 0.95
                 },
                 {
-                    "cantidad": 137856.0,
-                    "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
-                    "porcentaje": 0.81
+                    "cantidad": 31554.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "porcentaje": 0.95
                 },
                 {
                     "cantidad": 137856.0,
@@ -4306,17 +4299,24 @@
                     "porcentaje": 0.81
                 },
                 {
-                    "cantidad": 49645.0,
-                    "desde": "2020T2",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.73
+                    "cantidad": 137856.0,
+                    "desde": "2020T1",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "porcentaje": 0.81
                 },
                 {
                     "cantidad": 49645.0,
                     "desde": "2020T2",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "porcentaje": 0.73
+                },
+                {
+                    "cantidad": 49645.0,
+                    "desde": "2020T2",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.73
                 },
                 {
@@ -4341,17 +4341,17 @@
                     "porcentaje": 0.53
                 },
                 {
-                    "cantidad": 411955.0,
+                    "cantidad": 61846.0,
                     "desde": "2020T3",
-                    "isin": "ES0170136008",
-                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE A",
+                    "isin": "ES0180642003",
+                    "nombre": "TREA CAJAMAR RV EUROPA SOSTENIBLE, FI CLASE A",
                     "porcentaje": 0.47
                 },
                 {
                     "cantidad": 411955.0,
                     "desde": "2020T3",
-                    "isin": "ES0170136024",
-                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
+                    "isin": "ES0170136008",
+                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE A",
                     "porcentaje": 0.47
                 },
                 {
@@ -4362,32 +4362,11 @@
                     "porcentaje": 0.47
                 },
                 {
-                    "cantidad": 61846.0,
+                    "cantidad": 411955.0,
                     "desde": "2020T3",
-                    "isin": "ES0180642003",
-                    "nombre": "TREA CAJAMAR RV EUROPA SOSTENIBLE, FI CLASE A",
+                    "isin": "ES0170136024",
+                    "nombre": "SANTALUCIA FONVALOR EURO, FI CLASE C",
                     "porcentaje": 0.47
-                },
-                {
-                    "cantidad": 225366.0,
-                    "desde": "2019T2",
-                    "isin": "ES0147641007",
-                    "nombre": "IBERCAJA BOLSA INTERNACIONAL, FI CLASE B",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 225366.0,
-                    "desde": "2019T2",
-                    "isin": "ES0147641031",
-                    "nombre": "IBERCAJA BOLSA INTERNACIONAL, FI CLASE A",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 119555.0,
-                    "desde": "2020T3",
-                    "isin": "ES0165128002",
-                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
-                    "porcentaje": 0.45
                 },
                 {
                     "cantidad": 119555.0,
@@ -4404,17 +4383,38 @@
                     "porcentaje": 0.45
                 },
                 {
-                    "cantidad": 267438.0,
-                    "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
-                    "porcentaje": 0.43
+                    "cantidad": 119555.0,
+                    "desde": "2020T3",
+                    "isin": "ES0165128002",
+                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 225366.0,
+                    "desde": "2019T2",
+                    "isin": "ES0147641007",
+                    "nombre": "IBERCAJA BOLSA INTERNACIONAL, FI CLASE B",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 225366.0,
+                    "desde": "2019T2",
+                    "isin": "ES0147641031",
+                    "nombre": "IBERCAJA BOLSA INTERNACIONAL, FI CLASE A",
+                    "porcentaje": 0.45
                 },
                 {
                     "cantidad": 267438.0,
                     "desde": "2020T1",
                     "isin": "ES0175858036",
                     "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 267438.0,
+                    "desde": "2020T1",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.43
                 },
                 {
@@ -4446,17 +4446,17 @@
                     "porcentaje": 0.04
                 },
                 {
-                    "cantidad": 341975.0,
-                    "desde": "2019T2",
-                    "isin": "ES0146944006",
-                    "nombre": "IBERCAJA MIXTO FLEXIBLE 15, FI CLASE A",
+                    "cantidad": 19704.0,
+                    "desde": "2020T3",
+                    "isin": "ES0152747004",
+                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
                     "porcentaje": 0.02
                 },
                 {
                     "cantidad": 341975.0,
                     "desde": "2019T2",
-                    "isin": "ES0146944014",
-                    "nombre": "IBERCAJA MIXTO FLEXIBLE 15, FI CLASE B",
+                    "isin": "ES0146944006",
+                    "nombre": "IBERCAJA MIXTO FLEXIBLE 15, FI CLASE A",
                     "porcentaje": 0.02
                 },
                 {
@@ -4467,10 +4467,10 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 19704.0,
-                    "desde": "2020T3",
-                    "isin": "ES0152747004",
-                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "cantidad": 341975.0,
+                    "desde": "2019T2",
+                    "isin": "ES0146944014",
+                    "nombre": "IBERCAJA MIXTO FLEXIBLE 15, FI CLASE B",
                     "porcentaje": 0.02
                 }
             ],
@@ -4495,16 +4495,23 @@
                 {
                     "cantidad": 604847.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797006",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
+                    "isin": "ES0114797030",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
                     "porcentaje": 2.91
                 },
                 {
                     "cantidad": 604847.0,
                     "desde": "2020T2",
-                    "isin": "ES0114797030",
-                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE R",
+                    "isin": "ES0114797006",
+                    "nombre": "BANKINTER TECNOLOGÍA, FI CLASE C",
                     "porcentaje": 2.91
+                },
+                {
+                    "cantidad": 262072.0,
+                    "desde": "2020T1",
+                    "isin": "ES0111011039",
+                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
+                    "porcentaje": 2.68
                 },
                 {
                     "cantidad": 262072.0,
@@ -4519,20 +4526,6 @@
                     "isin": "ES0111011013",
                     "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE P",
                     "porcentaje": 2.68
-                },
-                {
-                    "cantidad": 262072.0,
-                    "desde": "2020T1",
-                    "isin": "ES0111011039",
-                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
-                    "porcentaje": 2.68
-                },
-                {
-                    "cantidad": 113539.0,
-                    "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 2.49
                 },
                 {
                     "cantidad": 113539.0,
@@ -4556,11 +4549,11 @@
                     "porcentaje": 2.49
                 },
                 {
-                    "cantidad": 611013.0,
-                    "desde": "2020T2",
-                    "isin": "ES0114879002",
-                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 1.98
+                    "cantidad": 113539.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 2.49
                 },
                 {
                     "cantidad": 611013.0,
@@ -4570,11 +4563,11 @@
                     "porcentaje": 1.98
                 },
                 {
-                    "cantidad": 3604338.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.96
+                    "cantidad": 611013.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114879002",
+                    "nombre": "BANKINTER RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 1.98
                 },
                 {
                     "cantidad": 3604338.0,
@@ -4586,8 +4579,22 @@
                 {
                     "cantidad": 3604338.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.96
+                },
+                {
+                    "cantidad": 3604338.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.96
+                },
+                {
+                    "cantidad": 3604338.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.96
                 },
                 {
@@ -4605,24 +4612,17 @@
                     "porcentaje": 1.96
                 },
                 {
-                    "cantidad": 3604338.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 1.96
+                    "cantidad": 77080.0,
+                    "desde": "2020T2",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "porcentaje": 1.84
                 },
                 {
                     "cantidad": 77080.0,
                     "desde": "2020T2",
                     "isin": "ES0114805007",
                     "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
-                    "porcentaje": 1.84
-                },
-                {
-                    "cantidad": 77080.0,
-                    "desde": "2020T2",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 1.84
                 },
                 {
@@ -4635,29 +4635,29 @@
                 {
                     "cantidad": 151539.0,
                     "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
-                    "porcentaje": 0.87
-                },
-                {
-                    "cantidad": 151539.0,
-                    "desde": "2020T1",
                     "isin": "ES0138666039",
                     "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
                     "porcentaje": 0.87
                 },
                 {
-                    "cantidad": 54573.0,
-                    "desde": "2020T2",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.84
+                    "cantidad": 151539.0,
+                    "desde": "2020T1",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "porcentaje": 0.87
                 },
                 {
                     "cantidad": 54573.0,
                     "desde": "2020T2",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "porcentaje": 0.84
+                },
+                {
+                    "cantidad": 54573.0,
+                    "desde": "2020T2",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.84
                 },
                 {
@@ -4703,20 +4703,6 @@
                     "porcentaje": 0.65
                 },
                 {
-                    "cantidad": 90184.0,
-                    "desde": "2020T2",
-                    "isin": "ES0147496006",
-                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 90184.0,
-                    "desde": "2020T2",
-                    "isin": "ES0147496030",
-                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE A",
-                    "porcentaje": 0.52
-                },
-                {
                     "cantidad": 247735.0,
                     "desde": "2019T2",
                     "isin": "ES0147641007",
@@ -4731,6 +4717,20 @@
                     "porcentaje": 0.52
                 },
                 {
+                    "cantidad": 90184.0,
+                    "desde": "2020T2",
+                    "isin": "ES0147496030",
+                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE A",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 90184.0,
+                    "desde": "2020T2",
+                    "isin": "ES0147496006",
+                    "nombre": "UNIFOND RENTA VARIABLE EURO, FI CLASE C",
+                    "porcentaje": 0.52
+                },
+                {
                     "cantidad": 906846.0,
                     "desde": "2019T2",
                     "isin": "ES0102564038",
@@ -4740,15 +4740,15 @@
                 {
                     "cantidad": 293983.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
+                    "isin": "ES0175858036",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
                     "porcentaje": 0.46
                 },
                 {
                     "cantidad": 293983.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858036",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.46
                 },
                 {
@@ -4808,13 +4808,6 @@
                 {
                     "cantidad": 79100.0,
                     "desde": "2020T1",
-                    "isin": "ES0178487007",
-                    "nombre": "TEMPERANTIA FI CLASE A",
-                    "porcentaje": 1.96
-                },
-                {
-                    "cantidad": 79100.0,
-                    "desde": "2020T1",
                     "isin": "ES0178487015",
                     "nombre": "TEMPERANTIA FI CLASE I",
                     "porcentaje": 1.96
@@ -4834,6 +4827,20 @@
                     "porcentaje": 1.96
                 },
                 {
+                    "cantidad": 79100.0,
+                    "desde": "2020T1",
+                    "isin": "ES0178487007",
+                    "nombre": "TEMPERANTIA FI CLASE A",
+                    "porcentaje": 1.96
+                },
+                {
+                    "cantidad": 171840.0,
+                    "desde": "2020T1",
+                    "isin": "ES0111011039",
+                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
+                    "porcentaje": 1.93
+                },
+                {
                     "cantidad": 171840.0,
                     "desde": "2020T1",
                     "isin": "ES0111011005",
@@ -4848,20 +4855,6 @@
                     "porcentaje": 1.93
                 },
                 {
-                    "cantidad": 171840.0,
-                    "desde": "2020T1",
-                    "isin": "ES0111011039",
-                    "nombre": "UNIFOND RENTA VARIABLE EUROPA SELECCIÓN, FI CLASE A",
-                    "porcentaje": 1.93
-                },
-                {
-                    "cantidad": 2806416.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 1.54
-                },
-                {
                     "cantidad": 2806416.0,
                     "desde": "2019T2",
                     "isin": "ES0170141024",
@@ -4871,8 +4864,22 @@
                 {
                     "cantidad": 2806416.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 2806416.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 1.54
+                },
+                {
+                    "cantidad": 2806416.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 1.54
                 },
                 {
@@ -4887,13 +4894,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 1.54
-                },
-                {
-                    "cantidad": 2806416.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 1.54
                 },
                 {
@@ -4934,15 +4934,15 @@
                 {
                     "cantidad": 55204.0,
                     "desde": "2020T1",
-                    "isin": "ES0138666005",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
+                    "isin": "ES0138666039",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
                     "porcentaje": 0.36
                 },
                 {
                     "cantidad": 55204.0,
                     "desde": "2020T1",
-                    "isin": "ES0138666039",
-                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE A",
+                    "isin": "ES0138666005",
+                    "nombre": "UNIFOND MIXTO RENTA VARIABLE, FI CLASE C",
                     "porcentaje": 0.36
                 },
                 {
@@ -4969,15 +4969,15 @@
                 {
                     "cantidad": 80335.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858002",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
+                    "isin": "ES0175858036",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
                     "porcentaje": 0.13
                 },
                 {
                     "cantidad": 80335.0,
                     "desde": "2020T1",
-                    "isin": "ES0175858036",
-                    "nombre": "UNIFOND PATRIMONIO, FI CLASE A",
+                    "isin": "ES0175858002",
+                    "nombre": "UNIFOND PATRIMONIO, FI CLASE C",
                     "porcentaje": 0.13
                 },
                 {
@@ -5044,13 +5044,6 @@
                 {
                     "cantidad": 1072034.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.46
-                },
-                {
-                    "cantidad": 1072034.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.46
@@ -5058,8 +5051,22 @@
                 {
                     "cantidad": 1072034.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 1072034.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 1072034.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.46
                 },
                 {
@@ -5074,13 +5081,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 0.46
-                },
-                {
-                    "cantidad": 1072034.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 0.46
                 },
                 {
@@ -5142,8 +5142,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0141986002",
-                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
+                    "isin": "ES0174367005",
+                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -5156,15 +5156,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0174367005",
-                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE CARTERA",
+                    "isin": "ES0174367039",
+                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE ESTANDAR",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0174367039",
-                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE ESTANDAR",
+                    "isin": "ES0141986002",
+                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
                     "porcentaje": 0.0
                 }
             ],
@@ -5217,13 +5217,6 @@
                 {
                     "cantidad": 982910.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 982910.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.42
@@ -5231,8 +5224,22 @@
                 {
                     "cantidad": 982910.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 982910.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.42
+                },
+                {
+                    "cantidad": 982910.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.42
                 },
                 {
@@ -5247,13 +5254,6 @@
                     "desde": "2019T2",
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
-                    "porcentaje": 0.42
-                },
-                {
-                    "cantidad": 982910.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
                     "porcentaje": 0.42
                 },
                 {
@@ -5301,8 +5301,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0141986002",
-                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
+                    "isin": "ES0174367005",
+                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 },
                 {
@@ -5315,15 +5315,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0174367005",
-                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE CARTERA",
+                    "isin": "ES0174367039",
+                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE ESTANDAR",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0174367039",
-                    "nombre": "RURAL EURO RENTA VARIABLE, FI CLASE ESTANDAR",
+                    "isin": "ES0141986002",
+                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
                     "porcentaje": 0.0
                 }
             ],
@@ -5348,15 +5348,15 @@
                 {
                     "cantidad": 64000.0,
                     "desde": "2019T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 1.06
                 },
                 {
                     "cantidad": 64000.0,
                     "desde": "2019T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 1.06
                 },
                 {
@@ -5365,13 +5365,6 @@
                     "isin": "ES0180642003",
                     "nombre": "TREA CAJAMAR RV EUROPA SOSTENIBLE, FI CLASE A",
                     "porcentaje": 0.93
-                },
-                {
-                    "cantidad": 356032.0,
-                    "desde": "2019T2",
-                    "isin": "ES0165128002",
-                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
-                    "porcentaje": 0.91
                 },
                 {
                     "cantidad": 356032.0,
@@ -5388,10 +5381,17 @@
                     "porcentaje": 0.91
                 },
                 {
-                    "cantidad": 102400.0,
+                    "cantidad": 356032.0,
                     "desde": "2019T2",
-                    "isin": "ES0141986002",
-                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
+                    "isin": "ES0165128002",
+                    "nombre": "MEDIOLANUM EUROPA R.V., FI CLASE L",
+                    "porcentaje": 0.91
+                },
+                {
+                    "cantidad": 1693952.0,
+                    "desde": "2019T2",
+                    "isin": "ES0147644001",
+                    "nombre": "IBERCAJA TECNOLOGICO, FI CLASE B",
                     "porcentaje": 0.59
                 },
                 {
@@ -5402,10 +5402,10 @@
                     "porcentaje": 0.59
                 },
                 {
-                    "cantidad": 1693952.0,
+                    "cantidad": 102400.0,
                     "desde": "2019T2",
-                    "isin": "ES0147644001",
-                    "nombre": "IBERCAJA TECNOLOGICO, FI CLASE B",
+                    "isin": "ES0141986002",
+                    "nombre": "RURAL FUTURO ISR, FI CLASE ESTANDAR",
                     "porcentaje": 0.59
                 },
                 {
@@ -5446,13 +5446,6 @@
                 {
                     "cantidad": 1061248.0,
                     "desde": "2019T2",
-                    "isin": "ES0170141008",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 1061248.0,
-                    "desde": "2019T2",
                     "isin": "ES0170141024",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE C",
                     "porcentaje": 0.45
@@ -5460,8 +5453,22 @@
                 {
                     "cantidad": 1061248.0,
                     "desde": "2019T2",
+                    "isin": "ES0170141065",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 1061248.0,
+                    "desde": "2019T2",
                     "isin": "ES0170141032",
                     "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE A",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 1061248.0,
+                    "desde": "2019T2",
+                    "isin": "ES0170141008",
+                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE B",
                     "porcentaje": 0.45
                 },
                 {
@@ -5477,20 +5484,6 @@
                     "isin": "ES0170141057",
                     "nombre": "SANTALUCIA EUROBOLSA, FI CLASE CR",
                     "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 1061248.0,
-                    "desde": "2019T2",
-                    "isin": "ES0170141065",
-                    "nombre": "SANTALUCIA QUALITY ACCIONES EUROPEAS, FI CLASE BR",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 453056.0,
-                    "desde": "2019T2",
-                    "isin": "ES0109226037",
-                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
-                    "porcentaje": 0.28
                 },
                 {
                     "cantidad": 184640.0,
@@ -5509,13 +5502,6 @@
                 {
                     "cantidad": 184640.0,
                     "desde": "2019T2",
-                    "isin": "ES0137389021",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
-                    "porcentaje": 0.28
-                },
-                {
-                    "cantidad": 184640.0,
-                    "desde": "2019T2",
                     "isin": "ES0137389039",
                     "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-A",
                     "porcentaje": 0.28
@@ -5523,15 +5509,29 @@
                 {
                     "cantidad": 184640.0,
                     "desde": "2019T2",
-                    "isin": "ES0137389047",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
+                    "isin": "ES0137389054",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
                     "porcentaje": 0.28
                 },
                 {
                     "cantidad": 184640.0,
                     "desde": "2019T2",
-                    "isin": "ES0137389054",
-                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-B",
+                    "isin": "ES0137389021",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE S-B",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 453056.0,
+                    "desde": "2019T2",
+                    "isin": "ES0109226037",
+                    "nombre": "TREA CAJAMAR CRECIMIENTO FI",
+                    "porcentaje": 0.28
+                },
+                {
+                    "cantidad": 184640.0,
+                    "desde": "2019T2",
+                    "isin": "ES0137389047",
+                    "nombre": "MEDIOLANUM CRECIMIENTO, FI CLASE E-A",
                     "porcentaje": 0.28
                 },
                 {
@@ -5565,15 +5565,15 @@
                 {
                     "cantidad": 9152.0,
                     "desde": "2019T2",
-                    "isin": "ES0180542005",
-                    "nombre": "TREA BALANCED, FI CLASE A",
+                    "isin": "ES0180542013",
+                    "nombre": "TREA BALANCED, FI CLASE B",
                     "porcentaje": 0.1
                 },
                 {
                     "cantidad": 9152.0,
                     "desde": "2019T2",
-                    "isin": "ES0180542013",
-                    "nombre": "TREA BALANCED, FI CLASE B",
+                    "isin": "ES0180542005",
+                    "nombre": "TREA BALANCED, FI CLASE A",
                     "porcentaje": 0.1
                 },
                 {
@@ -5633,15 +5633,15 @@
                 {
                     "cantidad": 44880.0,
                     "desde": "2019T1",
-                    "isin": "ES0114805007",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
+                    "isin": "ES0114805031",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 44880.0,
                     "desde": "2019T1",
-                    "isin": "ES0114805031",
-                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE R",
+                    "isin": "ES0114805007",
+                    "nombre": "BANKINTER FINANZAS GLOBALES, FI CLASE C",
                     "porcentaje": 0.63
                 }
             ],
@@ -5925,5 +5925,5 @@
         }
     ],
     "isin": "FR0011981968",
-    "nombre": "ACCIONES|WORLDLINE SA"
+    "nombre": "ACCIONES|WORLDLINE SA/FRANCE"
 }

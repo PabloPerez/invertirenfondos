@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|REP.PORTUG|4,45|2018-06-15
+title: Obl.de Tesoro Portugal 4,45% 150618
 isin: PTOTENOE0018
 ---

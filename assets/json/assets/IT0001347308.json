@@ -3,6 +3,39 @@
         {
             "fondos": [
                 {
+                    "cantidad": 1374092.0,
+                    "desde": "2024T3",
+                    "isin": "ES0168051011",
+                    "nombre": "PANZA INVERSIONES, FI CLASE B",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 1374092.0,
+                    "desde": "2022T4",
+                    "isin": "ES0168051003",
+                    "nombre": "PANZA INVERSIONES, FI CLASE A",
+                    "porcentaje": 1.2
+                },
+                {
+                    "cantidad": 683951.0,
+                    "desde": "2024T3",
+                    "isin": "ES0167974015",
+                    "nombre": "PANZA VALOR, FI CLASE B",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 683951.0,
+                    "desde": "2022T4",
+                    "isin": "ES0167974007",
+                    "nombre": "PANZA VALOR, FI CLASE A",
+                    "porcentaje": 1.1
+                }
+            ],
+            "periodo": "2025T1"
+        },
+        {
+            "fondos": [
+                {
                     "cantidad": 29176.0,
                     "desde": "2023T3",
                     "isin": "ES0142630062",
@@ -12,23 +45,16 @@
                 {
                     "cantidad": 515910.0,
                     "desde": "2024T2",
-                    "isin": "ES0182838005",
-                    "nombre": "BELGRAVIA VALUE STRATEGY, FI A",
-                    "porcentaje": 2.92
-                },
-                {
-                    "cantidad": 515910.0,
-                    "desde": "2024T2",
                     "isin": "ES0182838013",
                     "nombre": "BELGRAVIA VALUE STRATEGY, FI Z",
                     "porcentaje": 2.92
                 },
                 {
-                    "cantidad": 800550.0,
+                    "cantidad": 515910.0,
                     "desde": "2024T2",
-                    "isin": "ES0114353008",
-                    "nombre": "BELGRAVIA EPSILON, FI Z",
-                    "porcentaje": 2.04
+                    "isin": "ES0182838005",
+                    "nombre": "BELGRAVIA VALUE STRATEGY, FI A",
+                    "porcentaje": 2.92
                 },
                 {
                     "cantidad": 800550.0,
@@ -38,11 +64,11 @@
                     "porcentaje": 2.04
                 },
                 {
-                    "cantidad": 96066.0,
+                    "cantidad": 800550.0,
                     "desde": "2024T2",
-                    "isin": "ES0114429006",
-                    "nombre": "BELGRAVIA DELTA,FI A",
-                    "porcentaje": 1.84
+                    "isin": "ES0114353008",
+                    "nombre": "BELGRAVIA EPSILON, FI Z",
+                    "porcentaje": 2.04
                 },
                 {
                     "cantidad": 96066.0,
@@ -52,11 +78,11 @@
                     "porcentaje": 1.84
                 },
                 {
-                    "cantidad": 973362.0,
-                    "desde": "2022T4",
-                    "isin": "ES0168051003",
-                    "nombre": "PANZA INVERSIONES, FI CLASE A",
-                    "porcentaje": 0.87
+                    "cantidad": 96066.0,
+                    "desde": "2024T2",
+                    "isin": "ES0114429006",
+                    "nombre": "BELGRAVIA DELTA,FI A",
+                    "porcentaje": 1.84
                 },
                 {
                     "cantidad": 973362.0,
@@ -66,17 +92,24 @@
                     "porcentaje": 0.87
                 },
                 {
-                    "cantidad": 435215.0,
+                    "cantidad": 973362.0,
                     "desde": "2022T4",
-                    "isin": "ES0167974007",
-                    "nombre": "PANZA VALOR, FI CLASE A",
-                    "porcentaje": 0.85
+                    "isin": "ES0168051003",
+                    "nombre": "PANZA INVERSIONES, FI CLASE A",
+                    "porcentaje": 0.87
                 },
                 {
                     "cantidad": 435215.0,
                     "desde": "2024T3",
                     "isin": "ES0167974015",
                     "nombre": "PANZA VALOR, FI CLASE B",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 435215.0,
+                    "desde": "2022T4",
+                    "isin": "ES0167974007",
+                    "nombre": "PANZA VALOR, FI CLASE A",
                     "porcentaje": 0.85
                 },
                 {
@@ -135,30 +168,30 @@
                 },
                 {
                     "cantidad": 569077.0,
-                    "desde": "2022T4",
-                    "isin": "ES0167974007",
-                    "nombre": "PANZA VALOR, FI CLASE A",
-                    "porcentaje": 1.16
-                },
-                {
-                    "cantidad": 569077.0,
                     "desde": "2024T3",
                     "isin": "ES0167974015",
                     "nombre": "PANZA VALOR, FI CLASE B",
                     "porcentaje": 1.16
                 },
                 {
-                    "cantidad": 979381.0,
+                    "cantidad": 569077.0,
                     "desde": "2022T4",
-                    "isin": "ES0168051003",
-                    "nombre": "PANZA INVERSIONES, FI CLASE A",
-                    "porcentaje": 0.81
+                    "isin": "ES0167974007",
+                    "nombre": "PANZA VALOR, FI CLASE A",
+                    "porcentaje": 1.16
                 },
                 {
                     "cantidad": 979381.0,
                     "desde": "2024T3",
                     "isin": "ES0168051011",
                     "nombre": "PANZA INVERSIONES, FI CLASE B",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 979381.0,
+                    "desde": "2022T4",
+                    "isin": "ES0168051003",
+                    "nombre": "PANZA INVERSIONES, FI CLASE A",
                     "porcentaje": 0.81
                 }
             ],
@@ -190,15 +223,15 @@
                 {
                     "cantidad": 240512.0,
                     "desde": "2024T2",
-                    "isin": "ES0182838005",
-                    "nombre": "BELGRAVIA VALUE STRATEGY, FI A",
+                    "isin": "ES0182838013",
+                    "nombre": "BELGRAVIA VALUE STRATEGY, FI Z",
                     "porcentaje": 0.89
                 },
                 {
                     "cantidad": 240512.0,
                     "desde": "2024T2",
-                    "isin": "ES0182838013",
-                    "nombre": "BELGRAVIA VALUE STRATEGY, FI Z",
+                    "isin": "ES0182838005",
+                    "nombre": "BELGRAVIA VALUE STRATEGY, FI A",
                     "porcentaje": 0.89
                 },
                 {
@@ -211,29 +244,29 @@
                 {
                     "cantidad": 319430.0,
                     "desde": "2024T2",
-                    "isin": "ES0114353008",
-                    "nombre": "BELGRAVIA EPSILON, FI Z",
-                    "porcentaje": 0.61
-                },
-                {
-                    "cantidad": 319430.0,
-                    "desde": "2024T2",
                     "isin": "ES0114353032",
                     "nombre": "BELGRAVIA EPSILON, FI A",
                     "porcentaje": 0.61
                 },
                 {
-                    "cantidad": 39459.0,
+                    "cantidad": 319430.0,
                     "desde": "2024T2",
-                    "isin": "ES0114429006",
-                    "nombre": "BELGRAVIA DELTA,FI A",
-                    "porcentaje": 0.58
+                    "isin": "ES0114353008",
+                    "nombre": "BELGRAVIA EPSILON, FI Z",
+                    "porcentaje": 0.61
                 },
                 {
                     "cantidad": 39459.0,
                     "desde": "2024T2",
                     "isin": "ES0114429014",
                     "nombre": "BELGRAVIA DELTA,FI Z",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 39459.0,
+                    "desde": "2024T2",
+                    "isin": "ES0114429006",
+                    "nombre": "BELGRAVIA DELTA,FI A",
                     "porcentaje": 0.58
                 },
                 {
@@ -298,13 +331,6 @@
                 {
                     "cantidad": 2698920.0,
                     "desde": "2023T2",
-                    "isin": "ES0167238007",
-                    "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE F",
-                    "porcentaje": 2.81
-                },
-                {
-                    "cantidad": 2698920.0,
-                    "desde": "2023T2",
                     "isin": "ES0167238015",
                     "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE I",
                     "porcentaje": 2.81
@@ -321,6 +347,13 @@
                     "desde": "2023T2",
                     "isin": "ES0167238031",
                     "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE S",
+                    "porcentaje": 2.81
+                },
+                {
+                    "cantidad": 2698920.0,
+                    "desde": "2023T2",
+                    "isin": "ES0167238007",
+                    "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE F",
                     "porcentaje": 2.81
                 },
                 {
@@ -413,13 +446,6 @@
                 {
                     "cantidad": 2248120.0,
                     "desde": "2023T2",
-                    "isin": "ES0167238007",
-                    "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE F",
-                    "porcentaje": 2.77
-                },
-                {
-                    "cantidad": 2248120.0,
-                    "desde": "2023T2",
                     "isin": "ES0167238015",
                     "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE I",
                     "porcentaje": 2.77
@@ -436,6 +462,13 @@
                     "desde": "2023T2",
                     "isin": "ES0167238031",
                     "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE S",
+                    "porcentaje": 2.77
+                },
+                {
+                    "cantidad": 2248120.0,
+                    "desde": "2023T2",
+                    "isin": "ES0167238007",
+                    "nombre": "ESTELA GLOBAL EQUITIES, FI CLASE F",
                     "porcentaje": 2.77
                 },
                 {
@@ -664,15 +697,15 @@
                 {
                     "cantidad": 13581.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 13581.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.33
                 },
                 {
@@ -705,16 +738,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2022T1",
-                    "isin": "ES0142538018",
-                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase I",
+                    "desde": "2017T1",
+                    "isin": "ES0142538034",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T1",
-                    "isin": "ES0142538034",
-                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
+                    "desde": "2022T1",
+                    "isin": "ES0142538018",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase I",
                     "porcentaje": 0.0
                 }
             ],
@@ -732,15 +765,15 @@
                 {
                     "cantidad": 2865519.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "isin": "ES0107987036",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.88
                 },
                 {
                     "cantidad": 2865519.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987036",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
                     "porcentaje": 1.88
                 },
                 {
@@ -760,15 +793,15 @@
                 {
                     "cantidad": 14664.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.29
                 },
                 {
                     "cantidad": 14664.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.29
                 },
                 {
@@ -801,16 +834,16 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2022T1",
-                    "isin": "ES0142538018",
-                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase I",
+                    "desde": "2017T1",
+                    "isin": "ES0142538034",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2017T1",
-                    "isin": "ES0142538034",
-                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase A",
+                    "desde": "2022T1",
+                    "isin": "ES0142538018",
+                    "nombre": "UBS PREMIUM DINÁMICO, FI Clase I",
                     "porcentaje": 0.0
                 }
             ],
@@ -842,15 +875,15 @@
                 {
                     "cantidad": 3225940.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "isin": "ES0107987036",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.76
                 },
                 {
                     "cantidad": 3225940.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987036",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
                     "porcentaje": 1.76
                 },
                 {
@@ -870,15 +903,15 @@
                 {
                     "cantidad": 16508.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.27
                 },
                 {
                     "cantidad": 16508.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.27
                 },
                 {
@@ -931,15 +964,15 @@
                 {
                     "cantidad": 3356847.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "isin": "ES0107987036",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.83
                 },
                 {
                     "cantidad": 3356847.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987036",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
                     "porcentaje": 1.83
                 },
                 {
@@ -966,15 +999,15 @@
                 {
                     "cantidad": 17178.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.3
                 },
                 {
                     "cantidad": 17178.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.3
                 },
                 {
@@ -1048,23 +1081,16 @@
                 {
                     "cantidad": 2990780.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
-                    "porcentaje": 1.61
-                },
-                {
-                    "cantidad": 2990780.0,
-                    "desde": "2020T2",
                     "isin": "ES0107987036",
                     "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.61
                 },
                 {
-                    "cantidad": 1678000.0,
-                    "desde": "2021T2",
-                    "isin": "ES0119178004",
-                    "nombre": "BBVA MI INVERSION BOLSA, FI",
-                    "porcentaje": 0.33
+                    "cantidad": 2990780.0,
+                    "desde": "2020T2",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "porcentaje": 1.61
                 },
                 {
                     "cantidad": 336000.0,
@@ -1074,17 +1100,24 @@
                     "porcentaje": 0.33
                 },
                 {
-                    "cantidad": 19462.0,
+                    "cantidad": 1678000.0,
                     "desde": "2021T2",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
-                    "porcentaje": 0.32
+                    "isin": "ES0119178004",
+                    "nombre": "BBVA MI INVERSION BOLSA, FI",
+                    "porcentaje": 0.33
                 },
                 {
                     "cantidad": 19462.0,
                     "desde": "2021T2",
                     "isin": "ES0161621018",
                     "nombre": "MAVERICK FUND, FI CLASE A",
+                    "porcentaje": 0.32
+                },
+                {
+                    "cantidad": 19462.0,
+                    "desde": "2021T2",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.32
                 },
                 {
@@ -1137,15 +1170,15 @@
                 {
                     "cantidad": 2964040.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "isin": "ES0107987036",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.66
                 },
                 {
                     "cantidad": 2964040.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987036",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
                     "porcentaje": 1.66
                 },
                 {
@@ -1163,15 +1196,15 @@
                 {
                     "cantidad": 1647399.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 3.67
                 },
                 {
                     "cantidad": 1647399.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 3.67
                 },
                 {
@@ -1205,22 +1238,22 @@
                 {
                     "cantidad": 2607072.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
-                    "porcentaje": 1.39
-                },
-                {
-                    "cantidad": 2607072.0,
-                    "desde": "2020T2",
                     "isin": "ES0107987036",
                     "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.39
                 },
                 {
+                    "cantidad": 2607072.0,
+                    "desde": "2020T2",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "porcentaje": 1.39
+                },
+                {
                     "cantidad": 1136000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098002",
-                    "nombre": "SABADELL EUROACCION, FI CARTERA",
+                    "isin": "ES0111098051",
+                    "nombre": "SABADELL EUROACCION, FI PYME",
                     "porcentaje": 0.84
                 },
                 {
@@ -1233,15 +1266,15 @@
                 {
                     "cantidad": 1136000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098028",
-                    "nombre": "SABADELL EUROACCION, FI PREMIER",
+                    "isin": "ES0111098036",
+                    "nombre": "SABADELL EUROACCION, FI BASE",
                     "porcentaje": 0.84
                 },
                 {
                     "cantidad": 1136000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098036",
-                    "nombre": "SABADELL EUROACCION, FI BASE",
+                    "isin": "ES0111098002",
+                    "nombre": "SABADELL EUROACCION, FI CARTERA",
                     "porcentaje": 0.84
                 },
                 {
@@ -1254,8 +1287,8 @@
                 {
                     "cantidad": 1136000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098051",
-                    "nombre": "SABADELL EUROACCION, FI PYME",
+                    "isin": "ES0111098028",
+                    "nombre": "SABADELL EUROACCION, FI PREMIER",
                     "porcentaje": 0.84
                 }
             ],
@@ -1266,15 +1299,15 @@
                 {
                     "cantidad": 1679925.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 3.96
                 },
                 {
                     "cantidad": 1679925.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 3.96
                 },
                 {
@@ -1308,22 +1341,22 @@
                 {
                     "cantidad": 2658545.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
-                    "porcentaje": 1.56
-                },
-                {
-                    "cantidad": 2658545.0,
-                    "desde": "2020T2",
                     "isin": "ES0107987036",
                     "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.56
                 },
                 {
+                    "cantidad": 2658545.0,
+                    "desde": "2020T2",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "porcentaje": 1.56
+                },
+                {
                     "cantidad": 1627000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098002",
-                    "nombre": "SABADELL EUROACCION, FI CARTERA",
+                    "isin": "ES0111098051",
+                    "nombre": "SABADELL EUROACCION, FI PYME",
                     "porcentaje": 1.28
                 },
                 {
@@ -1336,15 +1369,15 @@
                 {
                     "cantidad": 1627000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098028",
-                    "nombre": "SABADELL EUROACCION, FI PREMIER",
+                    "isin": "ES0111098036",
+                    "nombre": "SABADELL EUROACCION, FI BASE",
                     "porcentaje": 1.28
                 },
                 {
                     "cantidad": 1627000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098036",
-                    "nombre": "SABADELL EUROACCION, FI BASE",
+                    "isin": "ES0111098002",
+                    "nombre": "SABADELL EUROACCION, FI CARTERA",
                     "porcentaje": 1.28
                 },
                 {
@@ -1357,22 +1390,22 @@
                 {
                     "cantidad": 1627000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098051",
-                    "nombre": "SABADELL EUROACCION, FI PYME",
+                    "isin": "ES0111098028",
+                    "nombre": "SABADELL EUROACCION, FI PREMIER",
                     "porcentaje": 1.28
-                },
-                {
-                    "cantidad": 1193100.0,
-                    "desde": "2020T2",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 0.78
                 },
                 {
                     "cantidad": 1193100.0,
                     "desde": "2020T2",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 1193100.0,
+                    "desde": "2020T2",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
                     "porcentaje": 0.78
                 }
             ],
@@ -1383,15 +1416,15 @@
                 {
                     "cantidad": 1619520.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 3.69
                 },
                 {
                     "cantidad": 1619520.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 3.69
                 },
                 {
@@ -1425,22 +1458,22 @@
                 {
                     "cantidad": 2562952.0,
                     "desde": "2020T2",
-                    "isin": "ES0107987002",
-                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
-                    "porcentaje": 1.47
-                },
-                {
-                    "cantidad": 2562952.0,
-                    "desde": "2020T2",
                     "isin": "ES0107987036",
                     "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE A",
                     "porcentaje": 1.47
                 },
                 {
+                    "cantidad": 2562952.0,
+                    "desde": "2020T2",
+                    "isin": "ES0107987002",
+                    "nombre": "SANTANDER SMALL CAPS EUROPA, FI CLASE CARTERA",
+                    "porcentaje": 1.47
+                },
+                {
                     "cantidad": 1394000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098002",
-                    "nombre": "SABADELL EUROACCION, FI CARTERA",
+                    "isin": "ES0111098051",
+                    "nombre": "SABADELL EUROACCION, FI PYME",
                     "porcentaje": 1.06
                 },
                 {
@@ -1453,15 +1486,15 @@
                 {
                     "cantidad": 1394000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098028",
-                    "nombre": "SABADELL EUROACCION, FI PREMIER",
+                    "isin": "ES0111098036",
+                    "nombre": "SABADELL EUROACCION, FI BASE",
                     "porcentaje": 1.06
                 },
                 {
                     "cantidad": 1394000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098036",
-                    "nombre": "SABADELL EUROACCION, FI BASE",
+                    "isin": "ES0111098002",
+                    "nombre": "SABADELL EUROACCION, FI CARTERA",
                     "porcentaje": 1.06
                 },
                 {
@@ -1474,22 +1507,22 @@
                 {
                     "cantidad": 1394000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098051",
-                    "nombre": "SABADELL EUROACCION, FI PYME",
+                    "isin": "ES0111098028",
+                    "nombre": "SABADELL EUROACCION, FI PREMIER",
                     "porcentaje": 1.06
-                },
-                {
-                    "cantidad": 1150200.0,
-                    "desde": "2020T2",
-                    "isin": "ES0130705009",
-                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
-                    "porcentaje": 0.76
                 },
                 {
                     "cantidad": 1150200.0,
                     "desde": "2020T2",
                     "isin": "ES0130705033",
                     "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE A",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 1150200.0,
+                    "desde": "2020T2",
+                    "isin": "ES0130705009",
+                    "nombre": "IBERCAJA BOLSA EUROPA, FI CLASE B",
                     "porcentaje": 0.76
                 }
             ],
@@ -1500,15 +1533,15 @@
                 {
                     "cantidad": 1324965.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 3.11
                 },
                 {
                     "cantidad": 1324965.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 3.11
                 },
                 {
@@ -1542,8 +1575,8 @@
                 {
                     "cantidad": 1358000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098002",
-                    "nombre": "SABADELL EUROACCION, FI CARTERA",
+                    "isin": "ES0111098051",
+                    "nombre": "SABADELL EUROACCION, FI PYME",
                     "porcentaje": 1.04
                 },
                 {
@@ -1556,15 +1589,15 @@
                 {
                     "cantidad": 1358000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098028",
-                    "nombre": "SABADELL EUROACCION, FI PREMIER",
+                    "isin": "ES0111098036",
+                    "nombre": "SABADELL EUROACCION, FI BASE",
                     "porcentaje": 1.04
                 },
                 {
                     "cantidad": 1358000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098036",
-                    "nombre": "SABADELL EUROACCION, FI BASE",
+                    "isin": "ES0111098002",
+                    "nombre": "SABADELL EUROACCION, FI CARTERA",
                     "porcentaje": 1.04
                 },
                 {
@@ -1577,8 +1610,8 @@
                 {
                     "cantidad": 1358000.0,
                     "desde": "2020T1",
-                    "isin": "ES0111098051",
-                    "nombre": "SABADELL EUROACCION, FI PYME",
+                    "isin": "ES0111098028",
+                    "nombre": "SABADELL EUROACCION, FI PREMIER",
                     "porcentaje": 1.04
                 }
             ],
@@ -1603,15 +1636,15 @@
                 {
                     "cantidad": 1784371.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.5
                 },
                 {
                     "cantidad": 1784371.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.5
                 },
                 {
@@ -1664,15 +1697,15 @@
                 {
                     "cantidad": 1672301.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.44
                 },
                 {
                     "cantidad": 1672301.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.44
                 },
                 {
@@ -1692,8 +1725,8 @@
                 {
                     "cantidad": 1368000.0,
                     "desde": "2019T3",
-                    "isin": "ES0111098002",
-                    "nombre": "SABADELL EUROACCION, FI CARTERA",
+                    "isin": "ES0111098051",
+                    "nombre": "SABADELL EUROACCION, FI PYME",
                     "porcentaje": 0.73
                 },
                 {
@@ -1706,15 +1739,15 @@
                 {
                     "cantidad": 1368000.0,
                     "desde": "2019T3",
-                    "isin": "ES0111098028",
-                    "nombre": "SABADELL EUROACCION, FI PREMIER",
+                    "isin": "ES0111098036",
+                    "nombre": "SABADELL EUROACCION, FI BASE",
                     "porcentaje": 0.73
                 },
                 {
                     "cantidad": 1368000.0,
                     "desde": "2019T3",
-                    "isin": "ES0111098036",
-                    "nombre": "SABADELL EUROACCION, FI BASE",
+                    "isin": "ES0111098002",
+                    "nombre": "SABADELL EUROACCION, FI CARTERA",
                     "porcentaje": 0.73
                 },
                 {
@@ -1727,8 +1760,8 @@
                 {
                     "cantidad": 1368000.0,
                     "desde": "2019T3",
-                    "isin": "ES0111098051",
-                    "nombre": "SABADELL EUROACCION, FI PYME",
+                    "isin": "ES0111098028",
+                    "nombre": "SABADELL EUROACCION, FI PREMIER",
                     "porcentaje": 0.73
                 },
                 {
@@ -1774,29 +1807,29 @@
                 {
                     "cantidad": 1043611.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 1.58
-                },
-                {
-                    "cantidad": 1043611.0,
-                    "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.58
                 },
                 {
-                    "cantidad": 89225.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
-                    "porcentaje": 0.74
+                    "cantidad": 1043611.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 1.58
                 },
                 {
                     "cantidad": 89225.0,
                     "desde": "2017T3",
                     "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
+                    "porcentaje": 0.74
+                },
+                {
+                    "cantidad": 89225.0,
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 0.74
                 },
                 {
@@ -1835,15 +1868,15 @@
                 {
                     "cantidad": 1066419.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.16
                 },
                 {
                     "cantidad": 1066419.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.16
                 },
                 {
@@ -1862,16 +1895,16 @@
                 },
                 {
                     "cantidad": 91175.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
+                    "desde": "2017T3",
+                    "isin": "ES0113118014",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 91175.0,
-                    "desde": "2017T3",
-                    "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 0.72
                 },
                 {
@@ -1903,15 +1936,15 @@
                 {
                     "cantidad": 878692.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.36
                 },
                 {
                     "cantidad": 878692.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.36
                 },
                 {
@@ -1930,16 +1963,16 @@
                 },
                 {
                     "cantidad": 240400.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
+                    "desde": "2017T3",
+                    "isin": "ES0113118014",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 1.85
                 },
                 {
                     "cantidad": 240400.0,
-                    "desde": "2017T3",
-                    "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 1.85
                 },
                 {
@@ -1998,30 +2031,30 @@
                 },
                 {
                     "cantidad": 464880.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
+                    "desde": "2017T3",
+                    "isin": "ES0113118014",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 2.57
                 },
                 {
                     "cantidad": 464880.0,
-                    "desde": "2017T3",
-                    "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 2.57
-                },
-                {
-                    "cantidad": 866858.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 1.96
                 },
                 {
                     "cantidad": 866858.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 1.96
+                },
+                {
+                    "cantidad": 866858.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 1.96
                 },
                 {
@@ -2087,30 +2120,30 @@
                 },
                 {
                     "cantidad": 419800.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
+                    "desde": "2017T3",
+                    "isin": "ES0113118014",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 2.3
                 },
                 {
                     "cantidad": 419800.0,
-                    "desde": "2017T3",
-                    "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 2.3
-                },
-                {
-                    "cantidad": 702787.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.05
                 },
                 {
                     "cantidad": 702787.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.05
+                },
+                {
+                    "cantidad": 702787.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.05
                 },
                 {
@@ -2155,16 +2188,16 @@
                 },
                 {
                     "cantidad": 494260.0,
-                    "desde": "2018T1",
-                    "isin": "ES0113118006",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE R",
+                    "desde": "2017T3",
+                    "isin": "ES0113118014",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 2.67
                 },
                 {
                     "cantidad": 494260.0,
-                    "desde": "2017T3",
-                    "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "desde": "2018T1",
+                    "isin": "ES0113118006",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE R",
                     "porcentaje": 2.67
                 },
                 {
@@ -2177,15 +2210,15 @@
                 {
                     "cantidad": 636493.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.04
                 },
                 {
                     "cantidad": 636493.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.04
                 },
                 {
@@ -2260,21 +2293,21 @@
                     "cantidad": 450000.0,
                     "desde": "2017T3",
                     "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 2.48
-                },
-                {
-                    "cantidad": 753345.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.43
                 },
                 {
                     "cantidad": 753345.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.43
+                },
+                {
+                    "cantidad": 753345.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.43
                 },
                 {
@@ -2355,22 +2388,22 @@
                 {
                     "cantidad": 764729.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.71
                 },
                 {
                     "cantidad": 764729.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.71
                 },
                 {
                     "cantidad": 274080.0,
                     "desde": "2017T3",
                     "isin": "ES0113118014",
-                    "nombre": "RENTA 4 SMALL CAPS EURO, FI CLASE I",
+                    "nombre": "RENTA 4 SMALL CAPS GLOBAL, FI CLASE I",
                     "porcentaje": 1.87
                 },
                 {
@@ -2437,15 +2470,15 @@
                 {
                     "cantidad": 729573.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.67
                 },
                 {
                     "cantidad": 729573.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.67
                 },
                 {
@@ -2514,15 +2547,15 @@
                 {
                     "cantidad": 18347.0,
                     "desde": "2017T1",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.5
                 },
                 {
                     "cantidad": 18347.0,
                     "desde": "2017T1",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.5
                 }
             ],
@@ -2533,15 +2566,15 @@
                 {
                     "cantidad": 803568.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.99
                 },
                 {
                     "cantidad": 803568.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.99
                 },
                 {
@@ -2624,15 +2657,15 @@
                 {
                     "cantidad": 20208.0,
                     "desde": "2017T1",
-                    "isin": "ES0161621000",
-                    "nombre": "MAVERICK FUND, FI CLASE B",
+                    "isin": "ES0161621018",
+                    "nombre": "MAVERICK FUND, FI CLASE A",
                     "porcentaje": 0.59
                 },
                 {
                     "cantidad": 20208.0,
                     "desde": "2017T1",
-                    "isin": "ES0161621018",
-                    "nombre": "MAVERICK FUND, FI CLASE A",
+                    "isin": "ES0161621000",
+                    "nombre": "MAVERICK FUND, FI CLASE B",
                     "porcentaje": 0.59
                 }
             ],
@@ -2643,23 +2676,16 @@
                 {
                     "cantidad": 911250.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 3.15
-                },
-                {
-                    "cantidad": 911250.0,
-                    "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 3.15
                 },
                 {
-                    "cantidad": 6299739.0,
-                    "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 2.71
+                    "cantidad": 911250.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 3.15
                 },
                 {
                     "cantidad": 6299739.0,
@@ -2673,6 +2699,13 @@
                     "desde": "2015T1",
                     "isin": "ES0159259029",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE P",
+                    "porcentaje": 2.71
+                },
+                {
+                    "cantidad": 6299739.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
                     "porcentaje": 2.71
                 },
                 {
@@ -2725,15 +2758,15 @@
                 {
                     "cantidad": 738797.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.21
                 },
                 {
                     "cantidad": 738797.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.21
                 },
                 {
@@ -2774,13 +2807,6 @@
                 {
                     "cantidad": 5107518.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 5107518.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 0.68
@@ -2790,6 +2816,13 @@
                     "desde": "2015T1",
                     "isin": "ES0159259029",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE P",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 5107518.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
                     "porcentaje": 0.68
                 }
             ],
@@ -2800,13 +2833,6 @@
                 {
                     "cantidad": 6092307.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 4.08
-                },
-                {
-                    "cantidad": 6092307.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 4.08
@@ -2819,17 +2845,24 @@
                     "porcentaje": 4.08
                 },
                 {
-                    "cantidad": 932678.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.32
+                    "cantidad": 6092307.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 4.08
                 },
                 {
                     "cantidad": 932678.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.32
+                },
+                {
+                    "cantidad": 932678.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.32
                 },
                 {
@@ -2882,13 +2915,6 @@
                 {
                     "cantidad": 8226995.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 5.62
-                },
-                {
-                    "cantidad": 8226995.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 5.62
@@ -2901,17 +2927,24 @@
                     "porcentaje": 5.62
                 },
                 {
-                    "cantidad": 903532.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.18
+                    "cantidad": 8226995.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 5.62
                 },
                 {
                     "cantidad": 903532.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.18
+                },
+                {
+                    "cantidad": 903532.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.18
                 },
                 {
@@ -2957,13 +2990,6 @@
                 {
                     "cantidad": 7053705.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 4.7
-                },
-                {
-                    "cantidad": 7053705.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 4.7
@@ -2976,17 +3002,24 @@
                     "porcentaje": 4.7
                 },
                 {
-                    "cantidad": 987401.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.09
+                    "cantidad": 7053705.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 4.7
                 },
                 {
                     "cantidad": 987401.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.09
+                },
+                {
+                    "cantidad": 987401.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.09
                 },
                 {
@@ -3025,13 +3058,6 @@
                 {
                     "cantidad": 6380650.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 4.69
-                },
-                {
-                    "cantidad": 6380650.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 4.69
@@ -3044,17 +3070,24 @@
                     "porcentaje": 4.69
                 },
                 {
-                    "cantidad": 888661.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.19
+                    "cantidad": 6380650.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 4.69
                 },
                 {
                     "cantidad": 888661.0,
                     "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "porcentaje": 2.19
+                },
+                {
+                    "cantidad": 888661.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.19
                 },
                 {
@@ -3081,6 +3114,13 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2015T1",
+                    "isin": "ES0138068038",
+                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T1",
                     "isin": "ES0138068004",
                     "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI PLUS",
                     "porcentaje": 0.0
@@ -3091,26 +3131,12 @@
                     "isin": "ES0138068012",
                     "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI PREMIUM",
                     "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138068038",
-                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
-                    "porcentaje": 0.0
                 }
             ],
             "periodo": "2015T3"
         },
         {
             "fondos": [
-                {
-                    "cantidad": 5453875.0,
-                    "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 4.25
-                },
                 {
                     "cantidad": 5453875.0,
                     "desde": "2015T1",
@@ -3126,11 +3152,11 @@
                     "porcentaje": 4.25
                 },
                 {
-                    "cantidad": 759585.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 1.99
+                    "cantidad": 5453875.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 4.25
                 },
                 {
                     "cantidad": 759585.0,
@@ -3140,11 +3166,25 @@
                     "porcentaje": 1.99
                 },
                 {
+                    "cantidad": 759585.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 1.99
+                },
+                {
                     "cantidad": 856471.0,
                     "desde": "2011T1",
                     "isin": "ES0160982031",
                     "nombre": "MARCH GLOBAL QUALITY, FI CLASE A",
                     "porcentaje": 1.88
+                },
+                {
+                    "cantidad": 587420.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138068038",
+                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
+                    "porcentaje": 1.45
                 },
                 {
                     "cantidad": 587420.0,
@@ -3158,13 +3198,6 @@
                     "desde": "2015T1",
                     "isin": "ES0138068012",
                     "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI PREMIUM",
-                    "porcentaje": 1.45
-                },
-                {
-                    "cantidad": 587420.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138068038",
-                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
                     "porcentaje": 1.45
                 },
                 {
@@ -3196,13 +3229,6 @@
                 {
                     "cantidad": 2637736.0,
                     "desde": "2015T1",
-                    "isin": "ES0159259003",
-                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
-                    "porcentaje": 2.34
-                },
-                {
-                    "cantidad": 2637736.0,
-                    "desde": "2015T1",
                     "isin": "ES0159259011",
                     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
                     "porcentaje": 2.34
@@ -3215,11 +3241,11 @@
                     "porcentaje": 2.34
                 },
                 {
-                    "cantidad": 829774.0,
-                    "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 2.27
+                    "cantidad": 2637736.0,
+                    "desde": "2015T1",
+                    "isin": "ES0159259003",
+                    "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE E",
+                    "porcentaje": 2.34
                 },
                 {
                     "cantidad": 829774.0,
@@ -3227,6 +3253,20 @@
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 829774.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 2.27
+                },
+                {
+                    "cantidad": 641700.0,
+                    "desde": "2015T1",
+                    "isin": "ES0138068038",
+                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
+                    "porcentaje": 1.83
                 },
                 {
                     "cantidad": 641700.0,
@@ -3240,13 +3280,6 @@
                     "desde": "2015T1",
                     "isin": "ES0138068012",
                     "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI PREMIUM",
-                    "porcentaje": 1.83
-                },
-                {
-                    "cantidad": 641700.0,
-                    "desde": "2015T1",
-                    "isin": "ES0138068038",
-                    "nombre": "CAIXABANK BOLSA GESTION EUROPA, FI ESTÁNDAR",
                     "porcentaje": 1.83
                 },
                 {
@@ -3278,15 +3311,15 @@
                 {
                     "cantidad": 467506.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 2.01
                 },
                 {
                     "cantidad": 467506.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 2.01
                 },
                 {
@@ -3318,15 +3351,15 @@
                 {
                     "cantidad": 372750.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.75
                 },
                 {
                     "cantidad": 372750.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 1.75
                 },
                 {
@@ -3372,15 +3405,15 @@
                 {
                     "cantidad": 152396.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 0.73
                 },
                 {
                     "cantidad": 152396.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 0.73
                 },
                 {
@@ -3405,15 +3438,15 @@
                 {
                     "cantidad": 167896.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.04
                 },
                 {
                     "cantidad": 167896.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 1.04
                 },
                 {
@@ -3445,29 +3478,29 @@
                 {
                     "cantidad": 162564.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 1.5
-                },
-                {
-                    "cantidad": 162564.0,
-                    "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.5
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2013T2",
-                    "isin": "ES0125102030",
-                    "nombre": "DIRECTOR FLEXIBLE, FI",
-                    "porcentaje": 0.0
+                    "cantidad": 162564.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 1.5
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
                     "isin": "ES0143673004",
                     "nombre": "DIRECTOR GROWTH, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2013T2",
+                    "isin": "ES0125102030",
+                    "nombre": "DIRECTOR FLEXIBLE, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -3485,29 +3518,29 @@
                 {
                     "cantidad": 142848.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
-                    "porcentaje": 1.51
-                },
-                {
-                    "cantidad": 142848.0,
-                    "desde": "2013T1",
                     "isin": "ES0147196036",
                     "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.51
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2013T2",
-                    "isin": "ES0125102030",
-                    "nombre": "DIRECTOR FLEXIBLE, FI",
-                    "porcentaje": 0.0
+                    "cantidad": 142848.0,
+                    "desde": "2013T1",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "porcentaje": 1.51
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2013T2",
                     "isin": "ES0143673004",
                     "nombre": "DIRECTOR GROWTH, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2013T2",
+                    "isin": "ES0125102030",
+                    "nombre": "DIRECTOR FLEXIBLE, FI",
                     "porcentaje": 0.0
                 }
             ],
@@ -3525,15 +3558,15 @@
                 {
                     "cantidad": 143096.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 1.61
                 },
                 {
                     "cantidad": 143096.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 1.61
                 },
                 {
@@ -3572,15 +3605,15 @@
                 {
                     "cantidad": 35970.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 0.62
                 },
                 {
                     "cantidad": 35970.0,
                     "desde": "2013T1",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 0.62
                 }
             ],
@@ -3622,15 +3655,15 @@
                 {
                     "cantidad": 19253.0,
                     "desde": "2012T2",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 0.5
                 },
                 {
                     "cantidad": 19253.0,
                     "desde": "2012T2",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 0.5
                 }
             ],
@@ -3671,16 +3704,16 @@
                 },
                 {
                     "cantidad": 7930.0,
-                    "desde": "2011T2",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "desde": "2009T2",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 0.31
                 },
                 {
                     "cantidad": 7930.0,
-                    "desde": "2009T2",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "desde": "2011T2",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 0.31
                 }
             ],
@@ -3697,16 +3730,16 @@
                 },
                 {
                     "cantidad": 31697.0,
-                    "desde": "2011T2",
-                    "isin": "ES0147196002",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
+                    "desde": "2009T2",
+                    "isin": "ES0147196036",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
                     "porcentaje": 0.94
                 },
                 {
                     "cantidad": 31697.0,
-                    "desde": "2009T2",
-                    "isin": "ES0147196036",
-                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE A",
+                    "desde": "2011T2",
+                    "isin": "ES0147196002",
+                    "nombre": "IBERCAJA INFRAESTRUCTURAS, FI CLASE B",
                     "porcentaje": 0.94
                 }
             ],
@@ -3831,5 +3864,5 @@
         }
     ],
     "isin": "IT0001347308",
-    "nombre": "ACCIONES|BUZZI UNICEM SPA"
+    "nombre": "ACCIONES|BUZZI UNICEM"
 }

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF Vanguard
+title: PARTICIPACIONES|VANGUARD FTSE EMERGING M
 isin: IE00B3VVMM84
 ---

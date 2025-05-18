@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: FONDOS|ISHARES USD TREASURY
+title: PARTICIPACIONES|ETF IShares USD TrBo
 isin: IE00BSKRJZ44
 ---

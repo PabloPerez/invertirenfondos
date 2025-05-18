@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares MSCI EM IMI
+title: PARTICIPACIONES|ISHARES MSCI EM IMI ESG
 isin: IE00BFNM3P36
 ---

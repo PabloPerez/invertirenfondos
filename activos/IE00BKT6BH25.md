@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF Ishares EUR Corp ESG EX-FIN1-5 EUR A
+title: PARTICIPACIONES|ETF Ishares Euro Cor
 isin: IE00BKT6BH25
 ---

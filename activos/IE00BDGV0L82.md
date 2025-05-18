@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GQG Partners EM Mkt
+title: PARTICIPACIONES|GQGEMCE ID Equity
 isin: IE00BDGV0L82
 ---

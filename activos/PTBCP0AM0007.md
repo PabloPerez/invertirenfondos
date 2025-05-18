@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|BANCO COMERCIAL PORTUGUES SA
+title: ACCIONES|BCP
 isin: PTBCP0AM0007
 ---

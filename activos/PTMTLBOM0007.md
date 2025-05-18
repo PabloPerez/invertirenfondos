@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Metropolitano de Lisboa 4,061% 041226
+title: OBLIGACION|REPUBLICA PORTUGAL|4,06|2026-12-04
 isin: PTMTLBOM0007
 ---

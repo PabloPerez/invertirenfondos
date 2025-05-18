@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|BERKELEY GROUP HOLDINGS PLC
+title: ACCIONES|BERKELEY GROUP HOLDINGS
 isin: GB00BP0RGD03
 ---

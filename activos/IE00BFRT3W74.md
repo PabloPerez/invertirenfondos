@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ALLEGION PLC
+title: Acciones|ALLEGION PLC
 isin: IE00BFRT3W74
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|NRW BANK|0.88|2025-11-10
+title: NRW.Bank 0,875% 101125
 isin: DE000NWB0AC0
 ---

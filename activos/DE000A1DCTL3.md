@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ETF DB X-Trackers
+title: FONDOS|ETFS METAL SECURITIE
 isin: DE000A1DCTL3
 ---

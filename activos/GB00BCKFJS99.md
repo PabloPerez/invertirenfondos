@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROLLS-ROYCE
+title: Derechos|ROLLS-ROYCE GROUP PLC
 isin: GB00BCKFJS99
 ---

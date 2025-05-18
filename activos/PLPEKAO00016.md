@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.BANK PEKAO SA (PLN)
+title: ACCIONES|BANK PEKAO
 isin: PLPEKAO00016
 ---

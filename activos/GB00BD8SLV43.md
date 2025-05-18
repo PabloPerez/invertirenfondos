@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|MARLOWE PLC
+title: ACCIONES|MARLOWE PLC
 isin: GB00BD8SLV43
 ---

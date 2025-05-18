@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|EUROCASH SA
+title: Acciones|EUROCASH SA
 isin: PLEURCH00011
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETN|INVESCO EMEA IR
+title: PARTICIPACIONES|INVESCO AT1 CAPITAL BOND
 isin: IE00BFZPF322
 ---

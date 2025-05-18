@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|TURKCELL
+title: AC.TURKCELL (TRY)
 isin: TRATCELL91M1
 ---

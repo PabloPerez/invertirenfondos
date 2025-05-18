@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ROYAL DUTCH SHELL
+title: Acciones|ROYAL DUTCH
 isin: GB00BP6MXD84
 ---

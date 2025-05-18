@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|LAND SECURITIES GROUP PLC
+title: SOCIMI|LAND SECURITIES GROU
 isin: GB00BYW0PQ60
 ---

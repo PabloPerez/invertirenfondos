@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|CORTICEIRA AMORIM SA
+title: ACCIONES|CORTICEIRA AMOR
 isin: PTCOR0AE0006
 ---

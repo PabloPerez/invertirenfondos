@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ACACIA PHARMA GROUP PLC
+title: ACCIONES|ACACIA PHARMA GROUP
 isin: GB00BYWF9Y76
 ---

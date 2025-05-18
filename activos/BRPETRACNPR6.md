@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.PETROLEO BRASILEIRO SA -PREF (BRL)
+title: ACCIONES|PETROLEO BRASILEIRO SA
 isin: BRPETRACNPR6
 ---

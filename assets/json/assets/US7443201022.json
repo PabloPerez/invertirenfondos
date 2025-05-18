@@ -5,15 +5,15 @@
                 {
                     "cantidad": 11279527.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "isin": "ES0113191037",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.88
                 },
                 {
                     "cantidad": 11279527.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191037",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
                     "porcentaje": 0.88
                 },
                 {
@@ -33,16 +33,23 @@
                 {
                     "cantidad": 94797.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "isin": "ES0121092011",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.23
                 },
                 {
                     "cantidad": 94797.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092011",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
                     "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 389892.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 104000.0,
@@ -66,38 +73,10 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 389892.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 150000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 689000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 887077.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 54382.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -112,6 +91,27 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 150000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 54382.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 689000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.08
                 },
                 {
@@ -131,8 +131,15 @@
                 {
                     "cantidad": 148491.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 148491.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.05
                 },
                 {
@@ -145,8 +152,8 @@
                 {
                     "cantidad": 148491.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.05
                 },
                 {
@@ -154,13 +161,6 @@
                     "desde": "2023T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 148491.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.05
                 },
                 {
@@ -173,50 +173,8 @@
                 {
                     "cantidad": 192569.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 192569.0,
-                    "desde": "2023T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 192569.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 192569.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 57702.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 57702.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 57702.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -229,16 +187,51 @@
                 {
                     "cantidad": 57702.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544041",
-                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2022T2",
-                    "isin": "ES0125776007",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
-                    "porcentaje": 0.0
+                    "cantidad": 57702.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 192569.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 192569.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 192569.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 57702.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 57702.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544041",
+                    "nombre": "SABADELL PLANIFICACION, FI PYME",
+                    "porcentaje": 0.03
                 },
                 {
                     "cantidad": 0.0,
@@ -250,15 +243,22 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2022T2",
-                    "isin": "ES0125776031",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase A",
+                    "isin": "ES0139012001",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2022T2",
-                    "isin": "ES0139012001",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE A",
+                    "isin": "ES0145553006",
+                    "nombre": "DB MODERADO ESG,FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
                     "porcentaje": 0.0
                 },
                 {
@@ -271,15 +271,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
+                    "isin": "ES0125776007",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2022T2",
-                    "isin": "ES0145553006",
-                    "nombre": "DB MODERADO ESG,FI CLASE A",
+                    "isin": "ES0125776031",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase A",
                     "porcentaje": 0.0
                 },
                 {
@@ -297,29 +297,29 @@
                 {
                     "cantidad": 10777258.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.87
-                },
-                {
-                    "cantidad": 10777258.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.87
                 },
                 {
-                    "cantidad": 1161670.0,
-                    "desde": "2022T2",
-                    "isin": "ES0125776007",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
-                    "porcentaje": 0.45
+                    "cantidad": 10777258.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.87
                 },
                 {
                     "cantidad": 1161670.0,
                     "desde": "2023T2",
                     "isin": "ES0125776015",
                     "nombre": "DB CRECIMIENTO ESG,FI Clase I",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 1161670.0,
+                    "desde": "2022T2",
+                    "isin": "ES0125776007",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
                     "porcentaje": 0.45
                 },
                 {
@@ -360,15 +360,15 @@
                 {
                     "cantidad": 101077.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "isin": "ES0121092011",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.26
                 },
                 {
                     "cantidad": 101077.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092011",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
                     "porcentaje": 0.26
                 },
                 {
@@ -380,17 +380,24 @@
                 },
                 {
                     "cantidad": 315248.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 315248.0,
                     "desde": "2023T2",
                     "isin": "ES0139012019",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE I",
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 315248.0,
-                    "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.15
+                    "cantidad": 480219.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 122000.0,
@@ -411,13 +418,6 @@
                     "desde": "2021T3",
                     "isin": "ES0175404013",
                     "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE R",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 480219.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
                     "porcentaje": 0.12
                 },
                 {
@@ -444,13 +444,6 @@
                 {
                     "cantidad": 51960.0,
                     "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 51960.0,
-                    "desde": "2023T4",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.08
@@ -460,6 +453,13 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 51960.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -479,8 +479,15 @@
                 {
                     "cantidad": 163210.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 163210.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -493,8 +500,8 @@
                 {
                     "cantidad": 163210.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
@@ -502,13 +509,6 @@
                     "desde": "2023T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 163210.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -521,15 +521,22 @@
                 {
                     "cantidad": 235080.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "isin": "ES0177124031",
+                    "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 235080.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124031",
-                    "nombre": "INVERSABADELL 25, FI BASE",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 235080.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
                     "porcentaje": 0.03
                 },
                 {
@@ -540,11 +547,18 @@
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 235080.0,
+                    "cantidad": 55132.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.03
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 55132.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
+                    "porcentaje": 0.02
                 },
                 {
                     "cantidad": 55132.0,
@@ -563,20 +577,6 @@
                 {
                     "cantidad": 55132.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 55132.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 55132.0,
-                    "desde": "2023T4",
                     "isin": "ES0182544041",
                     "nombre": "SABADELL PLANIFICACION, FI PYME",
                     "porcentaje": 0.02
@@ -589,29 +589,29 @@
                 {
                     "cantidad": 9255923.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 9255923.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.81
                 },
                 {
-                    "cantidad": 1068527.0,
-                    "desde": "2022T2",
-                    "isin": "ES0125776007",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
-                    "porcentaje": 0.44
+                    "cantidad": 9255923.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.81
                 },
                 {
                     "cantidad": 1068527.0,
                     "desde": "2023T2",
                     "isin": "ES0125776015",
                     "nombre": "DB CRECIMIENTO ESG,FI Clase I",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 1068527.0,
+                    "desde": "2022T2",
+                    "isin": "ES0125776007",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
                     "porcentaje": 0.44
                 },
                 {
@@ -659,15 +659,15 @@
                 {
                     "cantidad": 95734.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "isin": "ES0121092011",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.24
                 },
                 {
                     "cantidad": 95734.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092011",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
                     "porcentaje": 0.24
                 },
                 {
@@ -682,6 +682,20 @@
                     "desde": "2022T2",
                     "isin": "ES0139012001",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE A",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 251910.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 251910.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
                     "porcentaje": 0.13
                 },
                 {
@@ -692,18 +706,18 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 251910.0,
-                    "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.13
+                    "cantidad": 468026.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 251910.0,
-                    "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.13
+                    "cantidad": 468026.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.12
                 },
                 {
                     "cantidad": 106000.0,
@@ -727,48 +741,6 @@
                     "porcentaje": 0.12
                 },
                 {
-                    "cantidad": 468026.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 468026.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 100000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 100000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 903000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 903000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.09
-                },
-                {
                     "cantidad": 627191.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
@@ -776,18 +748,32 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 33633.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.05
+                    "cantidad": 100000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 33633.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.05
+                    "cantidad": 100000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 903000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 903000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 33633.0,
@@ -801,6 +787,20 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 33633.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 33633.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.05
                 },
                 {
@@ -820,8 +820,15 @@
                 {
                     "cantidad": 113490.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 113490.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
@@ -834,8 +841,8 @@
                 {
                     "cantidad": 113490.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.04
                 },
                 {
@@ -843,13 +850,6 @@
                     "desde": "2023T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 113490.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
@@ -862,43 +862,15 @@
                 {
                     "cantidad": 170141.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 170141.0,
-                    "desde": "2023T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 170141.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 170141.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.02
-                },
-                {
                     "cantidad": 45001.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 45001.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
                     "porcentaje": 0.02
                 },
                 {
@@ -911,8 +883,36 @@
                 {
                     "cantidad": 45001.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 170141.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 170141.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 170141.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 45001.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
                     "porcentaje": 0.02
                 },
                 {
@@ -930,29 +930,29 @@
                 {
                     "cantidad": 10050562.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.88
-                },
-                {
-                    "cantidad": 10050562.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.88
                 },
                 {
-                    "cantidad": 976388.0,
-                    "desde": "2022T2",
-                    "isin": "ES0125776007",
-                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
-                    "porcentaje": 0.45
+                    "cantidad": 10050562.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.88
                 },
                 {
                     "cantidad": 976388.0,
                     "desde": "2023T2",
                     "isin": "ES0125776015",
                     "nombre": "DB CRECIMIENTO ESG,FI Clase I",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 976388.0,
+                    "desde": "2022T2",
+                    "isin": "ES0125776007",
+                    "nombre": "DB CRECIMIENTO ESG,FI Clase B",
                     "porcentaje": 0.45
                 },
                 {
@@ -1000,15 +1000,15 @@
                 {
                     "cantidad": 82406.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "isin": "ES0121092011",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.19
                 },
                 {
                     "cantidad": 82406.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092011",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
                     "porcentaje": 0.19
                 },
                 {
@@ -1023,6 +1023,34 @@
                     "desde": "2022T2",
                     "isin": "ES0139012001",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE A",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 290669.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 290669.0,
+                    "desde": "2022T2",
+                    "isin": "ES0139012035",
+                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 161738.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 161738.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.14
                 },
                 {
@@ -1033,20 +1061,6 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 290669.0,
-                    "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 290669.0,
-                    "desde": "2022T2",
-                    "isin": "ES0139012035",
-                    "nombre": "DB CONSERVADOR ESG, FI CLASE B",
-                    "porcentaje": 0.14
-                },
-                {
                     "cantidad": 161738.0,
                     "desde": "2015T2",
                     "isin": "ES0147034005",
@@ -1058,20 +1072,6 @@
                     "desde": "2015T2",
                     "isin": "ES0147034005",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 161738.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 161738.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.14
                 },
                 {
@@ -1080,6 +1080,20 @@
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
                     "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 403120.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 403120.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 403120.0,
@@ -1096,52 +1110,38 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 403120.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 403120.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 78000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 78000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 753000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 753000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 539698.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 78000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 78000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 753000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 753000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.08
                 }
             ],
@@ -1152,15 +1152,15 @@
                 {
                     "cantidad": 341630.0,
                     "desde": "2022T1",
-                    "isin": "ES0115359004",
-                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
+                    "isin": "ES0115359038",
+                    "nombre": "CAJA INGENIEROS BOLSA USA, FI A",
                     "porcentaje": 1.0
                 },
                 {
                     "cantidad": 341630.0,
                     "desde": "2022T1",
-                    "isin": "ES0115359038",
-                    "nombre": "CAJA INGENIEROS BOLSA USA, FI A",
+                    "isin": "ES0115359004",
+                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
                     "porcentaje": 1.0
                 },
                 {
@@ -1194,15 +1194,15 @@
                 {
                     "cantidad": 8211466.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "isin": "ES0113191037",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.78
                 },
                 {
                     "cantidad": 8211466.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191037",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
                     "porcentaje": 0.78
                 },
                 {
@@ -1229,13 +1229,6 @@
                 {
                     "cantidad": 2727000.0,
                     "desde": "2022T1",
-                    "isin": "ES0110122001",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
-                    "porcentaje": 0.54
-                },
-                {
-                    "cantidad": 2727000.0,
-                    "desde": "2022T1",
                     "isin": "ES0110122035",
                     "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.54
@@ -1245,6 +1238,13 @@
                     "desde": "2022T1",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 2727000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0110122001",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.54
                 },
                 {
@@ -1271,18 +1271,18 @@
                 {
                     "cantidad": 94675.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 94675.0,
-                    "desde": "2022T3",
                     "isin": "ES0121092011",
                     "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.22
                 },
                 {
+                    "cantidad": 94675.0,
+                    "desde": "2022T3",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "porcentaje": 0.22
+                },
+                {
                     "cantidad": 334031.0,
                     "desde": "2022T2",
                     "isin": "ES0139012001",
@@ -1313,20 +1313,6 @@
                 {
                     "cantidad": 185820.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 185820.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.17
-                },
-                {
-                    "cantidad": 185820.0,
-                    "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.17
@@ -1336,6 +1322,20 @@
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 185820.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 185820.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.17
                 },
                 {
@@ -1344,6 +1344,20 @@
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
                     "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 471728.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 471728.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 471728.0,
@@ -1360,52 +1374,38 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 471728.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 471728.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 80000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 80000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 670000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.11
-                },
-                {
                     "cantidad": 620278.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 80000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 80000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 670000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 670000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.11
                 }
             ],
@@ -1437,29 +1437,29 @@
                 {
                     "cantidad": 8324738.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 8324738.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.85
                 },
                 {
-                    "cantidad": 253087.0,
-                    "desde": "2022T1",
-                    "isin": "ES0115359004",
-                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
-                    "porcentaje": 0.75
+                    "cantidad": 8324738.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 253087.0,
                     "desde": "2022T1",
                     "isin": "ES0115359038",
                     "nombre": "CAJA INGENIEROS BOLSA USA, FI A",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 253087.0,
+                    "desde": "2022T1",
+                    "isin": "ES0115359004",
+                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
                     "porcentaje": 0.75
                 },
                 {
@@ -1479,15 +1479,15 @@
                 {
                     "cantidad": 2472000.0,
                     "desde": "2022T1",
-                    "isin": "ES0110122001",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
+                    "isin": "ES0110122035",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.51
                 },
                 {
                     "cantidad": 2472000.0,
                     "desde": "2022T1",
-                    "isin": "ES0110122035",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
+                    "isin": "ES0110122001",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.51
                 },
                 {
@@ -1514,29 +1514,29 @@
                 {
                     "cantidad": 98102.0,
                     "desde": "2022T3",
-                    "isin": "ES0121092003",
-                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 98102.0,
-                    "desde": "2022T3",
                     "isin": "ES0121092011",
                     "nombre": "COMPROMISO MEDIOLANUM, FI CLASE E",
                     "porcentaje": 0.22
                 },
                 {
-                    "cantidad": 175026.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.17
+                    "cantidad": 98102.0,
+                    "desde": "2022T3",
+                    "isin": "ES0121092003",
+                    "nombre": "COMPROMISO MEDIOLANUM, FI CLASE L",
+                    "porcentaje": 0.22
                 },
                 {
                     "cantidad": 175026.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 175026.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.17
                 },
                 {
@@ -1563,6 +1563,13 @@
                 {
                     "cantidad": 412003.0,
                     "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.13
+                },
+                {
+                    "cantidad": 412003.0,
+                    "desde": "2021T3",
                     "isin": "ES0175404005",
                     "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE C",
                     "porcentaje": 0.13
@@ -1575,11 +1582,11 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 412003.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.13
+                    "cantidad": 584205.0,
+                    "desde": "2012T1",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 65000.0,
@@ -1593,13 +1600,6 @@
                     "desde": "2019T1",
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 584205.0,
-                    "desde": "2012T1",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
                     "porcentaje": 0.1
                 }
             ],
@@ -1631,29 +1631,29 @@
                 {
                     "cantidad": 8681472.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 8681472.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.85
                 },
                 {
-                    "cantidad": 271963.0,
-                    "desde": "2022T1",
-                    "isin": "ES0115359004",
-                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
-                    "porcentaje": 0.81
+                    "cantidad": 8681472.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 271963.0,
                     "desde": "2022T1",
                     "isin": "ES0115359038",
                     "nombre": "CAJA INGENIEROS BOLSA USA, FI A",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 271963.0,
+                    "desde": "2022T1",
+                    "isin": "ES0115359004",
+                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
                     "porcentaje": 0.81
                 },
                 {
@@ -1673,13 +1673,6 @@
                 {
                     "cantidad": 2581000.0,
                     "desde": "2022T1",
-                    "isin": "ES0110122001",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
-                    "porcentaje": 0.54
-                },
-                {
-                    "cantidad": 2581000.0,
-                    "desde": "2022T1",
                     "isin": "ES0110122035",
                     "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.54
@@ -1689,6 +1682,13 @@
                     "desde": "2022T1",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 2581000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0110122001",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.54
                 },
                 {
@@ -1708,15 +1708,15 @@
                 {
                     "cantidad": 182526.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 182526.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.17
                 },
                 {
@@ -1732,6 +1732,13 @@
                     "isin": "ES0139012035",
                     "nombre": "DB CONSERVADOR ESG, FI CLASE B",
                     "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 491397.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.15
                 },
                 {
                     "cantidad": 73000.0,
@@ -1755,11 +1762,11 @@
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 491397.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.15
+                    "cantidad": 792216.0,
+                    "desde": "2012T1",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 75000.0,
@@ -1773,13 +1780,6 @@
                     "desde": "2019T1",
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 792216.0,
-                    "desde": "2012T1",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
                     "porcentaje": 0.11
                 }
             ],
@@ -1804,23 +1804,16 @@
                 {
                     "cantidad": 406820.0,
                     "desde": "2022T1",
-                    "isin": "ES0115359004",
-                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
-                    "porcentaje": 1.11
-                },
-                {
-                    "cantidad": 406820.0,
-                    "desde": "2022T1",
                     "isin": "ES0115359038",
                     "nombre": "CAJA INGENIEROS BOLSA USA, FI A",
                     "porcentaje": 1.11
                 },
                 {
-                    "cantidad": 6926938.0,
-                    "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.86
+                    "cantidad": 406820.0,
+                    "desde": "2022T1",
+                    "isin": "ES0115359004",
+                    "nombre": "CAJA INGENIEROS BOLSA USA, FI I",
+                    "porcentaje": 1.11
                 },
                 {
                     "cantidad": 6926938.0,
@@ -1830,11 +1823,11 @@
                     "porcentaje": 0.86
                 },
                 {
-                    "cantidad": 2992000.0,
-                    "desde": "2022T1",
-                    "isin": "ES0110122001",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
-                    "porcentaje": 0.58
+                    "cantidad": 6926938.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.86
                 },
                 {
                     "cantidad": 2992000.0,
@@ -1851,11 +1844,11 @@
                     "porcentaje": 0.58
                 },
                 {
-                    "cantidad": 213554.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.2
+                    "cantidad": 2992000.0,
+                    "desde": "2022T1",
+                    "isin": "ES0110122001",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
+                    "porcentaje": 0.58
                 },
                 {
                     "cantidad": 213554.0,
@@ -1865,11 +1858,25 @@
                     "porcentaje": 0.2
                 },
                 {
+                    "cantidad": 213554.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "porcentaje": 0.2
+                },
+                {
                     "cantidad": 85000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
                     "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 570476.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 570476.0,
@@ -1883,13 +1890,6 @@
                     "desde": "2021T3",
                     "isin": "ES0175404013",
                     "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE R",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 570476.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
                     "porcentaje": 0.14
                 },
                 {
@@ -1935,16 +1935,23 @@
                 {
                     "cantidad": 5339840.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "isin": "ES0113191037",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.81
                 },
                 {
                     "cantidad": 5339840.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191037",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
                     "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 190396.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.22
                 },
                 {
                     "cantidad": 190396.0,
@@ -1954,11 +1961,11 @@
                     "porcentaje": 0.22
                 },
                 {
-                    "cantidad": 190396.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
-                    "porcentaje": 0.22
+                    "cantidad": 511005.0,
+                    "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.13
                 },
                 {
                     "cantidad": 511005.0,
@@ -1975,13 +1982,6 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 511005.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.13
-                },
-                {
                     "cantidad": 76000.0,
                     "desde": "2009T2",
                     "isin": "ES0113925038",
@@ -1989,17 +1989,17 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 808000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.1
-                },
-                {
                     "cantidad": 17000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 808000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.1
                 },
                 {
@@ -2017,29 +2017,29 @@
                 {
                     "cantidad": 5095750.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.86
-                },
-                {
-                    "cantidad": 5095750.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.86
                 },
                 {
-                    "cantidad": 181693.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.25
+                    "cantidad": 5095750.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.86
                 },
                 {
                     "cantidad": 181693.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 181693.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.25
                 },
                 {
@@ -2059,6 +2059,13 @@
                 {
                     "cantidad": 502011.0,
                     "desde": "2021T3",
+                    "isin": "ES0175404021",
+                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 502011.0,
+                    "desde": "2021T3",
                     "isin": "ES0175404005",
                     "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE C",
                     "porcentaje": 0.14
@@ -2071,13 +2078,6 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 502011.0,
-                    "desde": "2021T3",
-                    "isin": "ES0175404021",
-                    "nombre": "DUNAS SELECCIÓN USA ESG CUBIERTO FI CLASE I",
-                    "porcentaje": 0.14
-                },
-                {
                     "cantidad": 75000.0,
                     "desde": "2009T2",
                     "isin": "ES0113925038",
@@ -2085,17 +2085,17 @@
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 769000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.11
-                },
-                {
                     "cantidad": 17000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 769000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.11
                 },
                 {
@@ -2113,29 +2113,29 @@
                 {
                     "cantidad": 4847147.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.84
-                },
-                {
-                    "cantidad": 4847147.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.84
                 },
                 {
-                    "cantidad": 172828.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.25
+                    "cantidad": 4847147.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.84
                 },
                 {
                     "cantidad": 172828.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.25
+                },
+                {
+                    "cantidad": 172828.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.25
                 },
                 {
@@ -2146,17 +2146,17 @@
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 733000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.11
-                },
-                {
                     "cantidad": 17000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 733000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.11
                 },
                 {
@@ -2168,16 +2168,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2018T3",
-                    "isin": "ES0161937018",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI PLUS",
+                    "desde": "2019T1",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.0
                 },
                 {
@@ -2189,6 +2182,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2018T3",
+                    "isin": "ES0161937018",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI PLUS",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2019T1",
                     "isin": "ES0180890008",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
@@ -2196,9 +2196,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "desde": "2018T3",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.0
                 }
             ],
@@ -2209,29 +2209,29 @@
                 {
                     "cantidad": 3931590.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.77
-                },
-                {
-                    "cantidad": 3931590.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.77
                 },
                 {
-                    "cantidad": 155328.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.23
+                    "cantidad": 3931590.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.77
                 },
                 {
                     "cantidad": 155328.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 155328.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.23
                 },
                 {
@@ -2249,13 +2249,6 @@
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 610000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.1
-                },
-                {
                     "cantidad": 596450.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
@@ -2263,17 +2256,17 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 0.0,
-                    "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
-                    "porcentaje": 0.0
+                    "cantidad": 610000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2018T3",
-                    "isin": "ES0161937018",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI PLUS",
+                    "desde": "2019T1",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.0
                 },
                 {
@@ -2285,6 +2278,13 @@
                 },
                 {
                     "cantidad": 0.0,
+                    "desde": "2018T3",
+                    "isin": "ES0161937018",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI PLUS",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2019T1",
                     "isin": "ES0180890008",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
@@ -2292,9 +2292,9 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "desde": "2018T3",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.0
                 }
             ],
@@ -2305,29 +2305,29 @@
                 {
                     "cantidad": 3001832.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 3001832.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.8
                 },
                 {
-                    "cantidad": 52558.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.71
+                    "cantidad": 3001832.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.8
                 },
                 {
                     "cantidad": 52558.0,
                     "desde": "2019T1",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "porcentaje": 0.71
+                },
+                {
+                    "cantidad": 52558.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.71
                 },
                 {
@@ -2347,15 +2347,15 @@
                 {
                     "cantidad": 127806.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.21
                 },
                 {
                     "cantidad": 127806.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.21
                 },
                 {
@@ -2373,13 +2373,6 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 492000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.09
-                },
-                {
                     "cantidad": 14000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
@@ -2387,10 +2380,17 @@
                     "porcentaje": 0.09
                 },
                 {
+                    "cantidad": 492000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.09
+                },
+                {
                     "cantidad": 47919.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.06
                 },
                 {
@@ -2403,8 +2403,8 @@
                 {
                     "cantidad": 47919.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.06
                 }
             ],
@@ -2415,29 +2415,29 @@
                 {
                     "cantidad": 2545732.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.78
-                },
-                {
-                    "cantidad": 2545732.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.78
                 },
                 {
-                    "cantidad": 52260.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.77
+                    "cantidad": 2545732.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.78
                 },
                 {
                     "cantidad": 52260.0,
                     "desde": "2019T1",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "porcentaje": 0.77
+                },
+                {
+                    "cantidad": 52260.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.77
                 },
                 {
@@ -2457,29 +2457,29 @@
                 {
                     "cantidad": 108387.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.23
                 },
                 {
                     "cantidad": 108387.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 416171.0,
+                    "desde": "2012T1",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 38000.0,
                     "desde": "2009T2",
                     "isin": "ES0113925038",
                     "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 357000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.09
                 },
                 {
@@ -2490,17 +2490,17 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 416171.0,
-                    "desde": "2012T1",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "cantidad": 357000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 40631.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.05
                 },
                 {
@@ -2513,8 +2513,8 @@
                 {
                     "cantidad": 40631.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.05
                 }
             ],
@@ -2525,29 +2525,29 @@
                 {
                     "cantidad": 52264.0,
                     "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 52264.0,
-                    "desde": "2019T1",
                     "isin": "ES0180890016",
                     "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.8
                 },
                 {
-                    "cantidad": 2546535.0,
-                    "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.68
+                    "cantidad": 52264.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "porcentaje": 0.8
                 },
                 {
                     "cantidad": 2546535.0,
                     "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 2546535.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
                     "porcentaje": 0.68
                 },
                 {
@@ -2567,29 +2567,29 @@
                 {
                     "cantidad": 108421.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.23
                 },
                 {
                     "cantidad": 108421.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 416357.0,
+                    "desde": "2012T1",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 38000.0,
                     "desde": "2009T2",
                     "isin": "ES0113925038",
                     "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.09
-                },
-                {
-                    "cantidad": 315000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.09
                 },
                 {
@@ -2600,17 +2600,17 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 416357.0,
-                    "desde": "2012T1",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "cantidad": 315000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.09
                 },
                 {
                     "cantidad": 40658.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.05
                 },
                 {
@@ -2623,8 +2623,8 @@
                 {
                     "cantidad": 40658.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.05
                 }
             ],
@@ -2635,15 +2635,15 @@
                 {
                     "cantidad": 2220358.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "isin": "ES0113191037",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.66
                 },
                 {
                     "cantidad": 2220358.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191037",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
                     "porcentaje": 0.66
                 },
                 {
@@ -2663,16 +2663,23 @@
                 {
                     "cantidad": 28388.0,
                     "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.5
                 },
                 {
                     "cantidad": 28388.0,
                     "desde": "2019T1",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.5
+                },
+                {
+                    "cantidad": 94534.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.35
                 },
                 {
                     "cantidad": 94534.0,
@@ -2682,11 +2689,11 @@
                     "porcentaje": 0.35
                 },
                 {
-                    "cantidad": 94534.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
-                    "porcentaje": 0.35
+                    "cantidad": 362874.0,
+                    "desde": "2012T1",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 35000.0,
@@ -2703,13 +2710,6 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 362874.0,
-                    "desde": "2012T1",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
-                    "porcentaje": 0.1
-                },
-                {
                     "cantidad": 160000.0,
                     "desde": "2019T1",
                     "isin": "ES0114565007",
@@ -2719,8 +2719,8 @@
                 {
                     "cantidad": 35460.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.06
                 },
                 {
@@ -2733,8 +2733,8 @@
                 {
                     "cantidad": 35460.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.06
                 }
             ],
@@ -2759,23 +2759,16 @@
                 {
                     "cantidad": 3083372.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 3083372.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.68
                 },
                 {
-                    "cantidad": 50142.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.64
+                    "cantidad": 3083372.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.68
                 },
                 {
                     "cantidad": 50142.0,
@@ -2785,17 +2778,24 @@
                     "porcentaje": 0.64
                 },
                 {
-                    "cantidad": 167184.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.53
+                    "cantidad": 50142.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "porcentaje": 0.64
                 },
                 {
                     "cantidad": 167184.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 167184.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.53
                 },
                 {
@@ -2813,13 +2813,6 @@
                     "porcentaje": 0.13
                 },
                 {
-                    "cantidad": 279000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.13
-                },
-                {
                     "cantidad": 23000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
@@ -2827,10 +2820,17 @@
                     "porcentaje": 0.13
                 },
                 {
+                    "cantidad": 279000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.13
+                },
+                {
                     "cantidad": 62694.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.09
                 },
                 {
@@ -2843,8 +2843,8 @@
                 {
                     "cantidad": 62694.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.09
                 },
                 {
@@ -2890,23 +2890,16 @@
                 {
                     "cantidad": 3201358.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 3201358.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.67
                 },
                 {
-                    "cantidad": 49505.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.65
+                    "cantidad": 3201358.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.67
                 },
                 {
                     "cantidad": 49505.0,
@@ -2916,17 +2909,24 @@
                     "porcentaje": 0.65
                 },
                 {
-                    "cantidad": 165061.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.57
+                    "cantidad": 49505.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "porcentaje": 0.65
                 },
                 {
                     "cantidad": 165061.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 165061.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.57
                 },
                 {
@@ -2944,17 +2944,17 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 275000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.14
-                },
-                {
                     "cantidad": 24000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 275000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.14
                 },
                 {
@@ -2981,8 +2981,8 @@
                 {
                     "cantidad": 61892.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.09
                 },
                 {
@@ -2995,8 +2995,8 @@
                 {
                     "cantidad": 61892.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.09
                 }
             ],
@@ -3021,23 +3021,16 @@
                 {
                     "cantidad": 4685910.0,
                     "desde": "2019T2",
-                    "isin": "ES0113191003",
-                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
-                    "porcentaje": 0.74
-                },
-                {
-                    "cantidad": 4685910.0,
-                    "desde": "2019T2",
                     "isin": "ES0113191037",
                     "nombre": "KUTXABANK BOLSA EEUU, FI CLASE ESTANDAR",
                     "porcentaje": 0.74
                 },
                 {
-                    "cantidad": 53265.0,
-                    "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.68
+                    "cantidad": 4685910.0,
+                    "desde": "2019T2",
+                    "isin": "ES0113191003",
+                    "nombre": "KUTXABANK BOLSA EEUU, FI CLASE CARTERA",
+                    "porcentaje": 0.74
                 },
                 {
                     "cantidad": 53265.0,
@@ -3047,17 +3040,24 @@
                     "porcentaje": 0.68
                 },
                 {
-                    "cantidad": 177692.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.6
+                    "cantidad": 53265.0,
+                    "desde": "2019T1",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "porcentaje": 0.68
                 },
                 {
                     "cantidad": 177692.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 177692.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.6
                 },
                 {
@@ -3082,17 +3082,17 @@
                     "porcentaje": 0.16
                 },
                 {
-                    "cantidad": 293000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 24000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
                     "nombre": "BINDEX USA ESG INDICE (CUBIERTO), FI",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 293000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.16
                 },
                 {
@@ -3105,8 +3105,8 @@
                 {
                     "cantidad": 66687.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.1
                 },
                 {
@@ -3119,8 +3119,8 @@
                 {
                     "cantidad": 66687.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.1
                 }
             ],
@@ -3145,15 +3145,15 @@
                 {
                     "cantidad": 49147.0,
                     "desde": "2019T1",
-                    "isin": "ES0180890008",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
+                    "isin": "ES0180890016",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
                     "porcentaje": 0.69
                 },
                 {
                     "cantidad": 49147.0,
                     "desde": "2019T1",
-                    "isin": "ES0180890016",
-                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE C",
+                    "isin": "ES0180890008",
+                    "nombre": "UNIFOND RENTA VARIABLE GLOBAL, FI CLASE A",
                     "porcentaje": 0.69
                 },
                 {
@@ -3166,15 +3166,15 @@
                 {
                     "cantidad": 163823.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.35
                 },
                 {
                     "cantidad": 163823.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.35
                 },
                 {
@@ -3199,13 +3199,6 @@
                     "porcentaje": 0.15
                 },
                 {
-                    "cantidad": 268000.0,
-                    "desde": "2019T1",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.15
-                },
-                {
                     "cantidad": 24000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
@@ -3213,10 +3206,17 @@
                     "porcentaje": 0.15
                 },
                 {
+                    "cantidad": 268000.0,
+                    "desde": "2019T1",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.15
+                },
+                {
                     "cantidad": 61412.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.1
                 },
                 {
@@ -3229,8 +3229,8 @@
                 {
                     "cantidad": 61412.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.1
                 }
             ],
@@ -3262,15 +3262,15 @@
                 {
                     "cantidad": 142209.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.32
                 },
                 {
                     "cantidad": 142209.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.32
                 },
                 {
@@ -3304,8 +3304,8 @@
                 {
                     "cantidad": 53352.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.11
                 },
                 {
@@ -3318,8 +3318,8 @@
                 {
                     "cantidad": 53352.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.11
                 }
             ],
@@ -3351,15 +3351,15 @@
                 {
                     "cantidad": 174629.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.41
                 },
                 {
                     "cantidad": 174629.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.41
                 },
                 {
@@ -3386,8 +3386,8 @@
                 {
                     "cantidad": 65430.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937000",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
+                    "isin": "ES0161937034",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
                     "porcentaje": 0.13
                 },
                 {
@@ -3400,8 +3400,8 @@
                 {
                     "cantidad": 65430.0,
                     "desde": "2018T3",
-                    "isin": "ES0161937034",
-                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI ESTÁNDAR",
+                    "isin": "ES0161937000",
+                    "nombre": "CAIXABANK GESTIÓN TENDENCIAS, FI SIN RETRO",
                     "porcentaje": 0.13
                 }
             ],
@@ -3426,15 +3426,15 @@
                 {
                     "cantidad": 160079.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 160079.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.55
                 },
                 {
@@ -3452,17 +3452,17 @@
                     "porcentaje": 0.17
                 },
                 {
-                    "cantidad": 58000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.16
-                },
-                {
                     "cantidad": 461029.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.16
+                },
+                {
+                    "cantidad": 58000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.16
                 }
             ],
@@ -3494,15 +3494,15 @@
                 {
                     "cantidad": 168046.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 168046.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.72
                 },
                 {
@@ -3511,13 +3511,6 @@
                     "isin": "ES0102564038",
                     "nombre": "IBERCAJA SOSTENIBLE Y SOLIDARIO, FI",
                     "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 114000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.3
                 },
                 {
                     "cantidad": 114000.0,
@@ -3531,6 +3524,13 @@
                     "desde": "2018T1",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 114000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.3
                 },
                 {
@@ -3550,8 +3550,15 @@
                 {
                     "cantidad": 199000.0,
                     "desde": "2018T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 199000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.21
                 },
                 {
@@ -3564,8 +3571,8 @@
                 {
                     "cantidad": 199000.0,
                     "desde": "2018T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.21
                 },
                 {
@@ -3576,13 +3583,6 @@
                     "porcentaje": 0.21
                 },
                 {
-                    "cantidad": 199000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
-                    "porcentaje": 0.21
-                },
-                {
                     "cantidad": 51000.0,
                     "desde": "2017T3",
                     "isin": "ES0145810000",
@@ -3590,17 +3590,17 @@
                     "porcentaje": 0.19
                 },
                 {
-                    "cantidad": 65000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.18
-                },
-                {
                     "cantidad": 484996.0,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 65000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.18
                 },
                 {
@@ -3613,22 +3613,8 @@
                 {
                     "cantidad": 417000.0,
                     "desde": "2018T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 417000.0,
-                    "desde": "2018T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 417000.0,
-                    "desde": "2018T1",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.1
                 },
                 {
@@ -3639,11 +3625,18 @@
                     "porcentaje": 0.1
                 },
                 {
-                    "cantidad": 79000.0,
+                    "cantidad": 417000.0,
                     "desde": "2018T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 417000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.1
                 },
                 {
                     "cantidad": 79000.0,
@@ -3662,15 +3655,22 @@
                 {
                     "cantidad": 79000.0,
                     "desde": "2018T1",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 79000.0,
                     "desde": "2018T1",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 79000.0,
+                    "desde": "2018T1",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -3681,15 +3681,15 @@
                 {
                     "cantidad": 191554.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.76
                 },
                 {
                     "cantidad": 191554.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.76
                 },
                 {
@@ -3736,16 +3736,16 @@
                 },
                 {
                     "cantidad": 729000.0,
-                    "desde": "2017T4",
-                    "isin": "ES0110122001",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
+                    "desde": "2009T2",
+                    "isin": "ES0110122035",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
                     "porcentaje": 0.12
                 },
                 {
                     "cantidad": 729000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0110122035",
-                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE A",
+                    "desde": "2017T4",
+                    "isin": "ES0110122001",
+                    "nombre": "BBVA USA DESARROLLO ISR, FI CLASE CARTERA",
                     "porcentaje": 0.12
                 },
                 {
@@ -3763,15 +3763,15 @@
                 {
                     "cantidad": 179990.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.71
                 },
                 {
                     "cantidad": 179990.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.71
                 },
                 {
@@ -3838,15 +3838,15 @@
                 {
                     "cantidad": 189288.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.7
                 },
                 {
                     "cantidad": 189288.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.7
                 },
                 {
@@ -3855,13 +3855,6 @@
                     "isin": "ES0102564038",
                     "nombre": "IBERCAJA SOSTENIBLE Y SOLIDARIO, FI",
                     "porcentaje": 0.39
-                },
-                {
-                    "cantidad": 134000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.3
                 },
                 {
                     "cantidad": 134000.0,
@@ -3875,6 +3868,13 @@
                     "desde": "2017T1",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.3
+                },
+                {
+                    "cantidad": 134000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.3
                 },
                 {
@@ -3908,8 +3908,15 @@
                 {
                     "cantidad": 238000.0,
                     "desde": "2017T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.23
+                },
+                {
+                    "cantidad": 238000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.23
                 },
                 {
@@ -3922,8 +3929,8 @@
                 {
                     "cantidad": 238000.0,
                     "desde": "2017T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.23
                 },
                 {
@@ -3931,13 +3938,6 @@
                     "desde": "2017T1",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.23
-                },
-                {
-                    "cantidad": 238000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.23
                 },
                 {
@@ -3978,22 +3978,8 @@
                 {
                     "cantidad": 531000.0,
                     "desde": "2017T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 531000.0,
-                    "desde": "2017T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.11
-                },
-                {
-                    "cantidad": 531000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.11
                 },
                 {
@@ -4004,11 +3990,18 @@
                     "porcentaje": 0.11
                 },
                 {
-                    "cantidad": 100000.0,
+                    "cantidad": 531000.0,
                     "desde": "2017T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.11
+                },
+                {
+                    "cantidad": 531000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.11
                 },
                 {
                     "cantidad": 100000.0,
@@ -4027,15 +4020,22 @@
                 {
                     "cantidad": 100000.0,
                     "desde": "2017T1",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 100000.0,
                     "desde": "2017T1",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -4067,15 +4067,15 @@
                 {
                     "cantidad": 200282.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 200282.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.63
                 },
                 {
@@ -4084,13 +4084,6 @@
                     "isin": "ES0102564038",
                     "nombre": "IBERCAJA SOSTENIBLE Y SOLIDARIO, FI",
                     "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 142000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.31
                 },
                 {
                     "cantidad": 142000.0,
@@ -4104,6 +4097,13 @@
                     "desde": "2017T1",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.31
+                },
+                {
+                    "cantidad": 142000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.31
                 },
                 {
@@ -4135,17 +4135,17 @@
                     "porcentaje": 0.25
                 },
                 {
-                    "cantidad": 58000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "cantidad": 225000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.21
                 },
                 {
                     "cantidad": 225000.0,
                     "desde": "2017T1",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.21
                 },
                 {
@@ -4158,8 +4158,8 @@
                 {
                     "cantidad": 225000.0,
                     "desde": "2017T1",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.21
                 },
                 {
@@ -4170,10 +4170,10 @@
                     "porcentaje": 0.21
                 },
                 {
-                    "cantidad": 225000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
+                    "cantidad": 58000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.21
                 },
                 {
@@ -4184,17 +4184,17 @@
                     "porcentaje": 0.2
                 },
                 {
-                    "cantidad": 960000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0134599036",
-                    "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
-                    "porcentaje": 0.19
-                },
-                {
                     "cantidad": 498748.01,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 960000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0134599036",
+                    "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
                     "porcentaje": 0.19
                 },
                 {
@@ -4207,22 +4207,8 @@
                 {
                     "cantidad": 505000.0,
                     "desde": "2017T1",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 505000.0,
-                    "desde": "2017T1",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 505000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
                     "porcentaje": 0.1
                 },
                 {
@@ -4233,10 +4219,24 @@
                     "porcentaje": 0.1
                 },
                 {
+                    "cantidad": 505000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 505000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.1
+                },
+                {
                     "cantidad": 103000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983004",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI CARTERA",
+                    "isin": "ES0138983038",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI BASE",
                     "porcentaje": 0.06
                 },
                 {
@@ -4249,15 +4249,15 @@
                 {
                     "cantidad": 103000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983020",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI PREMIER",
+                    "isin": "ES0138983004",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI CARTERA",
                     "porcentaje": 0.06
                 },
                 {
                     "cantidad": 103000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983038",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI BASE",
+                    "isin": "ES0138983053",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI EMPRESA",
                     "porcentaje": 0.06
                 },
                 {
@@ -4270,16 +4270,9 @@
                 {
                     "cantidad": 103000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983053",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI EMPRESA",
+                    "isin": "ES0138983020",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI PREMIER",
                     "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 106000.0,
-                    "desde": "2017T1",
-                    "isin": "ES0155008016",
-                    "nombre": "INVERSABADELL 10, FI PLUS",
-                    "porcentaje": 0.04
                 },
                 {
                     "cantidad": 106000.0,
@@ -4298,15 +4291,22 @@
                 {
                     "cantidad": 106000.0,
                     "desde": "2017T1",
-                    "isin": "ES0155008040",
-                    "nombre": "INVERSABADELL 10, FI EMPRESA",
+                    "isin": "ES0155008057",
+                    "nombre": "INVERSABADELL 10, FI PYME",
                     "porcentaje": 0.04
                 },
                 {
                     "cantidad": 106000.0,
                     "desde": "2017T1",
-                    "isin": "ES0155008057",
-                    "nombre": "INVERSABADELL 10, FI PYME",
+                    "isin": "ES0155008016",
+                    "nombre": "INVERSABADELL 10, FI PLUS",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 106000.0,
+                    "desde": "2017T1",
+                    "isin": "ES0155008040",
+                    "nombre": "INVERSABADELL 10, FI EMPRESA",
                     "porcentaje": 0.04
                 }
             ],
@@ -4324,15 +4324,15 @@
                 {
                     "cantidad": 197833.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 197833.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.63
                 },
                 {
@@ -4387,8 +4387,8 @@
                 {
                     "cantidad": 153000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983004",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI CARTERA",
+                    "isin": "ES0138983038",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI BASE",
                     "porcentaje": 0.08
                 },
                 {
@@ -4401,15 +4401,15 @@
                 {
                     "cantidad": 153000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983020",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI PREMIER",
+                    "isin": "ES0138983004",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI CARTERA",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 153000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983038",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI BASE",
+                    "isin": "ES0138983053",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI EMPRESA",
                     "porcentaje": 0.08
                 },
                 {
@@ -4422,22 +4422,22 @@
                 {
                     "cantidad": 153000.0,
                     "desde": "2016T4",
-                    "isin": "ES0138983053",
-                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI EMPRESA",
+                    "isin": "ES0138983020",
+                    "nombre": "SABADELL ESTADOS UNIDOS BOLSA, FI PREMIER",
                     "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2015T3",
-                    "isin": "ES0113288031",
-                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
-                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2015T3",
                     "isin": "ES0127021006",
                     "nombre": "UBS FAMILY BUSINESS, FI CLASE A",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2015T3",
+                    "isin": "ES0113288031",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
                     "porcentaje": 0.0
                 }
             ],
@@ -4462,15 +4462,15 @@
                 {
                     "cantidad": 145285.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 145285.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.55
                 },
                 {
@@ -4551,15 +4551,15 @@
                 {
                     "cantidad": 128506.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.51
                 },
                 {
                     "cantidad": 128506.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.51
                 },
                 {
@@ -4647,29 +4647,29 @@
                 {
                     "cantidad": 222109.0,
                     "desde": "2016T1",
-                    "isin": "ES0112340007",
-                    "nombre": "AVANCE GLOBAL, FI CLASE A",
-                    "porcentaje": 0.73
-                },
-                {
-                    "cantidad": 222109.0,
-                    "desde": "2016T1",
                     "isin": "ES0112340031",
                     "nombre": "AVANCE GLOBAL, FI CLASE I",
                     "porcentaje": 0.73
                 },
                 {
-                    "cantidad": 126924.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.48
+                    "cantidad": 222109.0,
+                    "desde": "2016T1",
+                    "isin": "ES0112340007",
+                    "nombre": "AVANCE GLOBAL, FI CLASE A",
+                    "porcentaje": 0.73
                 },
                 {
                     "cantidad": 126924.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 126924.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.48
                 },
                 {
@@ -4764,15 +4764,15 @@
                 {
                     "cantidad": 149982.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.51
                 },
                 {
                     "cantidad": 149982.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.51
                 },
                 {
@@ -4867,23 +4867,16 @@
                 {
                     "cantidad": 272649.0,
                     "desde": "2015T3",
-                    "isin": "ES0112340007",
-                    "nombre": "AVANCE GLOBAL, FI CLASE A",
-                    "porcentaje": 1.03
-                },
-                {
-                    "cantidad": 272649.0,
-                    "desde": "2015T3",
                     "isin": "ES0112340031",
                     "nombre": "AVANCE GLOBAL, FI CLASE I",
                     "porcentaje": 1.03
                 },
                 {
-                    "cantidad": 95459.0,
+                    "cantidad": 272649.0,
                     "desde": "2015T3",
-                    "isin": "ES0113288031",
-                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
-                    "porcentaje": 0.93
+                    "isin": "ES0112340007",
+                    "nombre": "AVANCE GLOBAL, FI CLASE A",
+                    "porcentaje": 1.03
                 },
                 {
                     "cantidad": 272763.0,
@@ -4893,17 +4886,24 @@
                     "porcentaje": 0.93
                 },
                 {
-                    "cantidad": 136369.0,
-                    "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
-                    "porcentaje": 0.48
+                    "cantidad": 95459.0,
+                    "desde": "2015T3",
+                    "isin": "ES0113288031",
+                    "nombre": "UBS PREMIUM MODERADO, FI Clase A",
+                    "porcentaje": 0.93
                 },
                 {
                     "cantidad": 136369.0,
                     "desde": "2015T2",
                     "isin": "ES0147034039",
                     "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 136369.0,
+                    "desde": "2015T2",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.48
                 },
                 {
@@ -4921,17 +4921,17 @@
                     "porcentaje": 0.33
                 },
                 {
-                    "cantidad": 37000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.18
-                },
-                {
                     "cantidad": 351696.48,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.18
+                },
+                {
+                    "cantidad": 37000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.18
                 },
                 {
@@ -4984,15 +4984,15 @@
                 {
                     "cantidad": 157029.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034005",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
+                    "isin": "ES0147034039",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
                     "porcentaje": 0.48
                 },
                 {
                     "cantidad": 157029.0,
                     "desde": "2015T2",
-                    "isin": "ES0147034039",
-                    "nombre": "IBERCAJA BOLSA USA, FI CLASE A",
+                    "isin": "ES0147034005",
+                    "nombre": "IBERCAJA BOLSA USA, FI CLASE B",
                     "porcentaje": 0.48
                 },
                 {
@@ -5059,15 +5059,15 @@
                 {
                     "cantidad": 149714.0,
                     "desde": "2015T1",
-                    "isin": "ES0112340007",
-                    "nombre": "AVANCE GLOBAL, FI CLASE A",
+                    "isin": "ES0112340031",
+                    "nombre": "AVANCE GLOBAL, FI CLASE I",
                     "porcentaje": 0.52
                 },
                 {
                     "cantidad": 149714.0,
                     "desde": "2015T1",
-                    "isin": "ES0112340031",
-                    "nombre": "AVANCE GLOBAL, FI CLASE I",
+                    "isin": "ES0112340007",
+                    "nombre": "AVANCE GLOBAL, FI CLASE A",
                     "porcentaje": 0.52
                 },
                 {
@@ -5132,17 +5132,17 @@
                     "porcentaje": 0.79
                 },
                 {
-                    "cantidad": 55000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.22
-                },
-                {
                     "cantidad": 325859.38,
                     "desde": "2012T1",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.22
+                },
+                {
+                    "cantidad": 55000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.22
                 },
                 {
@@ -5621,17 +5621,17 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 20000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 65000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 20000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.08
                 }
             ],
@@ -5661,17 +5661,17 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 17000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.07
-                },
-                {
                     "cantidad": 52000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 17000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.07
                 }
             ],
@@ -5701,17 +5701,17 @@
                     "porcentaje": 0.14
                 },
                 {
-                    "cantidad": 15000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.08
-                },
-                {
                     "cantidad": 47000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 15000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.08
                 }
             ],
@@ -5821,17 +5821,17 @@
                     "porcentaje": 0.37
                 },
                 {
-                    "cantidad": 19000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.09
-                },
-                {
                     "cantidad": 60000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.09
+                },
+                {
+                    "cantidad": 19000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.09
                 }
             ],
@@ -5948,17 +5948,17 @@
                     "porcentaje": 0.21
                 },
                 {
-                    "cantidad": 9000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.04
-                },
-                {
                     "cantidad": 23000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 9000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.04
                 }
             ],
@@ -5988,17 +5988,17 @@
                     "porcentaje": 0.21
                 },
                 {
-                    "cantidad": 7000.0,
-                    "desde": "2009T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.04
-                },
-                {
                     "cantidad": 18000.0,
                     "desde": "2009T2",
                     "isin": "ES0134599036",
                     "nombre": "BBVA USA DESARROLLO CUBIERTO ISR, FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 7000.0,
+                    "desde": "2009T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
                     "porcentaje": 0.04
                 }
             ],
@@ -6079,5 +6079,5 @@
         }
     ],
     "isin": "US7443201022",
-    "nombre": "ACCIONES|PRUFIN"
+    "nombre": "Acciones|PRUDENTIAL FINANCIAL"
 }

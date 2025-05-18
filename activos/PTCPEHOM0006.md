@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RENTA FIJA|REFER, EPE|5,88|2019-02-18
+title: Obligaciones|REDES ENERGETICAS NA|5,875|2019-02
 isin: PTCPEHOM0006
 ---

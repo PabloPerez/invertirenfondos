@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SOURCE INVEST MANAGEMENT LTD
+title: Participaciones|SOURCE INVESTMENT MANAGEMENT
 isin: IE00B3WMTH43
 ---

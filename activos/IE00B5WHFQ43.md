@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES MSCI MEX CAPPED
+title: PARTICIPACIONES|Ishares MSCI MEX Cap
 isin: IE00B5WHFQ43
 ---

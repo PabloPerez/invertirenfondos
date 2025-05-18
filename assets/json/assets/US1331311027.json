@@ -12,13 +12,6 @@
                 {
                     "cantidad": 51894.0,
                     "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 51894.0,
-                    "desde": "2023T4",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.08
@@ -28,6 +21,13 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 51894.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -47,8 +47,15 @@
                 {
                     "cantidad": 161736.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 161736.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -61,8 +68,8 @@
                 {
                     "cantidad": 161736.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
@@ -70,13 +77,6 @@
                     "desde": "2023T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 161736.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -89,50 +89,8 @@
                 {
                     "cantidad": 225736.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 225736.0,
-                    "desde": "2023T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 225736.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 225736.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 64223.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 64223.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 64223.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -145,9 +103,58 @@
                 {
                     "cantidad": 64223.0,
                     "desde": "2023T4",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 64223.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 225736.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 225736.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 225736.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 64223.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 64223.0,
+                    "desde": "2023T4",
                     "isin": "ES0182544041",
                     "nombre": "SABADELL PLANIFICACION, FI PYME",
                     "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 212487.0,
+                    "desde": "2022T2",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.02
                 },
                 {
                     "cantidad": 44000.0,
@@ -161,13 +168,6 @@
                     "desde": "2022T2",
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 212487.0,
-                    "desde": "2022T2",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
                     "porcentaje": 0.02
                 }
             ],
@@ -185,13 +185,6 @@
                 {
                     "cantidad": 47155.0,
                     "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.07
-                },
-                {
-                    "cantidad": 47155.0,
-                    "desde": "2023T4",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.07
@@ -201,6 +194,13 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.07
+                },
+                {
+                    "cantidad": 47155.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.07
                 },
                 {
@@ -220,8 +220,15 @@
                 {
                     "cantidad": 170086.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "porcentaje": 0.06
+                },
+                {
+                    "cantidad": 170086.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -234,8 +241,8 @@
                 {
                     "cantidad": 170086.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.06
                 },
                 {
@@ -243,13 +250,6 @@
                     "desde": "2023T4",
                     "isin": "ES0174391047",
                     "nombre": "INVERSABADELL 50, FI EMPRESA",
-                    "porcentaje": 0.06
-                },
-                {
-                    "cantidad": 170086.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.06
                 },
                 {
@@ -262,50 +262,8 @@
                 {
                     "cantidad": 245046.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 245046.0,
-                    "desde": "2023T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 245046.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 245046.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 58359.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 58359.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 58359.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544025",
-                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -318,9 +276,58 @@
                 {
                     "cantidad": 58359.0,
                     "desde": "2023T4",
+                    "isin": "ES0182544025",
+                    "nombre": "SABADELL PLANIFICACION, FI PLUS",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 58359.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 245046.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 245046.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 245046.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 58359.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 58359.0,
+                    "desde": "2023T4",
                     "isin": "ES0182544041",
                     "nombre": "SABADELL PLANIFICACION, FI PYME",
                     "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 193095.0,
+                    "desde": "2022T2",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.02
                 },
                 {
                     "cantidad": 35000.0,
@@ -334,13 +341,6 @@
                     "desde": "2022T2",
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 193095.0,
-                    "desde": "2022T2",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
                     "porcentaje": 0.02
                 }
             ],
@@ -358,20 +358,6 @@
                 {
                     "cantidad": 31390.0,
                     "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 31390.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174434003",
-                    "nombre": "INVERSABADELL 70, FI PLUS",
-                    "porcentaje": 0.05
-                },
-                {
-                    "cantidad": 31390.0,
-                    "desde": "2023T4",
                     "isin": "ES0174434011",
                     "nombre": "INVERSABADELL 70, FI PREMIER",
                     "porcentaje": 0.05
@@ -381,6 +367,20 @@
                     "desde": "2023T4",
                     "isin": "ES0174434037",
                     "nombre": "INVERSABADELL 70, FI BASE",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 31390.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
+                    "porcentaje": 0.05
+                },
+                {
+                    "cantidad": 31390.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174434003",
+                    "nombre": "INVERSABADELL 70, FI PLUS",
                     "porcentaje": 0.05
                 },
                 {
@@ -398,38 +398,17 @@
                     "porcentaje": 0.05
                 },
                 {
-                    "cantidad": 28000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 28000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 256000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 256000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
+                    "cantidad": 106134.0,
+                    "desde": "2023T4",
+                    "isin": "ES0174391039",
+                    "nombre": "INVERSABADELL 50, FI BASE",
                     "porcentaje": 0.03
                 },
                 {
                     "cantidad": 106134.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391005",
-                    "nombre": "INVERSABADELL 50, FI PLUS",
+                    "isin": "ES0174391054",
+                    "nombre": "INVERSABADELL 50, FI PYME",
                     "porcentaje": 0.03
                 },
                 {
@@ -442,8 +421,8 @@
                 {
                     "cantidad": 106134.0,
                     "desde": "2023T4",
-                    "isin": "ES0174391039",
-                    "nombre": "INVERSABADELL 50, FI BASE",
+                    "isin": "ES0174391005",
+                    "nombre": "INVERSABADELL 50, FI PLUS",
                     "porcentaje": 0.03
                 },
                 {
@@ -454,10 +433,31 @@
                     "porcentaje": 0.03
                 },
                 {
-                    "cantidad": 106134.0,
-                    "desde": "2023T4",
-                    "isin": "ES0174391054",
-                    "nombre": "INVERSABADELL 50, FI PYME",
+                    "cantidad": 28000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 28000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 256000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 256000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.03
                 },
                 {
@@ -477,43 +477,15 @@
                 {
                     "cantidad": 159022.0,
                     "desde": "2023T4",
-                    "isin": "ES0177124015",
-                    "nombre": "INVERSABADELL 25, FI PREMIER",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 159022.0,
-                    "desde": "2023T4",
                     "isin": "ES0177124031",
                     "nombre": "INVERSABADELL 25, FI BASE",
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 159022.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124049",
-                    "nombre": "INVERSABADELL 25, FI EMPRESA",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 159022.0,
-                    "desde": "2023T4",
-                    "isin": "ES0177124056",
-                    "nombre": "INVERSABADELL 25, FI PYME",
-                    "porcentaje": 0.02
-                },
-                {
                     "cantidad": 42094.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544009",
-                    "nombre": "SABADELL PLANIFICACION, FI BASE",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 42094.0,
-                    "desde": "2023T4",
-                    "isin": "ES0182544017",
-                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
+                    "isin": "ES0182544033",
+                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
                     "porcentaje": 0.02
                 },
                 {
@@ -526,8 +498,36 @@
                 {
                     "cantidad": 42094.0,
                     "desde": "2023T4",
-                    "isin": "ES0182544033",
-                    "nombre": "SABADELL PLANIFICACION, FI PREMIER",
+                    "isin": "ES0182544009",
+                    "nombre": "SABADELL PLANIFICACION, FI BASE",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 159022.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124056",
+                    "nombre": "INVERSABADELL 25, FI PYME",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 159022.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124015",
+                    "nombre": "INVERSABADELL 25, FI PREMIER",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 159022.0,
+                    "desde": "2023T4",
+                    "isin": "ES0177124049",
+                    "nombre": "INVERSABADELL 25, FI EMPRESA",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 42094.0,
+                    "desde": "2023T4",
+                    "isin": "ES0182544017",
+                    "nombre": "SABADELL PLANIFICACION, FI EMPRESA",
                     "porcentaje": 0.02
                 },
                 {
@@ -543,38 +543,38 @@
         {
             "fondos": [
                 {
-                    "cantidad": 28000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 28000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 272000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 272000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.03
-                },
-                {
                     "cantidad": 189182.0,
                     "desde": "2022T2",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 28000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 28000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 272000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 272000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.03
                 }
             ],
@@ -583,38 +583,38 @@
         {
             "fondos": [
                 {
-                    "cantidad": 26000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 26000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0113925038",
-                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 218000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 218000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0114565007",
-                    "nombre": "BINDEX USA INDICE, FI",
-                    "porcentaje": 0.04
-                },
-                {
                     "cantidad": 198188.0,
                     "desde": "2022T2",
                     "isin": "ES0152769032",
                     "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 26000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 26000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0113925038",
+                    "nombre": "BBVA BOLSA INDICE USA (CUBIERTO), FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 218000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
+                    "porcentaje": 0.04
+                },
+                {
+                    "cantidad": 218000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0114565007",
+                    "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.04
                 }
             ],
@@ -622,6 +622,13 @@
         },
         {
             "fondos": [
+                {
+                    "cantidad": 231075.0,
+                    "desde": "2022T2",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.04
+                },
                 {
                     "cantidad": 26000.0,
                     "desde": "2022T2",
@@ -635,19 +642,19 @@
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 231075.0,
-                    "desde": "2022T2",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
-                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2022T3"
         },
         {
             "fondos": [
+                {
+                    "cantidad": 300818.0,
+                    "desde": "2022T2",
+                    "isin": "ES0152769032",
+                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
+                    "porcentaje": 0.04
+                },
                 {
                     "cantidad": 30000.0,
                     "desde": "2022T2",
@@ -661,26 +668,12 @@
                     "isin": "ES0114565007",
                     "nombre": "BINDEX USA INDICE, FI",
                     "porcentaje": 0.04
-                },
-                {
-                    "cantidad": 300818.0,
-                    "desde": "2022T2",
-                    "isin": "ES0152769032",
-                    "nombre": "ING DIRECT FONDO NARANJA STANDARD & POOR´S 500, FI",
-                    "porcentaje": 0.04
                 }
             ],
             "periodo": "2022T2"
         },
         {
             "fondos": [
-                {
-                    "cantidad": 353977.0,
-                    "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.06
-                },
                 {
                     "cantidad": 353977.0,
                     "desde": "2018T2",
@@ -691,8 +684,15 @@
                 {
                     "cantidad": 353977.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.06
+                },
+                {
+                    "cantidad": 353977.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.06
                 },
                 {
@@ -705,15 +705,15 @@
                 {
                     "cantidad": 353977.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.06
                 },
                 {
                     "cantidad": 353977.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.06
                 }
             ],
@@ -724,13 +724,6 @@
                 {
                     "cantidad": 328560.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.14
-                },
-                {
-                    "cantidad": 328560.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.14
@@ -738,8 +731,15 @@
                 {
                     "cantidad": 328560.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.14
+                },
+                {
+                    "cantidad": 328560.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.14
                 },
                 {
@@ -752,15 +752,15 @@
                 {
                     "cantidad": 328560.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.14
                 },
                 {
                     "cantidad": 328560.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.14
                 }
             ],
@@ -771,13 +771,6 @@
                 {
                     "cantidad": 98090.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.1
-                },
-                {
-                    "cantidad": 98090.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.1
@@ -785,8 +778,15 @@
                 {
                     "cantidad": 98090.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.1
+                },
+                {
+                    "cantidad": 98090.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.1
                 },
                 {
@@ -799,15 +799,15 @@
                 {
                     "cantidad": 98090.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.1
                 },
                 {
                     "cantidad": 98090.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.1
                 }
             ],
@@ -818,13 +818,6 @@
                 {
                     "cantidad": 192515.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 2.31
-                },
-                {
-                    "cantidad": 192515.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 2.31
@@ -832,8 +825,15 @@
                 {
                     "cantidad": 192515.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 2.31
+                },
+                {
+                    "cantidad": 192515.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 2.31
                 },
                 {
@@ -846,15 +846,15 @@
                 {
                     "cantidad": 192515.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 2.31
                 },
                 {
                     "cantidad": 192515.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 2.31
                 }
             ],
@@ -865,13 +865,6 @@
                 {
                     "cantidad": 253565.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.84
-                },
-                {
-                    "cantidad": 253565.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.84
@@ -879,8 +872,15 @@
                 {
                     "cantidad": 253565.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 253565.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.84
                 },
                 {
@@ -893,15 +893,15 @@
                 {
                     "cantidad": 253565.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.84
                 },
                 {
                     "cantidad": 253565.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.84
                 }
             ],
@@ -912,13 +912,6 @@
                 {
                     "cantidad": 272967.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.86
-                },
-                {
-                    "cantidad": 272967.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.86
@@ -926,8 +919,15 @@
                 {
                     "cantidad": 272967.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.86
+                },
+                {
+                    "cantidad": 272967.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.86
                 },
                 {
@@ -940,15 +940,15 @@
                 {
                     "cantidad": 272967.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.86
                 },
                 {
                     "cantidad": 272967.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.86
                 }
             ],
@@ -959,13 +959,6 @@
                 {
                     "cantidad": 282830.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.92
-                },
-                {
-                    "cantidad": 282830.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.92
@@ -973,8 +966,15 @@
                 {
                     "cantidad": 282830.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.92
+                },
+                {
+                    "cantidad": 282830.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.92
                 },
                 {
@@ -987,15 +987,15 @@
                 {
                     "cantidad": 282830.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.92
                 },
                 {
                     "cantidad": 282830.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.92
                 }
             ],
@@ -1006,13 +1006,6 @@
                 {
                     "cantidad": 278702.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.82
-                },
-                {
-                    "cantidad": 278702.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.82
@@ -1020,8 +1013,15 @@
                 {
                     "cantidad": 278702.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.82
+                },
+                {
+                    "cantidad": 278702.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.82
                 },
                 {
@@ -1034,15 +1034,15 @@
                 {
                     "cantidad": 278702.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.82
                 },
                 {
                     "cantidad": 278702.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.82
                 }
             ],
@@ -1053,13 +1053,6 @@
                 {
                     "cantidad": 236458.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.7
-                },
-                {
-                    "cantidad": 236458.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.7
@@ -1067,8 +1060,15 @@
                 {
                     "cantidad": 236458.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.7
+                },
+                {
+                    "cantidad": 236458.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.7
                 },
                 {
@@ -1081,15 +1081,15 @@
                 {
                     "cantidad": 236458.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.7
                 },
                 {
                     "cantidad": 236458.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.7
                 }
             ],
@@ -1100,13 +1100,6 @@
                 {
                     "cantidad": 276581.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.72
-                },
-                {
-                    "cantidad": 276581.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.72
@@ -1114,8 +1107,15 @@
                 {
                     "cantidad": 276581.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.72
+                },
+                {
+                    "cantidad": 276581.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.72
                 },
                 {
@@ -1128,15 +1128,15 @@
                 {
                     "cantidad": 276581.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.72
                 },
                 {
                     "cantidad": 276581.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.72
                 }
             ],
@@ -1147,13 +1147,6 @@
                 {
                     "cantidad": 267548.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 1.52
-                },
-                {
-                    "cantidad": 267548.0,
-                    "desde": "2018T2",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 1.52
@@ -1161,8 +1154,15 @@
                 {
                     "cantidad": 267548.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 1.52
+                },
+                {
+                    "cantidad": 267548.0,
+                    "desde": "2018T2",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 1.52
                 },
                 {
@@ -1175,15 +1175,15 @@
                 {
                     "cantidad": 267548.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 1.52
                 },
                 {
                     "cantidad": 267548.0,
                     "desde": "2018T2",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 1.52
                 }
             ],
@@ -1194,13 +1194,6 @@
                 {
                     "cantidad": 213950.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.85
-                },
-                {
-                    "cantidad": 213950.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.85
@@ -1208,8 +1201,15 @@
                 {
                     "cantidad": 213950.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 213950.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.85
                 },
                 {
@@ -1222,15 +1222,15 @@
                 {
                     "cantidad": 213950.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.85
                 },
                 {
                     "cantidad": 213950.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.85
                 }
             ],
@@ -1241,13 +1241,6 @@
                 {
                     "cantidad": 215969.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.82
-                },
-                {
-                    "cantidad": 215969.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.82
@@ -1255,8 +1248,15 @@
                 {
                     "cantidad": 215969.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.82
+                },
+                {
+                    "cantidad": 215969.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.82
                 },
                 {
@@ -1269,15 +1269,15 @@
                 {
                     "cantidad": 215969.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.82
                 },
                 {
                     "cantidad": 215969.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.82
                 }
             ],
@@ -1288,13 +1288,6 @@
                 {
                     "cantidad": 208798.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.78
-                },
-                {
-                    "cantidad": 208798.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.78
@@ -1302,8 +1295,15 @@
                 {
                     "cantidad": 208798.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.78
+                },
+                {
+                    "cantidad": 208798.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.78
                 },
                 {
@@ -1316,15 +1316,15 @@
                 {
                     "cantidad": 208798.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.78
                 },
                 {
                     "cantidad": 208798.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.78
                 }
             ],
@@ -1335,13 +1335,6 @@
                 {
                     "cantidad": 210723.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.75
-                },
-                {
-                    "cantidad": 210723.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.75
@@ -1349,8 +1342,15 @@
                 {
                     "cantidad": 210723.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.75
+                },
+                {
+                    "cantidad": 210723.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.75
                 },
                 {
@@ -1363,15 +1363,15 @@
                 {
                     "cantidad": 210723.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.75
                 },
                 {
                     "cantidad": 210723.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.75
                 }
             ],
@@ -1382,13 +1382,6 @@
                 {
                     "cantidad": 222961.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.83
-                },
-                {
-                    "cantidad": 222961.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.83
@@ -1396,8 +1389,15 @@
                 {
                     "cantidad": 222961.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 222961.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.83
                 },
                 {
@@ -1410,15 +1410,15 @@
                 {
                     "cantidad": 222961.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.83
                 },
                 {
                     "cantidad": 222961.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.83
                 }
             ],
@@ -1429,13 +1429,6 @@
                 {
                     "cantidad": 182529.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 182529.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.72
@@ -1443,8 +1436,15 @@
                 {
                     "cantidad": 182529.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 182529.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.72
                 },
                 {
@@ -1457,15 +1457,15 @@
                 {
                     "cantidad": 182529.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 182529.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.72
                 }
             ],
@@ -1476,13 +1476,6 @@
                 {
                     "cantidad": 171218.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.81
-                },
-                {
-                    "cantidad": 171218.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.81
@@ -1490,8 +1483,15 @@
                 {
                     "cantidad": 171218.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.81
+                },
+                {
+                    "cantidad": 171218.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.81
                 },
                 {
@@ -1504,15 +1504,15 @@
                 {
                     "cantidad": 171218.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.81
                 },
                 {
                     "cantidad": 171218.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.81
                 }
             ],
@@ -1523,13 +1523,6 @@
                 {
                     "cantidad": 101233.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 101233.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.63
@@ -1537,8 +1530,15 @@
                 {
                     "cantidad": 101233.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.63
+                },
+                {
+                    "cantidad": 101233.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.63
                 },
                 {
@@ -1551,15 +1551,15 @@
                 {
                     "cantidad": 101233.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.63
                 },
                 {
                     "cantidad": 101233.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.63
                 }
             ],
@@ -1570,13 +1570,6 @@
                 {
                     "cantidad": 82728.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 82728.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.72
@@ -1584,8 +1577,15 @@
                 {
                     "cantidad": 82728.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 82728.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.72
                 },
                 {
@@ -1598,15 +1598,15 @@
                 {
                     "cantidad": 82728.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.72
                 },
                 {
                     "cantidad": 82728.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.72
                 }
             ],
@@ -1617,13 +1617,6 @@
                 {
                     "cantidad": 42448.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997004",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 42448.0,
-                    "desde": "2015T3",
                     "isin": "ES0161997012",
                     "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-B",
                     "porcentaje": 0.68
@@ -1631,8 +1624,15 @@
                 {
                     "cantidad": 42448.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997020",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
+                    "isin": "ES0161997053",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 42448.0,
+                    "desde": "2015T3",
+                    "isin": "ES0161997004",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE L-A",
                     "porcentaje": 0.68
                 },
                 {
@@ -1645,15 +1645,15 @@
                 {
                     "cantidad": 42448.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997046",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
+                    "isin": "ES0161997020",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE S-A",
                     "porcentaje": 0.68
                 },
                 {
                     "cantidad": 42448.0,
                     "desde": "2015T3",
-                    "isin": "ES0161997053",
-                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-B",
+                    "isin": "ES0161997046",
+                    "nombre": "MEDIOLANUM REAL ESTATE GLOBAL, FI CLASE E-A",
                     "porcentaje": 0.68
                 }
             ],
@@ -1661,5 +1661,5 @@
         }
     ],
     "isin": "US1331311027",
-    "nombre": "SOCIMI|CAMDEN PROPERTY TRUS"
+    "nombre": "ACCIONES|CAMDEN PROPERTY TRUS"
 }

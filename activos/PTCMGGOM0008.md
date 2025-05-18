@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|CAIXA ECO MONTEPIO G|10,00|2026-10-30
+title: Obligaciones|CAIXA ECO MONTEPIO G|10,000|2026-1
 isin: PTCMGGOM0008
 ---

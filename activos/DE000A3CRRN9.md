@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Cherry SE
+title: ACCIONES|CHERRY AG
 isin: DE000A3CRRN9
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Obligaciones|IRISH GOVT|4,000|2014-01-15
+title: Obligaciones!IRLANDA NATIONAL TREASURY AGEN!4,0
 isin: IE00B3KWYS29
 ---

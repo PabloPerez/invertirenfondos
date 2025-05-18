@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SSGA SPDR ETFS
+title: PARTICIPACIONES|ETF SPDR Morningstar
 isin: IE00BQWJFQ70
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES USD HIGH YIE
+title: PARTICIPACIONES|ETF. Ishares
 isin: IE00BYXYYL56
 ---

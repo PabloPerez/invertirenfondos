@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: FONDOS|SPDR S&P U.S. INDUST
 isin: IE00BWBXM724
 ---

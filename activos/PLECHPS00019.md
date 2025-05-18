@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ECHO INVESTMENT
+title: Acciones|ECHO INVESTMENT S.A.
 isin: PLECHPS00019
 ---

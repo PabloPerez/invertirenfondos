@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|RYANAIR HOLDINGS PLC
+title: ACCIONES|RYANAIR HOLDING
 isin: IE00BYTBXV33
 ---

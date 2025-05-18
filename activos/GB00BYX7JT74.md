@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Diversified Energy C
+title: Acciones|DIVERSIFIED ENERGY
 isin: GB00BYX7JT74
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BO.PORTUGAL 6,4% VT.15|02|2016
+title: Bonos|REPUBLICA DE PORTUGAL|6,400|2016-02-15
 isin: PTOTEPOE0016
 ---

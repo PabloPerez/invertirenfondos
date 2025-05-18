@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Bonos|METRO AG|4,625|2011-05-26
+title: BONOS METRO FINANCE BV, 4,625% FIXED, VTO. 26|05|2011
 isin: DE000A0BCGN2
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares Euro Investment Grade
+title: Participaciones|JP MORGAN CHASE & CO
 isin: IE00BDRK7J14
 ---

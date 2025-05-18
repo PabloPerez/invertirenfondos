@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|INVESCO GB RE SE-C A
+title: Participaciones|INVESCO
 isin: IE00B0JBTP12
 ---

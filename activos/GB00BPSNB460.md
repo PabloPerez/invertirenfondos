@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: BONO|UNITED KINGDOM GILT|3,75|2027-03-07
+title: United Kingdom Gilt 3,75% 070327
 isin: GB00BPSNB460
 ---

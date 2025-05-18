@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.TRACTEBEL ENERGIA SA (BRL)
+title: ACCIONES|TRACTEBEL ENERGIA SA
 isin: BRTBLEACNOR2
 ---

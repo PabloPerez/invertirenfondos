@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MONDI PLC
+title: AC.MONDI PLC (GBP)
 isin: GB00BMWC6P49
 ---

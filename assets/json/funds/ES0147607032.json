@@ -1106,826 +1106,6 @@
             "rentabilidad": 0.55
         },
         {
-            "gastos": 0.09,
-            "indice_rotacion": 0.17,
-            "liquidez": 3.24,
-            "participes": 319,
-            "patrimonio": 17607506,
-            "periodo": "2023T3",
-            "posiciones": [
-                {
-                    "cantidad": 1948543.0,
-                    "desde": "2023T3",
-                    "isin": "ES0L02406079",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,767|2024-06-07",
-                    "porcentaje": 11.07
-                },
-                {
-                    "cantidad": 1942882.0,
-                    "desde": "2023T3",
-                    "isin": "ES0L02407051",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,772|2024-07-05",
-                    "porcentaje": 11.03
-                },
-                {
-                    "cantidad": 1499625.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02310065",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,089|2023-10-06",
-                    "porcentaje": 8.52
-                },
-                {
-                    "cantidad": 1494249.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02311105",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,169|2023-11-10",
-                    "porcentaje": 8.49
-                },
-                {
-                    "cantidad": 1489888.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02312087",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
-                    "porcentaje": 8.46
-                },
-                {
-                    "cantidad": 1484356.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02401120",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
-                    "porcentaje": 8.43
-                },
-                {
-                    "cantidad": 1479947.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02402094",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
-                    "porcentaje": 8.41
-                },
-                {
-                    "cantidad": 983672.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02403084",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,313|2024-03-08",
-                    "porcentaje": 5.59
-                },
-                {
-                    "cantidad": 979992.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02404124",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,356|2024-04-12",
-                    "porcentaje": 5.57
-                },
-                {
-                    "cantidad": 977042.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02405105",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,337|2024-05-10",
-                    "porcentaje": 5.55
-                },
-                {
-                    "cantidad": 453880.0,
-                    "desde": "2020T3",
-                    "isin": "NL0009432491",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|VOPAK",
-                    "porcentaje": 2.58
-                },
-                {
-                    "cantidad": 316720.0,
-                    "desde": "2022T1",
-                    "isin": "IE0004906560",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|KERRY GROUP",
-                    "porcentaje": 1.8
-                },
-                {
-                    "cantidad": 289521.0,
-                    "desde": "2023T3",
-                    "isin": "ES0L02409065",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,791|2024-09-06",
-                    "porcentaje": 1.64
-                },
-                {
-                    "cantidad": 282240.0,
-                    "desde": "2015T3",
-                    "isin": "ES0130960018",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ENAGAS SA",
-                    "porcentaje": 1.6
-                },
-                {
-                    "cantidad": 277305.0,
-                    "desde": "2020T3",
-                    "isin": "PTCOR0AE0006",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|CORTICEIRA AMOR",
-                    "porcentaje": 1.57
-                },
-                {
-                    "cantidad": 145470.0,
-                    "desde": "2023T3",
-                    "isin": "FR0010340141",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ADP",
-                    "porcentaje": 0.83
-                },
-                {
-                    "cantidad": 103700.0,
-                    "desde": "2015T3",
-                    "isin": "BE0974268972",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BPOST SA",
-                    "porcentaje": 0.59
-                },
-                {
-                    "cantidad": 92275.0,
-                    "desde": "2015T3",
-                    "isin": "DE0008430026",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|MUENCHE RUECK",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 90645.0,
-                    "desde": "2023T2",
-                    "isin": "FR0000131104",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BNP",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 84540.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120628",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AXA",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 79850.0,
-                    "desde": "2023T2",
-                    "isin": "FR0000120404",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ACCOR",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 77070.0,
-                    "desde": "2023T2",
-                    "isin": "DE0005552004",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|DEUTSCHE POST",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 77460.0,
-                    "desde": "2015T3",
-                    "isin": "IT0000062072",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ASS. GENERALI",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 76110.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120578",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|SANOFI",
-                    "porcentaje": 0.43
-                },
-                {
-                    "cantidad": 71981.0,
-                    "desde": "2015T3",
-                    "isin": "CH0043238366",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ARYZTA AG",
-                    "porcentaje": 0.41
-                },
-                {
-                    "cantidad": 70530.0,
-                    "desde": "2015T3",
-                    "isin": "FR0006174348",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BUREAU VERITAS",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 71300.0,
-                    "desde": "2018T1",
-                    "isin": "NL0011794037",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AHOLD",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 51748.0,
-                    "desde": "2016T1",
-                    "isin": "NL0010773842",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|NN GROUP NV",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 1551.0,
-                    "desde": "2022T2",
-                    "isin": "FR0014008VX5",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|EUROAPI SASU",
-                    "porcentaje": 0.01
-                }
-            ],
-            "rentabilidad": 0.31
-        },
-        {
-            "gastos": 0.09,
-            "indice_rotacion": 0.37,
-            "liquidez": 5.96,
-            "participes": 303,
-            "patrimonio": 16837903,
-            "periodo": "2023T2",
-            "posiciones": [
-                {
-                    "cantidad": 3010993.0,
-                    "desde": "2023T1",
-                    "isin": "ES0000012F76",
-                    "moneda": "EUR",
-                    "nombre": "REPO|ESTADO ESPAÑOL|3,25|2023-07-27",
-                    "porcentaje": 17.88
-                },
-                {
-                    "cantidad": 1486667.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02310065",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,089|2023-10-06",
-                    "porcentaje": 8.83
-                },
-                {
-                    "cantidad": 1481211.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02311105",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,169|2023-11-10",
-                    "porcentaje": 8.8
-                },
-                {
-                    "cantidad": 1477296.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02312087",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
-                    "porcentaje": 8.77
-                },
-                {
-                    "cantidad": 1472107.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02401120",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
-                    "porcentaje": 8.74
-                },
-                {
-                    "cantidad": 1467191.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02402094",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
-                    "porcentaje": 8.71
-                },
-                {
-                    "cantidad": 975367.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02403084",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,313|2024-03-08",
-                    "porcentaje": 5.79
-                },
-                {
-                    "cantidad": 971887.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02404124",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,356|2024-04-12",
-                    "porcentaje": 5.77
-                },
-                {
-                    "cantidad": 969117.0,
-                    "desde": "2023T2",
-                    "isin": "ES0L02405105",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,337|2024-05-10",
-                    "porcentaje": 5.76
-                },
-                {
-                    "cantidad": 588420.0,
-                    "desde": "2020T3",
-                    "isin": "NL0009432491",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|VOPAK",
-                    "porcentaje": 3.49
-                },
-                {
-                    "cantidad": 357520.0,
-                    "desde": "2022T1",
-                    "isin": "IE0004906560",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|KERRY GROUP",
-                    "porcentaje": 2.12
-                },
-                {
-                    "cantidad": 324000.0,
-                    "desde": "2015T3",
-                    "isin": "ES0130960018",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ENAGAS SA",
-                    "porcentaje": 1.92
-                },
-                {
-                    "cantidad": 275595.0,
-                    "desde": "2020T3",
-                    "isin": "PTCOR0AE0006",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|CORTICEIRA AMOR",
-                    "porcentaje": 1.64
-                },
-                {
-                    "cantidad": 89460.0,
-                    "desde": "2023T2",
-                    "isin": "DE0005552004",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|DEUTSCHE POST",
-                    "porcentaje": 0.53
-                },
-                {
-                    "cantidad": 85900.0,
-                    "desde": "2015T3",
-                    "isin": "DE0008430026",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|MUENCHE RUECK",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 85050.0,
-                    "desde": "2023T2",
-                    "isin": "FR0000120404",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ACCOR",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 86580.0,
-                    "desde": "2023T2",
-                    "isin": "FR0000131104",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BNP",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 80480.0,
-                    "desde": "2015T3",
-                    "isin": "BE0974268972",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BPOST SA",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 81075.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120628",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AXA",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 78150.0,
-                    "desde": "2018T1",
-                    "isin": "NL0011794037",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AHOLD",
-                    "porcentaje": 0.46
-                },
-                {
-                    "cantidad": 75360.0,
-                    "desde": "2015T3",
-                    "isin": "FR0006174348",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BUREAU VERITAS",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 73650.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120578",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|SANOFI",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 74480.0,
-                    "desde": "2015T3",
-                    "isin": "IT0000062072",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ASS. GENERALI",
-                    "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 67475.0,
-                    "desde": "2015T3",
-                    "isin": "CH0043238366",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ARYZTA AG",
-                    "porcentaje": 0.4
-                },
-                {
-                    "cantidad": 57647.0,
-                    "desde": "2016T1",
-                    "isin": "NL0010773842",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|NN GROUP NV",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 1364.0,
-                    "desde": "2022T2",
-                    "isin": "FR0014008VX5",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|EUROAPI SASU",
-                    "porcentaje": 0.01
-                }
-            ],
-            "rentabilidad": 0.51
-        },
-        {
-            "gastos": 0.09,
-            "indice_rotacion": 0.08,
-            "liquidez": 10.05,
-            "participes": 286,
-            "patrimonio": 15491008,
-            "periodo": "2023T1",
-            "posiciones": [
-                {
-                    "cantidad": 2498491.0,
-                    "desde": "2022T3",
-                    "isin": "ES0L02304142",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,568|2023-04-14",
-                    "porcentaje": 16.13
-                },
-                {
-                    "cantidad": 2493386.0,
-                    "desde": "2022T2",
-                    "isin": "ES0L02305123",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,052|2023-05-12",
-                    "porcentaje": 16.1
-                },
-                {
-                    "cantidad": 2000000.0,
-                    "desde": "2023T1",
-                    "isin": "ES0000012F76",
-                    "moneda": "EUR",
-                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
-                    "porcentaje": 12.91
-                },
-                {
-                    "cantidad": 1470013.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02312087",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
-                    "porcentaje": 9.49
-                },
-                {
-                    "cantidad": 1465993.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02401120",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
-                    "porcentaje": 9.46
-                },
-                {
-                    "cantidad": 1463634.0,
-                    "desde": "2023T1",
-                    "isin": "ES0L02402094",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
-                    "porcentaje": 9.45
-                },
-                {
-                    "cantidad": 649800.0,
-                    "desde": "2020T3",
-                    "isin": "NL0009432491",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|VOPAK",
-                    "porcentaje": 4.19
-                },
-                {
-                    "cantidad": 367360.0,
-                    "desde": "2022T1",
-                    "isin": "IE0004906560",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|KERRY GROUP",
-                    "porcentaje": 2.37
-                },
-                {
-                    "cantidad": 318600.0,
-                    "desde": "2015T3",
-                    "isin": "ES0130960018",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ENAGAS SA",
-                    "porcentaje": 2.06
-                },
-                {
-                    "cantidad": 285000.0,
-                    "desde": "2020T3",
-                    "isin": "PTCOR0AE0006",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|CORTICEIRA AMOR",
-                    "porcentaje": 1.84
-                },
-                {
-                    "cantidad": 104900.0,
-                    "desde": "2015T3",
-                    "isin": "BE0974268972",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BPOST SA",
-                    "porcentaje": 0.68
-                },
-                {
-                    "cantidad": 100000.0,
-                    "desde": "2023T1",
-                    "isin": "ES0000012B88",
-                    "moneda": "EUR",
-                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
-                    "porcentaje": 0.65
-                },
-                {
-                    "cantidad": 92376.0,
-                    "desde": "2023T1",
-                    "isin": "ES00000127A2",
-                    "moneda": "EUR",
-                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 84495.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120628",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AXA",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 80625.0,
-                    "desde": "2015T3",
-                    "isin": "DE0008430026",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|MUENCHE RUECK",
-                    "porcentaje": 0.52
-                },
-                {
-                    "cantidad": 79410.0,
-                    "desde": "2015T3",
-                    "isin": "FR0006174348",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BUREAU VERITAS",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 78725.0,
-                    "desde": "2018T1",
-                    "isin": "NL0011794037",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AHOLD",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 75180.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120578",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|SANOFI",
-                    "porcentaje": 0.49
-                },
-                {
-                    "cantidad": 73520.0,
-                    "desde": "2015T3",
-                    "isin": "IT0000062072",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ASS. GENERALI",
-                    "porcentaje": 0.47
-                },
-                {
-                    "cantidad": 69431.0,
-                    "desde": "2015T3",
-                    "isin": "CH0043238366",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ARYZTA AG",
-                    "porcentaje": 0.45
-                },
-                {
-                    "cantidad": 56882.0,
-                    "desde": "2016T1",
-                    "isin": "NL0010773842",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|NN GROUP NV",
-                    "porcentaje": 0.37
-                },
-                {
-                    "cantidad": 1368.0,
-                    "desde": "2022T2",
-                    "isin": "FR0014008VX5",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|EUROAPI SASU",
-                    "porcentaje": 0.01
-                }
-            ],
-            "rentabilidad": 2.12
-        },
-        {
-            "gastos": 0.09,
-            "indice_rotacion": 0.0,
-            "liquidez": 15.77,
-            "participes": 268,
-            "patrimonio": 13953164,
-            "periodo": "2022T4",
-            "posiciones": [
-                {
-                    "cantidad": 2496000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0L02302104",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,152|2023-02-10",
-                    "porcentaje": 17.89
-                },
-                {
-                    "cantidad": 2486109.0,
-                    "desde": "2022T3",
-                    "isin": "ES0L02304142",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,568|2023-04-14",
-                    "porcentaje": 17.82
-                },
-                {
-                    "cantidad": 2481317.0,
-                    "desde": "2022T2",
-                    "isin": "ES0L02305123",
-                    "moneda": "EUR",
-                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,052|2023-05-12",
-                    "porcentaje": 17.78
-                },
-                {
-                    "cantidad": 2102052.0,
-                    "desde": "2022T4",
-                    "isin": "ES0000101644",
-                    "moneda": "EUR",
-                    "nombre": "REPO|COMUNIDAD DE MADRID|1,78|2023-01-19",
-                    "porcentaje": 15.07
-                },
-                {
-                    "cantidad": 555000.0,
-                    "desde": "2020T3",
-                    "isin": "NL0009432491",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|VOPAK",
-                    "porcentaje": 3.98
-                },
-                {
-                    "cantidad": 336960.0,
-                    "desde": "2022T1",
-                    "isin": "IE0004906560",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|KERRY GROUP",
-                    "porcentaje": 2.41
-                },
-                {
-                    "cantidad": 279450.0,
-                    "desde": "2015T3",
-                    "isin": "ES0130960018",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ENAGAS SA",
-                    "porcentaje": 2.0
-                },
-                {
-                    "cantidad": 248520.0,
-                    "desde": "2020T3",
-                    "isin": "PTCOR0AE0006",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|CORTICEIRA AMOR",
-                    "porcentaje": 1.78
-                },
-                {
-                    "cantidad": 96080.0,
-                    "desde": "2015T3",
-                    "isin": "BE0974268972",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BPOST SA",
-                    "porcentaje": 0.69
-                },
-                {
-                    "cantidad": 83075.0,
-                    "desde": "2015T3",
-                    "isin": "IT0000062072",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ASS. GENERALI",
-                    "porcentaje": 0.6
-                },
-                {
-                    "cantidad": 78165.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120628",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AXA",
-                    "porcentaje": 0.56
-                },
-                {
-                    "cantidad": 76000.0,
-                    "desde": "2015T3",
-                    "isin": "DE0008430026",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|MUENCHE RUECK",
-                    "porcentaje": 0.54
-                },
-                {
-                    "cantidad": 73830.0,
-                    "desde": "2015T3",
-                    "isin": "FR0006174348",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|BUREAU VERITAS",
-                    "porcentaje": 0.53
-                },
-                {
-                    "cantidad": 67380.0,
-                    "desde": "2015T3",
-                    "isin": "FR0000120578",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|SANOFI",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 67100.0,
-                    "desde": "2018T1",
-                    "isin": "NL0011794037",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|AHOLD",
-                    "porcentaje": 0.48
-                },
-                {
-                    "cantidad": 64872.0,
-                    "desde": "2016T1",
-                    "isin": "NL0010773842",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|NN GROUP NV",
-                    "porcentaje": 0.46
-                },
-                {
-                    "cantidad": 49485.0,
-                    "desde": "2015T3",
-                    "isin": "CH0043238366",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|ARYZTA AG",
-                    "porcentaje": 0.35
-                },
-                {
-                    "cantidad": 40000.0,
-                    "desde": "2022T3",
-                    "isin": "ES00000122E5",
-                    "moneda": "EUR",
-                    "nombre": "REPO|ESTADO ESPAÑOL|1,78|2023-01-19",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 40000.0,
-                    "desde": "2022T2",
-                    "isin": "ES0000101602",
-                    "moneda": "EUR",
-                    "nombre": "REPO|COMUNIDAD DE MADRID|1,78|2023-01-19",
-                    "porcentaje": 0.29
-                },
-                {
-                    "cantidad": 1801.0,
-                    "desde": "2022T2",
-                    "isin": "FR0014008VX5",
-                    "moneda": "EUR",
-                    "nombre": "ACCIONES|EUROAPI SASU",
-                    "porcentaje": 0.01
-                }
-            ],
-            "rentabilidad": 2.22
-        },
-        {
             "gastos": 0.1,
             "indice_rotacion": 0.12,
             "liquidez": 18.31,
@@ -2397,6 +1577,468 @@
         },
         {
             "gastos": 0.09,
+            "indice_rotacion": 0.17,
+            "liquidez": 3.24,
+            "participes": 319,
+            "patrimonio": 17607506,
+            "periodo": "2023T3",
+            "posiciones": [
+                {
+                    "cantidad": 1948543.0,
+                    "desde": "2023T3",
+                    "isin": "ES0L02406079",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,767|2024-06-07",
+                    "porcentaje": 11.07
+                },
+                {
+                    "cantidad": 1942882.0,
+                    "desde": "2023T3",
+                    "isin": "ES0L02407051",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,772|2024-07-05",
+                    "porcentaje": 11.03
+                },
+                {
+                    "cantidad": 1499625.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02310065",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,089|2023-10-06",
+                    "porcentaje": 8.52
+                },
+                {
+                    "cantidad": 1494249.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02311105",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,169|2023-11-10",
+                    "porcentaje": 8.49
+                },
+                {
+                    "cantidad": 1489888.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02312087",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
+                    "porcentaje": 8.46
+                },
+                {
+                    "cantidad": 1484356.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02401120",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
+                    "porcentaje": 8.43
+                },
+                {
+                    "cantidad": 1479947.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02402094",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
+                    "porcentaje": 8.41
+                },
+                {
+                    "cantidad": 983672.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02403084",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,313|2024-03-08",
+                    "porcentaje": 5.59
+                },
+                {
+                    "cantidad": 979992.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02404124",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,356|2024-04-12",
+                    "porcentaje": 5.57
+                },
+                {
+                    "cantidad": 977042.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02405105",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,337|2024-05-10",
+                    "porcentaje": 5.55
+                },
+                {
+                    "cantidad": 453880.0,
+                    "desde": "2020T3",
+                    "isin": "NL0009432491",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOPAK",
+                    "porcentaje": 2.58
+                },
+                {
+                    "cantidad": 316720.0,
+                    "desde": "2022T1",
+                    "isin": "IE0004906560",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERRY GROUP",
+                    "porcentaje": 1.8
+                },
+                {
+                    "cantidad": 289521.0,
+                    "desde": "2023T3",
+                    "isin": "ES0L02409065",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,791|2024-09-06",
+                    "porcentaje": 1.64
+                },
+                {
+                    "cantidad": 282240.0,
+                    "desde": "2015T3",
+                    "isin": "ES0130960018",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENAGAS SA",
+                    "porcentaje": 1.6
+                },
+                {
+                    "cantidad": 277305.0,
+                    "desde": "2020T3",
+                    "isin": "PTCOR0AE0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORTICEIRA AMOR",
+                    "porcentaje": 1.57
+                },
+                {
+                    "cantidad": 145470.0,
+                    "desde": "2023T3",
+                    "isin": "FR0010340141",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ADP",
+                    "porcentaje": 0.83
+                },
+                {
+                    "cantidad": 103700.0,
+                    "desde": "2015T3",
+                    "isin": "BE0974268972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BPOST SA",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 92275.0,
+                    "desde": "2015T3",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHE RUECK",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 90645.0,
+                    "desde": "2023T2",
+                    "isin": "FR0000131104",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BNP",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 84540.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 79850.0,
+                    "desde": "2023T2",
+                    "isin": "FR0000120404",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ACCOR",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 77070.0,
+                    "desde": "2023T2",
+                    "isin": "DE0005552004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE POST",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 77460.0,
+                    "desde": "2015T3",
+                    "isin": "IT0000062072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASS. GENERALI",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 76110.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 0.43
+                },
+                {
+                    "cantidad": 71981.0,
+                    "desde": "2015T3",
+                    "isin": "CH0043238366",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARYZTA AG",
+                    "porcentaje": 0.41
+                },
+                {
+                    "cantidad": 70530.0,
+                    "desde": "2015T3",
+                    "isin": "FR0006174348",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BUREAU VERITAS",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 71300.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 51748.0,
+                    "desde": "2016T1",
+                    "isin": "NL0010773842",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NN GROUP NV",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 1551.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014008VX5",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EUROAPI SASU",
+                    "porcentaje": 0.01
+                }
+            ],
+            "rentabilidad": 0.31
+        },
+        {
+            "gastos": 0.09,
+            "indice_rotacion": 0.37,
+            "liquidez": 5.96,
+            "participes": 303,
+            "patrimonio": 16837903,
+            "periodo": "2023T2",
+            "posiciones": [
+                {
+                    "cantidad": 3010993.0,
+                    "desde": "2023T1",
+                    "isin": "ES0000012F76",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|3,25|2023-07-27",
+                    "porcentaje": 17.88
+                },
+                {
+                    "cantidad": 1486667.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02310065",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,089|2023-10-06",
+                    "porcentaje": 8.83
+                },
+                {
+                    "cantidad": 1481211.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02311105",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,169|2023-11-10",
+                    "porcentaje": 8.8
+                },
+                {
+                    "cantidad": 1477296.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02312087",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
+                    "porcentaje": 8.77
+                },
+                {
+                    "cantidad": 1472107.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02401120",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
+                    "porcentaje": 8.74
+                },
+                {
+                    "cantidad": 1467191.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02402094",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
+                    "porcentaje": 8.71
+                },
+                {
+                    "cantidad": 975367.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02403084",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,313|2024-03-08",
+                    "porcentaje": 5.79
+                },
+                {
+                    "cantidad": 971887.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02404124",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,356|2024-04-12",
+                    "porcentaje": 5.77
+                },
+                {
+                    "cantidad": 969117.0,
+                    "desde": "2023T2",
+                    "isin": "ES0L02405105",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,337|2024-05-10",
+                    "porcentaje": 5.76
+                },
+                {
+                    "cantidad": 588420.0,
+                    "desde": "2020T3",
+                    "isin": "NL0009432491",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOPAK",
+                    "porcentaje": 3.49
+                },
+                {
+                    "cantidad": 357520.0,
+                    "desde": "2022T1",
+                    "isin": "IE0004906560",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERRY GROUP",
+                    "porcentaje": 2.12
+                },
+                {
+                    "cantidad": 324000.0,
+                    "desde": "2015T3",
+                    "isin": "ES0130960018",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENAGAS SA",
+                    "porcentaje": 1.92
+                },
+                {
+                    "cantidad": 275595.0,
+                    "desde": "2020T3",
+                    "isin": "PTCOR0AE0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORTICEIRA AMOR",
+                    "porcentaje": 1.64
+                },
+                {
+                    "cantidad": 89460.0,
+                    "desde": "2023T2",
+                    "isin": "DE0005552004",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|DEUTSCHE POST",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 85900.0,
+                    "desde": "2015T3",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHE RUECK",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 85050.0,
+                    "desde": "2023T2",
+                    "isin": "FR0000120404",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ACCOR",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 86580.0,
+                    "desde": "2023T2",
+                    "isin": "FR0000131104",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BNP",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 80480.0,
+                    "desde": "2015T3",
+                    "isin": "BE0974268972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BPOST SA",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 81075.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 78150.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 75360.0,
+                    "desde": "2015T3",
+                    "isin": "FR0006174348",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BUREAU VERITAS",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 73650.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 74480.0,
+                    "desde": "2015T3",
+                    "isin": "IT0000062072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASS. GENERALI",
+                    "porcentaje": 0.44
+                },
+                {
+                    "cantidad": 67475.0,
+                    "desde": "2015T3",
+                    "isin": "CH0043238366",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARYZTA AG",
+                    "porcentaje": 0.4
+                },
+                {
+                    "cantidad": 57647.0,
+                    "desde": "2016T1",
+                    "isin": "NL0010773842",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NN GROUP NV",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 1364.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014008VX5",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EUROAPI SASU",
+                    "porcentaje": 0.01
+                }
+            ],
+            "rentabilidad": 0.51
+        },
+        {
+            "gastos": 0.09,
             "indice_rotacion": 0.37,
             "liquidez": 5.96,
             "participes": 303,
@@ -2800,6 +2442,364 @@
                 }
             ],
             "rentabilidad": 2.12
+        },
+        {
+            "gastos": 0.09,
+            "indice_rotacion": 0.08,
+            "liquidez": 10.05,
+            "participes": 286,
+            "patrimonio": 15491008,
+            "periodo": "2023T1",
+            "posiciones": [
+                {
+                    "cantidad": 2498491.0,
+                    "desde": "2022T3",
+                    "isin": "ES0L02304142",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,568|2023-04-14",
+                    "porcentaje": 16.13
+                },
+                {
+                    "cantidad": 2493386.0,
+                    "desde": "2022T2",
+                    "isin": "ES0L02305123",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,052|2023-05-12",
+                    "porcentaje": 16.1
+                },
+                {
+                    "cantidad": 2000000.0,
+                    "desde": "2023T1",
+                    "isin": "ES0000012F76",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
+                    "porcentaje": 12.91
+                },
+                {
+                    "cantidad": 1470013.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02312087",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|2,918|2023-12-08",
+                    "porcentaje": 9.49
+                },
+                {
+                    "cantidad": 1465993.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02401120",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,009|2024-01-12",
+                    "porcentaje": 9.46
+                },
+                {
+                    "cantidad": 1463634.0,
+                    "desde": "2023T1",
+                    "isin": "ES0L02402094",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|3,026|2024-02-09",
+                    "porcentaje": 9.45
+                },
+                {
+                    "cantidad": 649800.0,
+                    "desde": "2020T3",
+                    "isin": "NL0009432491",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOPAK",
+                    "porcentaje": 4.19
+                },
+                {
+                    "cantidad": 367360.0,
+                    "desde": "2022T1",
+                    "isin": "IE0004906560",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERRY GROUP",
+                    "porcentaje": 2.37
+                },
+                {
+                    "cantidad": 318600.0,
+                    "desde": "2015T3",
+                    "isin": "ES0130960018",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENAGAS SA",
+                    "porcentaje": 2.06
+                },
+                {
+                    "cantidad": 285000.0,
+                    "desde": "2020T3",
+                    "isin": "PTCOR0AE0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORTICEIRA AMOR",
+                    "porcentaje": 1.84
+                },
+                {
+                    "cantidad": 104900.0,
+                    "desde": "2015T3",
+                    "isin": "BE0974268972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BPOST SA",
+                    "porcentaje": 0.68
+                },
+                {
+                    "cantidad": 100000.0,
+                    "desde": "2023T1",
+                    "isin": "ES0000012B88",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
+                    "porcentaje": 0.65
+                },
+                {
+                    "cantidad": 92376.0,
+                    "desde": "2023T1",
+                    "isin": "ES00000127A2",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|2,70|2023-04-27",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 84495.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 80625.0,
+                    "desde": "2015T3",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHE RUECK",
+                    "porcentaje": 0.52
+                },
+                {
+                    "cantidad": 79410.0,
+                    "desde": "2015T3",
+                    "isin": "FR0006174348",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BUREAU VERITAS",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 78725.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.51
+                },
+                {
+                    "cantidad": 75180.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 73520.0,
+                    "desde": "2015T3",
+                    "isin": "IT0000062072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASS. GENERALI",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 69431.0,
+                    "desde": "2015T3",
+                    "isin": "CH0043238366",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARYZTA AG",
+                    "porcentaje": 0.45
+                },
+                {
+                    "cantidad": 56882.0,
+                    "desde": "2016T1",
+                    "isin": "NL0010773842",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NN GROUP NV",
+                    "porcentaje": 0.37
+                },
+                {
+                    "cantidad": 1368.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014008VX5",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EUROAPI SASU",
+                    "porcentaje": 0.01
+                }
+            ],
+            "rentabilidad": 2.12
+        },
+        {
+            "gastos": 0.09,
+            "indice_rotacion": 0.0,
+            "liquidez": 15.77,
+            "participes": 268,
+            "patrimonio": 13953164,
+            "periodo": "2022T4",
+            "posiciones": [
+                {
+                    "cantidad": 2496000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0L02302104",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,152|2023-02-10",
+                    "porcentaje": 17.89
+                },
+                {
+                    "cantidad": 2486109.0,
+                    "desde": "2022T3",
+                    "isin": "ES0L02304142",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,568|2023-04-14",
+                    "porcentaje": 17.82
+                },
+                {
+                    "cantidad": 2481317.0,
+                    "desde": "2022T2",
+                    "isin": "ES0L02305123",
+                    "moneda": "EUR",
+                    "nombre": "LETRAS|ESTADO ESPAÑOL|0,052|2023-05-12",
+                    "porcentaje": 17.78
+                },
+                {
+                    "cantidad": 2102052.0,
+                    "desde": "2022T4",
+                    "isin": "ES0000101644",
+                    "moneda": "EUR",
+                    "nombre": "REPO|COMUNIDAD DE MADRID|1,78|2023-01-19",
+                    "porcentaje": 15.07
+                },
+                {
+                    "cantidad": 555000.0,
+                    "desde": "2020T3",
+                    "isin": "NL0009432491",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|VOPAK",
+                    "porcentaje": 3.98
+                },
+                {
+                    "cantidad": 336960.0,
+                    "desde": "2022T1",
+                    "isin": "IE0004906560",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|KERRY GROUP",
+                    "porcentaje": 2.41
+                },
+                {
+                    "cantidad": 279450.0,
+                    "desde": "2015T3",
+                    "isin": "ES0130960018",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ENAGAS SA",
+                    "porcentaje": 2.0
+                },
+                {
+                    "cantidad": 248520.0,
+                    "desde": "2020T3",
+                    "isin": "PTCOR0AE0006",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|CORTICEIRA AMOR",
+                    "porcentaje": 1.78
+                },
+                {
+                    "cantidad": 96080.0,
+                    "desde": "2015T3",
+                    "isin": "BE0974268972",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BPOST SA",
+                    "porcentaje": 0.69
+                },
+                {
+                    "cantidad": 83075.0,
+                    "desde": "2015T3",
+                    "isin": "IT0000062072",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ASS. GENERALI",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 78165.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120628",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AXA",
+                    "porcentaje": 0.56
+                },
+                {
+                    "cantidad": 76000.0,
+                    "desde": "2015T3",
+                    "isin": "DE0008430026",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|MUENCHE RUECK",
+                    "porcentaje": 0.54
+                },
+                {
+                    "cantidad": 73830.0,
+                    "desde": "2015T3",
+                    "isin": "FR0006174348",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|BUREAU VERITAS",
+                    "porcentaje": 0.53
+                },
+                {
+                    "cantidad": 67380.0,
+                    "desde": "2015T3",
+                    "isin": "FR0000120578",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|SANOFI",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 67100.0,
+                    "desde": "2018T1",
+                    "isin": "NL0011794037",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|AHOLD",
+                    "porcentaje": 0.48
+                },
+                {
+                    "cantidad": 64872.0,
+                    "desde": "2016T1",
+                    "isin": "NL0010773842",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|NN GROUP NV",
+                    "porcentaje": 0.46
+                },
+                {
+                    "cantidad": 49485.0,
+                    "desde": "2015T3",
+                    "isin": "CH0043238366",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|ARYZTA AG",
+                    "porcentaje": 0.35
+                },
+                {
+                    "cantidad": 40000.0,
+                    "desde": "2022T3",
+                    "isin": "ES00000122E5",
+                    "moneda": "EUR",
+                    "nombre": "REPO|ESTADO ESPAÑOL|1,78|2023-01-19",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 40000.0,
+                    "desde": "2022T2",
+                    "isin": "ES0000101602",
+                    "moneda": "EUR",
+                    "nombre": "REPO|COMUNIDAD DE MADRID|1,78|2023-01-19",
+                    "porcentaje": 0.29
+                },
+                {
+                    "cantidad": 1801.0,
+                    "desde": "2022T2",
+                    "isin": "FR0014008VX5",
+                    "moneda": "EUR",
+                    "nombre": "ACCIONES|EUROAPI SASU",
+                    "porcentaje": 0.01
+                }
+            ],
+            "rentabilidad": 2.22
         },
         {
             "gastos": 0.09,

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ANDRITZ AG
+title: ACCIONES|KAPSCH TRAFFIC
 isin: AT000KAPSCH9
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES MSCI USA ESG
+title: PARTICIPACIONES|iShares MSCI USA ESG Enhanced
 isin: IE00BHZPJ908
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|BLACKROCK ASSET MANAGEMENT
+title: PARTICIPACIONES|ETF Ishares Bond
 isin: IE00BSKRJX20
 ---

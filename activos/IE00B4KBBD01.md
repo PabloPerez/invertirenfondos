@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|ISHARES
+title: PARTICIPACIONES|ETF. Ishares
 isin: IE00B4KBBD01
 ---

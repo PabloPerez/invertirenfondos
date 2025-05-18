@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|INNOCAP GLOABL INVESTMENT
+title: Participaciones|ALMA CAPITAL INVESTMENT MANAG
 isin: IE00BCBHZ754
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.MARCOPOLO SA-PREF (BRL)
+title: ACCIONES|MARCOPOLO SA
 isin: BRPOMOACNPR7
 ---

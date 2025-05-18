@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|ARROW GLOBAL GROUP PLC
+title: Acciones|ARROW GLOBAL PLC
 isin: GB00BDGTXM47
 ---

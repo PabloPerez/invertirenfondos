@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ETF|ISHARES ETFS|IR
+title: ETN|ISHARES J.P. MORGAN
 isin: IE00B2NPKV68
 ---

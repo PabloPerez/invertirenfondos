@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|MEDIOS AG
+title: ACCIONES|Medios AG
 isin: DE000A1MMCC8
 ---

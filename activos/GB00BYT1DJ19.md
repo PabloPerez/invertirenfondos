@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|INTERMEDIATE CAP
+title: ACCIONES|INTERMEDIATE CAPITAL
 isin: GB00BYT1DJ19
 ---

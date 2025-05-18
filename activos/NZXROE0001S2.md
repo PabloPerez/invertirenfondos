@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|XERO LTD
+title: AC.XERO LIMITED (NZD)
 isin: NZXROE0001S2
 ---

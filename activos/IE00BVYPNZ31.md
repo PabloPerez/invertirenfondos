@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|GUINNESS ASSET MGMT-GLOBAL EQUITY
+title: Participaciones|PIMCO GLOBAL FUNDS
 isin: IE00BVYPNZ31
 ---

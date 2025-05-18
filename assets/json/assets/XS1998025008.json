@@ -4,6 +4,13 @@
             "fondos": [
                 {
                     "cantidad": 0.0,
+                    "desde": "2023T4",
+                    "isin": "ES0181036015",
+                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE I",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
                     "desde": "2023T2",
                     "isin": "ES0174013005",
                     "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE I",
@@ -18,13 +25,6 @@
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2024T2",
-                    "isin": "ES0174013021",
-                    "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE R",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
                     "desde": "2023T4",
                     "isin": "ES0181036007",
                     "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE C",
@@ -33,15 +33,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2023T4",
-                    "isin": "ES0181036015",
-                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE I",
+                    "isin": "ES0181036031",
+                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE A",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
-                    "desde": "2023T4",
-                    "isin": "ES0181036031",
-                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE A",
+                    "desde": "2024T2",
+                    "isin": "ES0174013021",
+                    "nombre": "CREAND RENTA FIJA MIXTA,FI CLASE R",
                     "porcentaje": 0.0
                 }
             ],
@@ -73,8 +73,8 @@
                 {
                     "cantidad": 10138514.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 1.4
                 },
                 {
@@ -87,9 +87,23 @@
                 {
                     "cantidad": 10138514.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 1.4
+                },
+                {
+                    "cantidad": 191775.0,
+                    "desde": "2023T2",
+                    "isin": "ES0171965033",
+                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PREMIUM",
+                    "porcentaje": 1.03
+                },
+                {
+                    "cantidad": 191775.0,
+                    "desde": "2023T2",
+                    "isin": "ES0171965025",
+                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PLUS",
+                    "porcentaje": 1.03
                 },
                 {
                     "cantidad": 191775.0,
@@ -103,20 +117,6 @@
                     "desde": "2023T2",
                     "isin": "ES0171965017",
                     "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI ESTÁNDAR",
-                    "porcentaje": 1.03
-                },
-                {
-                    "cantidad": 191775.0,
-                    "desde": "2023T2",
-                    "isin": "ES0171965025",
-                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PLUS",
-                    "porcentaje": 1.03
-                },
-                {
-                    "cantidad": 191775.0,
-                    "desde": "2023T2",
-                    "isin": "ES0171965033",
-                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PREMIUM",
                     "porcentaje": 1.03
                 },
                 {
@@ -171,22 +171,22 @@
                 {
                     "cantidad": 3898133.0,
                     "desde": "2023T4",
-                    "isin": "ES0181036007",
-                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.47
-                },
-                {
-                    "cantidad": 3898133.0,
-                    "desde": "2023T4",
-                    "isin": "ES0181036007",
-                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE C",
-                    "porcentaje": 0.47
-                },
-                {
-                    "cantidad": 3898133.0,
-                    "desde": "2023T4",
                     "isin": "ES0181036015",
                     "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE I",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 3898133.0,
+                    "desde": "2023T4",
+                    "isin": "ES0181036007",
+                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE C",
+                    "porcentaje": 0.47
+                },
+                {
+                    "cantidad": 3898133.0,
+                    "desde": "2023T4",
+                    "isin": "ES0181036007",
+                    "nombre": "UNIFOND RENTA FIJA CORTO PLAZO, FI CLASE C",
                     "porcentaje": 0.47
                 },
                 {
@@ -212,37 +212,23 @@
                 },
                 {
                     "cantidad": 493306.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.22
-                },
-                {
-                    "cantidad": 493306.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.22
                 },
                 {
-                    "cantidad": 2763548.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.14
+                    "cantidad": 493306.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "porcentaje": 0.22
                 },
                 {
                     "cantidad": 2763548.0,
                     "desde": "2023T2",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 2763548.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.14
                 },
                 {
@@ -255,8 +241,22 @@
                 {
                     "cantidad": 2763548.0,
                     "desde": "2023T2",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 2763548.0,
+                    "desde": "2023T2",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.14
+                },
+                {
+                    "cantidad": 2763548.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.14
                 },
                 {
@@ -275,9 +275,9 @@
                 },
                 {
                     "cantidad": 2877652.0,
-                    "desde": "2023T2",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "desde": "2023T4",
+                    "isin": "ES0112793049",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE S",
                     "porcentaje": 0.09
                 },
                 {
@@ -303,9 +303,9 @@
                 },
                 {
                     "cantidad": 2877652.0,
-                    "desde": "2023T4",
-                    "isin": "ES0112793049",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE S",
+                    "desde": "2023T2",
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
                     "porcentaje": 0.09
                 },
                 {
@@ -325,22 +325,8 @@
                 {
                     "cantidad": 1932424.0,
                     "desde": "2023T2",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 1932424.0,
-                    "desde": "2023T2",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 1932424.0,
-                    "desde": "2023T2",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -360,8 +346,22 @@
                 {
                     "cantidad": 1932424.0,
                     "desde": "2023T2",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 1932424.0,
+                    "desde": "2023T2",
                     "isin": "ES0173829070",
                     "nombre": "SABADELL RENDIMIENTO, FI Z",
+                    "porcentaje": 0.08
+                },
+                {
+                    "cantidad": 1932424.0,
+                    "desde": "2023T2",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.08
                 },
                 {
@@ -374,20 +374,6 @@
                 {
                     "cantidad": 1931482.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 1931482.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.02
-                },
-                {
-                    "cantidad": 1931482.0,
-                    "desde": "2023T2",
                     "isin": "ES0138045028",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PREMIUM",
                     "porcentaje": 0.02
@@ -395,8 +381,8 @@
                 {
                     "cantidad": 1931482.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.02
                 },
                 {
@@ -409,6 +395,20 @@
                 {
                     "cantidad": 1931482.0,
                     "desde": "2023T2",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 1931482.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 1931482.0,
+                    "desde": "2023T2",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.02
@@ -416,8 +416,8 @@
                 {
                     "cantidad": 1931482.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.02
                 }
             ],
@@ -442,15 +442,8 @@
                 {
                     "cantidad": 191523.0,
                     "desde": "2023T2",
-                    "isin": "ES0171965009",
-                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI SIN RETRO",
-                    "porcentaje": 1.08
-                },
-                {
-                    "cantidad": 191523.0,
-                    "desde": "2023T2",
-                    "isin": "ES0171965017",
-                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI ESTÁNDAR",
+                    "isin": "ES0171965033",
+                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PREMIUM",
                     "porcentaje": 1.08
                 },
                 {
@@ -463,8 +456,15 @@
                 {
                     "cantidad": 191523.0,
                     "desde": "2023T2",
-                    "isin": "ES0171965033",
-                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI PREMIUM",
+                    "isin": "ES0171965009",
+                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI SIN RETRO",
+                    "porcentaje": 1.08
+                },
+                {
+                    "cantidad": 191523.0,
+                    "desde": "2023T2",
+                    "isin": "ES0171965017",
+                    "nombre": "CAIXABANK SI IMPACTO RENTA FIJA, FI ESTÁNDAR",
                     "porcentaje": 1.08
                 },
                 {
@@ -477,8 +477,8 @@
                 {
                     "cantidad": 10050429.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.99
                 },
                 {
@@ -491,8 +491,8 @@
                 {
                     "cantidad": 10050429.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.99
                 },
                 {
@@ -540,23 +540,16 @@
                 {
                     "cantidad": 780504.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
-                    "porcentaje": 0.49
-                },
-                {
-                    "cantidad": 780504.0,
-                    "desde": "2020T3",
                     "isin": "ES0113608014",
                     "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.49
                 },
                 {
-                    "cantidad": 8807791.0,
-                    "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.48
+                    "cantidad": 780504.0,
+                    "desde": "2020T3",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "porcentaje": 0.49
                 },
                 {
                     "cantidad": 8807791.0,
@@ -566,11 +559,11 @@
                     "porcentaje": 0.48
                 },
                 {
-                    "cantidad": 484463.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.2
+                    "cantidad": 8807791.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.48
                 },
                 {
                     "cantidad": 484463.0,
@@ -580,24 +573,17 @@
                     "porcentaje": 0.2
                 },
                 {
-                    "cantidad": 2759147.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138534005",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
-                    "porcentaje": 0.15
+                    "cantidad": 484463.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "porcentaje": 0.2
                 },
                 {
                     "cantidad": 2759147.0,
                     "desde": "2023T2",
                     "isin": "ES0138534021",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE B",
-                    "porcentaje": 0.15
-                },
-                {
-                    "cantidad": 2759147.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138534039",
-                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.15
                 },
                 {
@@ -610,8 +596,22 @@
                 {
                     "cantidad": 2759147.0,
                     "desde": "2023T2",
+                    "isin": "ES0138534005",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE A",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 2759147.0,
+                    "desde": "2023T2",
                     "isin": "ES0138534054",
                     "nombre": "SANTANDER RENDIMIENTO, FI CLASE CARTERA",
+                    "porcentaje": 0.15
+                },
+                {
+                    "cantidad": 2759147.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138534039",
+                    "nombre": "SANTANDER RENDIMIENTO, FI CLASE C",
                     "porcentaje": 0.15
                 },
                 {
@@ -631,22 +631,8 @@
                 {
                     "cantidad": 1930583.0,
                     "desde": "2023T2",
-                    "isin": "ES0173829021",
-                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 1930583.0,
-                    "desde": "2023T2",
                     "isin": "ES0173829039",
                     "nombre": "SABADELL RENDIMIENTO, FI BASE",
-                    "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 1930583.0,
-                    "desde": "2023T2",
-                    "isin": "ES0173829047",
-                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.1
                 },
                 {
@@ -666,8 +652,22 @@
                 {
                     "cantidad": 1930583.0,
                     "desde": "2023T2",
+                    "isin": "ES0173829021",
+                    "nombre": "SABADELL RENDIMIENTO, FI EMPRESA",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 1930583.0,
+                    "desde": "2023T2",
                     "isin": "ES0173829070",
                     "nombre": "SABADELL RENDIMIENTO, FI Z",
+                    "porcentaje": 0.1
+                },
+                {
+                    "cantidad": 1930583.0,
+                    "desde": "2023T2",
+                    "isin": "ES0173829047",
+                    "nombre": "SABADELL RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.1
                 },
                 {
@@ -676,13 +676,6 @@
                     "isin": "ES0173829088",
                     "nombre": "SABADELL RENDIMIENTO, FI SUPERIOR",
                     "porcentaje": 0.1
-                },
-                {
-                    "cantidad": 1436548.0,
-                    "desde": "2023T2",
-                    "isin": "ES0112793007",
-                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
-                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 1436548.0,
@@ -699,18 +692,11 @@
                     "porcentaje": 0.09
                 },
                 {
-                    "cantidad": 1930039.0,
+                    "cantidad": 1436548.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045002",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
-                    "porcentaje": 0.03
-                },
-                {
-                    "cantidad": 1930039.0,
-                    "desde": "2023T2",
-                    "isin": "ES0138045010",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
-                    "porcentaje": 0.03
+                    "isin": "ES0112793007",
+                    "nombre": "SANTANDER RF AHORRO, FI CLASE A",
+                    "porcentaje": 0.09
                 },
                 {
                     "cantidad": 1930039.0,
@@ -722,8 +708,8 @@
                 {
                     "cantidad": 1930039.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045036",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "isin": "ES0138045069",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
                     "porcentaje": 0.03
                 },
                 {
@@ -736,6 +722,20 @@
                 {
                     "cantidad": 1930039.0,
                     "desde": "2023T2",
+                    "isin": "ES0138045002",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI ESTÁNDAR",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1930039.0,
+                    "desde": "2023T2",
+                    "isin": "ES0138045036",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLATINUM",
+                    "porcentaje": 0.03
+                },
+                {
+                    "cantidad": 1930039.0,
+                    "desde": "2023T2",
                     "isin": "ES0138045051",
                     "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI INSTITUCIONAL",
                     "porcentaje": 0.03
@@ -743,8 +743,8 @@
                 {
                     "cantidad": 1930039.0,
                     "desde": "2023T2",
-                    "isin": "ES0138045069",
-                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI REPARTO",
+                    "isin": "ES0138045010",
+                    "nombre": "CAIXABANK MONETARIO RENDIMIENTO, FI PLUS",
                     "porcentaje": 0.03
                 }
             ],
@@ -769,15 +769,15 @@
                 {
                     "cantidad": 774004.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.69
                 },
                 {
                     "cantidad": 774004.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.69
                 },
                 {
@@ -797,15 +797,15 @@
                 {
                     "cantidad": 8729415.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.53
                 },
                 {
                     "cantidad": 8729415.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.53
                 },
                 {
@@ -832,8 +832,8 @@
                 {
                     "cantidad": 5268317.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.44
                 },
                 {
@@ -846,22 +846,22 @@
                 {
                     "cantidad": 5268317.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.44
-                },
-                {
-                    "cantidad": 481244.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.21
                 },
                 {
                     "cantidad": 481244.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 481244.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.21
                 }
             ],
@@ -886,15 +886,15 @@
                 {
                     "cantidad": 768913.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.73
                 },
                 {
                     "cantidad": 768913.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.73
                 },
                 {
@@ -914,15 +914,15 @@
                 {
                     "cantidad": 8669469.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.54
                 },
                 {
                     "cantidad": 8669469.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.54
                 },
                 {
@@ -949,8 +949,8 @@
                 {
                     "cantidad": 5252981.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102018",
-                    "nombre": "IBERCAJA PLUS, FI CLASE D",
+                    "isin": "ES0147102042",
+                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
                     "porcentaje": 0.41
                 },
                 {
@@ -963,22 +963,22 @@
                 {
                     "cantidad": 5252981.0,
                     "desde": "2022T3",
-                    "isin": "ES0147102042",
-                    "nombre": "IBERCAJA PLUS, FI CLASE DIN",
+                    "isin": "ES0147102018",
+                    "nombre": "IBERCAJA PLUS, FI CLASE D",
                     "porcentaje": 0.41
-                },
-                {
-                    "cantidad": 478000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.21
                 },
                 {
                     "cantidad": 478000.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "porcentaje": 0.21
+                },
+                {
+                    "cantidad": 478000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.21
                 }
             ],
@@ -989,15 +989,15 @@
                 {
                     "cantidad": 779229.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.7
                 },
                 {
                     "cantidad": 779229.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.7
                 },
                 {
@@ -1017,15 +1017,15 @@
                 {
                     "cantidad": 8782863.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.55
                 },
                 {
                     "cantidad": 8782863.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.55
                 },
                 {
@@ -1044,16 +1044,16 @@
                 },
                 {
                     "cantidad": 485000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0138901030",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.2
                 },
                 {
                     "cantidad": 485000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.2
                 }
             ],
@@ -1064,29 +1064,29 @@
                 {
                     "cantidad": 798232.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
-                    "porcentaje": 0.67
-                },
-                {
-                    "cantidad": 798232.0,
-                    "desde": "2020T3",
                     "isin": "ES0113608014",
                     "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.67
                 },
                 {
-                    "cantidad": 8994008.0,
-                    "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.58
+                    "cantidad": 798232.0,
+                    "desde": "2020T3",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "porcentaje": 0.67
                 },
                 {
                     "cantidad": 8994008.0,
                     "desde": "2020T4",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 8994008.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.58
                 },
                 {
@@ -1140,16 +1140,16 @@
                 },
                 {
                     "cantidad": 497000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0138901030",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.19
                 },
                 {
                     "cantidad": 497000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.19
                 }
             ],
@@ -1160,23 +1160,16 @@
                 {
                     "cantidad": 9154940.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.57
-                },
-                {
-                    "cantidad": 9154940.0,
-                    "desde": "2020T4",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.57
                 },
                 {
-                    "cantidad": 812770.0,
-                    "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
-                    "porcentaje": 0.54
+                    "cantidad": 9154940.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.57
                 },
                 {
                     "cantidad": 812770.0,
@@ -1186,17 +1179,17 @@
                     "porcentaje": 0.54
                 },
                 {
+                    "cantidad": 812770.0,
+                    "desde": "2020T3",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "porcentaje": 0.54
+                },
+                {
                     "cantidad": 1419000.0,
                     "desde": "2019T2",
                     "isin": "ES0138709003",
                     "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE C",
-                    "porcentaje": 0.51
-                },
-                {
-                    "cantidad": 1419000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138709037",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
                     "porcentaje": 0.51
                 },
                 {
@@ -1214,17 +1207,24 @@
                     "porcentaje": 0.51
                 },
                 {
-                    "cantidad": 507000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
-                    "porcentaje": 0.17
+                    "cantidad": 1419000.0,
+                    "desde": "2021T3",
+                    "isin": "ES0138709037",
+                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE R",
+                    "porcentaje": 0.51
                 },
                 {
                     "cantidad": 507000.0,
                     "desde": "2021T3",
                     "isin": "ES0138901030",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 507000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.17
                 }
             ],
@@ -1242,15 +1242,15 @@
                 {
                     "cantidad": 9182031.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.57
                 },
                 {
                     "cantidad": 9182031.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.57
                 },
                 {
@@ -1298,15 +1298,15 @@
                 {
                     "cantidad": 815415.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.42
                 },
                 {
                     "cantidad": 815415.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.42
                 },
                 {
@@ -1318,16 +1318,16 @@
                 },
                 {
                     "cantidad": 509000.0,
-                    "desde": "2019T2",
-                    "isin": "ES0138901006",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
+                    "desde": "2021T3",
+                    "isin": "ES0138901030",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
                     "porcentaje": 0.17
                 },
                 {
                     "cantidad": 509000.0,
-                    "desde": "2021T3",
-                    "isin": "ES0138901030",
-                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE R",
+                    "desde": "2019T2",
+                    "isin": "ES0138901006",
+                    "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.17
                 }
             ],
@@ -1352,15 +1352,15 @@
                 {
                     "cantidad": 9175551.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "isin": "ES0138986031",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
                     "porcentaje": 0.58
                 },
                 {
                     "cantidad": 9175551.0,
                     "desde": "2020T4",
-                    "isin": "ES0138986031",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.58
                 },
                 {
@@ -1394,15 +1394,15 @@
                 {
                     "cantidad": 815077.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.4
                 },
                 {
                     "cantidad": 815077.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.4
                 },
                 {
@@ -1418,6 +1418,20 @@
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T2",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.0
+                },
+                {
+                    "cantidad": 0.0,
+                    "desde": "2019T2",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
@@ -1443,13 +1457,6 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
@@ -1457,15 +1464,8 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
-                    "porcentaje": 0.0
-                },
-                {
-                    "cantidad": 0.0,
-                    "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -1476,22 +1476,15 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146058",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 203000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146009",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI BASE",
-                    "porcentaje": 1.09
-                },
-                {
-                    "cantidad": 203000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146017",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
-                    "porcentaje": 1.09
-                },
-                {
-                    "cantidad": 203000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146025",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
                     "porcentaje": 1.09
                 },
                 {
@@ -1504,6 +1497,13 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146025",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
+                    "porcentaje": 1.09
+                },
+                {
+                    "cantidad": 203000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146041",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI EMPRESA",
                     "porcentaje": 1.09
@@ -1511,8 +1511,8 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
-                    "isin": "ES0111146058",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "isin": "ES0111146017",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
                     "porcentaje": 1.09
                 },
                 {
@@ -1525,23 +1525,16 @@
                 {
                     "cantidad": 305000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 305000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.72
                 },
                 {
-                    "cantidad": 203124.0,
+                    "cantidad": 305000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.61
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.72
                 },
                 {
                     "cantidad": 203124.0,
@@ -1551,17 +1544,24 @@
                     "porcentaje": 0.61
                 },
                 {
-                    "cantidad": 9164312.0,
-                    "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.59
+                    "cantidad": 203124.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
+                    "porcentaje": 0.61
                 },
                 {
                     "cantidad": 9164312.0,
                     "desde": "2020T4",
                     "isin": "ES0138986031",
                     "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE A",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 9164312.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
                     "porcentaje": 0.59
                 },
                 {
@@ -1602,15 +1602,15 @@
                 {
                     "cantidad": 814313.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 814313.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.33
                 },
                 {
@@ -1665,15 +1665,15 @@
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.0
                 },
                 {
                     "cantidad": 0.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.0
                 }
             ],
@@ -1684,22 +1684,15 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146058",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 203000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146009",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI BASE",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 203000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146017",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 203000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146025",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
                     "porcentaje": 1.0
                 },
                 {
@@ -1712,6 +1705,13 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146025",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 203000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146041",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI EMPRESA",
                     "porcentaje": 1.0
@@ -1719,8 +1719,8 @@
                 {
                     "cantidad": 203000.0,
                     "desde": "2020T2",
-                    "isin": "ES0111146058",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "isin": "ES0111146017",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
                     "porcentaje": 1.0
                 },
                 {
@@ -1733,23 +1733,16 @@
                 {
                     "cantidad": 306000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.76
-                },
-                {
-                    "cantidad": 306000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.76
                 },
                 {
-                    "cantidad": 9184132.0,
-                    "desde": "2020T4",
-                    "isin": "ES0138986007",
-                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
-                    "porcentaje": 0.62
+                    "cantidad": 306000.0,
+                    "desde": "2019T2",
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.76
                 },
                 {
                     "cantidad": 9184132.0,
@@ -1759,17 +1752,24 @@
                     "porcentaje": 0.62
                 },
                 {
-                    "cantidad": 203766.0,
-                    "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.6
+                    "cantidad": 9184132.0,
+                    "desde": "2020T4",
+                    "isin": "ES0138986007",
+                    "nombre": "SANTANDER SOSTENIBLE RENTA FIJA AHORRO, FI CLASE CARTERA",
+                    "porcentaje": 0.62
                 },
                 {
                     "cantidad": 203766.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 203766.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.6
                 },
                 {
@@ -1796,15 +1796,15 @@
                 {
                     "cantidad": 101883.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.37
                 },
                 {
                     "cantidad": 101883.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.37
                 },
                 {
@@ -1824,15 +1824,15 @@
                 {
                     "cantidad": 816308.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.33
                 },
                 {
                     "cantidad": 816308.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.33
                 },
                 {
@@ -1899,22 +1899,15 @@
                 {
                     "cantidad": 202000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146058",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 202000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146009",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI BASE",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 202000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146017",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
-                    "porcentaje": 1.0
-                },
-                {
-                    "cantidad": 202000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146025",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
                     "porcentaje": 1.0
                 },
                 {
@@ -1927,6 +1920,13 @@
                 {
                     "cantidad": 202000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146025",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
+                    "porcentaje": 1.0
+                },
+                {
+                    "cantidad": 202000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146041",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI EMPRESA",
                     "porcentaje": 1.0
@@ -1934,8 +1934,8 @@
                 {
                     "cantidad": 202000.0,
                     "desde": "2020T2",
-                    "isin": "ES0111146058",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "isin": "ES0111146017",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
                     "porcentaje": 1.0
                 },
                 {
@@ -1948,29 +1948,29 @@
                 {
                     "cantidad": 304000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.73
-                },
-                {
-                    "cantidad": 304000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.73
                 },
                 {
-                    "cantidad": 202344.0,
+                    "cantidad": 304000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.59
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.73
                 },
                 {
                     "cantidad": 202344.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.59
+                },
+                {
+                    "cantidad": 202344.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.59
                 },
                 {
@@ -1990,15 +1990,15 @@
                 {
                     "cantidad": 101172.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.4
                 },
                 {
                     "cantidad": 101172.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.4
                 },
                 {
@@ -2018,15 +2018,15 @@
                 {
                     "cantidad": 303895.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608006",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
+                    "isin": "ES0113608014",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
                     "porcentaje": 0.3
                 },
                 {
                     "cantidad": 303895.0,
                     "desde": "2020T3",
-                    "isin": "ES0113608014",
-                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE CARTERA",
+                    "isin": "ES0113608006",
+                    "nombre": "SANTANDER SOSTENIBLE BONOS, FI CLASE A",
                     "porcentaje": 0.3
                 },
                 {
@@ -2086,22 +2086,15 @@
                 {
                     "cantidad": 199000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146058",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 199000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146009",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI BASE",
-                    "porcentaje": 1.16
-                },
-                {
-                    "cantidad": 199000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146017",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
-                    "porcentaje": 1.16
-                },
-                {
-                    "cantidad": 199000.0,
-                    "desde": "2020T2",
-                    "isin": "ES0111146025",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
                     "porcentaje": 1.16
                 },
                 {
@@ -2114,6 +2107,13 @@
                 {
                     "cantidad": 199000.0,
                     "desde": "2020T2",
+                    "isin": "ES0111146025",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PREMIER",
+                    "porcentaje": 1.16
+                },
+                {
+                    "cantidad": 199000.0,
+                    "desde": "2020T2",
                     "isin": "ES0111146041",
                     "nombre": "SABADELL BONOS ALTO INTERES, FI EMPRESA",
                     "porcentaje": 1.16
@@ -2121,8 +2121,8 @@
                 {
                     "cantidad": 199000.0,
                     "desde": "2020T2",
-                    "isin": "ES0111146058",
-                    "nombre": "SABADELL BONOS ALTO INTERES, FI PYME",
+                    "isin": "ES0111146017",
+                    "nombre": "SABADELL BONOS ALTO INTERES, FI PLUS",
                     "porcentaje": 1.16
                 },
                 {
@@ -2142,29 +2142,29 @@
                 {
                     "cantidad": 301000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.69
-                },
-                {
-                    "cantidad": 301000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.69
                 },
                 {
-                    "cantidad": 199712.0,
+                    "cantidad": 301000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.6
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.69
                 },
                 {
                     "cantidad": 199712.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.6
+                },
+                {
+                    "cantidad": 199712.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.6
                 },
                 {
@@ -2184,15 +2184,15 @@
                 {
                     "cantidad": 99856.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.39
                 },
                 {
                     "cantidad": 99856.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.39
                 },
                 {
@@ -2280,29 +2280,29 @@
                 {
                     "cantidad": 283000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.64
-                },
-                {
-                    "cantidad": 283000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.64
                 },
                 {
-                    "cantidad": 187626.0,
+                    "cantidad": 283000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.58
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.64
                 },
                 {
                     "cantidad": 187626.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 187626.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.58
                 },
                 {
@@ -2320,13 +2320,6 @@
                     "porcentaje": 0.43
                 },
                 {
-                    "cantidad": 772314.0,
-                    "desde": "2019T2",
-                    "isin": "ES0114837034",
-                    "nombre": "BANKINTER RENTA FIJA LARGO PLAZO, FI CLASE R",
-                    "porcentaje": 0.43
-                },
-                {
                     "cantidad": 1320000.0,
                     "desde": "2019T2",
                     "isin": "ES0138709003",
@@ -2334,11 +2327,11 @@
                     "porcentaje": 0.43
                 },
                 {
-                    "cantidad": 93813.0,
+                    "cantidad": 772314.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
-                    "porcentaje": 0.37
+                    "isin": "ES0114837034",
+                    "nombre": "BANKINTER RENTA FIJA LARGO PLAZO, FI CLASE R",
+                    "porcentaje": 0.43
                 },
                 {
                     "cantidad": 93813.0,
@@ -2348,11 +2341,25 @@
                     "porcentaje": 0.37
                 },
                 {
+                    "cantidad": 93813.0,
+                    "desde": "2019T2",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "porcentaje": 0.37
+                },
+                {
                     "cantidad": 471000.0,
                     "desde": "2019T2",
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.19
+                },
+                {
+                    "cantidad": 207431.0,
+                    "desde": "2019T2",
+                    "isin": "ES0152747004",
+                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.16
                 },
                 {
                     "cantidad": 1970073.0,
@@ -2373,13 +2380,6 @@
                     "desde": "2019T2",
                     "isin": "ES0147507034",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE UNIVERSAL",
-                    "porcentaje": 0.16
-                },
-                {
-                    "cantidad": 207431.0,
-                    "desde": "2019T2",
-                    "isin": "ES0152747004",
-                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
                     "porcentaje": 0.16
                 },
                 {
@@ -2418,29 +2418,29 @@
                 {
                     "cantidad": 302000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.66
-                },
-                {
-                    "cantidad": 302000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.66
                 },
                 {
-                    "cantidad": 200900.0,
+                    "cantidad": 302000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.58
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.66
                 },
                 {
                     "cantidad": 200900.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.58
+                },
+                {
+                    "cantidad": 200900.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.58
                 },
                 {
@@ -2465,10 +2465,10 @@
                     "porcentaje": 0.44
                 },
                 {
-                    "cantidad": 1409000.0,
+                    "cantidad": 100450.0,
                     "desde": "2019T2",
-                    "isin": "ES0138709003",
-                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE C",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.39
                 },
                 {
@@ -2479,10 +2479,10 @@
                     "porcentaje": 0.39
                 },
                 {
-                    "cantidad": 100450.0,
+                    "cantidad": 1409000.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0138709003",
+                    "nombre": "FONDMAPFRE RENTA MIXTO, FI CLASE C",
                     "porcentaje": 0.39
                 },
                 {
@@ -2556,29 +2556,29 @@
                 {
                     "cantidad": 304000.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.63
-                },
-                {
-                    "cantidad": 304000.0,
-                    "desde": "2019T2",
                     "isin": "ES0138903036",
                     "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE R",
                     "porcentaje": 0.63
                 },
                 {
-                    "cantidad": 202454.0,
+                    "cantidad": 304000.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.57
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.63
                 },
                 {
                     "cantidad": 202454.0,
                     "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.57
+                },
+                {
+                    "cantidad": 202454.0,
+                    "desde": "2019T2",
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
                     "porcentaje": 0.57
                 },
                 {
@@ -2605,15 +2605,15 @@
                 {
                     "cantidad": 101227.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
+                    "isin": "ES0173441033",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
                     "porcentaje": 0.4
                 },
                 {
                     "cantidad": 101227.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441033",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.4
                 },
                 {
@@ -2629,6 +2629,13 @@
                     "isin": "ES0138901006",
                     "nombre": "FONDMAPFRE BOLSA MIXTO, FI CLASE C",
                     "porcentaje": 0.17
+                },
+                {
+                    "cantidad": 223031.0,
+                    "desde": "2019T2",
+                    "isin": "ES0152747004",
+                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
+                    "porcentaje": 0.14
                 },
                 {
                     "cantidad": 2125767.0,
@@ -2649,13 +2656,6 @@
                     "desde": "2019T2",
                     "isin": "ES0147507034",
                     "nombre": "CAIXABANK DURACION FLEXIBLE 0-2, FI CLASE UNIVERSAL",
-                    "porcentaje": 0.14
-                },
-                {
-                    "cantidad": 223031.0,
-                    "desde": "2019T2",
-                    "isin": "ES0152747004",
-                    "nombre": "ING DIRECT FONDO NARANJA CONSERVADOR, FI",
                     "porcentaje": 0.14
                 },
                 {
@@ -2694,23 +2694,16 @@
                 {
                     "cantidad": 201118.0,
                     "desde": "2019T2",
-                    "isin": "ES0158178006",
-                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
-                    "porcentaje": 0.57
-                },
-                {
-                    "cantidad": 201118.0,
-                    "desde": "2019T2",
                     "isin": "ES0158178030",
                     "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE UNIVERSAL",
                     "porcentaje": 0.57
                 },
                 {
-                    "cantidad": 302000.0,
+                    "cantidad": 201118.0,
                     "desde": "2019T2",
-                    "isin": "ES0138903002",
-                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
-                    "porcentaje": 0.52
+                    "isin": "ES0158178006",
+                    "nombre": "CAIXABANK RENTA FIJA LARGO PLAZO, FI CLASE CARTERA",
+                    "porcentaje": 0.57
                 },
                 {
                     "cantidad": 302000.0,
@@ -2720,17 +2713,24 @@
                     "porcentaje": 0.52
                 },
                 {
-                    "cantidad": 100559.0,
+                    "cantidad": 302000.0,
                     "desde": "2019T2",
-                    "isin": "ES0173441009",
-                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
-                    "porcentaje": 0.49
+                    "isin": "ES0138903002",
+                    "nombre": "FONDMAPFRE RENTA MEDIO, FI CLASE C",
+                    "porcentaje": 0.52
                 },
                 {
                     "cantidad": 100559.0,
                     "desde": "2019T2",
                     "isin": "ES0173441033",
                     "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE UNIVERSAL",
+                    "porcentaje": 0.49
+                },
+                {
+                    "cantidad": 100559.0,
+                    "desde": "2019T2",
+                    "isin": "ES0173441009",
+                    "nombre": "CAIXABANK BONOS DURACION FLEXIBLE, FI CLASE CARTERA",
                     "porcentaje": 0.49
                 },
                 {
@@ -2815,5 +2815,5 @@
         }
     ],
     "isin": "XS1998025008",
-    "nombre": "BONO|SUMIT MIT FINAN GROU|0,47|2024-05-30"
+    "nombre": "BONO|SUMITOMO BANK|0,47|2024-05-30"
 }

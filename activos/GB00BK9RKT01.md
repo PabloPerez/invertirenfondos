@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: ACCIONES|Travis Perkins
+title: ACCIONES|TRAVIS PERKINS PLC
 isin: GB00BK9RKT01
 ---

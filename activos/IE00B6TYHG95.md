@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|WELLINGTON MANAGEMENT CO LLP
+title: PARTICIPACIONES|Wellington Strategic
 isin: IE00B6TYHG95
 ---

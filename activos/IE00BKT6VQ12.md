@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES CHINA CNY
+title: PARTICIPACIONES|iShares China CNY Bo
 isin: IE00BKT6VQ12
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES USD TRES 20PLUS
+title: PARTICIPACIONES|iShares USD Treasury
 isin: IE00BFM6TC58
 ---

@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|BURFORD CAPITAL
+title: ACCIONES|Burford Capital
 isin: GG00BMGYLN96
 ---

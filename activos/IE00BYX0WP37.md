@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|Muzinich Funds - Long Short Cr
+title: Participaciones|MUZINICH FUNDS LO SH H EUR
 isin: IE00BYX0WP37
 ---

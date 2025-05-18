@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC Wellington Enduring A S (EUR) A
+title: PARTICIPACIONES|Well End Asst-S Unh
 isin: IE00BJ7HNK78
 ---

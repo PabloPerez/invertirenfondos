@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|SPDR
+title: ETF|SPDR MSCI EUROPE CON
 isin: IE00BKWQ0D84
 ---

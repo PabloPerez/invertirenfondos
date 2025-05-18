@@ -33,6 +33,20 @@
                 {
                     "cantidad": 481272.0,
                     "desde": "2024T4",
+                    "isin": "ES0182543027",
+                    "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI PREMIER",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 481272.0,
+                    "desde": "2024T4",
+                    "isin": "ES0182543050",
+                    "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI CARTERA",
+                    "porcentaje": 0.55
+                },
+                {
+                    "cantidad": 481272.0,
+                    "desde": "2024T4",
                     "isin": "ES0182543001",
                     "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI BASE",
                     "porcentaje": 0.55
@@ -47,13 +61,6 @@
                 {
                     "cantidad": 481272.0,
                     "desde": "2024T4",
-                    "isin": "ES0182543027",
-                    "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI PREMIER",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 481272.0,
-                    "desde": "2024T4",
                     "isin": "ES0182543035",
                     "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI PLUS",
                     "porcentaje": 0.55
@@ -63,13 +70,6 @@
                     "desde": "2024T4",
                     "isin": "ES0182543043",
                     "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI EMPRESA",
-                    "porcentaje": 0.55
-                },
-                {
-                    "cantidad": 481272.0,
-                    "desde": "2024T4",
-                    "isin": "ES0182543050",
-                    "nombre": "SABADELL INVERSION ETICA Y SOLIDARIA, FI CARTERA",
                     "porcentaje": 0.55
                 },
                 {
@@ -217,14 +217,14 @@
                     "cantidad": 1128000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.92
                 },
                 {
                     "cantidad": 1128000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.92
                 },
                 {
@@ -279,8 +279,15 @@
                 {
                     "cantidad": 3511313.0,
                     "desde": "2022T4",
-                    "isin": "ES0174403008",
-                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
+                    "isin": "ES0174403040",
+                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
+                    "porcentaje": 0.34
+                },
+                {
+                    "cantidad": 3511313.0,
+                    "desde": "2022T4",
+                    "isin": "ES0174403057",
+                    "nombre": "SABADELL INTERES EURO, FI PYME",
                     "porcentaje": 0.34
                 },
                 {
@@ -307,22 +314,15 @@
                 {
                     "cantidad": 3511313.0,
                     "desde": "2022T4",
-                    "isin": "ES0174403040",
-                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
-                    "porcentaje": 0.34
-                },
-                {
-                    "cantidad": 3511313.0,
-                    "desde": "2022T4",
-                    "isin": "ES0174403057",
-                    "nombre": "SABADELL INTERES EURO, FI PYME",
+                    "isin": "ES0174403008",
+                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
                     "porcentaje": 0.34
                 },
                 {
                     "cantidad": 177000.0,
                     "desde": "2023T2",
                     "isin": "ES0114205034",
-                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI CLASE A",
                     "porcentaje": 0.24
                 },
                 {
@@ -335,15 +335,15 @@
                 {
                     "cantidad": 2364000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.16
                 },
                 {
                     "cantidad": 2364000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.16
                 },
                 {
@@ -368,17 +368,17 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 1642000.0,
-                    "desde": "2022T4",
-                    "isin": "ES0172242002",
-                    "nombre": "QUALITY INVERSION MODERADA, FI",
-                    "porcentaje": 0.02
-                },
-                {
                     "cantidad": 1601000.0,
                     "desde": "2022T4",
                     "isin": "ES0172273007",
                     "nombre": "QUALITY INVERSION CONSERVADORA, FI",
+                    "porcentaje": 0.02
+                },
+                {
+                    "cantidad": 1642000.0,
+                    "desde": "2022T4",
+                    "isin": "ES0172242002",
+                    "nombre": "QUALITY INVERSION MODERADA, FI",
                     "porcentaje": 0.02
                 },
                 {
@@ -418,21 +418,28 @@
                     "cantidad": 1105000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.88
                 },
                 {
                     "cantidad": 1105000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.88
                 },
                 {
                     "cantidad": 7854420.0,
                     "desde": "2022T4",
-                    "isin": "ES0174403008",
-                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
+                    "isin": "ES0174403040",
+                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
+                    "porcentaje": 0.72
+                },
+                {
+                    "cantidad": 7854420.0,
+                    "desde": "2022T4",
+                    "isin": "ES0174403057",
+                    "nombre": "SABADELL INTERES EURO, FI PYME",
                     "porcentaje": 0.72
                 },
                 {
@@ -459,15 +466,8 @@
                 {
                     "cantidad": 7854420.0,
                     "desde": "2022T4",
-                    "isin": "ES0174403040",
-                    "nombre": "SABADELL INTERES EURO, FI PREMIER",
-                    "porcentaje": 0.72
-                },
-                {
-                    "cantidad": 7854420.0,
-                    "desde": "2022T4",
-                    "isin": "ES0174403057",
-                    "nombre": "SABADELL INTERES EURO, FI PYME",
+                    "isin": "ES0174403008",
+                    "nombre": "SABADELL INTERES EURO, FI CARTERA",
                     "porcentaje": 0.72
                 },
                 {
@@ -508,15 +508,15 @@
                 {
                     "cantidad": 2122000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.12
                 },
                 {
                     "cantidad": 2122000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.12
                 },
                 {
@@ -534,10 +534,10 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 518000.0,
+                    "cantidad": 1732000.0,
                     "desde": "2022T4",
-                    "isin": "ES0114279039",
-                    "nombre": "BBVA FUTURO ISR, FI CLASE A",
+                    "isin": "ES0172273007",
+                    "nombre": "QUALITY INVERSION CONSERVADORA, FI",
                     "porcentaje": 0.02
                 },
                 {
@@ -548,10 +548,10 @@
                     "porcentaje": 0.02
                 },
                 {
-                    "cantidad": 1732000.0,
+                    "cantidad": 518000.0,
                     "desde": "2022T4",
-                    "isin": "ES0172273007",
-                    "nombre": "QUALITY INVERSION CONSERVADORA, FI",
+                    "isin": "ES0114279039",
+                    "nombre": "BBVA FUTURO ISR, FI CLASE A",
                     "porcentaje": 0.02
                 },
                 {
@@ -577,7 +577,7 @@
                     "cantidad": 1105000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.87
                 },
                 {
@@ -611,15 +611,15 @@
                 {
                     "cantidad": 1365000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 1365000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.08
                 }
             ],
@@ -631,21 +631,21 @@
                     "cantidad": 1144000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.86
-                },
-                {
-                    "cantidad": 912920.0,
-                    "desde": "2021T2",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
-                    "porcentaje": 0.85
                 },
                 {
                     "cantidad": 912920.0,
                     "desde": "2021T2",
                     "isin": "ES0115532030",
                     "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "porcentaje": 0.85
+                },
+                {
+                    "cantidad": 912920.0,
+                    "desde": "2021T2",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 0.85
                 },
                 {
@@ -679,15 +679,15 @@
                 {
                     "cantidad": 1415000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.08
                 },
                 {
                     "cantidad": 1415000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.08
                 }
             ],
@@ -699,21 +699,21 @@
                     "cantidad": 1196000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.82
-                },
-                {
-                    "cantidad": 952307.0,
-                    "desde": "2021T2",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
-                    "porcentaje": 0.8
                 },
                 {
                     "cantidad": 952307.0,
                     "desde": "2021T2",
                     "isin": "ES0115532030",
                     "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "porcentaje": 0.8
+                },
+                {
+                    "cantidad": 952307.0,
+                    "desde": "2021T2",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 0.8
                 },
                 {
@@ -747,15 +747,15 @@
                 {
                     "cantidad": 1376000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.07
                 },
                 {
                     "cantidad": 1376000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.07
                 }
             ],
@@ -767,7 +767,7 @@
                     "cantidad": 587000.0,
                     "desde": "2021T2",
                     "isin": "ES0114205034",
-                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI CLASE A",
                     "porcentaje": 1.19
                 },
                 {
@@ -788,21 +788,21 @@
                     "cantidad": 1251000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.8
-                },
-                {
-                    "cantidad": 996133.0,
-                    "desde": "2021T2",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
-                    "porcentaje": 0.76
                 },
                 {
                     "cantidad": 996133.0,
                     "desde": "2021T2",
                     "isin": "ES0115532030",
                     "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "porcentaje": 0.76
+                },
+                {
+                    "cantidad": 996133.0,
+                    "desde": "2021T2",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 0.76
                 },
                 {
@@ -836,15 +836,15 @@
                 {
                     "cantidad": 970000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396009",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
                     "porcentaje": 0.07
                 },
                 {
                     "cantidad": 970000.0,
                     "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "isin": "ES0179396009",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.07
                 }
             ],
@@ -856,15 +856,8 @@
                     "cantidad": 591000.0,
                     "desde": "2021T2",
                     "isin": "ES0114205034",
-                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI CLASE A",
                     "porcentaje": 1.08
-                },
-                {
-                    "cantidad": 1003070.0,
-                    "desde": "2021T2",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
-                    "porcentaje": 0.77
                 },
                 {
                     "cantidad": 1003070.0,
@@ -874,10 +867,17 @@
                     "porcentaje": 0.77
                 },
                 {
+                    "cantidad": 1003070.0,
+                    "desde": "2021T2",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "porcentaje": 0.77
+                },
+                {
                     "cantidad": 1260000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.76
                 },
                 {
@@ -916,6 +916,13 @@
                     "porcentaje": 0.13
                 },
                 {
+                    "cantidad": 977000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "porcentaje": 0.08
+                },
+                {
                     "cantidad": 271000.0,
                     "desde": "2021T2",
                     "isin": "ES0110174036",
@@ -928,13 +935,6 @@
                     "isin": "ES0179396009",
                     "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.08
-                },
-                {
-                    "cantidad": 977000.0,
-                    "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
-                    "porcentaje": 0.08
                 }
             ],
             "periodo": "2021T3"
@@ -945,7 +945,7 @@
                     "cantidad": 591000.0,
                     "desde": "2021T2",
                     "isin": "ES0114205034",
-                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS LARGO PLAZO, FI CLASE A",
                     "porcentaje": 1.02
                 },
                 {
@@ -965,22 +965,22 @@
                 {
                     "cantidad": 1003218.0,
                     "desde": "2021T2",
-                    "isin": "ES0115532006",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
+                    "isin": "ES0115532030",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
                     "porcentaje": 0.78
                 },
                 {
                     "cantidad": 1003218.0,
                     "desde": "2021T2",
-                    "isin": "ES0115532030",
-                    "nombre": "CAJA INGENIEROS PREMIER, FI A",
+                    "isin": "ES0115532006",
+                    "nombre": "CAJA INGENIEROS PREMIER, FI I",
                     "porcentaje": 0.78
                 },
                 {
                     "cantidad": 1261000.0,
                     "desde": "2021T2",
                     "isin": "ES0113278008",
-                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI",
+                    "nombre": "BBVA BONOS CORPORATIVOS DURACION CUBIERTA, FI CLASE A",
                     "porcentaje": 0.74
                 },
                 {
@@ -1005,6 +1005,13 @@
                     "porcentaje": 0.15
                 },
                 {
+                    "cantidad": 1432000.0,
+                    "desde": "2021T2",
+                    "isin": "ES0179396017",
+                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
+                    "porcentaje": 0.12
+                },
+                {
                     "cantidad": 100000.0,
                     "desde": "2021T2",
                     "isin": "ES0108926033",
@@ -1017,18 +1024,11 @@
                     "isin": "ES0179396009",
                     "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE A",
                     "porcentaje": 0.12
-                },
-                {
-                    "cantidad": 1432000.0,
-                    "desde": "2021T2",
-                    "isin": "ES0179396017",
-                    "nombre": "BBVA BONOS INTERNACIONAL FLEXIBLE 0-3, FI CLASE CARTERA",
-                    "porcentaje": 0.12
                 }
             ],
             "periodo": "2021T2"
         }
     ],
     "isin": "DK0030485271",
-    "nombre": "BONO|EURONEXT NV|0,13|2026-02-17"
+    "nombre": "RENTA FIJA|EURONEXT NV|0,13|2026-05-17"
 }

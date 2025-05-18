@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Participaciones|HERMES INVESTMENT MANAGEMENT
+title: HERMES GL EM MKT-F EUR A H
 isin: IE00BBHXD989
 ---

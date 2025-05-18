@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|SALAR FUND PLC EUR
+title: Participaciones|FEROX CAPITAL MANAGEMENT
 isin: IE00B2PLHB10
 ---

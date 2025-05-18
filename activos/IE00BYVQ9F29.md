@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: IIC ISHARES NASDAQ 100 EUR HEDGE
+title: PARTICIPACIONES|IShares Euro Corp Bo
 isin: IE00BYVQ9F29
 ---

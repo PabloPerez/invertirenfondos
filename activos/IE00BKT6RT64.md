@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|iShares China CNY Bo
+title: ETF|ISHARES CHINA CNY BO
 isin: IE00BKT6RT64
 ---

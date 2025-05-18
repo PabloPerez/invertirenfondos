@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|GYM GROUP PLC
+title: ACCIONES|GYM Group PLC|THE
 isin: GB00BZBX0P70
 ---

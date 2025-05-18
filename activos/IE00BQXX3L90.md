@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: I.I.C.|GUINNESS GLOBAL INNO
+title: PARTICIPACIONES|Guiness Global Inn
 isin: IE00BQXX3L90
 ---

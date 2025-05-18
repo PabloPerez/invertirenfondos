@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|EDP   ENERGIAS D|1.70|2080-07-20
+title: OB.ENERGIAS P FTF %VAR VT.20|7|80(C4|25)
 isin: PTEDPLOM0017
 ---

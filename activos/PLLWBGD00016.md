@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: AC.LUBELSKI WEGIEL BOGDANKA (PLN)
+title: ACCIONES|LUBELSKI WEGIEL BOGD
 isin: PLLWBGD00016
 ---

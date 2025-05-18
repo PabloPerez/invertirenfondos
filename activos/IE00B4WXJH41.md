@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|ISHARES
+title: PARTICIPACIONES|iShares EUR Govt Bon
 isin: IE00B4WXJH41
 ---

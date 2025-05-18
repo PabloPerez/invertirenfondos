@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: Acciones|REXAM PLC
+title: ACCIONES|REXAM PLC
 isin: GB00BMHTPY25
 ---

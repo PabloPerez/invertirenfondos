@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: PARTICIPACIONES|M&G INVESTMENT MANAG
+title: Participaciones|M&G GL FLO RATE HY-EUR AHA
 isin: GB00BMP3SF82
 ---

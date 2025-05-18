@@ -1,5 +1,5 @@
 ---
 layout: asset
-title: RFIJA|GALP ENERGIA SGP|1.00|2023-02-15
+title: Obligaciones|GALP ENERGIA SGPS|1,000|2023-02-15
 isin: PTGALLOM0004
 ---
