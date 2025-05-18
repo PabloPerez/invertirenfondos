@@ -1,290 +1,290 @@
 const COMMUNITY_FUNDS = {
   "ES0114673033": {
     "nombre": "BESTINFOND, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 268.4088,
-    "variacion": 0.68,
-    "ytd": -4.59,
-    "patrimonio": 1461481657.8,
-    "participes": 20344
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 287.85535,
+    "variacion": 0.02,
+    "ytd": 2.32,
+    "patrimonio": 1569431544,
+    "participes": 0
   },
   "ES0112611001": {
     "nombre": "AZVALOR INTERNACIONAL, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 215.3562,
-    "variacion": -0.05,
-    "ytd": -8.43,
-    "patrimonio": 1862210991.65,
-    "participes": 16823
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 230.0085,
+    "variacion": -0.35,
+    "ytd": -2.2,
+    "patrimonio": 1993113877,
+    "participes": 0
   },
   "ES0112609005": {
     "nombre": "AZVALOR BLUE CHIPS, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 168.4991,
-    "variacion": 0.2,
-    "ytd": -10.79,
-    "patrimonio": 60242413.94,
-    "participes": 653
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 179.38953,
+    "variacion": -0.63,
+    "ytd": -5.02,
+    "patrimonio": 64172412,
+    "participes": 0
   },
   "ES0112616000": {
     "nombre": "AZVALOR IBERIA, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 163.9222,
-    "variacion": 1.25,
-    "ytd": 9.96,
-    "patrimonio": 66820499.95,
-    "participes": 1377
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 175.55846,
+    "variacion": 0.5,
+    "ytd": 17.77,
+    "patrimonio": 71423258,
+    "participes": 0
   },
   "ES0112602000": {
     "nombre": "AZVALOR MANAGERS, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 156.3171,
-    "variacion": 0.03,
-    "ytd": -8.71,
-    "patrimonio": 112450726.04,
-    "participes": 1724
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 167.46728,
+    "variacion": -0.75,
+    "ytd": -2.2,
+    "patrimonio": 121133953,
+    "participes": 0
   },
   "ES0175902008": {
     "nombre": "SIGMA INTERNACIONAL, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 15.3064,
-    "variacion": -0.27,
-    "ytd": 4.9,
-    "patrimonio": 43936220.04,
-    "participes": 1582
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 16.31007,
+    "variacion": -1.1,
+    "ytd": 11.78,
+    "patrimonio": 59373596,
+    "participes": 0
   },
   "ES0119199034": {
     "nombre": "COBAS INTERNACIONAL, FI CLASE A",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 122.1936,
-    "variacion": 1.16,
-    "ytd": -2.65,
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 131.92273,
+    "variacion": -0.82,
+    "ytd": 5.1,
     "patrimonio": 448598286,
     "participes": 0
   },
   "ES0113728036": {
     "nombre": "COBAS GRANDES COMPAÑIAS, FI CLASE A",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 116.72444,
-    "variacion": 0.71,
-    "ytd": -2.39,
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 125.68583,
+    "variacion": -1.13,
+    "ytd": 5.11,
     "patrimonio": 16079390,
     "participes": 0
   },
   "ES0124037039": {
     "nombre": "COBAS SELECCION, FI CLASE A",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 123.93137,
-    "variacion": 1.07,
-    "ytd": -0.53,
-    "patrimonio": 711994823,
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 133.97722,
+    "variacion": -0.67,
+    "ytd": 7.53,
+    "patrimonio": 716339407,
     "participes": 0
   },
   "ES0119184036": {
     "nombre": "COBAS IBERIA, FI CLASE A",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 130.1678,
-    "variacion": 0.56,
-    "ytd": 12.61,
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 140.00952,
+    "variacion": -0.24,
+    "ytd": 21.13,
     "patrimonio": 34288452,
     "participes": 0
   },
   "ES0159259011": {
     "nombre": "MAGALLANES EUROPEAN EQUITY FI CLASE M",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 209.5517,
-    "variacion": 0.8,
-    "ytd": 3.08,
-    "patrimonio": 271919237.31,
-    "participes": 5869
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 227.9612,
+    "variacion": -0.29,
+    "ytd": 12.14,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159201013": {
     "nombre": "MAGALLANES IBERIAN EQUITY FI CLASE M",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 224.4722,
-    "variacion": 1.41,
-    "ytd": 15.36,
-    "patrimonio": 39592938.88,
-    "participes": 1416
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 238.01848,
+    "variacion": 0.78,
+    "ytd": 22.32,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0159202011": {
     "nombre": "MAGALLANES MICROCAPS EUROPE, FI CLASE B",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 149.304,
-    "variacion": 1.04,
-    "ytd": 6.2,
-    "patrimonio": 85706467.9,
-    "participes": 1732
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 157.58184,
+    "variacion": 0.06,
+    "ytd": 12.09,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0146309002": {
     "nombre": "HOROS VALUE INTERNACIONAL,FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 163.3635,
-    "variacion": 0.58,
-    "ytd": 0.97,
-    "patrimonio": 143260258.82,
-    "participes": 5115
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 174.00868,
+    "variacion": -0.2,
+    "ytd": 7.55,
+    "patrimonio": null,
+    "participes": 0
   },
   "ES0156572002": {
     "nombre": "MYINVESTOR CARTERA PERMANENTE, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 102.3087,
-    "variacion": 0.68,
-    "ytd": 2.16,
-    "patrimonio": 63747743.46,
-    "participes": 4318
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 103.17803,
+    "variacion": 0.7,
+    "ytd": 3.03,
+    "patrimonio": 65662360,
+    "participes": 0
   },
   "ES0110407097": {
     "nombre": "GESTION BOUTIQUE VI BAELO PATRIMONIO",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 142.6501,
-    "variacion": 0.67,
-    "ytd": -0.39,
-    "patrimonio": 77406341.87,
-    "participes": 4575
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 144.34148,
+    "variacion": -0.32,
+    "ytd": 0.79,
+    "patrimonio": 78221233,
+    "participes": 0
   },
   "ES0173985005": {
     "nombre": "RIVER PATRIMONIO, FI",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 130.0375,
-    "variacion": 1.3,
-    "ytd": -8.41,
-    "patrimonio": 16818196.54,
-    "participes": 782
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 136.17926,
+    "variacion": -0.46,
+    "ytd": -4.08,
+    "patrimonio": 17533951,
+    "participes": 0
   },
   "ES0147897005": {
     "nombre": "IMPASSIVE WEALTH, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 141.3001,
-    "variacion": 0.62,
-    "ytd": -2.94,
-    "patrimonio": 19348944.95,
-    "participes": 555
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 146.47553,
+    "variacion": 0.51,
+    "ytd": 0.62,
+    "patrimonio": 20624288,
+    "participes": 0
   },
   "ES0131445076": {
     "nombre": "GESTION BOUTIQUE VIII ADARVE ALTEA",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 139.4615,
-    "variacion": 0.96,
-    "ytd": -6.48,
-    "patrimonio": 11547038.73,
-    "participes": 691
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 147.03171,
+    "variacion": -0.27,
+    "ytd": -1.4,
+    "patrimonio": 12201388,
+    "participes": 0
   },
   "ES0165243009": {
     "nombre": "MYINVESTOR VALUE, FI CLASE A",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 1.0159,
-    "variacion": 1.81,
-    "ytd": -1.32,
-    "patrimonio": 14075642.02,
-    "participes": 1057
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 1.10253,
+    "variacion": -0.57,
+    "ytd": 7.09,
+    "patrimonio": 15165088,
+    "participes": 0
   },
   "ES0182769002": {
     "nombre": "VALENTUM, FI CLASE E",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 21.1771,
-    "variacion": 0.12,
-    "ytd": 1.37,
-    "patrimonio": 84398876.31,
-    "participes": 1702
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 23.06967,
+    "variacion": -0.09,
+    "ytd": 10.43,
+    "patrimonio": 491268,
+    "participes": 0
   },
   "ES0131444111": {
     "nombre": "GESTION BOUTIQUE VII AZAGALA",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 12.8252,
-    "variacion": 1.65,
-    "ytd": -3.01,
-    "patrimonio": 8046371.6,
-    "participes": 659
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 13.47144,
+    "variacion": -1.25,
+    "ytd": 1.87,
+    "patrimonio": 8614032,
+    "participes": 0
   },
   "ES0173311103": {
     "nombre": "RENTA 4 MULTIGESTION NUMANTIA PATRIMONIO GLOBAL",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 20.5713,
-    "variacion": 1.24,
-    "ytd": -15.17,
-    "patrimonio": 155817291.45,
-    "participes": 12953
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 23.19739,
+    "variacion": 0,
+    "ytd": -4.35,
+    "patrimonio": 180836211,
+    "participes": 0
   },
   "ES0107696066": {
     "nombre": "ALCALA MULTIGESTION CORNAMUSA",
-    "fecha": "23/04/2025",
-    "valor_liquidativo": 13.7462,
-    "variacion": 1.05,
-    "ytd": -2.31,
-    "patrimonio": 8483353.76,
-    "participes": 349
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 14.49556,
+    "variacion": 0.63,
+    "ytd": 3.02,
+    "patrimonio": 8984890,
+    "participes": 0
   },
   "ES0179555026": {
     "nombre": "TRUE VALUE SMALL CAPS, FI CLASE C",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 17.0484,
-    "variacion": 0.07,
-    "ytd": -3.5,
-    "patrimonio": 40133834.86,
-    "participes": 4463
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 18.07529,
+    "variacion": 0.54,
+    "ytd": 2.31,
+    "patrimonio": 61153308,
+    "participes": 0
   },
   "ES0180792006": {
     "nombre": "TRUE VALUE, FI",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 19.5985,
-    "variacion": 0.06,
-    "ytd": -4.37,
-    "patrimonio": 72650595.89,
-    "participes": 5814
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 20.46583,
+    "variacion": -0.13,
+    "ytd": -0.14,
+    "patrimonio": 72973156,
+    "participes": 0
   },
   "ES0180783013": {
     "nombre": "TRUE VALUE COMPOUNDERS, FI CLASE B",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 6.9206,
-    "variacion": -0.44,
-    "ytd": -2.61,
-    "patrimonio": 30380152.43,
-    "participes": 3441
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 7.3034,
+    "variacion": 0.1,
+    "ytd": 2.78,
+    "patrimonio": 31509519,
+    "participes": 0
   },
   "ES0180782007": {
     "nombre": "TRUE CAPITAL FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 14.4435,
-    "variacion": 0.43,
-    "ytd": -5.9,
-    "patrimonio": 5292059.14,
-    "participes": 712
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 15.33912,
+    "variacion": 0.99,
+    "ytd": -0.07,
+    "patrimonio": 5614757,
+    "participes": 0
   },
   "ES0173311079": {
     "nombre": "RENTA 4 MULTIGESTION ANDROMEDA VALUE CAPITAL",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 12.1539,
-    "variacion": 0.0,
-    "ytd": -16.24,
-    "patrimonio": 16793542.11,
-    "participes": 1239
+    "fecha": "14/05/2025",
+    "valor_liquidativo": 12.88336,
+    "variacion": 0.87,
+    "ytd": -11.21,
+    "patrimonio": 17827644,
+    "participes": 0
   },
   "ES0112231016": {
     "nombre": "AVANTAGE FUND, B",
-    "fecha": "25/04/2025",
-    "valor_liquidativo": 25.1039,
-    "variacion": -0.23,
-    "ytd": -3.16,
-    "patrimonio": 70467080.5,
-    "participes": 2995
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 26.92793,
+    "variacion": 0.03,
+    "ytd": 3.88,
+    "patrimonio": 106996595,
+    "participes": 0
   },
   "ES0141116030": {
     "nombre": "HAMCO GLOBAL VALUE FUND CLASE R, FI",
-    "fecha": "24/04/2025",
-    "valor_liquidativo": 220.4416,
-    "variacion": 0.4,
-    "ytd": -9.75,
-    "patrimonio": 50084825.41,
-    "participes": 4093
+    "fecha": "15/05/2025",
+    "valor_liquidativo": 237.82158,
+    "variacion": -0.26,
+    "ytd": -2.64,
+    "patrimonio": 49495955,
+    "participes": 0
   },
   "LU0690374615": {
     "nombre": "FUNDSMITH EQUITY R EUR ACC",
-    "fecha": "28/04/2025",
-    "valor_liquidativo": 53.7648,
-    "variacion": 0.18,
-    "ytd": -10.83,
-    "patrimonio": 7021602177,
+    "fecha": "16/05/2025",
+    "valor_liquidativo": 57.9474,
+    "variacion": 1.34,
+    "ytd": -3.89,
+    "patrimonio": 7544913450,
     "participes": 0
   }
 };
